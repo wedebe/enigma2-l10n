@@ -1,0 +1,1247 @@
+msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+\nAdvanced options and settings.,,\n高级选项和设置.,,,1,1,0,0
+"\nAfter pressing OK, please wait!",,"\n按OK键确定后, 请稍等!",,,1,1,0,0
+\nEdit the upgrade source address.,,\n编辑升级源地址。,,,1,1,0,0
+\nPress OK on your remote control to continue.,,\n按OK键继续.,,,1,1,0,0
+\nRestore your backups by date.,,\n按日期恢复您的备份,,,1,1,0,0
+\nScan for local extensions and install them.,,\n扫描本地扩展并安装.,,,1,1,0,0
+\nSelect your backup device.\nCurrent device: ,,\n选择备份设备.\n目前的设备:,,,1,1,0,0
+"\nView, install and remove available or installed packages.",,"\n查看, 安装和删除已安装的软件包。",,,1,1,0,0
+ extensions.,,扩展,,,1,1,0,0
+ updates available.,,升级可用.,,,1,1,0,0
+%d min,,%d 分钟,,,1,1,0,0
+%d.%B %Y,,'',,,1,0,0,1
+%s (%s)\n,,'',,,1,0,0,1
+(ZAP),,(调谐),,,1,1,0,0
+(empty),,(空的),,,1,1,0,0
+(show optional DVD audio menu),,（显示可选的DVD音频菜单）,,,1,1,0,0
+* Only available if more than one interface is active.,,* 仅在一个或多个网卡激活才有效.,,,1,1,0,0
+1.1,,'',,,1,0,0,1
+1.2,,'',,,1,0,0,1
+12V output,,12V 输出,,,1,1,0,0
+13 V,,'',,,1,0,0,1
+16:10 Letterbox,,16:10 信箱模式,,,1,1,0,0
+16:10 PanScan,,16:10 伸缩,,,1,1,0,0
+16:9,,'',,,1,0,0,1
+16:9 Letterbox,,16:9 信箱模式,,,1,1,0,0
+16:9 always,,16:9 固定,,,1,1,0,0
+18 V,,'',,,1,0,0,1
+3d mode,,3D 模式,,,1,1,0,0
+4:3 Letterbox,,4:3 信箱模式,,,1,1,0,0
+4:3 PanScan,,4:3 伸缩,,,1,1,0,0
+<Current movielist location>,,<当前影片列表位置>,,,1,1,0,0
+<Default movie location>,,<影片默认位置>,,,1,1,0,0
+<Last timer location>,,<最后一个计时器位置>,,,1,1,0,0
+<unknown>,,<未知>,,,1,1,0,0
+??,,'',,,1,0,0,1
+A,,'',,,1,0,0,1
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,,配置文件(%s)在安装后被修改了.\n是否想要保留您的版本？,,,1,1,0,0
+A graphical EPG for all services of an specific bouquet,,图形EPG包含自定义组所有频道,,,1,1,0,0
+A record has been started:\n%s,,录制已经开始:\n%s,,,1,1,0,0
+A recording is currently running.\nWhat do you want to do?,,录制正在进行中.\n您想做什么?,,,1,1,0,0
+A recording is currently running. Please stop the recording before trying to configure the positioner.,,录制正在进行中. 请在配置极轴之前停止录制.,,,1,1,0,0
+A recording is currently running. Please stop the recording before trying to scan.,,录制正在进行中. 扫描前请停止录制.,,,1,1,0,0
+A required tool (%s) was not found.,,一个必须的工具 (%s) 未找到.,,,1,1,0,0
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,,您的网络配置已被激活.\n发现第二个网卡.\n\n是否禁用第二个网卡?,,,1,1,0,0
+A timer failed to record!\nDisable TV and try again?\n,,定时录像失败.\n禁用电视输出并重试?\n,,,1,1,0,0
+A/V settings,,A/V设置,,,1,1,0,0
+Abort,,放弃,,,1,1,0,0
+About,,关于,,,1,1,0,0
+About...,,关于...,,,1,1,0,0
+Accesspoint:,,存取点:,,,1,1,0,0
+Action on long powerbutton press,,长按电源按钮,,,1,1,0,0
+Action on short powerbutton press,,短按电源按钮,,,1,1,0,0
+Activate Picture in Picture,,启用画中画,,,1,1,0,0
+Activate current configuration,,启用当前设置,,,1,1,0,0
+Activate network settings,,激活网络设置,,,1,1,0,0
+Activate the configured network settings.,,启用网络设置,,,1,1,0,0
+Adapter settings,,网卡设置,,,1,1,0,0
+Add,,添加,,,1,1,0,0
+Add a mark,,增加标记,,,1,1,0,0
+Add a nameserver entry,,添加DNS,,,1,1,0,0
+Add a new title,,增加一个新标题,,,1,1,0,0
+Add bookmark,,添加书签,,,1,1,0,0
+Add directory to playlist,,添加目录到播放列表,,,1,1,0,0
+Add service,,添加频道,,,1,1,0,0
+Add timer,,添加定时器,,,1,1,0,0
+Add title,,添加标题,,,1,1,0,0
+Add to bouquet,,添加到自定义组,,,1,1,0,0
+Add to favourites,,添加到喜欢频道,,,1,1,0,0
+Adjust 3D settings,,调整3D设置,,,1,1,0,0
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.",,调整颜色设置以使所有的颜色深浅可以辨识出来，使之看起来尽可能饱和。如果您对结果感到满意，按OK关闭视频微调，或者用数字键选择画面上的其它测试。 ,,,1,1,0,0
+Advanced options,,高级设置,,,1,1,0,0
+Advanced restore,,高级恢复,,,1,1,0,0
+Advanced software,,高级软件,,,1,1,0,0
+Advanced software plugin,,高级软件插件,,,1,1,0,0
+Advanced video enhancement setup,,高级视频增强设置,,,1,1,0,0
+Advanced video setup,,高级视频设置,,,1,1,0,0
+After event,,事件之后,,,1,1,0,0
+Album,,专辑,,,1,1,0,0
+All,,全部,,,1,1,0,0
+Alpha,,透明度,,,1,1,0,0
+Alternative services tuner priority,,可选调谐器优先顺序,,,1,1,0,0
+Always ask,,总是询问,,,1,1,0,0
+An empty filename is illegal.,,一个空的文件名是非法的.,,,1,1,0,0
+Arabic,,阿拉伯语,,,1,1,0,0
+Are you sure you want to activate this network configuration?\n\n,,您确定要激活此网络配置？\n\n,,,1,1,0,0
+Are you sure you want to exit this wizard?,,您是否确定要退出向导?,,,1,1,0,0
+Are you sure you want to restart your network interfaces?\n\n,,您确定要重新启动网络接口?\n\n,,,1,1,0,0
+Artist,,艺术家,,,1,1,0,0
+Ask user,,询问用户,,,1,1,0,0
+Audio,,音频,,,1,1,0,0
+Audio PID,,音频PID,,,1,1,0,0
+Audio language selection 1,,自动语言1,,,1,1,0,0
+Audio language selection 2,,自动语言2,,,1,1,0,0
+Audio language selection 3,,自动语言3,,,1,1,0,0
+Audio language selection 4,,自动语言4,,,1,1,0,0
+Audio options...,,音频选项...,,,1,1,0,0
+Audio source,,音频源,,,1,1,0,0
+AC3 downmix,,AC3 缩减混音,,,1,1,0,0
+Author: ,,作者,,,1,1,0,0
+Authoring mode,,创作模式,,,1,1,0,0
+Auto,,自动,,,1,1,0,0
+Auto chapter split every ? minutes (0=never),,每隔? 分钟自动分割.(0=从不) ,,,1,1,0,0
+Auto language selection,,自动语言选择,,,1,1,0,0
+Auto scart switching,,自动切换录像机,,,1,1,0,0
+Automatic,,自动,,,1,1,0,0
+Automatic scan,,自动扫描,,,1,1,0,0
+Automatically start timeshift after,,自动开始时光平移,,,1,1,0,0
+Automatically turn on external subtitles,,自动打开外部字幕,,,1,1,0,0
+Available format variables,,可用的格式变量,,,1,1,0,0
+B,,'',,,1,0,0,1
+BER,,误码,,,1,1,0,0
+BER:,,误码:,,,1,1,0,0
+Back,,返回,,,1,1,0,0
+Background,,背景,,,1,1,0,0
+Background delete option,,后台删除选项,,,1,1,0,0
+Background delete speed,,后台删除速度,,,1,1,0,0
+Backup failed.,,备份失败!!,,,1,1,0,0
+Backup is running...,,正在备份...,,,1,1,0,0
+Backup system settings,,备份系统设置,,,1,1,0,0
+Band,,波段,,,1,1,0,0
+Bandwidth,,带宽,,,1,1,0,0
+Begin time,,开始时间,,,1,1,0,0
+Behavior of 0 key in PiP-mode,,按 0 键启用画中画模式,,,1,1,0,0
+Behavior when a movie is started,,当电影开始时,,,1,1,0,0
+Behavior when a movie is stopped,,当电影结束时,,,1,1,0,0
+Behavior when a movie reaches the end,,当电影快要结束时,,,1,1,0,0
+Bitrate:,,比特率:,,,1,1,0,0
+Black screen,,黑屏,,,1,1,0,0
+Black screen till locked,,锁定前黑屏,,,1,1,0,0
+Block noise reduction,,块降噪,,,1,1,0,0
+Bookmarks,,书签,,,1,1,0,0
+Brightness,,亮度,,,1,1,0,0
+Burn DVD,,烧录 DVD,,,1,1,0,0
+Burn existing image to DVD,,烧录已有的镜像到DVD,,,1,1,0,0
+Burn to DVD,,DVD烧录,,,1,1,0,0
+Bus: ,,Bus:,,,1,1,0,0
+C-Band,,C-波段,,,1,1,0,0
+CI assignment,,CI选择,,,1,1,0,0
+CVBS,,'',,,1,0,0,1
+Cable,,有线,,,1,1,0,0
+Cable Scan,,有线电视扫描,,,1,1,0,0
+Calculate,,计算,,,1,1,0,0
+Calculation complete,,计算结束,,,1,1,0,0
+Cancel,,取消,,,1,1,0,0
+Capacity: ,,容量: ,,,1,1,0,0
+Card,,卡片,,,1,1,0,0
+Change bouquets in quickzap,,快速切换自定义组,,,1,1,0,0
+Change step size,,更改步长,,,1,1,0,0
+Changelog,,变动日志,,,1,1,0,0
+Channel,,频道,,,1,1,0,0
+Channel list type,,频道列表类型,,,1,1,0,0
+Channel not in services list,,频道不在列表中,,,1,1,0,0
+Channel selection,,频道选择,,,1,1,0,0
+Channel:,,频道:,,,1,1,0,0
+Channellist menu,,频道列表菜单,,,1,1,0,0
+Chap.,,章节.,,,1,1,0,0
+Chapter,,章节,,,1,1,0,0
+Chapter:,,章节:,,,1,1,0,0
+Check,,检查,,,1,1,0,0
+Circular left,,左旋,,,1,1,0,0
+Circular right,,左旋,,,1,1,0,0
+Cleanup,,清除,,,1,1,0,0
+Clear,,清除,,,1,1,0,0
+Clear before scan,,扫描前清理频道,,,1,1,0,0
+Clear fixed,,清除 已修复,,,1,1,0,0
+Clear log,,清除日志,,,1,1,0,0
+Clear playlist,,清除播放列表,,,1,1,0,0
+Close,,关闭,,,1,1,0,0
+Close PiP on exit,,结束时关闭画中画,,,1,1,0,0
+Close title selection,,关闭标题选择,,,1,1,0,0
+Code rate HP,,HP编码率,,,1,1,0,0
+Code rate LP,,LP编码率,,,1,1,0,0
+Coderate HP,,HP编码率,,,1,1,0,0
+Coderate LP,,LP编码率,,,1,1,0,0
+Collection name,,收藏名称,,,1,1,0,0
+Collection settings,,收藏设置,,,1,1,0,0
+Color format,,色彩格式,,,1,1,0,0
+Command execution...,,执行命令...,,,1,1,0,0
+Command order,,命令顺序,,,1,1,0,0
+Common Interface,,通用接口 (CI),,,1,1,0,0
+Common Interface assignment,,通用接口选择,,,1,1,0,0
+Communication,,通信,,,1,1,0,0
+Complete,,完成,,,1,1,0,0
+Complex (allows mixing audio tracks and aspects),,复合 (允许混合音轨和宽高比),,,1,1,0,0
+Composition of the recording filenames,,录像的文件名构成,,,1,1,0,0
+Configuration mode,,设置模式,,,1,1,0,0
+Configuration...,,设置...,,,1,1,0,0
+Configure interface,,配置网卡,,,1,1,0,0
+Configure nameservers,,配置DNS,,,1,1,0,0
+Configure your internal LAN,,配置本地网络,,,1,1,0,0
+Configure your network again,,重新配置网络,,,1,1,0,0
+"Configure your network settings, and press OK to start the scan",,配置你的网络，然后按OK开始扫描,,,1,1,0,0
+Configure your wireless LAN again,,重新配置无线网络,,,1,1,0,0
+Configuring,,配置,,,1,1,0,0
+Conflicting timer,,配置定时器,,,1,1,0,0
+Connect,,连接,,,1,1,0,0
+Connect to a wireless network,,连接无线网络,,,1,1,0,0
+Connected to,,连接到,,,1,1,0,0
+Constellation,,星位,,,1,1,0,0
+Content does not fit on DVD!,,容量不适合DVD!,,,1,1,0,0
+Continue,,继续,,,1,1,0,0
+Continue in background,,继续后台运行,,,1,1,0,0
+Continue playback,,继续播放,,,1,1,0,0
+Continue playing,,继续播放,,,1,1,0,0
+Continues play (loop),,继续播放(重复),,,1,1,0,0
+Contrast,,对比度,,,1,1,0,0
+Copy,,拷贝,,,1,1,0,0
+Could not open Picture in Picture,,不能打开画中画,,,1,1,0,0
+Create DVD-ISO,,创建DVD-ISO,,,1,1,0,0
+Creating directory %s failed.,,创建目录%s 失败.,,,1,1,0,0
+Croatian,,克罗地亚,,,1,1,0,0
+Current CEC address,,当前CEC地址,,,1,1,0,0
+Current device: ,,当前设备:,,,1,1,0,0
+Current event EPG,,当前EPG ,,,1,1,0,0
+Current settings:,,当前设置:,,,1,1,0,0
+Current transponder,,当前转发器,,,1,1,0,0
+Current value: ,,当前值:,,,1,1,0,0
+Current version:,,当前版本:,,,1,1,0,0
+Currently installed image,,当前已安装映像:,,,1,1,0,0
+Customize,,高级设置,,,1,1,0,0
+Cut,,剪切,,,1,1,0,0
+Cutlist editor...,,列表编辑器...,,,1,1,0,0
+Czech,,捷克,,,1,1,0,0
+DHCP,,自动分配地址(DHCP),,,1,1,0,0
+DUAL LAYER DVD,,双层DVD,,,1,1,0,0
+DVB subtitle black transparency,,DVB字幕黑色透明,,,1,1,0,0
+DVB-S,,'',,,1,0,0,1
+DVB-S2,,'',,,1,0,0,1
+DVD data format,,DVD数据格式,,,1,1,0,0
+DVD media toolbox,,DVD媒体工具箱,,,1,1,0,0
+DVD player,,DVD播放器,,,1,1,0,0
+Danish,,丹麦,,,1,1,0,0
+Date,,日期,,,1,1,0,0
+Date/time input,,日期/时间输入,,,1,1,0,0
+Deep standby,,深度休眠,,,1,1,0,0
+Default,,缺省值,,,1,1,0,0
+Default movie location,,影片默认位置,,,1,1,0,0
+Default settings,,默认设置,,,1,1,0,0
+Delete,,删除,,,1,1,0,0
+Delete entry,,删除项目,,,1,1,0,0
+Delete failed!,,删除失败.,,,1,1,0,0
+Deleted,,删除,,,1,1,0,0
+Deleted items,,已删除项目,,,1,1,0,0
+Depth,,深度,,,1,1,0,0
+Description,,描述,,,1,1,0,0
+Deselect,,取消,,,1,1,0,0
+Details for plugin: ,,插件信息:,,,1,1,0,0
+Detected HDD:,,检测到的硬盘:,,,1,1,0,0
+Detected NIMs:,,检测到的调谐器:,,,1,1,0,0
+Devicename:,,设备名:,,,1,1,0,0
+DiSEqC,,'',,,1,0,0,1
+DiSEqC A/B,,DiSEqC A/B/,,,1,1,0,0
+DiSEqC A/B/C/D,,'',,,1,0,0,1
+DiSEqC mode,,DiSEqC-模式,,,1,1,0,0
+Digital contour removal,,数字轮廓滤除,,,1,1,0,0
+Direct playback of linked titles without menu,,直接播放链接标题，不使用菜单,,,1,1,0,0
+Directory,,目录,,,1,1,0,0
+Directory browser,,目录浏览,,,1,1,0,0
+Disable,,禁用,,,1,1,0,0
+Disable Picture in Picture,,禁用画中画,,,1,1,0,0
+Disable background scanning,,禁止后台扫描,,,1,1,0,0
+Disabled,,禁用,,,1,1,0,0
+Disk space to reserve for recordings (in GB),,为录像保留磁盘空间(GB),,,1,1,0,0
+Display 16:9 content as,,显示16:9内容,,,1,1,0,0
+Display 4:3 content as,,显示4:3内容,,,1,1,0,0
+Display >16:9 content as,,显示 >16:9 内容,,,1,1,0,0
+Display setup,,显示设置,,,1,1,0,0
+Do you really want to check the filesystem?\nThis could take lots of time!,, 是否检查文件系统?\n这将需要很长时间!,,,1,1,0,0
+Do you really want to convert the filesystem?\nYou cannot go back!,, 是否确认要转换文件系统?\n你将不能恢复!,,,1,1,0,0
+Do you really want to delete %s?,, 是否删除 %s?,,,1,1,0,0
+"Do you really want to download\nthe plugin \""%s\""?",," 是否下载插件 \""%s\""?",,,1,1,0,0
+Do you really want to exit?,,你是否确认要退出?,,,1,1,0,0
+Do you really want to initialize the device?\nAll data on the disk will be lost!,, 是否初始化这个设备?\n设备上所有数据都会丢失!,,,1,1,0,0
+Do you really want to remove directory %s from the disk?,, 是否从磁盘上删除目录%s ?,,,1,1,0,0
+Do you really want to remove your bookmark of %s?,, 是否删除 %s 书签?,,,1,1,0,0
+Do you want to burn this collection to DVD medium?,, 是否烧录这个收藏到DVD光盘?,,,1,1,0,0
+Do you want to do a service scan?,, 是否开始频道扫描?,,,1,1,0,0
+Do you want to do another manual service scan?,, 是否手动扫描其他频道?,,,1,1,0,0
+Do you want to download the image to %s ?,," 是否下载映像到 \""%s\""?",,,1,1,0,0
+Do you want to install the package:\n,, 是否安装软件包:\n,,,1,1,0,0
+Do you want to play DVD in drive?,, 是否播放DVD?,,,1,1,0,0
+Do you want to preview this DVD before burning?,, 是否在烧录之前预览DVD?,,,1,1,0,0
+Do you want to remove the package:\n,, 是否卸除软件包:\n,,,1,1,0,0
+Do you want to restore your settings?,, 是否恢复您的设置?,,,1,1,0,0
+Do you want to resume this playback?,, 是否继续上次播放?,,,1,1,0,0
+Do you want to upgrade the package:\n,, 是否升级软件包:\n,,,1,1,0,0
+Don't stop current event but disable coming events,,"不能停止当前事件, 不过可以禁用下一个事件.",,,1,1,0,0
+Download,,下载,,,1,1,0,0
+Downloadable new plugins,,可下载的新插件,,,1,1,0,0
+Downloadable plugins,,可下载的插件,,,1,1,0,0
+Downloading,,下载,,,1,1,0,0
+Downloading plugin information. Please wait...,,"正在下载插件列表,请稍候...",,,1,1,0,0
+Dutch,,荷兰语,,,1,1,0,0
+E,,'',,,1,0,0,1
+EPG language selection 1,,EPG自动语言1,,,1,1,0,0
+EPG language selection 2,,EPG自动语言2,,,1,1,0,0
+ERROR - failed to scan (%s)!,,错误 - 扫描 (%s)失败!,,,1,1,0,0
+East,,东,,,1,1,0,0
+Edit,,修改,,,1,1,0,0
+Edit DNS,,编辑 DNS,,,1,1,0,0
+Edit chapters of current title,,编辑章节当前标题,,,1,1,0,0
+Edit settings,,编辑设置,,,1,1,0,0
+Edit title,,修改标题,,,1,1,0,0
+Edit upgrade source url.,,修改升级源地址.,,,1,1,0,0
+Electronic Program Guide,,电子节目指南,,,1,1,0,0
+Enable,,启用,,,1,1,0,0
+Enable 5V for active antenna,,为有源天线启用5V供电,,,1,1,0,0
+Enable EIT EPG,,启用EIT EPG,,,1,1,0,0
+Enable MHW EPG,,启用MHW EPG,,,1,1,0,0
+Enable Netmed EPG,,启用Netmed EPG,,,1,1,0,0
+Enable ViaSat EPG,,启用ViaSat EPG,,,1,1,0,0
+Enable freesat EPG,,启用freesat EPG,,,1,1,0,0
+Enable multiple bouquets,,启用多自定义组,,,1,1,0,0
+Enable teletext caching,,启用图文电视缓冲,,,1,1,0,0
+Enabled,,启用的,,,1,1,0,0
+Encrypted: ,,已加密:,,,1,1,0,0
+Encryption,,加密方式,,,1,1,0,0
+Encryption:,,加密方式:,,,1,1,0,0
+End time,,结束时间,,,1,1,0,0
+English,,英语,,,1,1,0,0
+Enter main menu...,,进入主菜单...,,,1,1,0,0
+Enter pin code,,输入密码,,,1,1,0,0
+Enter the service pin,,输入服务密码,,,1,1,0,0
+Error,,错误,,,1,1,0,0
+Error code,,错误码,,,1,1,0,0
+Error executing plugin,,执行插件发生错误,,,1,1,0,0
+Error: %s\nRetry?,,错误: %s\n重试?,,,1,1,0,0
+Ethernet network interface,,网卡接口,,,1,1,0,0
+Everywhere,,随时,,,1,1,0,0
+Exceeds dual layer medium!,,超出双层介质!,,,1,1,0,0
+Execution finished!!,,执行完毕！,,,1,1,0,0
+Exit,,退出,,,1,1,0,0
+Exit editor,,退出编辑,,,1,1,0,0
+Exit input device selection.,,退出输入设备选择.,,,1,1,0,0
+Exit network wizard,,退出网络设置向导,,,1,1,0,0
+Exit the wizard,,退出向导,,,1,1,0,0
+Expert,,高级,,,1,1,0,0
+Extended Software,,扩展软件.,,,1,1,0,0
+Extended Software Plugin,,扩展插件...,,,1,1,0,0
+Extensions,,扩展,,,1,1,0,0
+Extensions management,,扩展管理,,,1,1,0,0
+FEC,,前向纠错码(FEC),,,1,1,0,0
+Factory reset,,出厂设置,,,1,1,0,0
+Failed,,失败,,,1,1,0,0
+Fan %d,,风扇 %d ,,,1,1,0,0
+Fan %d PWM,,风扇 %d  PWM,,,1,1,0,0
+Fast,,快速,,,1,1,0,0
+Fast DiSEqC,,快速DiSEqC,,,1,1,0,0
+Fast Scan,,快速扫描,,,1,1,0,0
+Fast epoch,,'',,,1,0,0,1
+Favourites,,喜爱频道,,,1,1,0,0
+Finetune,,微调,,,1,1,0,0
+Finished,,完成,,,1,1,0,0
+Finished configuring your network,,网络设置完成,,,1,1,0,0
+Finished restarting your network,,重启网络完成,,,1,1,0,0
+Finnish,,芬兰,,,1,1,0,0
+Flashing failed,,安装失败,,,1,1,0,0
+Format,,格式化,,,1,1,0,0
+Forward volume keys,,前向音量键,,,1,1,0,0
+Frame size in full view,,全屏显示时的帧大小,,,1,1,0,0
+French,,法国,,,1,1,0,0
+Frequency,,频率,,,1,1,0,0
+Frequency bands,,频带,,,1,1,0,0
+Frequency scan step size(khz),,频率扫描步长(khz),,,1,1,0,0
+Frequency steps,,频率步进,,,1,1,0,0
+Fri,,周五,,,1,1,0,0
+Friday,,星期五,,,1,1,0,0
+Frontprocessor version: %d,,前端版本: %d,,,1,1,0,0
+Gateway,,网关,,,1,1,0,0
+Genre,,类型,,,1,1,0,0
+German,,德语,,,1,1,0,0
+Getting plugin information. Please wait...,,"正在下载插件信息, 请稍候...",,,1,1,0,0
+Goto 0,,转到 0,,,1,1,0,0
+Goto position,,转到位置,,,1,1,0,0
+Graphical Multi EPG,,图形 Multi-EPG,,,1,1,0,0
+Greek,,希腊语,,,1,1,0,0
+Guard interval,,保护间隔模式,,,1,1,0,0
+HD list,,高清列表,,,1,1,0,0
+Handle standby from TV,,管理待机,,,1,1,0,0
+Handle wakeup from TV,,处理唤醒,,,1,1,0,0
+Harddisk,,硬盘,,,1,1,0,0
+Hardware: ,,硬件:,,,1,1,0,0
+Hidden network,,隐藏网络,,,1,1,0,0
+Hide CI messages,,隐藏CI消息,,,1,1,0,0
+Hide zap errors,,隐藏调谐错误,,,1,1,0,0
+Hierarchy info,,分级模式,,,1,1,0,0
+High bitrate support,,高比特率支持,,,1,1,0,0
+Hold till locked,,保持到锁定,,,1,1,0,0
+Horizontal,,水平,,,1,1,0,0
+How many minutes do you want to record?,,您想录制多少分钟?,,,1,1,0,0
+Hue,,色相,,,1,1,0,0
+Hungarian,,匈牙利语,,,1,1,0,0
+ISO file is too large for this filesystem!,,这个ISO文件过大!,,,1,1,0,0
+ISO path,,ISO路径,,,1,1,0,0
+Icons,,图标,,,1,1,0,0
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,"如果您能看到这个提示,说明您的色差连接有错误.\n按OK返回.",,,1,1,0,0
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,如果您的电视机有亮度或对比度增强项，请关闭它。如果里面有标为“动态”的项目，将其设置为标准。调整背光等级的值以符合您的口味。将电视机的对比度尽可能地降低。然后尽可能将亮度设置调低，但请确保最下面的两个灰色能够分辨出来。现在，不必关心亮度的色调，它们将在接下来的步骤中设置。如果您对结果感到满意，按OK 。,,,1,1,0,0
+Image: ,,映像:,,,1,1,0,0
+"In order to record a timer, the TV was switched to the recording service!\n",,"定时录制开始,即将切换到预录频道!\n",,,1,1,0,0
+Increased voltage,,增加电压,,,1,1,0,0
+Index,,索引,,,1,1,0,0
+Info,,信息,,,1,1,0,0
+Information,,信息,,,1,1,0,0
+Init,,初始化,,,1,1,0,0
+Initialization,,初始化,,,1,1,0,0
+Initialize,,初始化,,,1,1,0,0
+Initializing storage device...,,正在初始化硬盘...,,,1,1,0,0
+Input,,输入,,,1,1,0,0
+Input device setup,,输入设备,,,1,1,0,0
+Input devices,,输入设备,,,1,1,0,0
+Install,,安装,,,1,1,0,0
+Install a new image with a USB stick,,安装一个新的Image到U盘,,,1,1,0,0
+Install a new image with your web browser,,通过网页浏览器安装一个新的Image,,,1,1,0,0
+Install extensions.,,安装本地扩展,,,1,1,0,0
+Install local extension,,安装本地扩展,,,1,1,0,0
+Install picons on,,安装picon,,,1,1,0,0
+Installing,,正在安装,,,1,1,0,0
+Interface: ,,网卡:,,,1,1,0,0
+Intermediate,,中级,,,1,1,0,0
+Internal hdd only,,仅内置硬盘,,,1,1,0,0
+Invalid directory selected: %s,,选择了无效目录: %s,,,1,1,0,0
+Inversion,,反向,,,1,1,0,0
+Invert,,反向,,,1,1,0,0
+Italian,,意大利语,,,1,1,0,0
+Keyboard,,键盘布局,,,1,1,0,0
+LAN connection,,局域网连接,,,1,1,0,0
+LNB,,'',,,1,0,0,1
+Language,,语言,,,1,1,0,0
+Language selection,,语言选择,,,1,1,0,0
+Last config,,上次配置,,,1,1,0,0
+Last speed,,上次速度,,,1,1,0,0
+Latitude,,纬度,,,1,1,0,0
+Left,,左,,,1,1,0,0
+Letterbox,,信箱模式,,,1,1,0,0
+Limit east,,东极限位置,,,1,1,0,0
+Limit west,,西极限位置,,,1,1,0,0
+Limits off,,限位设置关闭,,,1,1,0,0
+Limits on,,限位设置打开,,,1,1,0,0
+Link:,,连接:,,,1,1,0,0
+Linked titles with a DVD menu,,与DVD菜单的连接的标题,,,1,1,0,0
+List available networks,,列出可用网络,,,1,1,0,0
+Lithuanian,,立陶宛语,,,1,1,0,0
+Load,,加载,,,1,1,0,0
+Location,,位置,,,1,1,0,0
+Location for instant recordings,,实时录像的位置,,,1,1,0,0
+Lock:,,锁定:,,,1,1,0,0
+Long filenames,,长文件名,,,1,1,0,0
+Longitude,,经度,,,1,1,0,0
+MORE,,更多,,,1,1,0,0
+Main menu,,主菜单,,,1,1,0,0
+Make this mark an 'in' point,,这个标记作为'in'节点,,,1,1,0,0
+Make this mark an 'out' point,,这个标记作为'out'节点,,,1,1,0,0
+Make this mark just a mark,,这仅仅只是一标记,,,1,1,0,0
+Manage extensions,,管理扩展,,,1,1,0,0
+Manage your receiver's software,,管理Dreambox软件.,,,1,1,0,0
+Manual Scan,,手动扫描,,,1,1,0,0
+Manual configuration,,手动配置,,,1,1,0,0
+Manual transponder,,手动转发器扫描,,,1,1,0,0
+Manufacturer,,制造商,,,1,1,0,0
+Media player,,媒体播放器,,,1,1,0,0
+Medium is not a writeable DVD!,,媒介不是可写DVD!,,,1,1,0,0
+Medium is not empty!,,媒介不是空白的!,,,1,1,0,0
+Memory,,内存,,,1,1,0,0
+Menu,,菜单,,,1,1,0,0
+Message,,消息,,,1,1,0,0
+Message...,,消息...,,,1,1,0,0
+Missing ,,丢失,,,1,1,0,0
+Model: ,,型号:,,,1,1,0,0
+Modulation,,调制,,,1,1,0,0
+Modulator,,调制器,,,1,1,0,0
+Mon,,周一,,,1,1,0,0
+Mon-Fri,,星期一至星期五,,,1,1,0,0
+Monday,,星期一,,,1,1,0,0
+Mosquito noise reduction,,蚊状噪声抑制,,,1,1,0,0
+Mount,,挂载,,,1,1,0,0
+Move,,移动,,,1,1,0,0
+Move Picture in Picture,,移动画中画,,,1,1,0,0
+Move east,,东移,,,1,1,0,0
+Move west,,西移,,,1,1,0,0
+Movie location,,影片位置,,,1,1,0,0
+Movielist menu,,电影列表菜单,,,1,1,0,0
+Multi EPG,,Multi-EPG,,,1,1,0,0
+Multi-EPG bouquet selection,,Multi-EPG组 选择,,,1,1,0,0
+Multimedia,,多媒体,,,1,1,0,0
+Multiple service support,,多系统支持,,,1,1,0,0
+Multiplex,,传输,,,1,1,0,0
+Multisat,,多星,,,1,1,0,0
+Mute,,静音,,,1,1,0,0
+N/A,,空,,,1,1,0,0
+NEXT,,下一个,,,1,1,0,0
+NFI image flashing completed. Press Yellow to Reboot!,,NFI Image安装完成.\n按黄键重启Dreambox!,,,1,1,0,0
+NOW,,现在,,,1,1,0,0
+NTSC,,'',,,1,0,0,1
+Name,,名称,,,1,1,0,0
+Nameserver,,DNS服务器,,,1,1,0,0
+Nameserver %d,,DNS %d,,,1,1,0,0
+Nameserver settings,,DNS设置,,,1,1,0,0
+Namespace,,名字空间,,,1,1,0,0
+Netmask,,子网掩码,,,1,1,0,0
+Network,,网络,,,1,1,0,0
+Network ID,,网络 ID,,,1,1,0,0
+Network scan,,网络扫描,,,1,1,0,0
+Network setup,,网络设置,,,1,1,0,0
+Network test,,网络测试,,,1,1,0,0
+Network test...,,网络测试...,,,1,1,0,0
+Network test: ,,网络测试,,,1,1,0,0
+Network:,,网络:,,,1,1,0,0
+New,,新建,,,1,1,0,0
+New version:,,新版本:,,,1,1,0,0
+No,,不,,,1,1,0,0
+No (supported) DVDROM found!,,未找到(支持的)DVDROM!,,,1,1,0,0
+No Connection,,没有连接,,,1,1,0,0
+No HDD found or HDD not initialized!,,未找到硬盘或硬盘未初始化！,,,1,1,0,0
+No backup needed,,不需要备份,,,1,1,0,0
+No cable tuner found!,,没有发现卫星前端,,,1,1,0,0
+No data on transponder!\n(Timeout reading PAT),,转发器上未找到数据!\n(读取PAT超时),,,1,1,0,0
+No description available.,,无可用信息,,,1,1,0,0
+No details for this image file,,这个Image文件没有详细说明,,,1,1,0,0
+No displayable files on this medium found!,,当前位置未找到文件,,,1,1,0,0
+"No event info found, recording indefinitely.",,"EPG数据没有发现,无限制录制.",,,1,1,0,0
+No free tuner!,,没有空闲的调谐器,,,1,1,0,0
+No network connection available.,,无可用网络连接.,,,1,1,0,0
+No networks found,,未找到网络,,,1,1,0,0
+No positioner capable frontend found.,,未发现有支持的极轴天线.,,,1,1,0,0
+No tags are set on these movies.,,这些影片没有标签,,,1,1,0,0
+No to all,,完全不,,,1,1,0,0
+No tuner is configured for use with a diseqc positioner!,,没有配置极轴(DiSEqC 1.2).,,,1,1,0,0
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,,未找到可用的调谐器!\n请设置您的调谐器的设置，然后再启动频道扫描。.,,,1,1,0,0
+No wireless networks found! Searching...,,没有发现无线网络！正在搜索...,,,1,1,0,0
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,未找到可用的本地网络.\n请检查网络连接并检查网卡配置是否正确.,,,1,1,0,0
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,未找到可用的无线网络连接.\n请检查无线网络设备并检查无线网卡配置是否正确.,,,1,1,0,0
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,未找到可用的无线网络连接.\n请检查无线网络设备并检查无线网卡配置是否正确.,,,1,1,0,0
+"No, but restart from begin",,不，重新开始播放这个视频,,,1,1,0,0
+"No, do nothing.",,不，什么也不做.,,,1,1,0,0
+"No, never",,从不,,,1,1,0,0
+None,,无,,,1,1,0,0
+Nonlinear,,非线性,,,1,1,0,0
+North,,北,,,1,1,0,0
+Norwegian,,挪威语,,,1,1,0,0
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,,没有扫描!\n请设置您的调谐器，然后再启动频道扫描。.,,,1,1,0,0
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,现在，尽可能使用对比度设置出现的亮度背景，但是请确保您仍然可以看到色调的两个最亮等级之间的不同。如果您已经完成了，按OK。,,,1,1,0,0
+OK,,确定,,,1,1,0,0
+"OK, guide me through the upgrade process",,"确定, 引导我的升级过程",,,1,1,0,0
+Off,,关闭,,,1,1,0,0
+Ok,,确定,,,1,1,0,0
+On,,打开,,,1,1,0,0
+One,,1,,,1,1,0,0
+Only extensions.,,只有扩展.,,,1,1,0,0
+Orbital position,,轨道位置,,,1,1,0,0
+Other,,天气,,,1,1,0,0
+Output,,输出,,,1,1,0,0
+PAL,,'',,,1,0,0,1
+PIDs,,'',,,1,0,0,1
+Package list update,,更新软件列表,,,1,1,0,0
+Packet management,,软件包管理,,,1,1,0,0
+Packet manager,,软件管理器,,,1,1,0,0
+Parental control,,家长控制,,,1,1,0,0
+Parental control setup,,家长控制设置,,,1,1,0,0
+Pause movie at end,,电影结束时暂停,,,1,1,0,0
+Pillarbox,,原始大小,,,1,1,0,0
+Pilot,,'',,,1,0,0,1
+Play,,播放,,,1,1,0,0
+Play DVD,,播放DVD,,,1,1,0,0
+Play audio in background,,后台播放音频,,,1,1,0,0
+Play recorded movies...,,播放录制的电影...,,,1,1,0,0
+Please change recording endtime,,请更改录制结束时间,,,1,1,0,0
+Please check your network settings!,,请检查网络设置！,,,1,1,0,0
+Please choose an extension...,,请选择增加部分...,,,1,1,0,0
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,请配置或确认DNS地址.\n当您准备好后按OK键继续.,,,1,1,0,0
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,下列数值必须设置正确才能连接到Internet.\n当您准备好后按OK键确认.,,,1,1,0,0
+Please do not change any values unless you know what you are doing!,,"不要做任何改变,除非您知道您在干什么!",,,1,1,0,0
+Please enter a name for the new bouquet,,重命名自定义组,,,1,1,0,0
+Please enter a name for the new marker,,重命名标签,,,1,1,0,0
+Please enter a new filename,,请输入一个新的文件名,,,1,1,0,0
+Please enter filename (empty = use current date),,请输入文件名 (空=使用当时日期命名),,,1,1,0,0
+Please enter name of the new directory,,为新的目录重命名,,,1,1,0,0
+Please enter the correct pin code,,请输入正确的密码,,,1,1,0,0
+Please enter the old PIN code,,请输入旧密码,,,1,1,0,0
+Please follow the instructions on the TV,,请依照电视屏幕指导操作.,,,1,1,0,0
+Please press OK to continue.,,请按OK键确认.,,,1,1,0,0
+Please select a playlist to delete...,,请选择要删除的播放列表...,,,1,1,0,0
+Please select a playlist...,,请选择一个播放列表...,,,1,1,0,0
+Please select a subservice to record...,,请选择要录制的子频道...,,,1,1,0,0
+Please select a subservice...,,请选择一个子频道...,,,1,1,0,0
+Please select medium to use as backup location,,请选择作为备份的媒介,,,1,1,0,0
+Please select tag to filter...,,请选择过滤标签...,,,1,1,0,0
+Please select the movie path...,,选择电影路径...,,,1,1,0,0
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,请选择连接Internet的网络设备.\n\n按OK键确认.,,,1,1,0,0
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,请选择您要接入的无线网络.\n\n按OK键确认,,,1,1,0,0
+Please set up tuner B,,请选择调谐器 B.,,,1,1,0,0
+Please set up tuner C,,请选择调谐器 C.,,,1,1,0,0
+Please set up tuner D,,请选择调谐器 D.,,,1,1,0,0
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,请使用方向键移动画中画窗口.\n按遥控器上 Bouquet +/- 改变窗口大小..\n按OK返回到电视模式，或按EXIT取消调整。,,,1,1,0,0
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,,"按 上/下 键选择语言, 选定后按 OK.",,,1,1,0,0
+Please wait for activation of your network configuration...,,请等待网络配置激活...,,,1,1,0,0
+Please wait while scanning is in progress...,,正在扫描...请稍候...,,,1,1,0,0
+Please wait while we configure your network...,,正在配置网络...请稍候...,,,1,1,0,0
+Please wait while we prepare your network interfaces...,,正在配置网络...请稍候...,,,1,1,0,0
+Please wait while we test your network...,,正在测试网络...请稍候...,,,1,1,0,0
+Please wait while your network is restarting...,,正在重启网络...请稍候...,,,1,1,0,0
+Please wait...,,请稍候...,,,1,1,0,0
+Please wait... Loading list...,,正在加载列表... 请稍候...,,,1,1,0,0
+Plugin browser,,浏览插件,,,1,1,0,0
+Plugin manager activity information,,插件管理器活动信息,,,1,1,0,0
+Plugins,,插件,,,1,1,0,0
+Polarization,,极化,,,1,1,0,0
+Polish,,波兰语,,,1,1,0,0
+Port A,,端口A,,,1,1,0,0
+Port B,,端口 B,,,1,1,0,0
+Port C,,端口 C,,,1,1,0,0
+Port D,,端口 D,,,1,1,0,0
+Portuguese,,葡萄牙语,,,1,1,0,0
+Positioner,,星位,,,1,1,0,0
+Positioner setup,,位置设置(DiSEqC 1.2),,,1,1,0,0
+Power threshold in mA,,功率阈值(mA),,,1,1,0,0
+Predefined transponder,,预设置转发器,,,1,1,0,0
+Preferred tuner,,首选调谐器,,,1,1,0,0
+Preparing... Please wait,,准备中... 请稍候!,,,1,1,0,0
+Press INFO on your remote control for additional information.,,按INFO键查看更多信息.,,,1,1,0,0
+Press MENU on your remote control for additional options.,,按MENU键查看更多选项.,,,1,1,0,0
+Press OK on your remote control to continue.,,按OK键确认.,,,1,1,0,0
+Press OK to activate the selected skin.,,按OK键激活所选皮肤.,,,1,1,0,0
+Press OK to activate the settings.,,按OK键激活设置.,,,1,1,0,0
+Press OK to edit the settings.,,按OK键修改设置,,,1,1,0,0
+Press OK to get further details for %s,,按OK键获取 %s 详细说明,,,1,1,0,0
+Press OK to scan,,按OK键开始扫描.,,,1,1,0,0
+Press OK to select/deselect a CAId.,,按OK键 选择/取消 CAID,,,1,1,0,0
+Press OK to start the scan,,按OK键开始扫描.,,,1,1,0,0
+Press OK to toggle the selection.,,按OK键修改选择,,,1,1,0,0
+Press yellow to set this interface as default interface.,,按黄键设置默认网卡,,,1,1,0,0
+Preview,,预览,,,1,1,0,0
+Preview menu,,DVD预览菜单,,,1,1,0,0
+Primary DNS,,主 DNS,,,1,1,0,0
+Priority,,次序,,,1,1,0,0
+Process,,进程信息,,,1,1,0,0
+Progress,,进度,,,1,1,0,0
+Properties of current title,,当前标题属性,,,1,1,0,0
+Protect services,,保护服务,,,1,1,0,0
+Provider,,供应商,,,1,1,0,0
+Provider to scan,,扫描供应商,,,1,1,0,0
+Providers,,供应商,,,1,1,0,0
+Put TV in standby,,待机,,,1,1,0,0
+Quick,,快速,,,1,1,0,0
+RF output,,RF-输出,,,1,1,0,0
+RGB,,'',,,1,0,0,1
+Radio,,广播,,,1,1,0,0
+Random,,随机,,,1,1,0,0
+Really close without saving settings?,,关闭而不保存设置?,,,1,1,0,0
+Really delete done timers?,,确实要删除定时器?,,,1,1,0,0
+Really exit the subservices quickzap?,,退出字幕快速切换?,,,1,1,0,0
+Really reboot now?,,立即重启(Reboot)?,,,1,1,0,0
+Really restart now?,,立即重启(Restart)?,,,1,1,0,0
+Really shutdown now?,,立即关机?,,,1,1,0,0
+Reboot,,重新启动,,,1,1,0,0
+Rec,,录制,,,1,1,0,0
+Record,,录制,,,1,1,0,0
+Record time limited due to conflicting timer %s,,由于定时器 %s 冲突导致录制时间受限,,,1,1,0,0
+Recorded files...,,录制文件...,,,1,1,0,0
+Recording,,正在录制,,,1,1,0,0
+Recording in progress,,正在录像,,,1,1,0,0
+Recording paths,,录像路径,,,1,1,0,0
+Recording(s) are in progress or coming up in few seconds!,,录制正在进行中或刚开始录制不久!,,,1,1,0,0
+Recordings,,正在录制,,,1,1,0,0
+Recordings always have priority,,总是优先录制,,,1,1,0,0
+Refresh rate selection.,,选择刷新率.,,,1,1,0,0
+Reload,,重新加载,,,1,1,0,0
+Reloading bouquets and services...,,重载自定义组和频道...,,,1,1,0,0
+Remember service PIN,,记住服务密码,,,1,1,0,0
+Remove,,删除,,,1,1,0,0
+Remove a mark,,移除标记,,,1,1,0,0
+Remove currently selected title,,移除当前选择的标题,,,1,1,0,0
+Remove plugins,,移除插件,,,1,1,0,0
+Remove title,,移除标题,,,1,1,0,0
+Removing,,正在删除...,,,1,1,0,0
+Removing directory %s failed. (Maybe not empty.),,删除 %s 目录失败. (很可能不是空目录.),,,1,1,0,0
+Rename,,改名,,,1,1,0,0
+Repeating event currently recording... What do you want to do?,,重复的定时录制事件...\n您准备怎么办?,,,1,1,0,0
+Repeat,,重复,,,1,1,0,0
+Repeats,,重复,,,1,1,0,0
+Required medium type:,,需要介质类型:,,,1,1,0,0
+Reset,,复位,,,1,1,0,0
+Reset and renumerate title names,,复位并重设标题名称,,,1,1,0,0
+Reset playback position,,重设播放位置,,,1,1,0,0
+Reset video enhancement settings to system defaults?,,重置视频增强器设置?,,,1,1,0,0
+Reset video enhancement settings to your last configuration?,,恢复视频增强器设置?,,,1,1,0,0
+Resolution,,分辨率,,,1,1,0,0
+Restart,,重新启动,,,1,1,0,0
+Restart GUI now?,,立即重启Enigma2?,,,1,1,0,0
+Restart enigma,,重启Enigma2,,,1,1,0,0
+Restart network,,重启网络,,,1,1,0,0
+Restart test,,重新测试,,,1,1,0,0
+Restart your network connection and interfaces.\n,,重启 Dreambox网络连接.\n,,,1,1,0,0
+Restore,,恢复,,,1,1,0,0
+Restore backups,,恢复备份,,,1,1,0,0
+Restore is running...,,正在恢复...,,,1,1,0,0
+Restore system settings,,恢复系统设置,,,1,1,0,0
+Resume from last position,,从最后位置恢复,,,1,1,0,0
+Resume position at %s,,恢复到%s,,,1,1,0,0
+Resuming playback,,恢复播放,,,1,1,0,0
+Return to movie list,,返回电影列表,,,1,1,0,0
+Return to previous service,,返回之前的频道,,,1,1,0,0
+Rewind speeds,,快退速度,,,1,1,0,0
+Right,,右,,,1,1,0,0
+Roll-off,,信号衰减,,,1,1,0,0
+Root directory,,开始目录,,,1,1,0,0
+Rotor turning speed,,马达转速,,,1,1,0,0
+Russian,,俄语,,,1,1,0,0
+S-Video,,'',,,1,0,0,1
+SID,,'',,,1,0,0,1
+SINGLE LAYER DVD,,单层DVD,,,1,1,0,0
+SNR,,信噪比,,,1,1,0,0
+SNR:,,信噪:,,,1,1,0,0
+Sat,,周六,,,1,1,0,0
+Satellite,,卫星,,,1,1,0,0
+Satellite equipment,,卫星设备设置,,,1,1,0,0
+Satellites,,卫星,,,1,1,0,0
+Satfinder,,寻星,,,1,1,0,0
+Sats,,卫星,,,1,1,0,0
+Saturation,,饱和度,,,1,1,0,0
+Saturday,,星期六,,,1,1,0,0
+Save,,保存,,,1,1,0,0
+Scaler sharpness,,定标锐度,,,1,1,0,0
+Scan ,,扫描,,,1,1,0,0
+Scan additional SR,,扫描更多 SR,,,1,1,0,0
+Scan your network for wireless access points and connect to them using your selected wireless device.\n,,扫描无线网络接入点并通过所选无线设备连接.\n,,,1,1,0,0
+Scanning %s...,,正在扫描%s ...,,,1,1,0,0
+Scanning failed!,,扫描失败!,,,1,1,0,0
+Scanning...,,正在扫描...,,,1,1,0,0
+Scans default lamedbs sorted by satellite with a connected dish positioner,,扫描默认lamedb，以卫星排序,,,1,1,0,0
+Search east,,向东搜索,,,1,1,0,0
+Search west,,向西搜索,,,1,1,0,0
+Searching for available updates. Please wait...,,正在搜索可用升级. 请稍候...,,,1,1,0,0
+Searching for new installed or removed packages. Please wait...,,正在搜索可用安装或卸载的软件表. 请稍候...,,,1,1,0,0
+Secondary DNS,,副 DNS,,,1,1,0,0
+Seek,,查找,,,1,1,0,0
+Select,,选择,,,1,1,0,0
+Select HDD,,选择硬盘,,,1,1,0,0
+Select a movie,,选择一部电影,,,1,1,0,0
+Select audio track,,选择音轨,,,1,1,0,0
+Select channel to record from,,选择要录制的频道,,,1,1,0,0
+Select copy destination for:,,选择目标位置:,,,1,1,0,0
+Select desired image from feed list,,从服务器选择Image,,,1,1,0,0
+Select destination for:,,目标目录:,,,1,1,0,0
+Select files for backup.,,选择 文件/目录 备份...,,,1,1,0,0
+Select files/folders to backup,,选择 文件/目录 备份...,,,1,1,0,0
+Select input device,,输入设备,,,1,1,0,0
+Select interface,,选择接口,,,1,1,0,0
+Select provider to add...,,选择要添加的提供商...,,,1,1,0,0
+Select refresh rate,,选择刷新率,,,1,1,0,0
+Select service to add...,,选择要添加的频道...,,,1,1,0,0
+Select upgrade source to edit.,,选泽升级源进行编辑.,,,1,1,0,0
+Select video input with up/down buttons,,用上下键选择视频,,,1,1,0,0
+Select video mode,,设置视频模式,,,1,1,0,0
+Select wireless network,,选择无线网络,,,1,1,0,0
+"Select your provider, and press OK to start the scan",,选择供应商，按OK开始扫描,,,1,1,0,0
+Send DiSEqC,,发送DiSEqC命令,,,1,1,0,0
+Send DiSEqC only on satellite change,,当改变卫星时发送DiSEqC命令,,,1,1,0,0
+Sequence repeat,,重复序列,,,1,1,0,0
+Service,,频道,,,1,1,0,0
+Service has been added to the favourites.,,频道已添加到喜爱频道,,,1,1,0,0
+Service has been added to the selected bouquet.,,频道已添加到选定的自定义组.,,,1,1,0,0
+Service invalid!\n(Timeout reading PMT),,频道无效!\n(读取PMT超时),,,1,1,0,0
+Service not found!\n(SID not found in PAT),,频道未找到!\n(在PAT中找不以SID),,,1,1,0,0
+Service reference,,频道参考,,,1,1,0,0
+Service scan,,频道扫描,,,1,1,0,0
+Service unavailable!\nCheck tuner configuration!,,频道无法使用!\n请检查调谐器配置!,,,1,1,0,0
+Services,,频道,,,1,1,0,0
+Set fixed,,设为已修复,,,1,1,0,0
+Set interface as default Interface,,将网卡设为默认,,,1,1,0,0
+Set limits,,设置极限,,,1,1,0,0
+Settings,,设置,,,1,1,0,0
+Setup,,设置,,,1,1,0,0
+Sharpness,,锐度,,,1,1,0,0
+Short filenames,,短文件名,,,1,1,0,0
+Show EIT now/next in infobar,,在信息条显示EIT Now/Next信息,,,1,1,0,0
+Show animation while busy,,忙时显示动画,,,1,1,0,0
+Show channel numbers in channel selection,,选择频道时显示频道编号,,,1,1,0,0
+Show crypto info in infobar,,在信息条显示加密信息,,,1,1,0,0
+Show event-progress in channel selection,,切换频道时显示信息条,,,1,1,0,0
+Show infobar on channel change,,切换频道时显示信息条,,,1,1,0,0
+Show infobar on event change,,事件更改时显示信息条,,,1,1,0,0
+Show infobar on skip forward/backward,,快退 / 快进时显示信息条,,,1,1,0,0
+Show positioner movement,,显示位置移动,,,1,1,0,0
+Show second infobar,,显示第二信息条,,,1,1,0,0
+Show the radio player...,,广播回放模式下...,,,1,1,0,0
+Show the tv player...,,电视回放模式下...,,,1,1,0,0
+Shows the state of your wireless LAN connection.\n,,显示WLAN连接信息.\n,,,1,1,0,0
+Shutdown,,关机,,,1,1,0,0
+Signal: ,,信号,,,1,1,0,0
+Quality,,质量,,,1,1,0,0
+Similar,,类似,,,1,1,0,0
+Similar broadcasts:,,类似的广播:,,,1,1,0,0
+Simple,,简易,,,1,1,0,0
+Simplified Chinese,,简体中文,,,1,1,0,0
+Simple titleset (compatibility for legacy players),,简易的标题 (更好的兼容性),,,1,1,0,0
+Single,,单个,,,1,1,0,0
+Single EPG,,单个-EPG,,,1,1,0,0
+Single satellite,,单个卫星,,,1,1,0,0
+Skin,,皮肤,,,1,1,0,0
+Skins,,皮肤,,,1,1,0,0
+Slot %d,,插槽 %d,,,1,1,0,0
+Slow,,慢的,,,1,1,0,0
+Software,,软件,,,1,1,0,0
+Software management,,软件管理,,,1,1,0,0
+Software manager setup,,软件管理,,,1,1,0,0
+Software restore,,软件还原,,,1,1,0,0
+Software update,,软件升级,,,1,1,0,0
+Softwaremanager information,,软件管理,,,1,1,0,0
+Some plugins are not available:\n,,一些插件不可用:\n,,,1,1,0,0
+Sort,,排序,,,1,1,0,0
+Sort A-Z,,按字母排序,,,1,1,0,0
+Sound,,声音,,,1,1,0,0
+Source request,,源目录,,,1,1,0,0
+South,,南,,,1,1,0,0
+Spanish,,西班牙语,,,1,1,0,0
+Split preview mode,,分割预览模式,,,1,1,0,0
+Standby,,待机,,,1,1,0,0
+Start from the beginning,,重头开始,,,1,1,0,0
+Start recording?,,开始录制？,,,1,1,0,0
+Start test,,重新测试,,,1,1,0,0
+Starting on,,开始,,,1,1,0,0
+Step east,,向东步进,,,1,1,0,0
+Step west,,向西步进,,,1,1,0,0
+Stop,,停止,,,1,1,0,0
+Stop current event and disable coming events,,停止当前事件并禁用下一个事件,,,1,1,0,0
+Stop current event but not coming events,,停止当前事件但不禁用下一个事件,,,1,1,0,0
+Stop playing this movie?,,停止播放这部电影？,,,1,1,0,0
+Stop recording,,停止录像,,,1,1,0,0
+Stop recording and delete,,停止录像并删除,,,1,1,0,0
+Stop test,,停止测试,,,1,1,0,0
+Stop testing plane after # failed transponders,,转发器失败后停止测试卫星,,,1,1,0,0
+Stop testing plane after # successful transponders,,转发器成功后停止测试卫星,,,1,1,0,0
+Stopped,,停止,,,1,1,0,0
+Store position,,存贮位置,,,1,1,0,0
+Stored position,,存贮位置,,,1,1,0,0
+Stream request,,流请求,,,1,1,0,0
+Subservice list...,,子频道列表...,,,1,1,0,0
+Subservices,,子频道,,,1,1,0,0
+Subtitle delay when timing lacks,,当时间不足时图文字幕延时,,,1,1,0,0
+Subtitle language selection 1,,字幕语言1,,,1,1,0,0
+Subtitle language selection 2,,字幕语言2,,,1,1,0,0
+Subtitle language selection 3,,字幕语言3,,,1,1,0,0
+Subtitle language selection 4,,字幕语言4,,,1,1,0,0
+Subtitle selection,,字幕选择,,,1,1,0,0
+Subtitle selection...,,字幕选择...,,,1,1,0,0
+Subtitle settings,,字幕设置,,,1,1,0,0
+Subtitles,,字幕,,,1,1,0,0
+Sun,,周日,,,1,1,0,0
+Sunday,,星期日,,,1,1,0,0
+Swedish,,瑞典语,,,1,1,0,0
+Switch TV to correct input,,切换电视到正确的输入,,,1,1,0,0
+Switchable tuner types:,,可换调谐器类型,,,1,1,0,0
+Symbol rate,,符号率,,,1,1,0,0
+System,,系统,,,1,1,0,0
+TS file is too large for ISO9660 level 1!,,TS文件太大！,,,1,1,0,0
+Tags,,标签,,,1,1,0,0
+Teletext subtitle color,,图文字幕颜色,,,1,1,0,0
+Terrestrial,,地面波,,,1,1,0,0
+Terrestrial provider,,地面波提供商,,,1,1,0,0
+Test DiSEqC settings,,测试DiSEqC设置,,,1,1,0,0
+Test mode,,测试模式,,,1,1,0,0
+Thank you for using the wizard.\nPlease press OK to continue.,,感谢您使用设置向导.\n按OK键确认.,,,1,1,0,0
+The PIN code has been changed successfully.,,服务密码 已被成功修改.,,,1,1,0,0
+The PIN codes you entered are different.,,密码输入不相同.,,,1,1,0,0
+The backup failed. Please choose a different backup location.,,备份操作失败！请选择不同的备份位置。,,,1,1,0,0
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,下列装备被发现:\n\n%s\n\n是否刷新这个U盘?,,,1,1,0,0
+The following files were found...,,下列文件已找到...,,,1,1,0,0
+The path %s already exists.,,路径 %s 已经存在.,,,1,1,0,0
+The pin code you entered is wrong.,,密码输入有误.,,,1,1,0,0
+The results have been written to %s.,,测试结果是在 %s 中保存.,,,1,1,0,0
+The sleep timer has been activated.,,定时休眠已被激活.,,,1,1,0,0
+The sleep timer has been disabled.,,定时休眠已被禁用.,,,1,1,0,0
+The timer file (timers.xml) is corrupt and could not be loaded.,,计时器文件（timers.xml）已损坏，无法加载.,,,1,1,0,0
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,无线网络插件未安装!\n请安装并选择下一步做什么.,,,1,1,0,0
+The wireless LAN plugin is not installed!\nPlease install it.,,WLAN插件未安装!\n请先安装.,,,1,1,0,0
+The wizard can backup your current settings. Do you want to do a backup now?,,该向导可以备份您当前的设置.您想要做的一个备份吗？,,,1,1,0,0
+The wizard is finished now.,,向导已完成设置.,,,1,1,0,0
+There are at least ,,至少,,,1,1,0,0
+There are no updates available.,,没有可用更新.,,,1,1,0,0
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,所选的分区上可能没有足够的空间.\n是否继续？,,,1,1,0,0
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,,这张DVD RW已经格式化过，再次格式化将删除所有文件,,,1,1,0,0
+This plugin is installed.,,此插件已安装.,,,1,1,0,0
+This plugin is not installed.,,此插件未安装.,,,1,1,0,0
+This plugin will be installed.,,此插件将安装.,,,1,1,0,0
+This plugin will be removed.,,插件被移除,,,1,1,0,0
+Three,,3,,,1,1,0,0
+Threshold,,转折频率,,,1,1,0,0
+Thu,,周四,,,1,1,0,0
+Thumbnails,,缩略图,,,1,1,0,0
+Thursday,,星期四,,,1,1,0,0
+Time,,时间,,,1,1,0,0
+Timer,,定时器,,,1,1,0,0
+Timer entry,,定时器项目,,,1,1,0,0
+Timer log,,定时器日志,,,1,1,0,0
+Timer overlap in timers.xml detected!\nPlease recheck it!,,检测timers.xml有重叠部分！\n请重新检查它!,,,1,1,0,0
+Timer sanity error,,定时器测试中的错误,,,1,1,0,0
+Timer selection,,定时器选择,,,1,1,0,0
+Timeshift,,时光平移,,,1,1,0,0
+Timeshift location,,时光平移位置,,,1,1,0,0
+Timeshift not possible!,,不能时光平移!,,,1,1,0,0
+Timezone,,时区,,,1,1,0,0
+Title,,标题,,,1,1,0,0
+Title properties,,标题属性,,,1,1,0,0
+Titleset mode,,标题设置模式,,,1,1,0,0
+To audio selection,,音频选择,,,1,1,0,0
+To subtitle selection,,字幕选择,,,1,1,0,0
+Today,,今天,,,1,1,0,0
+Tone mode,,脉冲模式,,,1,1,0,0
+Toneburst,,'',,,1,0,0,1
+Toneburst A/B,,'',,,1,0,0,1
+Track,,轨道,,,1,1,0,0
+Traditional Chinese,,繁体中文,,,1,1,0,0
+Translation,,翻译,,,1,1,0,0
+Translation:,,翻译:,,,1,1,0,0
+Transmission mode,,传输模式,,,1,1,0,0
+Transponder,,转发器,,,1,1,0,0
+Tries left:,,尝试:,,,1,1,0,0
+Try to find used transponders in cable network.. please wait...,,尝试从电缆找寻可用的转发器.. 请稍候...,,,1,1,0,0
+Trying to download a new packetlist. Please wait...,,尝试下载新的软件包列表. 请稍候...,,,1,1,0,0
+Tue,,周二,,,1,1,0,0
+Tuesday,,星期二,,,1,1,0,0
+Tune,,调制,,,1,1,0,0
+Tune failed!,,调制失败!,,,1,1,0,0
+Tuner,,调谐器,,,1,1,0,0
+Tuner configuration,,调谐器配置,,,1,1,0,0
+Tuner status,,调谐器状态,,,1,1,0,0
+Tuner type,,调谐器类型,,,1,1,0,0
+Turkish,,土耳其语,,,1,1,0,0
+Two,,2,,,1,1,0,0
+Type,,类型,,,1,1,0,0
+Type of scan,,扫描类型,,,1,1,0,0
+USALS,,'',,,1,0,0,1
+USB stick wizard,,U盘向导,,,1,1,0,0
+Undo install,, 放弃安装,,,1,1,0,0
+Undo uninstall,,放弃卸载,,,1,1,0,0
+Unencrypted,,未加密,,,1,1,0,0
+Unicable,,通用,,,1,1,0,0
+Unicable LNB,,通用LNB,,,1,1,0,0
+Uninstall,,卸载,,,1,1,0,0
+Universal LNB,,通用LNB,,,1,1,0,0
+Unknown,,<未知>,,,1,1,0,0
+Unmount,,卸载,,,1,1,0,0
+Unsupported,,不支持,,,1,1,0,0
+Update,,更新,,,1,1,0,0
+Updatefeed not available.,,更新资源无效,,,1,1,0,0
+Upgrading,,升级,,,1,1,0,0
+Use,,使用,,,1,1,0,0
+Use DHCP,,自动分配地址(DHCP),,,1,1,0,0
+Use TV remote control,,用电视遥控,,,1,1,0,0
+Use a gateway,,使用网关,,,1,1,0,0
+Use fastscan channel names,,使用快速扫描频道名称,,,1,1,0,0
+Use fastscan channel numbering,,使用快速扫描频道编号,,,1,1,0,0
+Use interface,,使用接口,,,1,1,0,0
+Use official channel numbering,,使用快速扫描频道编号,,,1,1,0,0
+Use original teletext position,,使用原始图文位置,,,1,1,0,0
+Use power measurement,,使用功率测量,,,1,1,0,0
+"Use the up/down keys on your remote control to select an option. After that, press OK.",,使用遥控 上/下 键选择一个选项。在此之后按下 OK 。,,,1,1,0,0
+Use these settings?,,使用这些设置?,,,1,1,0,0
+Use this video enhancement settings?,,使用此视频增强器设置?,,,1,1,0,0
+Used service scan type,,按频道类型搜索,,,1,1,0,0
+User - bouquets,,自定义组,,,1,1,0,0
+User defined,,用户定义,,,1,1,0,0
+User defined transponder,,用户定义的转发器,,,1,1,0,0
+User interface,,用户界面,,,1,1,0,0
+Using LNB %d,,正使用 LNB %d,,,1,1,0,0
+Using fixed address,,使用固定地址,,,1,1,0,0
+Using tuner %s,,使用调谐器 %s,,,1,1,0,0
+VCR scart,,录像机,,,1,1,0,0
+Vertical,,垂直,,,1,1,0,0
+Vertical turning speed,,垂直调谐速度,,,1,1,0,0
+Video PID,,视频PID,,,1,1,0,0
+Video enhancement preview,,视频增强预览,,,1,1,0,0
+Video enhancement settings,,视频增强器设置,,,1,1,0,0
+Video enhancement setup,,视频增强器设置,,,1,1,0,0
+Video input selection\n\nPlease press OK if you can see this page on your TV (or select a different input port).\n\nThe next input port will be automatically probed in 20 seconds.,,"视频输入选择\n\n如果你能看到此页面,请按 确定(或则选择不同输入端口) \n\n ",,,1,1,0,0
+Video mode selection.,,选择视频模式.,,,1,1,0,0
+Video output,,视频输出,,,1,1,0,0
+Mode,,输出模式,,,1,1,0,0
+Video setup,,视频设置,,,1,1,0,0
+Video wizard,,视频向导,,,1,1,0,0
+Videocodec,,视频编码,,,1,1,0,0
+Videoformat,,画面格式,,,1,1,0,0
+Videosize,,画面大小,,,1,1,0,0
+View Rass interactive...,,'',,,1,0,0,1
+View details,,显示事件详细内容,,,1,1,0,0
+View list of available ,,查看可用列表,,,1,1,0,0
+View list of available CommonInterface extensions,,可用的通用接口扩展列表,,,1,1,0,0
+View list of available EPG extensions.,,可用的EPG扩展列表,,,1,1,0,0
+View list of available Satellite equipment extensions.,,可用的卫星设备扩展列表,,,1,1,0,0
+View teletext...,,查看图文电视...,,,1,1,0,0
+Voltage mode,,电压模式,,,1,1,0,0
+Volume,,音量,,,1,1,0,0
+W,,'',,,1,0,0,1
+WEP,,'',,,1,0,0,1
+WLAN connection,,WLAN连接,,,1,1,0,0
+WPA,,'',,,1,0,0,1
+WPA or WPA2,,WPA 或r WPA2,,,1,1,0,0
+WPA2,,'',,,1,0,0,1
+WSS on 4:3,,'',,,1,0,0,1
+Waiting,,等待,,,1,1,0,0
+Wakeup,,唤醒,,,1,1,0,0
+Wakeup TV from standby,,唤醒电视,,,1,1,0,0
+Wed,,周三,,,1,1,0,0
+Wednesday,,星期三,,,1,1,0,0
+Weekday,,"普通日(周六,日以外的任何一天)",,,1,1,0,0
+Welcome...,,欢迎...,,,1,1,0,0
+West,,西,,,1,1,0,0
+What do you want to scan?,,是否开始扫描?,,,1,1,0,0
+"When you do a factory reset, you will lose ALL your configuration data\n(including bouquets, services, satellite data ...)\nAfter completion of factory reset, your receiver will restart automatically!\n\nReally do a factory reset?",,"如果恢复出厂设置，全部个人设置将丢失\n(包括卫星, 频道, 自定义组等 ...)\n完成出厂设置复位后, 接收机将自动重启!\n\n确定要恢复出厂设置吗?",,,1,1,0,0
+Where do you want to backup your settings?,,在哪里备份您的设置?,,,1,1,0,0
+Where to save temporary timeshift recordings?,,在哪里保存时光平移临时录制的内容?,,,1,1,0,0
+Wireless LAN,,无线网络,,,1,1,0,0
+Wireless network connection setup,,无线网络连接设置,,,1,1,0,0
+Wireless network connection setup.,,无线网络连接设置.,,,1,1,0,0
+Wireless network state,,无线网络状态,,,1,1,0,0
+Write error while recording. Disk full?\n,,录制节目时出现错误.磁盘已满?\n,,,1,1,0,0
+Write failed!,,写入失败！,,,1,1,0,0
+YPbPr,,'',,,1,0,0,1
+Year,,年,,,1,1,0,0
+Yellow DVB subtitles,,黄色DVB字幕,,,1,1,0,0
+Yes,,是,,,1,1,0,0
+Yes to all,,所有,,,1,1,0,0
+"Yes, always",,总是,,,1,1,0,0
+"Yes, and delete this movie",,是的，删除此电影,,,1,1,0,0
+"Yes, backup my settings!",,是，备份我的设置！,,,1,1,0,0
+"Yes, do a manual scan now",,是，开始手动扫描,,,1,1,0,0
+"Yes, do an automatic scan now",,是，开始自动扫描,,,1,1,0,0
+"Yes, do another manual scan now",,是，手动扫描另一个参数,,,1,1,0,0
+"Yes, perform a shutdown now.",,是，立即关机。,,,1,1,0,0
+"Yes, restore the settings now",,是，立即还原设置,,,1,1,0,0
+"Yes, returning to movie list",,是，返回电影列表,,,1,1,0,0
+Yesterday,,昨天,,,1,1,0,0
+You can remove this plugin.,,你可以删除这个插件.,,,1,1,0,0
+You cannot delete this!,,这个文件不能删除!,,,1,1,0,0
+You didn't select a channel to record from.,,你没有选择要录制的频道,,,1,1,0,0
+You have chosen to backup your settings. Please press OK to start the backup now.,,您已选择要备份您的设置。请按OK键开始备份。,,,1,1,0,0
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,您已经选择恢复备份设置.恢复后将重启Enigma2.请按OK开始恢复备份.,,,1,1,0,0
+You have to wait %s!,,您必须等待 %s !,,,1,1,0,0
+Your backup succeeded. We will now continue to explain the further upgrade process.,,备份成功.现在将继续说明下一步的升级过程.,,,1,1,0,0
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,,您的前端处理器固件必须更新.\n按 OK 开始升级.,,,1,1,0,0
+Your internet connection is not working!\nPlease choose what you want to do next.,,Internet连接不正常！\n请选择下一步做什么,,,1,1,0,0
+Your network configuration has been activated.,,您的网络配置已被激活.,,,1,1,0,0
+Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,,无线网络不能连接！\n是否连接了USB无线网卡?\n\n请选择下一步做什么.,,,1,1,0,0
+Zap back to previously tuned service?,,回到上次的频道？,,,1,1,0,0
+Zap back to service before positioner setup?,,切换回设定位置之前的频道?,,,1,1,0,0
+Zap back to service before tuner setup?,,回到调谐器设置前的频道？,,,1,1,0,0
+Zap focus to Picture in Picture,,切换到画中画,,,1,1,0,0
+Zap mode,,调谐模式,,,1,1,0,0
+[alternative edit],,[编辑项目],,,1,1,0,0
+[bouquet edit],,[编辑自定义组],,,1,1,0,0
+[favourite edit],,[编辑喜爱频道],,,1,1,0,0
+[move mode],,[移动模式],,,1,1,0,0
+abort alternatives edit,,取消项目编辑,,,1,1,0,0
+abort bouquet edit,,取消自定义组编辑,,,1,1,0,0
+abort favourites edit,,放弃编辑喜爱频道,,,1,1,0,0
+about to start,,立即开始,,,1,1,0,0
+activate network adapter configuration,,激活网卡配置,,,1,1,0,0
+add alternatives,,增加项目,,,1,1,0,0
+add bookmark,,增加书签,,,1,1,0,0
+add bouquet,,增加自定义组,,,1,1,0,0
+add marker,,添加标记,,,1,1,0,0
+add service to bouquet,,添加频道到自定义组,,,1,1,0,0
+add service to favourites,,添加频道到喜爱频道,,,1,1,0,0
+add to parental protection,,添加到家长控制,,,1,1,0,0
+advanced,,高级,,,1,1,0,0
+alphabetic reverse,,按字母顺序排列,,,1,1,0,0
+audio tracks,,单轨,,,1,1,0,0
+auto,,自动,,,1,1,0,0
+back,,后退,,,1,1,0,0
+background image,,背景图片,,,1,1,0,0
+better,,较好,,,1,1,0,0
+black,,黑色,,,1,1,0,0
+blacklist,,黑名单,,,1,1,0,0
+blue,,蓝色,,,1,1,0,0
+chapters,,章节,,,1,1,0,0
+circular left,,左旋,,,1,1,0,0
+circular right,,右旋,,,1,1,0,0
+config menu,,配置菜单,,,1,1,0,0
+confirmed,,检测通过,,,1,1,0,0
+connected,,已连接,,,1,1,0,0
+continue,,继续,,,1,1,0,0
+copy to bouquets,,复制到自定义组,,,1,1,0,0
+create directory,,创建目录,,,1,1,0,0
+currently installed image: %s,,当前已安装映像:%s,,,1,1,0,0
+daily,,每天,,,1,1,0,0
+day,,天,,,1,1,0,0
+default,,默认,,,1,1,0,0
+delete cut,,删除剪辑,,,1,1,0,0
+disable,,禁止,,,1,1,0,0
+disable move mode,,禁用移动模式,,,1,1,0,0
+disabled,,不可用,,,1,1,0,0
+disconnected,,断开,,,1,1,0,0
+do nothing,,什么都不做,,,1,1,0,0
+done!,,完成!,,,1,1,0,0
+edit alternatives,,编辑选项,,,1,1,0,0
+empty,,空的,,,1,1,0,0
+enable,,启用,,,1,1,0,0
+enable bouquet edit,,允许编辑自定义组,,,1,1,0,0
+enable favourite edit,,允许编辑喜爱频道,,,1,1,0,0
+enable move mode,,允许移动模式,,,1,1,0,0
+enabled,,启用,,,1,1,0,0
+end alternatives edit,,结速项目编辑,,,1,1,0,0
+end bouquet edit,,结束自定义组编辑,,,1,1,0,0
+end cut here,,结束录像剪辑,,,1,1,0,0
+end favourites edit,,结束喜爱频道编辑,,,1,1,0,0
+equal to,,相同,,,1,1,0,0
+exit DVD player or return to file browser,,退出DVD播放器或返回文件浏览器,,,1,1,0,0
+exit network adapter configuration,,退出网卡配置,,,1,1,0,0
+exit networkadapter setup menu,,退出网卡设置菜单,,,1,1,0,0
+"fileformats (BMP, PNG, JPG, GIF)",,"文件格式 (BMP, PNG, JPG, GIF)",,,1,1,0,0
+filename,,文件名,,,1,1,0,0
+forward to the next chapter,,快进到下一个章节,,,1,1,0,0
+free,,空闲,,,1,1,0,0
+go to deep standby,,深度休眠,,,1,1,0,0
+go to standby,,待机,,,1,1,0,0
+green,,绿色,,,1,1,0,0
+height,,高,,,1,1,0,0
+help...,,帮助...,,,1,1,0,0
+horizontal,,水平,,,1,1,0,0
+init module,,模块初始化,,,1,1,0,0
+init modules,,模块初始化,,,1,1,0,0
+insert mark here,,在这里标记,,,1,1,0,0
+jump back to the previous title,,跳转到上一个标题,,,1,1,0,0
+jump forward to the next title,,跳转到下一个标题,,,1,1,0,0
+leave movie player...,,退出电影播放...,,,1,1,0,0
+left,,左,,,1,1,0,0
+length,,长度,,,1,1,0,0
+list style compact,,列表样式,,,1,1,0,0
+list style compact with description,,带描述的列表样式,,,1,1,0,0
+list style default,,默认列表样式,,,1,1,0,0
+list style single line,,单行列表样式,,,1,1,0,0
+locked,,锁定,,,1,1,0,0
+loopthrough to,,联系,,,1,1,0,0
+manual,,手动,,,1,1,0,0
+menu,,菜单,,,1,1,0,0
+mins,,分钟,,,1,1,0,0
+minutes,,分钟,,,1,1,0,0
+month,,月,,,1,1,0,0
+move down to last entry,,向下移动到最后项目,,,1,1,0,0
+move down to next entry,,向下移动到下一个项目,,,1,1,0,0
+move up to first entry,,向上移动到第一个项目,,,1,1,0,0
+move up to previous entry,,向上移动到上一个项目,,,1,1,0,0
+multinorm,,多标准,,,1,1,0,0
+never,,从不,,,1,1,0,0
+no,,否,,,1,1,0,0
+no CAId selected,,无选择的CAID,,,1,1,0,0
+no CI slots found,,未找到CI,,,1,1,0,0
+no module found,,未找到模块,,,1,1,0,0
+no storage devices found,,无存储设备,,,1,1,0,0
+none,,无,,,1,1,0,0
+not configured,,未设置,,,1,1,0,0
+not locked,,无信号,,,1,1,0,0
+not supported,,不支持,,,1,1,0,0
+not used,,未使用,,,1,1,0,0
+nothing connected,,从未连接,,,1,1,0,0
+of a DUAL layer medium used.,,使用双层介质,,,1,1,0,0
+of a SINGLE layer medium used.,,使用单层介质.,,,1,1,0,0
+off,,关,,,1,1,0,0
+on,,开,,,1,1,0,0
+on READ ONLY medium.,,只读介质.,,,1,1,0,0
+once,,一次,,,1,1,0,0
+open nameserver configuration,,打开DNS设置,,,1,1,0,0
+original,,原始,,,1,1,0,0
+pass,,通过,,,1,1,0,0
+play as picture in picture,,以画中画播放,,,1,1,0,0
+play in mainwindow,,在主窗口中播放,,,1,1,0,0
+please press OK when ready,,准备好后，按OK键,,,1,1,0,0
+"please wait, loading picture...",,请稍候，正在加载图片...,,,1,1,0,0
+record,,录像,,,1,1,0,0
+recording...,,正在录像...,,,1,1,0,0
+red,,红色,,,1,1,0,0
+remove after this position,,移除这个位置之后的,,,1,1,0,0
+remove all alternatives,,移除所有项目,,,1,1,0,0
+remove all new found flags,,移除所有新发现标记,,,1,1,0,0
+remove before this position,,移除这个位置之前的,,,1,1,0,0
+remove bookmark,,移除书签,,,1,1,0,0
+remove directory,,移除目录,,,1,1,0,0
+remove entry,,移除项目,,,1,1,0,0
+remove from parental protection,,取消家长控制,,,1,1,0,0
+remove new found flag,,移除新发现标记,,,1,1,0,0
+remove selected satellite,,移除选定的卫星,,,1,1,0,0
+remove this mark,,移除这个标记,,,1,1,0,0
+repeat playlist,,重复播放列表,,,1,1,0,0
+repeated,,重复,,,1,1,0,0
+reverse by date,,按日期排序,,,1,1,0,0
+rewind to the previous chapter,,退回上一个章节,,,1,1,0,0
+right,,右,,,1,1,0,0
+save last directory on exit,,退出时保存目录,,,1,1,0,0
+save playlist on exit,,退出时保存播放列表,,,1,1,0,0
+scan state,,扫描状态,,,1,1,0,0
+second cable of motorized LNB,,第二条线缆连接Rotor,,,1,1,0,0
+seconds,,秒,,,1,1,0,0
+select,,选择,,,1,1,0,0
+select CAId's,,选择CAID,,,1,1,0,0
+select menu entry,,选择菜单项目,,,1,1,0,0
+set as startup service,,设为启动频道,,,1,1,0,0
+show DVD main menu,,显示DVD主菜单,,,1,1,0,0
+show all tags,,显示所有标签,,,1,1,0,0
+show alternatives,,显示选项,,,1,1,0,0
+show event details,,显示事件详细内容,,,1,1,0,0
+show transponder info,,显示转发器信息,,,1,1,0,0
+shuffle,,随机播放,,,1,1,0,0
+shut down,,关机,,,1,1,0,0
+simple,,简单,,,1,1,0,0
+skip backward,,快倒,,,1,1,0,0
+skip forward,,快进,,,1,1,0,0
+sorting of playlists,,播放列表排序,,,1,1,0,0
+standard,,标准,,,1,1,0,0
+start cut here,,从这里开始剪接,,,1,1,0,0
+start directory,,开始目录,,,1,1,0,0
+stepsize,,步长,,,1,1,0,0
+stereo,,立体声,,,1,1,0,0
+stop using as startup service,,停止用作启动频道,,,1,1,0,0
+switch to bookmarks,,切换到书签,,,1,1,0,0
+switch to filelist,,切换到文件列表,,,1,1,0,0
+switch to the next angle,,切换到下一个角度,,,1,1,0,0
+switch to the next audio track,,切换到下一个单轨,,,1,1,0,0
+switch to the next subtitle language,,切换到下一个语种字幕,,,1,1,0,0
+template file,,临时文件,,,1,1,0,0
+this recording,,这个录像,,,1,1,0,0
+this service is protected by a parental control pin,,此频道受家长控制.,,,1,1,0,0
+"toggle time, chapter, audio, subtitle info",,"切换时间, 章节, 音频,字幕信息",,,1,1,0,0
+top,,顶部,,,1,1,0,0
+unconfirmed,,检测未通过,,,1,1,0,0
+unknown,,未知,,,1,1,0,0
+unknown service,,未知频道,,,1,1,0,0
+until standby/restart,,直到待机/重启,,,1,1,0,0
+user defined,,用户定义,,,1,1,0,0
+vertical,,垂直,,,1,1,0,0
+wait for ci...,,等待CI...,,,1,1,0,0
+wait for mmi...,,等待mmi...,,,1,1,0,0
+waiting,,等待,,,1,1,0,0
+weekly,,每周,,,1,1,0,0
+white,,白,,,1,1,0,0
+width,,宽,,,1,1,0,0
+wireless network interface,,无线网卡,,,1,1,0,0
+yellow,,黄色,,,1,1,0,0
+yes,,是,,,1,1,0,0
+yes (keep feeds),,是 (保留),,,1,1,0,0
+zap,,开关,,,1,1,0,0
+zapped,,转自,,,1,1,0,0
+Search,,搜索,,,1,1,0,0
+Symbol Rate,,符号率,,,1,1,0,0
+Polarity,,极化,,,1,1,0,0
+Current,,当前,,,1,1,0,0
+Next,,下一个,,,1,1,0,0

@@ -1,0 +1,3792 @@
+msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+\nAdvanced options and settings.,,'',,'',2,0,0,2
+"\nAfter pressing OK, please wait!",,'',,'',2,0,0,2
+\nBackup your %s %s settings.,,'',,'',2,0,0,2
+\nEdit the upgrade source address.,,'',,'',2,0,0,2
+\nManage extensions or plugins for your %s %s,,'',,'',2,0,0,2
+\nOnline update of your %s %s software.,,'',,'',2,0,0,2
+\nPress OK on your remote control to continue.,,'',,'',2,0,0,2
+\nRestore your %s %s settings.,,'',,'',2,0,0,2
+\nRestore your %s %s with a new firmware.,,'',,'',2,0,0,2
+\nRestore your backups by date.,,'',,'',2,0,0,2
+\nScan for local extensions and install them.,,'',,'',2,0,0,2
+\nSelect your backup device.\nCurrent device: ,,'',,'',2,0,0,2
+"\nView, install and remove available or installed packages.",,'',,'',2,0,0,2
+ (PiP),,'',,,1,0,0,1
+ (Radio),,'',,,1,0,0,1
+ (TV),,'',,,1,0,0,1
+ and,,'',,'',2,0,0,2
+%-H:%M,,'',,'',2,0,0,2
+%02d.%02d - %02d.%02d (%s%d min),,'',,,1,0,0,1
+%2d:%02d,,'',,,1,0,0,1
+%2d:%02d:%02d,,'',,,1,0,0,1
+%A %e %B,,'',,,1,0,0,1
+%A %e %B %Y,,'',,,1,0,0,1
+%A %e %b,,'',,,1,0,0,1
+%H:%M,,'',,'',2,0,0,2
+%a %e %B %Y,,'',,,1,0,0,1
+%a %e/%m,,'',,,1,0,0,1
+%a %e/%m  %-H:%M,,'',,,1,0,0,1
+%d GB,,'',,'',2,0,0,2
+%d Gb,,'',,,1,0,0,1
+%d KB,,'',,'',2,0,0,2
+%d MB,,'',,'',2,0,0,2
+%d jobs are running in the background!,,'',,'',2,0,0,2
+%d kB,,'',,'',2,0,0,2
+%d min,,'',,'',2,0,0,2
+%d minutes,,'',,'',2,0,0,2
+%d.%B %Y,,'',,,1,0,0,1
+%k:%M %e/%m,,'',,,1,0,0,1
+%s %s advanced remote control (native),,'',,'',2,0,0,2
+%s %s format data DVD (HDTV compatible),,'',,'',2,0,0,2
+%s %s front panel,,'',,'',2,0,0,2
+%s %s ir keyboard,,'',,'',2,0,0,2
+%s %s ir mouse,,'',,'',2,0,0,2
+%s %s remote control (native),,'',,'',2,0,0,2
+%s %s software because updates are available.,,'',,'',2,0,0,2
+%s (%s)\n,,'',,'',2,0,0,2
+%s is no longer used. Should it be deleted?,,'',,'',2,0,0,2
+%s%d min,,'',,,1,0,0,1
+%s/%s: %s,,'',,'',2,0,0,2
+'%s' contains %d file(s) and %d sub-directories.\n,,'',,'',2,0,0,2
+( All readers),,'',,'',2,0,0,2
+(Show only reader:,,'',,'',2,0,0,2
+(ZAP),,'',,'',2,0,0,2
+(empty),,'',,'',2,0,0,2
+(show optional DVD audio menu),,'',,'',2,0,0,2
+* = Restart Required,,'',,'',2,0,0,2
+* Only available if more than one interface is active.,,'',,'',2,0,0,2
+/s,,'',,'',2,0,0,2
+1.0,,'',,'',2,0,0,2
+1.1,,'',,'',2,0,0,2
+1.2,,'',,'',2,0,0,2
+1080i,,'',,'',2,0,0,2
+1080p 24Hz,,'',,'',2,0,0,2
+1080p 25Hz,,'',,'',2,0,0,2
+1080p 30Hz,,'',,'',2,0,0,2
+1080p 50Hz,,'',,'',2,0,0,2
+1080p 60Hz,,'',,'',2,0,0,2
+12V output,,'',,'',2,0,0,2
+12V output.,,'',,'',2,0,0,2
+13 V,,'',,'',2,0,0,2
+16:10,,'',,'',2,0,0,2
+16:10 Letterbox,,'',,'',2,0,0,2
+16:10 PanScan,,'',,'',2,0,0,2
+16:9,,'',,'',2,0,0,2
+16:9 Letterbox,,'',,'',2,0,0,2
+16:9 always,,'',,'',2,0,0,2
+18 V,,'',,'',2,0,0,2
+1X,,'',,'',2,0,0,2
+1st Infobar timeout,,'',,'',2,0,0,2
+23.976,,'',,'',2,0,0,2
+24,,'',,'',2,0,0,2
+25,,'',,'',2,0,0,2
+29.97,,'',,'',2,0,0,2
+2X,,'',,'',2,0,0,2
+30,,'',,'',2,0,0,2
+3D Mode,,'',,'',2,0,0,2
+3D Surround,,'',,'',2,0,0,2
+3D setup,,'',,,1,0,0,1
+3X,,'',,'',2,0,0,2
+3d mode,,'',,,1,0,0,1
+4:3,,'',,'',2,0,0,2
+4:3 Letterbox,,'',,'',2,0,0,2
+4:3 PanScan,,'',,'',2,0,0,2
+4X,,'',,'',2,0,0,2
+720p,,'',,'',2,0,0,2
+720p 24Hz,,'',,'',2,0,0,2
+<Current movielist location>,,<Current movie list location>,,'',2,1,0,1
+<Default movie location>,,'',,'',2,0,0,2
+<Last timer location>,,'',,'',2,0,0,2
+<unknown>,,'',,'',2,0,0,2
+??,,'',,'',2,0,0,2
+A,,'',,'',2,0,0,2
+"A background update check is in progress, please wait a few minutes and try again.",,'',,'',2,0,0,2
+A configuration file (%s) has been modified since it was installed.\nDo you want to keep your modifications?,,'',,'',2,0,0,2
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,,'',,'',2,0,0,2
+A finished power timer wants to shut down\nyour %s %s. Shutdown now?,,'',,,1,0,0,1
+A finished powertimer wants to reboot your %s %s.\nDo that now?,,'',,'',2,0,0,2
+A finished powertimer wants to restart the user interface.\nDo that now?,,'',,'',2,0,0,2
+A finished powertimer wants to set your\n%s %s to standby. Do that now?,,'',,'',2,0,0,2
+A finished powertimer wants to shutdown your %s %s.\nDo that now?,,'',,'',2,0,0,2
+A finished record timer wants to set your\n%s %s to standby. Do that now?,,'',,'',2,0,0,2
+A finished record timer wants to shut down\nyour %s %s. Shutdown now?,,'',,'',2,0,0,2
+A recording has been started:\n%s,,'',,'',2,0,0,2
+A recording is currently running.\nWhat do you want to do?,,'',,,1,0,0,1
+A recording is currently running. Please stop the recording before trying to configure the positioner.,,'',,,1,0,0,1
+A recording is currently running. Please stop the recording before trying to scan.,,'',,'',2,0,0,2
+A recording is currently running. Please stop the recording before trying to start the satfinder.,,A recording is currently running. Please stop the recording before trying to start the sat finder.,,,1,1,0,0
+A repeating timer or just once?,,'',,'',2,0,0,2
+A required tool (%s) was not found.,,'',,'',2,0,0,2
+A search for available updates is currently in progress.,,'',,'',2,0,0,2
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,,'',,'',2,0,0,2
+A sleep timer wants to set your\n%s %s to standby. Do that now?,,'',,,1,0,0,1
+A sleep timer wants to shut down\nyour %s %s. Shutdown now?,,'',,,1,0,0,1
+A small overview of the available icon states and actions.,,'',,'',2,0,0,2
+A timer failed to record!\nDisable TV and try again?\n,,'',,'',2,0,0,2
+A/V settings,,'',,,1,0,0,1
+AA,,'',,,1,0,0,1
+AAC downmix,,'',,'',2,0,0,2
+AB,,'',,,1,0,0,1
+ACQUIRING TSID/ONID,,'',,'',2,0,0,2
+AFP Setup,,'',,'',2,0,0,2
+AFP setup,,'',,,1,0,0,1
+AV aspect is %s.,,'',,'',2,0,0,2
+Abort,,'',,'',2,0,0,2
+About,,'',,'',2,0,0,2
+About...,,'',,,1,0,0,1
+Accesspoint:,,Access point:,,'',2,1,0,1
+Action on long power button press,,'',,,1,0,0,1
+Action on short power button press,,'',,,1,0,0,1
+Activate,,'',,'',2,0,0,2
+Activate MAC-address configuration,,'',,,1,0,0,1
+Activate PiP,,'',,,1,0,0,1
+Activate Picture in Picture,,'',,'',2,0,0,2
+Activate current configuration,,'',,'',2,0,0,2
+Activate network settings,,'',,'',2,0,0,2
+Activate the configured network settings.,,'',,'',2,0,0,2
+Active,,'',,'',2,0,0,2
+Active clients,,'',,'',2,0,0,2
+Adapter settings,,'',,'',2,0,0,2
+Add,,'',,'',2,0,0,2
+Add AutoTimer,,'',,'',2,0,0,2
+Add Timer,,'',,'',2,0,0,2
+Add a auto timer for current event,,Add an auto timer for current event,,,1,1,0,0
+Add a mark,,'',,'',2,0,0,2
+Add a nameserver entry,,'',,'',2,0,0,2
+Add a new title,,'',,'',2,0,0,2
+Add a record timer,,'',,'',2,0,0,2
+Add a record timer for current event,,'',,'',2,0,0,2
+Add a zap timer for current event,,'',,'',2,0,0,2
+Add a zap timer for next event,,'',,'',2,0,0,2
+Add bookmark,,'',,'',2,0,0,2
+Add directory to playlist,,'',,'',2,0,0,2
+Add file to playlist,,'',,'',2,0,0,2
+Add files to playlist,,'',,'',2,0,0,2
+Add provider,,'',,'',2,0,0,2
+Add recording (enter recording duration),,'',,'',2,0,0,2
+Add recording (enter recording endtime),,'',,'',2,0,0,2
+Add recording (indefinitely),,'',,'',2,0,0,2
+Add recording (stop after current event),,'',,'',2,0,0,2
+Add service,,'',,'',2,0,0,2
+Add timer,,'',,'',2,0,0,2
+Add title,,'',,'',2,0,0,2
+Add to bouquet,,'',,'',2,0,0,2
+Add to favourites,,'',,'',2,0,0,2
+Add/Remove timer for current event,,'',,'',2,0,0,2
+Adding schedule...,,'',,'',2,0,0,2
+Additional Info,,'',,'',2,0,0,2
+Address,,'',,'',2,0,0,2
+Adjust 3D settings,,'',,,1,0,0,1
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.","Adjust the color settings so that all of the colour shades are distinguishable, but appear as saturated (rich) as possible.\n\nPress OK to close the video fine-tuning wizard when you're happy with the result; otherwise use the number buttons to show other test screens.","Adjust the colour settings so that all the colour shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.",,'',3,2,0,1
+Advanced options,,'',,'',2,0,0,2
+Advanced restore,,'',,'',2,0,0,2
+Advanced software,,'',,'',2,0,0,2
+Advanced software plugin,,'',,'',2,0,0,2
+Advanced video enhancement setup,,'',,'',2,0,0,2
+Advanced video setup,,'',,,1,0,0,1
+After event,,'',,'',2,0,0,2
+Album,,'',,'',2,0,0,2
+Alias,,'',,'',2,0,0,2
+All,,'',,'',2,0,0,2
+All ages,,'',,'',2,0,0,2
+All resolutions,,'',,'',2,0,0,2
+All satellites,,'',,,1,0,0,1
+Allocate,,'',,'',2,0,0,2
+Allocate unused memory index,,'',,'',2,0,0,2
+Allow subtitle language to equal audio language,,'',,'',2,0,0,2
+Allow subtitles for hearing impaired,,'',,'',2,0,0,2
+Allow unstable (experimental) updates,,'',,'',2,0,0,2
+Allows more detailed information to be in the crash log,,'',,,1,0,0,1
+Allows the %s %s to read the stored EPG data regularly.,,'',,'',2,0,0,2
+Allows the %s %s to store the EPG data regularly.,,'',,'',2,0,0,2
+Allows you to adjust the amount of time the resolution infomation display on screen.,,'',,'',2,0,0,2
+Allows you to enable the debug logs. They contain very detailed information about everything the system does.,,'',,,1,0,0,1
+Allows you to enable/disable displaying icons on the front panel.,,'',,'',2,0,0,2
+Allows you to hide the extensions of known file types.,,'',,'',2,0,0,2
+Allows you to send a copy of the log to yourself.,,'',,'',2,0,0,2
+"Allows you to set the maximum size (MB) of the individual debug logs. When that size is reached, a new file will be created.",,'',,,1,0,0,1
+Allows you to setup the button to do what you choose.,,'',,'',2,0,0,2
+Allows you to show/hide CCcam Info in extensions (blue button).,,'',,'',2,0,0,2
+Allows you to show/hide Log Manager in extensions (blue button).,,'',,'',2,0,0,2
+Allows you to show/hide OScam Info in extensions (blue button).,,'',,'',2,0,0,2
+Alpha,,'',,'',2,0,0,2
+Alphanumeric,,'',,'',2,0,0,2
+Alternative,,'',,'',2,0,0,2
+Alternative numbering mode,,'',,'',2,0,0,2
+Alternative radio mode,,'',,'',2,0,0,2
+Alternative services tuner priority,,'',,'',2,0,0,2
+Always ask,,'',,'',2,0,0,2
+Always hide infobar,,'',,'',2,0,0,2
+Always show bouquets,,'',,'',2,0,0,2
+An empty filename is illegal.,,'',,'',2,0,0,2
+An error occurred while downloading the packetlist. Please try again.,,'',,'',2,0,0,2
+An unknown error occurred!,,'',,'',2,0,0,2
+Any activity,,'',,'',2,0,0,2
+Arabic,,'',,'',2,0,0,2
+Are you sure to remove this entry?,,'',,'',2,0,0,2
+Are you sure you want to activate this network configuration?\n\n,,'',,'',2,0,0,2
+Are you sure you want to delete\nthe following backup:\n,,'',,'',2,0,0,2
+Are you sure you want to delete all selected logs:\n,,'',,,1,0,0,1
+Are you sure you want to delete this log:\n,,'',,'',2,0,0,2
+Are you sure you want to delete this:\n ,,'',,'',2,0,0,2
+Are you sure you want to exit this wizard?,,'',,'',2,0,0,2
+Are you sure you want to reload the EPG data from:\n,,'',,'',2,0,0,2
+Are you sure you want to restart your network interfaces?\n\n,,'',,'',2,0,0,2
+Are you sure you want to restore\nthe following backup:\n%s\nYour receiver will restart after the backup has been restored!,,'',,'',2,0,0,2
+Are you sure you want to restore the backup?\nYour receiver will restart after the backup has been restored!,,'',,'',2,0,0,2
+Are you sure you want to save the EPG Cache to:\n,,Are you sure you want to save the EPG cache to:\n,,'',2,1,0,1
+Are you sure you want to send this log:\n,,'',,'',2,0,0,2
+Are you sure you want to update your %s %s ?,,'',,'',2,0,0,2
+Artist,,'',,'',2,0,0,2
+Arts/Culture,,'',,'',2,0,0,2
+Ask user,,'',,'',2,0,0,2
+Aspect ratio,,'',,'',2,0,0,2
+Assigned CAIds:,,'',,'',2,0,0,2
+Assigned services/provider:,,'',,'',2,0,0,2
+At End:,,'',,'',2,0,0,2
+Attach a file,,'',,'',2,0,0,2
+Audio PID,,'',,'',2,0,0,2
+Audio language selection 1,,'',,'',2,0,0,2
+Audio language selection 2,,'',,'',2,0,0,2
+Audio language selection 3,,'',,'',2,0,0,2
+Audio language selection 4,,'',,'',2,0,0,2
+Audio options...,,'',,'',2,0,0,2
+Audio track (%s) format,,'',,'',2,0,0,2
+Audio track (%s) language,,'',,'',2,0,0,2
+Author: ,,'',,'',2,0,0,2
+Authoring mode,,'',,'',2,0,0,2
+Auto,,'',,'',2,0,0,2
+Auto Deep Standby,,'',,'',2,0,0,2
+Auto Standby,,'',,'',2,0,0,2
+Auto chapter split every ? minutes (0=never),,'',,'',2,0,0,2
+Auto flesh,,'',,'',2,0,0,2
+Auto focus,,'',,'',2,0,0,2
+Auto focus commencing ...,,'',,'',2,0,0,2
+Auto language selection,,'',,,1,0,0,1
+Auto scart switching,,'',,'',2,0,0,2
+Automatic,,'',,'',2,0,0,2
+Automatic Scan,,'',,'',2,0,0,2
+Automatic image backup,,'',,'',2,0,0,2
+Automatic refresh,,'',,'',2,0,0,2
+Automatic resolution,,'',,'',2,0,0,2
+Automatic resolution label,,'',,'',2,0,0,2
+Automatic save,,'',,'',2,0,0,2
+Automatic scan,,'',,'',2,0,0,2
+Automatic settings backup,,'',,'',2,0,0,2
+Automatically start timeshift after,,'',,'',2,0,0,2
+Automatically turn on external subtitles,,'',,'',2,0,0,2
+Automatically update Client/Server View?,,'',,'',2,0,0,2
+Autostart,,'',,'',2,0,0,2
+Autostart:,,'',,'',2,0,0,2
+Available format variables,,'',,'',2,0,0,2
+Available shares:,,'',,'',2,0,0,2
+B,,'',,'',2,0,0,2
+BA,,'',,,1,0,0,1
+BB,,'',,,1,0,0,1
+Back,,'',,'',2,0,0,2
+Background,,'',,'',2,0,0,2
+Background check,,'',,'',2,0,0,2
+Background color,Background colour,Background colour,,'',3,1,1,1
+Background delete option,,'',,'',2,0,0,2
+Background delete speed,,'',,'',2,0,0,2
+Backup Manager,,'',,,1,0,0,1
+Backup completed.,,'',,'',2,0,0,2
+Backup failed.,,'',,'',2,0,0,2
+Backup is running...,,'',,'',2,0,0,2
+Backup system settings,,'',,'',2,0,0,2
+Band,,'',,'',2,0,0,2
+Bandwidth,,'',,'',2,0,0,2
+Base time,,'',,'',2,0,0,2
+Basque,,'',,'',2,0,0,2
+Begin time,,'',,'',2,0,0,2
+Behavior of 'pause' when paused,Behaviour of the Pause button when paused,Behaviour of 'pause' when paused,,'',3,2,0,1
+Behavior of 0 key in PiP-mode,Behaviour of the 0 button in PiP mode,Behaviour of 0 key in PiP-mode,,'',3,2,0,1
+Behavior when a movie is started,Behaviour when a movie is started,Behaviour when a movie is started,,'',3,1,1,1
+Behavior when a movie is stopped,Behaviour when a movie is stopped,Behaviour when a movie is stopped,,'',3,1,1,1
+Behavior when a movie reaches the end,Behaviour when a movie reaches the end,Behaviour when a movie reaches the end,,'',3,1,1,1
+Bitrate:,,'',,'',2,0,0,2
+Black,,'',,'',2,0,0,2
+Black screen,,'',,'',2,0,0,2
+Black screen till locked,,'',,'',2,0,0,2
+Block noise reduction,,'',,'',2,0,0,2
+Blue,,'',,'',2,0,0,2
+Bookmarks,,'',,'',2,0,0,2
+Boost blue,,'',,'',2,0,0,2
+Boost green,,'',,'',2,0,0,2
+Bouquet List,,'',,'',2,0,0,2
+Brightness,,'',,'',2,0,0,2
+Brightness (Normal),,'',,'',2,0,0,2
+Brightness (Standby),,'',,'',2,0,0,2
+Buffers:,,'',,'',2,0,0,2
+Build:\t%s,,'',,,1,0,0,1
+Build: %s,,'',,'',2,0,0,2
+Bulgarian,,'',,'',2,0,0,2
+Burn DVD,,'',,'',2,0,0,2
+Burn audio track (%s),,'',,'',2,0,0,2
+Burn existing image to DVD,,'',,'',2,0,0,2
+Burn to DVD,,'',,'',2,0,0,2
+Bus: ,,'',,'',2,0,0,2
+Button,,'',,'',2,0,0,2
+Button setup,,'',,'',2,0,0,2
+By Team ViX,,'',,'',2,0,0,2
+Bypass HDMI EDID Check,,'',,'',2,0,0,2
+Bytes received:,,'',,'',2,0,0,2
+Bytes sent:,,'',,'',2,0,0,2
+C-Band,,'',,'',2,0,0,2
+CAID,,'',,'',2,0,0,2
+CCcam Client Info,,'',,'',2,0,0,2
+CCcam Config Switcher,,'',,'',2,0,0,2
+CCcam ECM Info,,'',,'',2,0,0,2
+CCcam Info,,'',,'',2,0,0,2
+CCcam Info %s\nby AliAbdul %s\n\nThis plugin shows you the status of your CCcam.,,'',,'',2,0,0,2
+CCcam Info Config,,'',,'',2,0,0,2
+CCcam Info Setup,,'',,'',2,0,0,2
+CCcam Provider Info,,'',,'',2,0,0,2
+CCcam Remote Info,,'',,'',2,0,0,2
+CCcam Server Info,,'',,'',2,0,0,2
+CCcam Share Info,,'',,'',2,0,0,2
+CCcam Shares Info,,'',,'',2,0,0,2
+CCcam info,,'',,'',2,0,0,2
+CH,,'',,'',2,0,0,2
+CHANGE BOUQUET,,'',,'',2,0,0,2
+CI assignment,,'',,'',2,0,0,2
+CPU:\t%s,,'',,,1,0,0,1
+CVBS,,'',,'',2,0,0,2
+CaID: ,,'',,'',2,0,0,2
+Cable,,'',,'',2,0,0,2
+Cable Scan,,'',,'',2,0,0,2
+Cache thumbnails,,'',,'',2,0,0,2
+Cached:,,'',,'',2,0,0,2
+Calculate,,'',,'',2,0,0,2
+Calculate all positions,,'',,'',2,0,0,2
+Calculation complete,,'',,'',2,0,0,2
+Calibrate,,'',,'',2,0,0,2
+Can be used for different fps between external subtitles and video.,,'',,'',2,0,0,2
+Cancel,,'',,'',2,0,0,2
+Cancel save timeshift as movie,,'',,'',2,0,0,2
+Cannot delete file,,'',,'',2,0,0,2
+Cannot determine,,'',,'',2,0,0,2
+"Cannot find any signal ..., aborting !",,'',,'',2,0,0,2
+Cannot move to trash can,,'',,,1,0,0,1
+Capacity: ,,'',,'',2,0,0,2
+Card infos (CCcam-Reader),,'',,'',2,0,0,2
+Cards:,,'',,'',2,0,0,2
+Cards: ,,'',,'',2,0,0,2
+Cards: 0,,'',,'',2,0,0,2
+Cardserial,,'',,'',2,0,0,2
+Center DVB subtitles,,'',,'',2,0,0,2
+Change bouquets in quickzap,,'',,'',2,0,0,2
+Change next timer,,'',,'',2,0,0,2
+Change pin code,,'',,,1,0,0,1
+Change recording (duration),,'',,'',2,0,0,2
+Change recording (endtime),,'',,,1,0,0,1
+Change repeat and delay settings?,,'',,'',2,0,0,2
+Change service PIN,,'',,,1,0,0,1
+Change service PINs,,'',,,1,0,0,1
+Change setup PIN,,'',,,1,0,0,1
+Change step size,,'',,'',2,0,0,2
+Change timer,,'',,,1,0,0,1
+Change to bouquet,,'',,,1,0,0,1
+Changelog,,'',,,1,0,0,1
+Channel,,'',,'',2,0,0,2
+Channel +/- button mode,,'',,,1,0,0,1
+Channel 1 at start,,'',,,1,0,0,1
+Channel Info,,'',,,1,0,0,1
+Channel List,,'',,'',2,0,0,2
+Channel list context menu,,'',,,1,0,0,1
+Channel list cursor behavior,,Channel list cursor behaviour,,'',2,1,0,1
+Channel list on mode change,,'',,'',2,0,0,2
+Channel list preview,,'',,'',2,0,0,2
+Channel list service mode*,,'',,'',2,0,0,2
+Channel list type,,'',,'',2,0,0,2
+Channel not in services list,,'',,'',2,0,0,2
+Channel preview mode,,'',,'',2,0,0,2
+Channel selection,,'',,'',2,0,0,2
+Channel selection settings,,'',,,1,0,0,1
+Channel:,,'',,'',2,0,0,2
+ChannelEPG settings,,'',,,1,0,0,1
+Chap.,,'',,'',2,0,0,2
+Chapter,,'',,'',2,0,0,2
+Chapter:,,'',,'',2,0,0,2
+Check,,'',,'',2,0,0,2
+Check every (hours),,'',,'',2,0,0,2
+Check the internet connection,,'',,'',2,0,0,2
+Check the internet connection again,,'',,'',2,0,0,2
+Checking Feeds,,'',,,1,0,0,1
+Checking Logs...,,'',,'',2,0,0,2
+Checking filesystem...,,'',,'',2,0,0,2
+Checking for Updates...,,'',,'',2,0,0,2
+Checking the internet connection,,'',,'',2,0,0,2
+Checking tuner %d\nDiSEqC port %s for %s,,'',,,1,0,0,1
+Children/Youth,,'',,'',2,0,0,2
+Chipset:\tBCM%s,,'',,,1,0,0,1
+Chipset: BCM%s,,'',,'',2,0,0,2
+Choose Bouquet,,'',,'',2,0,0,2
+Choose a tag for easy finding a recording.,,'',,'',2,0,0,2
+"Choose between Daily, Weekly, Weekdays or user defined.",,'',,'',2,0,0,2
+Choose the location for crash and debug logs.,,'',,,1,0,0,1
+Choose the location where the EPG data will be stored when the %s %s is shut down. The location must be available at boot time.,,'',,'',2,0,0,2
+Choose the name of the file that holds the EPG data when the %s %s is shut down. This can be handy to differentiate between several boxes.,,'',,'',2,0,0,2
+Choose time interval to which the graphics will be rounded off.,,'',,'',2,0,0,2
+Choose what you want the '0' button to do when PIP is active.,,'',,'',2,0,0,2
+Choose whether multi channel sound tracks should be downmixed to stereo.,,'',,,1,0,0,1
+Choose whether or not to show an icon when a motorised dish is moving.,,'',,'',2,0,0,2
+Choose which level of menu/settings to display. 'Expert' level shows all items.,,'',,'',2,0,0,2
+Choose which tuner to configure.,,'',,'',2,0,0,2
+Chose between record and ZAP.,,'',,'',2,0,0,2
+Circular left,,'',,'',2,0,0,2
+Circular right,,'',,'',2,0,0,2
+Clean network trash cans,Empty the network trash,'',,'',3,1,0,2
+Cleaning Trashes,Emptying Trashes...,'',,'',3,1,0,2
+Cleanup,,'',,'',2,0,0,2
+Clear,,'',,'',2,0,0,2
+Clear before scan,,'',,'',2,0,0,2
+Clear fixed,,'',,'',2,0,0,2
+Clear log,,'',,'',2,0,0,2
+Clear playlist,,'',,'',2,0,0,2
+Clients,,'',,'',2,0,0,2
+Close,,'',,'',2,0,0,2
+Close PiP on exit,,'',,'',2,0,0,2
+Close bouquet list.,,'',,,1,0,0,1
+Close dialog,,'',,,1,0,0,1
+Close title selection,,'',,'',2,0,0,2
+Code rate HP,,'',,'',2,0,0,2
+Code rate LP,,'',,'',2,0,0,2
+Coderate HP,,'',,,1,0,0,1
+Coderate LP,,'',,,1,0,0,1
+Collection name,,'',,'',2,0,0,2
+Collection settings,,'',,'',2,0,0,2
+Color format,Colour format,Colour format,,'',3,1,1,1
+Color space,Colour space,Colour space,,'',3,1,1,1
+Command To Run,,'',,,1,0,0,1
+Command order,,'',,'',2,0,0,2
+Command type,,'',,'',2,0,0,2
+Committed DiSEqC command,,'',,,1,0,0,1
+Common Interface,,'',,'',2,0,0,2
+Common Interface Assignment,,'',,,1,0,0,1
+Common Interface assignment,,'',,,1,0,0,1
+Common interface,,'',,'',2,0,0,2
+Communication,,'',,'',2,0,0,2
+Complete,,'',,'',2,0,0,2
+Complex (allows mixing audio tracks and aspects),,'',,'',2,0,0,2
+Composition of the recording filenames,,'',,'',2,0,0,2
+Configfile %s saved.,,Config file %s saved.,,'',2,1,0,1
+Configuration mode,,'',,'',2,0,0,2
+Configuration mode: %s,,'',,'',2,0,0,2
+Configure an additional delay to improve external subtitle synchronisation.,,'',,'',2,0,0,2
+Configure an additional delay to improve subtitle synchronisation.,,'',,'',2,0,0,2
+Configure duration of inactivity before the hard disk drive goes to standby,,'',,'',2,0,0,2
+"Configure for how many minutes finished events should remain visible in the EPG. Useful when you need information about an event which has just finished, or has been delayed.",,'',,'',2,0,0,2
+Configure how recording filenames are constructed.,,'',,'',2,0,0,2
+Configure if and how service type icons will be shown.,,'',,'',2,0,0,2
+Configure if picons will be shown in the service list.,,'',,'',2,0,0,2
+Configure interface,,'',,'',2,0,0,2
+Configure nameservers,,'',,'',2,0,0,2
+Configure on which devices the background delete option should be used.,,'',,'',2,0,0,2
+Configure remote control type,,'',,,1,0,0,1
+Configure the DiSEqC mode for this LNB.,,'',,'',2,0,0,2
+Configure the IP address.,,'',,'',2,0,0,2
+Configure the amount of time that will be presented.,,'',,'',2,0,0,2
+Configure the behavior of the 'pause' key when movie playback is already paused.,,Configure the behaviour of the 'pause' key when movie playback is already paused.,,'',2,1,0,1
+Configure the behavior when movie playback is manually stopped.,,Configure the behaviour when movie playback is manually stopped.,,'',2,1,0,1
+Configure the behavior when movie playback is started.,,Configure the behaviour when movie playback is started.,,'',2,1,0,1
+"Configure the behavior when reaching the end of a movie, during movie playback.",,"Configure the behaviour when reaching the end of a movie, during movie playback.",,'',2,1,0,1
+Configure the border width of the subtitles. The dark border makes the subtitles easier to read on a light background.,,'',,'',2,0,0,2
+Configure the brightness level of the front panel display for normal operation.,,'',,'',2,0,0,2
+Configure the brightness level of the front panel display for standby.,,'',,'',2,0,0,2
+"Configure the color of the external subtitles, alternative (normal in white, italic in yellow, bold in cyan, underscore in green), white or yellow.","Choose the colour to use for external subtitles - white, yellow or alternative (normal in white, italic in yellow, bold in cyan, underscore in green).","Configure the colour of the external subtitles, alternative (normal in white, italic in yellow, bold in cyan, underscore in green), white or yellow.",,'',3,2,0,1
+Configure the color of the teletext subtitles.,Configure the teletext subtitle text colour.,Configure the colour of the teletext subtitles.,,'',3,2,0,1
+Configure the contrast level of the front panel display.,,'',,'',2,0,0,2
+Configure the cursor behavior in the channel selection list. When opening the channel selection list you can remain on the current service or already select up/down and you are able to revert the B+/B- buttons.,,Configure the cursor behaviour in the channel selection list. When opening the channel selection list you can remain on the current service or already select up/down and you are able to revert the B+/B- buttons.,,'',2,1,0,1
+Configure the duration (in minutes) for the screensaver.,,'',,'',2,0,0,2
+Configure the first audio language (highest priority).,,'',,'',2,0,0,2
+Configure the first subtitle language (highest priority).,,'',,'',2,0,0,2
+Configure the font size of the subtitles.,,'',,'',2,0,0,2
+"Configure the font size relative to skin size, so 1 increases by 1 point size, and -1 decreases by 1 point size.",,'',,'',2,0,0,2
+Configure the fourth audio language.,,'',,'',2,0,0,2
+Configure the fourth subtitle language.,,'',,'',2,0,0,2
+Configure the function of a long press of the power button.,,'',,,1,0,0,1
+Configure the function of a short press of the power button.,,'',,,1,0,0,1
+Configure the function of the <  > buttons.,,'',,'',2,0,0,2
+Configure the gateway.,,'',,'',2,0,0,2
+Configure the horizontal alignment of the subtitles.,,'',,'',2,0,0,2
+"Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed.",,'',,'',2,0,0,2
+"Configure the initial rewind speed. When you press the rewind button, rewinding will start at this speed.",,'',,'',2,0,0,2
+Configure the latitude of your location.,,'',,'',2,0,0,2
+Configure the longitude of your location.,,'',,'',2,0,0,2
+"Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can.","Configure the minimum amount of disk space required for recordings. When the amount of space drops below this value, deleted items will be removed from the trash.",'',,'',3,1,0,2
+Configure the nameserver (DNS).,,'',,'',2,0,0,2
+Configure the netmask.,,'',,'',2,0,0,2
+Configure the number of days after which items are automatically removed from the trash can.,Configure the number of days after which deleted items should be removed from the trash.,'',,,2,1,0,1
+Configure the number of days old timers are kept before they are automatically removed from the timer list.,,'',,'',2,0,0,2
+Configure the number of rows shown.,,'',,'',2,0,0,2
+Configure the offline decoding delay (in milliseconds). The configured delay is observed at each control word parity change.,,'',,'',2,0,0,2
+Configure the possible fast forward speeds.,,'',,'',2,0,0,2
+Configure the possible rewind speeds.,,'',,'',2,0,0,2
+Configure the primary EPG language.,,'',,'',2,0,0,2
+Configure the refresh rate of the screen.,,'',,,1,0,0,1
+Configure the second audio language.,,'',,'',2,0,0,2
+Configure the second subtitle language.,,'',,'',2,0,0,2
+Configure the secondary EPG language.,,'',,'',2,0,0,2
+Configure the skip time interval for the 1 and 3 buttons.,,'',,'',2,0,0,2
+Configure the skip time interval for the 4 and 6 buttons.,,'',,'',2,0,0,2
+Configure the skip time interval for the 7 and 9 buttons.,,'',,'',2,0,0,2
+Configure the slow motion speeds.,,'',,'',2,0,0,2
+Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance.,,'',,'',2,0,0,2
+Configure the subtitle delay when timing information is not available.,,'',,'',2,0,0,2
+Configure the third audio language.,,'',,'',2,0,0,2
+Configure the third subtitle language.,,'',,'',2,0,0,2
+Configure the transparency of the black background of graphical DVB subtitles.,,'',,'',2,0,0,2
+Configure the tuner mode.,,'',,'',2,0,0,2
+Configure the type of status indication icons shown in the movie list.,,'',,,1,0,0,1
+"Configure the vertical position of the subtitles, measured from the bottom of the screen.",,'',,'',2,0,0,2
+Configure the width allocated to the picon.,,'',,'',2,0,0,2
+Configure the width allocated to the service name.,,'',,'',2,0,0,2
+"Configure to show the channel names, picons, or both in the EPG.",,'',,'',2,0,0,2
+Configure whether (and for how long) a second infobar will be shown when OK is pressed twice. The second infobar contains additional information about the current channel.,,'',,'',2,0,0,2
+Configure which color format should be used on the SCART output.,Configure which colour format should be used on the SCART output.,Configure which colour format should be used on the SCART output.,,'',3,1,1,1
+"Configure which tuner type will be preferred, when the same service is available on different types of tuners.",,'',,'',2,0,0,2
+"Configure which tuner will be preferred, when more than one tuner is available. If set to 'auto' the system will give priority to the tuner having the lowest number of channels/satellites.",,'',,'',2,0,0,2
+Configure your NTP server.,,'',,'',2,0,0,2
+Configure your internal LAN,,'',,'',2,0,0,2
+Configure your network again,,'',,'',2,0,0,2
+"Configure your network settings, and press OK to start the scan",,'',,'',2,0,0,2
+Configure your wireless LAN again,,'',,'',2,0,0,2
+Configures which video output connector will be used.,,'',,'',2,0,0,2
+Configuring,,'',,'',2,0,0,2
+Conflicting timer,,'',,'',2,0,0,2
+Connect,,'',,'',2,0,0,2
+Connect to a wireless network,,'',,'',2,0,0,2
+Connected clients,,'',,'',2,0,0,2
+Connected to,,'',,'',2,0,0,2
+Connected!,,'',,,1,0,0,1
+Connected: ,,'',,'',2,0,0,2
+Constellation,,'',,,1,0,0,1
+Content,,'',,'',2,0,0,2
+Content does not fit on DVD!,,'',,'',2,0,0,2
+Continue,,'',,'',2,0,0,2
+Continue playback,,'',,'',2,0,0,2
+Continue playing,,'',,'',2,0,0,2
+Continues,,'',,'',2,0,0,2
+Continues play (loop),,'',,'',2,0,0,2
+Contrast,,'',,'',2,0,0,2
+Control of the position how finished timers are shown in the Timer List.,,'',,,1,0,0,1
+Convert ext3 filesystem to ext4,,'',,,1,0,0,1
+Convert ext3 to ext4,,'',,,1,0,0,1
+Convert filesystem ext3 to ext4,,'',,,1,0,0,1
+Converting ext3 to ext4...,,'',,'',2,0,0,2
+Cool TV Guide,,'',,,1,0,0,1
+Copy,,'',,'',2,0,0,2
+Copying files,,'',,'',2,0,0,2
+Cores:\t%s,,'',,,1,0,0,1
+Could not connect to %s %s .NFI image feed server:,,'',,,1,0,0,1
+Could not find installed channel list.,,'',,'',2,0,0,2
+Could not load medium! No disc inserted?,,'',,'',2,0,0,2
+Could not open Picture in Picture,,'',,,1,0,0,1
+Could not open the file %s!,,'',,'',2,0,0,2
+Could not record due to conflicting timer %s,,'',,,1,0,0,1
+Could not record due to invalid service %s,,'',,,1,0,0,1
+Could not save configfile %s!,,Could not save config file %s!,,'',2,1,0,1
+Crash Logs,,'',,'',2,0,0,2
+Create DVD-ISO,,'',,'',2,0,0,2
+Create directory,,'',,'',2,0,0,2
+Create more detailed crash log,,'',,,1,0,0,1
+Creating AP and SC Files,,'',,'',2,0,0,2
+Creating Hardlink to Timeshift file failed!,,'',,'',2,0,0,2
+Creating directory %s failed.,,'',,'',2,0,0,2
+Creating filesystem,,'',,,1,0,0,1
+Creating partition,,'',,,1,0,0,1
+Croatian,,'',,'',2,0,0,2
+Cron Manager,,'',,'',2,0,0,2
+CronTimers,,'',,,1,0,0,1
+Current CEC address,,'',,'',2,0,0,2
+Current Event:,,'',,'',2,0,0,2
+Current Status:,,'',,'',2,0,0,2
+Current device: ,,'',,'',2,0,0,2
+Current settings:,,'',,'',2,0,0,2
+Current time,,'',,'',2,0,0,2
+Current transponder,,'',,'',2,0,0,2
+Current value: ,,'',,'',2,0,0,2
+Current version:,,'',,'',2,0,0,2
+Currently installed image,,'',,,1,0,0,1
+Custom,,'',,'',2,0,0,2
+Custom skip time for '1''3' buttons,,'',,,1,0,0,1
+Custom skip time for '4'/'6' buttons,,'',,'',2,0,0,2
+Custom skip time for '7'/'9' buttons,,'',,'',2,0,0,2
+Customize,Customise,Customise,,,2,1,1,0
+Cut,,'',,'',2,0,0,2
+Cutlist editor,,'',,'',2,0,0,2
+Cutlist editor...,,Cut-list editor...,,'',2,1,0,1
+Czech,,'',,'',2,0,0,2
+DAC,,'',,'',2,0,0,2
+DHCP,,'',,'',2,0,0,2
+DLNA support,,'',,'',2,0,0,2
+DMM advanced,,'',,'',2,0,0,2
+DMM normal,,'',,'',2,0,0,2
+DUAL LAYER DVD,,'',,'',2,0,0,2
+DVB subtitle black transparency,,'',,'',2,0,0,2
+DVB-C,,'',,'',2,0,0,2
+DVB-C ANNEX C,,'',,'',2,0,0,2
+DVB-S,,'',,'',2,0,0,2
+DVB-S2,,'',,'',2,0,0,2
+DVB-T,,'',,'',2,0,0,2
+DVB-T2,,'',,'',2,0,0,2
+DVD data format,,'',,'',2,0,0,2
+DVD file browser,,'',,'',2,0,0,2
+DVD media toolbox,,'',,'',2,0,0,2
+DVD player,,'',,'',2,0,0,2
+DVD titlelist,,'',,'',2,0,0,2
+Daily,,'',,'',2,0,0,2
+Danish,,'',,'',2,0,0,2
+Date,,'',,'',2,0,0,2
+Debug Logs,,'',,'',2,0,0,2
+Deep Standby,,'',,'',2,0,0,2
+Deep standby,,'',,'',2,0,0,2
+Default,,'',,'',2,0,0,2
+Default movie location,,'',,'',2,0,0,2
+Default recording type,,'',,'',2,0,0,2
+Default settings,,'',,'',2,0,0,2
+Defaults,,'',,'',2,0,0,2
+Delay before key repeat starts:,,'',,'',2,0,0,2
+Delay for external subtitles,,'',,'',2,0,0,2
+Delay time,,'',,'',2,0,0,2
+Delay:,,'',,'',2,0,0,2
+Delete,,'',,'',2,0,0,2
+Delete %s?,,'',,'',2,0,0,2
+Delete Confirmation,,'',,'',2,0,0,2
+Delete entry,,'',,'',2,0,0,2
+Delete failed!,,'',,'',2,0,0,2
+Delete file,,'',,'',2,0,0,2
+Delete playlist entry,,'',,'',2,0,0,2
+Delete saved playlist,,'',,'',2,0,0,2
+Delete timer,,'',,,1,0,0,1
+Delete...,,'',,,1,0,0,1
+Deleted,,'',,'',2,0,0,2
+Deleted %s!,,'',,'',2,0,0,2
+Deleted items,,'',,'',2,0,0,2
+Deleting files,,'',,'',2,0,0,2
+Depth,,'',,'',2,0,0,2
+"Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble recording that can be descrambled on playback. 'Normal' means descramble the recording and don't record ECM.",,'',,'',2,0,0,2
+Descramble http streams,,'',,,1,0,0,1
+Description,,'',,'',2,0,0,2
+Deselect,,'',,'',2,0,0,2
+Details for plugin: ,,'',,'',2,0,0,2
+Detected Devices:,,'',,,1,0,0,1
+Detected NIMs:,,'',,,1,0,0,1
+Device Information,,'',,,1,0,0,1
+Device mounts,,'',,'',2,0,0,2
+Device setup,,'',,,1,0,0,1
+Devicename:,,Device name:,,'',2,1,0,1
+Devices,,'',,'',2,0,0,2
+DiSEqC,,'',,'',2,0,0,2
+DiSEqC A/B,,'',,'',2,0,0,2
+DiSEqC A/B/C/D,,'',,'',2,0,0,2
+DiSEqC mode,,'',,'',2,0,0,2
+DiSEqC port %s: %s,,'',,'',2,0,0,2
+DiSEqC repeats,,'',,,1,0,0,1
+DiSEqC-tester settings,,'',,'',2,0,0,2
+Dialing:,,Dialling:,,,1,1,0,0
+Digital contour removal,,'',,'',2,0,0,2
+Digital downmix,,'',,,1,0,0,1
+Direct playback of linked titles without menu,,'',,'',2,0,0,2
+Directory,,'',,'',2,0,0,2
+Directory %s does not exist.,,'',,'',2,0,0,2
+Directory browser,,'',,'',2,0,0,2
+Disable,,'',,'',2,0,0,2
+Disable Picture in Picture,,'',,'',2,0,0,2
+Disable background scanning,,'',,'',2,0,0,2
+Disable timer,,'',,,1,0,0,1
+Disabled,,'',,'',2,0,0,2
+Disconnect,,'',,,1,0,0,1
+Disk space to reserve for recordings (in GB),,'',,'',2,0,0,2
+Display,,'',,,1,0,0,1
+Display 16:9 content as,,'',,'',2,0,0,2
+Display 4:3 content as,,'',,'',2,0,0,2
+Display >16:9 content as,,'',,'',2,0,0,2
+Display and user interface,,'',,'',2,0,0,2
+Display message before playing next movie,,'',,'',2,0,0,2
+Display the EIT now/next eventdata in infobar.,,Display the EIT now/next event data in infobar.,,'',2,1,0,1
+Do not change,,'',,'',2,0,0,2
+Do not record,,'',,'',2,0,0,2
+Do you really want to check the filesystem?\nThis could take a long time!,,'',,'',2,0,0,2
+Do you really want to convert the filesystem?\nYou cannot go back!,,'',,,1,0,0,1
+Do you really want to delete %s ?,,'',,'',2,0,0,2
+Do you really want to delete %s?,,'',,'',2,0,0,2
+Do you really want to delete ?,,'',,'',2,0,0,2
+Do you really want to delete this timer ?,,'',,'',2,0,0,2
+"Do you really want to download the plugin \""%s\""?",,'',,'',2,0,0,2
+Do you really want to exit?,,'',,'',2,0,0,2
+Do you really want to initialize the device?\nAll data on the disk will be lost!,,Do you really want to initialise the device?\nAll data on the disk will be lost!,,,1,1,0,0
+Do you really want to permamently remove '%s' from trash can ?,Are you sure you want to permamently remove '%s' from the trash?,Do you really want to permanently remove '%s' from trash can ?,,,2,2,0,0
+Do you really want to permanently remove from trash can ?,Are you sure you want to permanently remove this from the trash?,'',,,2,1,0,1
+Do you really want to remove directory %s from the disk?,,'',,'',2,0,0,2
+"Do you really want to remove the plugin \""%s\""?",,'',,'',2,0,0,2
+Do you really want to remove the timer for %s?,,'',,'',2,0,0,2
+Do you really want to remove your bookmark of %s?,,'',,'',2,0,0,2
+Do you want to add any additional information ?,,'',,'',2,0,0,2
+Do you want to also install samba client ?\nThis allows you to mount your windows shares on this device.,,'',,,1,0,0,1
+Do you want to attach a text file to explain the log ?\n(choose 'No' to type message using virtual keyboard.),,'',,'',2,0,0,2
+Do you want to burn this collection to DVD medium?,,'',,'',2,0,0,2
+Do you want to delete all selected files:\n(choose 'No' to only delete the currently selected file.),,'',,,1,0,0,1
+Do you want to do a service scan?,,'',,'',2,0,0,2
+Do you want to do another manual service scan?,,'',,'',2,0,0,2
+Do you want to download the image to %s ?,,'',,,1,0,0,1
+Do you want to install the package:\n,,'',,'',2,0,0,2
+Do you want to play DVD in drive?,,'',,'',2,0,0,2
+Do you want to preview this DVD before burning?,,'',,'',2,0,0,2
+Do you want to reboot your %s %s,,'',,'',2,0,0,2
+Do you want to reboot your receiver?,,'',,'',2,0,0,2
+Do you want to remove the package:\n,,'',,'',2,0,0,2
+Do you want to restore your settings?,,'',,'',2,0,0,2
+Do you want to resume this playback?,,'',,,1,0,0,1
+Do you want to send all selected files:\n(choose 'No' to only send the currently selected file.),,'',,,1,0,0,1
+Do you want to update your %s %s ?,,'',,'',2,0,0,2
+Do you want to upgrade the package:\n,,'',,'',2,0,0,2
+Dolby Digital / DTS downmix,,'',,,1,0,0,1
+Don't save,,'',,'',2,0,0,2
+Don't stop current event but disable coming events,,'',,,1,0,0,1
+Download,,'',,,1,0,0,1
+Download %s from server,,'',,,1,0,0,1
+Download .NFI-files for USB-flasher,,'',,,1,0,0,1
+Download plugins,,'',,'',2,0,0,2
+Downloading,,'',,'',2,0,0,2
+Downloading plugin information. Please wait...,,'',,'',2,0,0,2
+Drivers:\t%s,,'',,,1,0,0,1
+Drivers: %s,,'',,'',2,0,0,2
+Dutch,,'',,'',2,0,0,2
+Dynamic contrast,,'',,'',2,0,0,2
+E,,'',,'',2,0,0,2
+ECM Statistics,,'',,'',2,0,0,2
+ECM Time,,'',,'',2,0,0,2
+ECM avg,,ECM avg.,,'',2,1,0,1
+ECM data will be included in the stream. This enables a client receiver to decode it.,,'',,'',2,0,0,2
+ECM last,,'',,'',2,0,0,2
+ECM-Time,,'',,'',2,0,0,2
+EPG,,'',,'',2,0,0,2
+EPG Cache Check,,'',,'',2,0,0,2
+EPG Search,,'',,,1,0,0,1
+EPG filename,,'',,'',2,0,0,2
+EPG language selection 1,,'',,'',2,0,0,2
+EPG language selection 2,,'',,'',2,0,0,2
+EPG location,,'',,'',2,0,0,2
+EPG settings,,'',,'',2,0,0,2
+ERROR - failed to scan (%s)!,,'',,'',2,0,0,2
+East,,'',,'',2,0,0,2
+East limit set,,'',,'',2,0,0,2
+Ecm:,,'',,'',2,0,0,2
+Edit,,'',,'',2,0,0,2
+Edit DNS,,'',,'',2,0,0,2
+Edit bouquets list,,'',,,1,0,0,1
+Edit chapters of current title,,'',,'',2,0,0,2
+Edit services list,,'',,,1,0,0,1
+Edit settings,,'',,'',2,0,0,2
+Edit the Nameserver configuration of your %s %s.\n,,'',,'',2,0,0,2
+Edit the network configuration of your %s %s.\n,,'',,'',2,0,0,2
+Edit timer,,'',,,1,0,0,1
+Edit title,,'',,'',2,0,0,2
+Edit upgrade source url.,,'',,'',2,0,0,2
+Education/Science/...,,'',,,1,0,0,1
+Elapsed,,'',,'',2,0,0,2
+Elapsed & Remaining,,'',,'',2,0,0,2
+Electronic Program Guide,,'',,'',2,0,0,2
+Enable,,'',,'',2,0,0,2
+Enable 5V for active antenna,,'',,'',2,0,0,2
+Enable EIT EPG,,'',,'',2,0,0,2
+Enable FreeSat EPG,,'',,'',2,0,0,2
+Enable MHW EPG,,'',,'',2,0,0,2
+Enable Netmed EPG,,'',,'',2,0,0,2
+Enable ViaSat EPG,,'',,'',2,0,0,2
+Enable debug logs,,'',,,1,0,0,1
+Enable multiple bouquets,,'',,'',2,0,0,2
+Enable panic button,,'',,'',2,0,0,2
+Enable parental control,,'',,,1,0,0,1
+Enable teletext caching,,'',,'',2,0,0,2
+Enabled,,'',,'',2,0,0,2
+Enables a feature so that the receiver can decrypt streams (if the ECM data is included in the stream and a valid card is available).,,'',,,1,0,0,1
+Encrypted: ,,'',,'',2,0,0,2
+Encryption,,'',,'',2,0,0,2
+Encryption key,,'',,'',2,0,0,2
+Encryption key type,,'',,'',2,0,0,2
+Encryption:,,'',,'',2,0,0,2
+End time,,'',,'',2,0,0,2
+English,,'',,'',2,0,0,2
+Enigma2 skin selector,,'',,,1,0,0,1
+Enimga2 Changes,,'',,,1,0,0,1
+Enter main menu...,,'',,'',2,0,0,2
+Enter pin code,,'',,'',2,0,0,2
+Enter the service pin,,'',,'',2,0,0,2
+Enter your e-mail address to send a copy of the log to.,,'',,'',2,0,0,2
+"Enter your forum user name, to make it easier to trace logs.",,'',,'',2,0,0,2
+Entitlements,,'',,'',2,0,0,2
+Error,,'',,'',2,0,0,2
+Error code,,'',,'',2,0,0,2
+Error downloading change log.,,'',,,1,0,0,1
+Error executing plugin,,'',,'',2,0,0,2
+Error reading webpage!,,'',,'',2,0,0,2
+Error:\n%s,,'',,'',2,0,0,2
+Error: %s\nRetry?,,'',,'',2,0,0,2
+Estonian,,'',,'',2,0,0,2
+Ethernet network interface,,'',,'',2,0,0,2
+Event Info,,'',,'',2,0,0,2
+Event font size,,'',,'',2,0,0,2
+Event view,,'',,'',2,0,0,2
+Everywhere,,'',,'',2,0,0,2
+Exceeds dual layer medium!,,'',,'',2,0,0,2
+Execution finished!!,,'',,'',2,0,0,2
+Execution progress:,,'',,'',2,0,0,2
+Exif,,'',,'',2,0,0,2
+Exit,,'',,'',2,0,0,2
+Exit EPG,,'',,'',2,0,0,2
+Exit MAC-address configuration,,'',,,1,0,0,1
+Exit editor,,'',,'',2,0,0,2
+Exit input device selection.,,'',,'',2,0,0,2
+Exit media player?,,'',,'',2,0,0,2
+Exit mediaplayer,,'',,'',2,0,0,2
+Exit movie list,,'',,'',2,0,0,2
+Exit movie player?,,'',,'',2,0,0,2
+Exit nameserver configuration,,'',,'',2,0,0,2
+Exit network interface list,,'',,'',2,0,0,2
+Exit network wizard,,'',,'',2,0,0,2
+Exit the wizard,,'',,'',2,0,0,2
+Expert,,'',,'',2,0,0,2
+Extended Networksetup Plugin...,,Extended Network setup Plugin...,,'',2,1,0,1
+Extended Setup...,,'',,'',2,0,0,2
+Extended Shares,,'',,'',2,0,0,2
+Extended Software,,'',,'',2,0,0,2
+Extended Software Plugin,,'',,'',2,0,0,2
+Extended network setup plugin...,,'',,'',2,0,0,2
+Extended setup...,,'',,'',2,0,0,2
+Extensions,,'',,'',2,0,0,2
+Extensions management,,'',,'',2,0,0,2
+External,,'',,'',2,0,0,2
+External (CF),,'',,,1,0,0,1
+External subtitle color,External subtitle colour,'',,'',3,1,0,2
+FAILED,,'',,'',2,0,0,2
+FEC,,'',,'',2,0,0,2
+FLASH,,'',,'',2,0,0,2
+FTP Setup,,'',,'',2,0,0,2
+FTP setup,,'',,,1,0,0,1
+Factory reset,,'',,'',2,0,0,2
+Failed,,'',,'',2,0,0,2
+Failed to write /tmp/positionersetup.log: ,,'',,'',2,0,0,2
+Fan %d,,'',,'',2,0,0,2
+Fast,,'',,'',2,0,0,2
+Fast DiSEqC,,'',,'',2,0,0,2
+Fast Scan,,'',,'',2,0,0,2
+Fast epoch,,'',,'',2,0,0,2
+Fast forward speeds,,'',,'',2,0,0,2
+Favourites,,'',,'',2,0,0,2
+File appears to be busy.\n,,'',,'',2,0,0,2
+File oscam.conf not found.\nPlease enter username/password manually.,,'',,'',2,0,0,2
+Filesystem Check,,'',,'',2,0,0,2
+Filesystem check,,'',,'',2,0,0,2
+Final position at,,'',,'',2,0,0,2
+Final position at index,,'',,'',2,0,0,2
+Fine movement,,'',,'',2,0,0,2
+Finetune,,Fine tune,,'',2,1,0,1
+Finished,,'',,'',2,0,0,2
+Finished configuring your network,,'',,'',2,0,0,2
+Finished restarting your network,,'',,,1,0,0,1
+Finnish,,'',,'',2,0,0,2
+Fixed,,'',,'',2,0,0,2
+Flash,,'',,,1,0,0,1
+Flashing,,'',,'',2,0,0,2
+Flashing failed,,'',,,1,0,0,1
+Following tasks will be done after you press OK!,,'',,'',2,0,0,2
+Fontsize,,Font size,,,1,1,0,0
+Force de-interlace,,'',,'',2,0,0,2
+Format,,'',,'',2,0,0,2
+Forward volume keys,,'',,'',2,0,0,2
+Frame size in full view,,'',,'',2,0,0,2
+Free Memory:,,'',,,1,0,0,1
+Free Swap:,,'',,,1,0,0,1
+Free To Air,,'',,'',2,0,0,2
+Free memory,,'',,'',2,0,0,2
+Free memory:,,'',,'',2,0,0,2
+Free:,,'',,'',2,0,0,2
+Free: ,,'',,'',2,0,0,2
+French,,'',,'',2,0,0,2
+Frequency,,'',,'',2,0,0,2
+Frequency bands,,'',,'',2,0,0,2
+Frequency scan step size(khz),,Frequency scan step size(kHz),,'',2,1,0,1
+Frequency steps,,'',,'',2,0,0,2
+Fri,,'',,'',2,0,0,2
+Friday,,'',,'',2,0,0,2
+From :,,'',,'',2,0,0,2
+Frontprocessor version: %d,,Front-processor version: %d,,,1,1,0,0
+Ftpd service type: Vsftpd server,,'',,,1,0,0,1
+Full screen,,'',,'',2,0,0,2
+Full transparency,,'',,'',2,0,0,2
+Fullview resolution,,'',,,1,0,0,1
+GB,,'',,'',2,0,0,2
+GUI needs a restart to apply a new skin\nDo you want to restart the GUI now?,,'',,,1,0,0,1
+Gateway,,'',,'',2,0,0,2
+General,,'',,'',2,0,0,2
+General AC3 delay,,'',,'',2,0,0,2
+General PCM delay,,'',,'',2,0,0,2
+Genre,,'',,'',2,0,0,2
+German,,'',,'',2,0,0,2
+Get latest experimental image,,'',,,1,0,0,1
+Get latest release image,,'',,,1,0,0,1
+Getting Event Info failed!,,'',,'',2,0,0,2
+Getting plugin information. Please wait...,,'',,'',2,0,0,2
+Go down the list,,'',,'',2,0,0,2
+Go to first movie or last item,,'',,'',2,0,0,2
+Go to first movie or top of list,,'',,'',2,0,0,2
+Go up the list,,'',,'',2,0,0,2
+Goto,,'',,'',2,0,0,2
+Goto 0,,'',,'',2,0,0,2
+Goto :,,'',,'',2,0,0,2
+Goto X,,'',,'',2,0,0,2
+Goto index position,,'',,'',2,0,0,2
+Goto next bouquet,,'',,,1,0,0,1
+Goto next channel,,'',,,1,0,0,1
+Goto next event,,'',,,1,0,0,1
+Goto position,,'',,'',2,0,0,2
+Goto previous bouquet,,'',,,1,0,0,1
+Goto previous channel,,'',,,1,0,0,1
+Goto previous event,,'',,,1,0,0,1
+Goto specific data/time,,'',,,1,0,0,1
+GotoX calibration,,'',,'',2,0,0,2
+Graphical EPG,,'',,'',2,0,0,2
+Graphical Infobar EPG settings,,'',,,1,0,0,1
+GraphicalEPG settings,,'',,,1,0,0,1
+Graphics,,'',,'',2,0,0,2
+Greek,,'',,'',2,0,0,2
+Grey,,'',,'',2,0,0,2
+Guard interval,,'',,'',2,0,0,2
+H: = Hourly / D: = Daily / W: = Weekly / M: = Monthly,,'',,'',2,0,0,2
+HD list,,'',,'',2,0,0,2
+HDMI,,'',,'',2,0,0,2
+HDMI CEC,,'',,'',2,0,0,2
+HDMI CEC Setup,,'',,'',2,0,0,2
+Handle standby from TV,,'',,'',2,0,0,2
+Handle wakeup from TV,,'',,'',2,0,0,2
+Hard disk setup,,'',,,1,0,0,1
+Hard disk standby after,,'',,'',2,0,0,2
+Hebrew,,'',,'',2,0,0,2
+Height,,'',,'',2,0,0,2
+Helps setting up your dish,,'',,,1,0,0,1
+Hidden network,,'',,'',2,0,0,2
+Hide CI messages,,'',,'',2,0,0,2
+Hide any zap error messages.,,'',,'',2,0,0,2
+Hide error messages from the Common Interface module.,,'',,'',2,0,0,2
+Hide known extensions,,'',,'',2,0,0,2
+Hide player,,'',,'',2,0,0,2
+Hide zap errors,,'',,'',2,0,0,2
+Hierarchy info,,'',,'',2,0,0,2
+Hierarchy information,,'',,,1,0,0,1
+High bitrate support,,'',,'',2,0,0,2
+History buttons mode,,'',,'',2,0,0,2
+History zap...,,'',,,1,0,0,1
+Hold screen,,'',,'',2,0,0,2
+Hold till locked,,'',,'',2,0,0,2
+Home,,'',,'',2,0,0,2
+Hops:,,'',,'',2,0,0,2
+Horizontal,,'',,'',2,0,0,2
+Horizontal turning speed,,'',,'',2,0,0,2
+Hostname:,,'',,'',2,0,0,2
+Hostname: ,,'',,'',2,0,0,2
+Hour,,'',,'',2,0,0,2
+Hourly,,'',,'',2,0,0,2
+Hours Mins,,'',,'',2,0,0,2
+Hours Mins Secs,,'',,'',2,0,0,2
+How many minutes do you want to record?,,'',,,1,0,0,1
+Hue,,'',,'',2,0,0,2
+Hungarian,,'',,'',2,0,0,2
+IMDB search for current event,,'',,'',2,0,0,2
+IMDb Search,,IMDB Search,,,1,1,0,0
+IP address,,'',,'',2,0,0,2
+IP-Address,,'',,,1,0,0,1
+IP:,,'',,'',2,0,0,2
+ISO file is too large for this filesystem!,,'',,'',2,0,0,2
+ISO path,,'',,'',2,0,0,2
+Icons,,'',,'',2,0,0,2
+Idle Time: ,,'',,'',2,0,0,2
+If enabled the output resolution of the box will try to match the resolution of the video contents resolution,,'',,,1,0,0,1
+If enabled the video will always be de-interlaced.,,'',,'',2,0,0,2
+If set to 'yes' channels without EPG will not be shown.,,'',,'',2,0,0,2
+If set to 'yes' it will show the 'PO' packages in browser.,,'',,'',2,0,0,2
+If set to 'yes' it will show the 'SRC' packages in browser.,,'',,'',2,0,0,2
+If set to 'yes' shows a small TV-screen in the EPG.,,'',,'',2,0,0,2
+If set to 'yes' the EPG will always open at the first channel of bouquet. If set to 'no' the EPG will open on the current channel.,,'',,,1,0,0,1
+If set to 'yes' the bouquets will be shown each time you open the EPG.,,'',,'',2,0,0,2
+If set to 'yes' the channel list will be shown after switching between radio and TV modes.,,'',,'',2,0,0,2
+If set to 'yes' the channel number will be displayed in the infobar.,,'',,'',2,0,0,2
+If set to 'yes' the infobar will be displayed when a new event starts.,,'',,'',2,0,0,2
+If set to 'yes' the infobar will be displayed when changing channels.,,'',,'',2,0,0,2
+If set to 'yes' you can preview channels in the EPG list.,,'',,'',2,0,0,2
+"If set to 'yes' you can preview channels in the channel list. Press 'OK' to preview the selected channel, press a 2nd 'OK' to exit and zap to that channel, pressing 'EXIT' to return to the channel you started at.",,'',,'',2,0,0,2
+"If set to 'yes', allows you to use the seekbar to jump to a point within the event.",,'',,'',2,0,0,2
+"If set to 'yes', the infobar will be displayed when Fast Forwarding or Rewinding during media playback.",,'',,'',2,0,0,2
+"If the text is too long to be displayed on the front panel, it will be repeated (number of times):",,'',,'',2,0,0,2
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,'',,,1,0,0,1
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of grey stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,'',2,1,0,1
+Image Information,,'',,,1,0,0,1
+Image Manager,,'',,,1,0,0,1
+Immediate shutdown,,'',,'',2,0,0,2
+"In order to record a timer, the TV was switched to the recording service!\n",,'',,'',2,0,0,2
+In progress,,'',,'',2,0,0,2
+Inadyn Log,,'',,,1,0,0,1
+Inadyn Setup,,'',,'',2,0,0,2
+Inadyn setup,,'',,,1,0,0,1
+Include AIT in http streams,,'',,'',2,0,0,2
+Include ECM in http streams,,'',,'',2,0,0,2
+Include EIT in http streams,,'',,'',2,0,0,2
+Incorrect type service for PiP!,,'',,,1,0,0,1
+Increase time scale,,'',,'',2,0,0,2
+Increased voltage,,'',,'',2,0,0,2
+Index allocated:,,'',,'',2,0,0,2
+Info,,'',,'',2,0,0,2
+Info button (long),,'',,'',2,0,0,2
+Info button (short),,'',,'',2,0,0,2
+InfoBar EPG,,'',,'',2,0,0,2
+InfoBar EPG mode,,'',,,1,0,0,1
+Infobar EPG,,'',,'',2,0,0,2
+InfobarEPG settings,,'',,,1,0,0,1
+Information,,'',,'',2,0,0,2
+Init,,'',,'',2,0,0,2
+Initial fast forward speed,,'',,'',2,0,0,2
+Initial lock ratio,,'',,'',2,0,0,2
+Initial rewind speed,,'',,'',2,0,0,2
+Initial signal quality,,'',,'',2,0,0,2
+Initial signal quality:,,'',,'',2,0,0,2
+Initialization,Initialisation,Initialisation,,,2,1,1,0
+Initialize,Initialise,Initialise,,Initialise,3,1,2,0
+Initializing storage device...,,Initialising storage device...,,'',2,1,0,1
+Inotify Monitoring,,'',,'',2,0,0,2
+Input,,'',,'',2,0,0,2
+Input device setup,,'',,,1,0,0,1
+Input devices,,'',,'',2,0,0,2
+Install,,'',,'',2,0,0,2
+Install a new image with a USB stick,,'',,'',2,0,0,2
+Install a new image with your web browser,,'',,'',2,0,0,2
+Install channel list,,'',,'',2,0,0,2
+Install extensions.,,'',,'',2,0,0,2
+Install lcd picons on,,'',,'',2,0,0,2
+Install local extension,,'',,'',2,0,0,2
+Install or remove finished.,,'',,'',2,0,0,2
+Install picons on,,'',,'',2,0,0,2
+Install plugins,,'',,,1,0,0,1
+Installation finished.,,'',,'',2,0,0,2
+Installing,,'',,'',2,0,0,2
+Installing Service,,'',,'',2,0,0,2
+Instant record location,,'',,'',2,0,0,2
+Instant recording location,,'',,'',2,0,0,2
+Instant recording...,,'',,'',2,0,0,2
+Instant recordings location,,'',,'',2,0,0,2
+Interface,,'',,'',2,0,0,2
+Interface: ,,'',,'',2,0,0,2
+Intermediate,,'',,'',2,0,0,2
+Internal,,'',,'',2,0,0,2
+Internal flash,,'',,'',2,0,0,2
+Internal hdd only,,'',,'',2,0,0,2
+Interval between keys when repeating:,,'',,'',2,0,0,2
+Invalid directory selected: %s,,'',,'',2,0,0,2
+Invalid location,,'',,'',2,0,0,2
+Invalid transponder data,,'',,'',2,0,0,2
+Inversion,,'',,'',2,0,0,2
+Invert,,'',,'',2,0,0,2
+Ipkg,,'',,'',2,0,0,2
+Is this setting ok?,,'',,'',2,0,0,2
+Is this video mode ok?,,'',,'',2,0,0,2
+Italian,,'',,'',2,0,0,2
+JUMP 24 HOURS,,'',,'',2,0,0,2
+Job View,,'',,'',2,0,0,2
+Jump back 24 hours,,'',,'',2,0,0,2
+Jump first press in channel selection*,,'',,,1,0,0,1
+Jump forward 24 hours,,'',,'',2,0,0,2
+Jump to beginning of list,,'',,'',2,0,0,2
+Jump to current time,,'',,'',2,0,0,2
+Jump to end of list,,'',,'',2,0,0,2
+Jump to next marked position,,'',,,1,0,0,1
+Jump to previous marked position,,'',,,1,0,0,1
+Jump to prime time,,'',,'',2,0,0,2
+Just change channels,,'',,'',2,0,0,2
+Just scale,,'',,'',2,0,0,2
+Just zap,,'',,'',2,0,0,2
+Keep service,,'',,'',2,0,0,2
+Keeps MovieList open whilst playing audio files.,,'',,,1,0,0,1
+Kernel:\t%s,,'',,,1,0,0,1
+Kernel: %s,,'',,'',2,0,0,2
+Keyboard,,'',,'',2,0,0,2
+Keyboard map,,'',,'',2,0,0,2
+Keyboard setup,,'',,,1,0,0,1
+LAN adapter,,'',,'',2,0,0,2
+LAN connection,,'',,'',2,0,0,2
+LED Deep Standby,,'',,'',2,0,0,2
+LED Normal,,'',,'',2,0,0,2
+LED Standby,,'',,'',2,0,0,2
+LED brightness during deep standby.,,'',,'',2,0,0,2
+LED brightness during normal operations.,,'',,'',2,0,0,2
+LED brightness during standby.,,'',,'',2,0,0,2
+LNB,,'',,'',2,0,0,2
+Label,,'',,'',2,0,0,2
+Language,,'',,'',2,0,0,2
+Language selection,,'',,'',2,0,0,2
+Last Req.,,'',,'',2,0,0,2
+Last config,,'',,'',2,0,0,2
+Last speed,,'',,'',2,0,0,2
+Last update:\t%s,,'',,,1,0,0,1
+Last update: %s,,'',,'',2,0,0,2
+Last used share: ,,'',,'',2,0,0,2
+Later,,'',,'',2,0,0,2
+Latitude,,'',,'',2,0,0,2
+Latvian,,'',,'',2,0,0,2
+Leave DVD player?,,'',,'',2,0,0,2
+Left,,'',,'',2,0,0,2
+Left from servicename,,'',,'',2,0,0,2
+Leisure hobbies,,'',,'',2,0,0,2
+Letterbox,,'',,'',2,0,0,2
+Letterbox zoom,,'',,'',2,0,0,2
+Light Grey,,'',,'',2,0,0,2
+Limit character set for recording filenames,,'',,'',2,0,0,2
+Limit debug log size (MB),,'',,'',2,0,0,2
+Limit east,,'',,'',2,0,0,2
+Limit the characters that can be used in recording filenames to (7 bit) ascii. This ensures compatibility with operating systems or file systems with limited character sets.,,'',,'',2,0,0,2
+Limit west,,'',,'',2,0,0,2
+Limits cancelled,,'',,'',2,0,0,2
+Limits enabled,,'',,'',2,0,0,2
+Limits off,,'',,'',2,0,0,2
+Limits on,,'',,'',2,0,0,2
+Link Quality:,,'',,,1,0,0,1
+Link quality:,,'',,'',2,0,0,2
+Link:,,'',,'',2,0,0,2
+Linked titles with a DVD menu,,'',,'',2,0,0,2
+List EPG functions...,,'',,'',2,0,0,2
+List available networks,,'',,'',2,0,0,2
+List of storage devices,,'',,'',2,0,0,2
+Listen to the radio...,,'',,'',2,0,0,2
+Lithuanian,,'',,'',2,0,0,2
+Load,,'',,'',2,0,0,2
+Load EPG,,'',,'',2,0,0,2
+Load playlist,,load playlist,,'',2,1,0,1
+Load/Save,,'',,,1,0,0,1
+Local box,,'',,'',2,0,0,2
+Local network,,'',,'',2,0,0,2
+Location,,'',,'',2,0,0,2
+Lock ratio,,'',,'',2,0,0,2
+Log Manager,,'',,'',2,0,0,2
+Log results to harddisk,,Log results to hard disk,,'',2,1,0,1
+LogManager,,'',,'',2,0,0,2
+Logs,,'',,'',2,0,0,2
+Logs location,,'',,,1,0,0,1
+Logs manager,,'',,,1,0,0,1
+Logs older than the specified no of days will be deleted.,,'',,,1,0,0,1
+Logs settings,,'',,'',2,0,0,2
+Long << / >>,,'',,'',2,0,0,2
+Long Left/Right,,'',,'',2,0,0,2
+Long filenames,,'',,'',2,0,0,2
+Long key press,,'',,'',2,0,0,2
+Longitude,,'',,'',2,0,0,2
+Luxembourgish,,'',,'',2,0,0,2
+MAC-address,,'',,,1,0,0,1
+MAC-address settings,,'',,,1,0,0,1
+MAC:,,'',,'',2,0,0,2
+MB,,'',,'',2,0,0,2
+Main menu,,'',,'',2,0,0,2
+Mainmenu,,'',,'',2,0,0,2
+Maintain old EPG data for,,'',,'',2,0,0,2
+Make this mark an 'in' point,,'',,'',2,0,0,2
+Make this mark an 'out' point,,'',,'',2,0,0,2
+Make this mark just a mark,,'',,'',2,0,0,2
+Manage extensions,,'',,'',2,0,0,2
+Manage your %s %s's software,,'',,'',2,0,0,2
+Manual Scan,,'',,'',2,0,0,2
+Manual configuration,,'',,'',2,0,0,2
+Manual scan,,'',,'',2,0,0,2
+Manual transponder,,'',,'',2,0,0,2
+Manufacturer,,'',,'',2,0,0,2
+Margin after recording (minutes),,'',,'',2,0,0,2
+Margin before recording (minutes),,'',,'',2,0,0,2
+Max. bitrate: ,,'',,'',2,0,0,2
+Maxdown +,,'',,'',2,0,0,2
+Maxdown -,,'',,'',2,0,0,2
+Maxdown: ,,'',,'',2,0,0,2
+Maximum no of days,,'',,,1,0,0,1
+Maximum total space used (MB),,'',,'',2,0,0,2
+Media playback Remaining/Elapsed as,,'',,'',2,0,0,2
+Media player,,'',,'',2,0,0,2
+Media scanner,,'',,'',2,0,0,2
+Medium is not a writeable DVD!,,'',,'',2,0,0,2
+Medium is not empty!,,'',,'',2,0,0,2
+Memory,,'',,'',2,0,0,2
+Memory Information,,'',,,1,0,0,1
+Memory index,,'',,'',2,0,0,2
+Memory positions,,'',,,1,0,0,1
+Menu,,'',,'',2,0,0,2
+Menu config,,'',,'',2,0,0,2
+Merging Timeshift files,,'',,'',2,0,0,2
+MiniDLNA Log,,'',,,1,0,0,1
+MiniDLNA Setup,,'',,'',2,0,0,2
+MiniDLNA setup,,'',,,1,0,0,1
+Minimum age %d years,,'',,'',2,0,0,2
+Minimum send interval,,'',,'',2,0,0,2
+Mins,,'',,'',2,0,0,2
+Mins Secs,,'',,'',2,0,0,2
+Missing ,,'',,'',2,0,0,2
+Mode,,'',,'',2,0,0,2
+Model:\t%s %s\n,,'',,'',2,0,0,2
+Model: ,,'',,'',2,0,0,2
+Modulation,,'',,'',2,0,0,2
+Modulator,,'',,'',2,0,0,2
+Mon,,'',,'',2,0,0,2
+Mon-Fri,,'',,'',2,0,0,2
+Monday,,'',,'',2,0,0,2
+Monthly,,'',,'',2,0,0,2
+Mosquito noise reduction,,'',,'',2,0,0,2
+Mount,,'',,,1,0,0,1
+Mounts Setup,,'',,,1,0,0,1
+Mounts setup,,'',,,1,0,0,1
+Move,,'',,'',2,0,0,2
+Move Left/Right,,'',,'',2,0,0,2
+Move PiP to main picture,,'',,'',2,0,0,2
+Move Picture in Picture,,'',,'',2,0,0,2
+Move Up/Down,,'',,'',2,0,0,2
+Move down a page,,'',,'',2,0,0,2
+Move east,,'',,'',2,0,0,2
+Move to home of list,,'',,'',2,0,0,2
+Move to other directory,,'',,,1,0,0,1
+Move to position X,,'',,'',2,0,0,2
+Move up a page,,'',,'',2,0,0,2
+Move west,,'',,'',2,0,0,2
+Moved to position 0,,'',,'',2,0,0,2
+Moved to position at index,,'',,'',2,0,0,2
+Movement,,'',,'',2,0,0,2
+Movie List,,'',,'',2,0,0,2
+Movie List Setup,,'',,'',2,0,0,2
+Movie location,,'',,'',2,0,0,2
+Movie selection,,'',,'',2,0,0,2
+Movie/Drama,,'',,'',2,0,0,2
+Moving,,'',,'',2,0,0,2
+Moving east ...,,'',,'',2,0,0,2
+Moving files,,'',,'',2,0,0,2
+Moving to position,,'',,'',2,0,0,2
+Moving west ...,,'',,'',2,0,0,2
+Multi EPG,,'',,'',2,0,0,2
+MultiEPG settings,,Multi EPG settings,,,1,1,0,0
+Multimedia,,'',,'',2,0,0,2
+Multiple service support,,'',,'',2,0,0,2
+Multiplex,,'',,,1,0,0,1
+Multisat,,'',,'',2,0,0,2
+Music/Ballet/Dance,,'',,'',2,0,0,2
+N/A,,'',,'',2,0,0,2
+NFI image flashing,,'',,,1,0,0,1
+NFI image flashing completed. Press Yellow to Reboot!,,'',,,1,0,0,1
+NFS Setup,,'',,'',2,0,0,2
+NFS setup,,'',,,1,0,0,1
+NIM,,'',,,1,0,0,1
+NTP,,'',,'',2,0,0,2
+NTP server,,'',,'',2,0,0,2
+NTSC,,'',,'',2,0,0,2
+Name,,'',,'',2,0,0,2
+Name:,,'',,'',2,0,0,2
+Nameserver,,'',,'',2,0,0,2
+Nameserver %d,,'',,'',2,0,0,2
+Nameserver settings,,'',,'',2,0,0,2
+Namespace,,'',,'',2,0,0,2
+Netmask,,'',,'',2,0,0,2
+Netmask:,,'',,'',2,0,0,2
+Network,,'',,'',2,0,0,2
+Network ID,,'',,'',2,0,0,2
+Network Information,,'',,,1,0,0,1
+Network MAC settings,,'',,'',2,0,0,2
+Network Servers:,,'',,,1,0,0,1
+Network Setup,,'',,'',2,0,0,2
+Network Test,,'',,'',2,0,0,2
+Network mounts,,'',,'',2,0,0,2
+Network name (SSID),,'',,'',2,0,0,2
+Network scan,,'',,'',2,0,0,2
+Network setup,,'',,,1,0,0,1
+Network test,,'',,'',2,0,0,2
+Network test: ,,'',,,1,0,0,1
+Network wizard,,'',,'',2,0,0,2
+Network:,,'',,'',2,0,0,2
+New,,'',,'',2,0,0,2
+New PIN,,'',,,1,0,0,1
+New profile: ,,'',,'',2,0,0,2
+New timers location,,'',,'',2,0,0,2
+New version:,,'',,'',2,0,0,2
+News Current Affairs,,'',,,1,0,0,1
+Next,,'',,'',2,0,0,2
+No,,'',,'',2,0,0,2
+No (supported) DVDROM found!,,'',,'',2,0,0,2
+No Connection,,'',,'',2,0,0,2
+No HDD found or HDD not initialized!,,No HDD found or HDD not initialised!,,No HDD found or HDD not initialised!,2,1,1,0
+No Timeshift found to save as recording!,,'',,'',2,0,0,2
+No backup needed,,'',,'',2,0,0,2
+No cable tuner found!,,'',,,1,0,0,1
+No card inserted!,,'',,'',2,0,0,2
+No data on transponder!\n(Timeout reading PAT),,'',,'',2,0,0,2
+No delay,,'',,'',2,0,0,2
+No description available.,,'',,'',2,0,0,2
+No details for this image file,,'',,,1,0,0,1
+No displayable files on this medium found!,,'',,'',2,0,0,2
+"No event info found, recording indefinitely.",,'',,'',2,0,0,2
+No fast winding possible yet.. but you can use the number buttons to skip forward/backward!,,'',,'',2,0,0,2
+No free index available,,'',,'',2,0,0,2
+No free tuner!,,'',,'',2,0,0,2
+No httpport defined in oscam.conf. This value is required!,,'',,,1,0,0,1
+No httppwd defined in oscam.conf,,'',,,1,0,0,1
+No httpuser defined in oscam.conf,,'',,,1,0,0,1
+No network connection available.,,'',,'',2,0,0,2
+No networks found,,'',,'',2,0,0,2
+No new plugins found,,'',,,1,0,0,1
+No of items switch (increase or reduced),,'',,'',2,0,0,2
+No positioner capable frontend found.,,'',,'',2,0,0,2
+No satellites configured. Plese check your tuner setup.,,No satellites configured. Please check your tuner setup.,,,1,1,0,0
+No service,,'',,'',2,0,0,2
+No services/providers selected,,'',,'',2,0,0,2
+No standby,,'',,'',2,0,0,2
+No suitable sat tuner found!,,'',,,1,0,0,1
+No tags are set on these movies.,,'',,'',2,0,0,2
+No timeout,,'',,'',2,0,0,2
+No to all,,'',,'',2,0,0,2
+No transparency,,'',,'',2,0,0,2
+No tuner is configured for use with a diseqc positioner!,,'',,'',2,0,0,2
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,,'',,'',2,0,0,2
+No updates available. Please try again later.,,'',,,1,0,0,1
+No valid service PIN found!\nDo you like to change the service PIN now?\nWhen you say 'No' here the service protection stay disabled!,,'',,,1,0,0,1
+No valid setup PIN found!\nDo you like to change the setup PIN now?\nWhen you say 'No' here the setup protection stay disabled!,,'',,,1,0,0,1
+No wireless networks found! Searching...,,'',,'',2,0,0,2
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,'',,'',2,0,0,2
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,'',,'',2,0,0,2
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,'',,'',2,0,0,2
+"No, but restart from begin",,'',,,1,0,0,1
+"No, do nothing.",,'',,'',2,0,0,2
+"No, just start my %s %s",,'',,'',2,0,0,2
+"No, never",,'',,'',2,0,0,2
+"No, scan later manually",,'',,'',2,0,0,2
+NodeID,,'',,'',2,0,0,2
+NodeID: ,,'',,'',2,0,0,2
+None,,'',,'',2,0,0,2
+North,,'',,'',2,0,0,2
+Norwegian,,'',,'',2,0,0,2
+Not Flashing,,'',,'',2,0,0,2
+Not Shown,,'',,'',2,0,0,2
+Not associated,,'',,'',2,0,0,2
+"Not enough disk space. Please free up some disk space and try again. (%d MB required, %d MB available)",,'',,'',2,0,0,2
+Not enough free Diskspace!\n\nFilesize: %sMB\nFree Space: %sMB\nPath: %s,,Not enough free Disk space!\n\nFile size: %sMB\nFree Space: %sMB\nPath: %s,,'',2,1,0,1
+Not mounted,,'',,,1,0,0,1
+Not-Associated,,'',,'',2,0,0,2
+Nothing,,'',,'',2,0,0,2
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,,'',,'',2,0,0,2
+Nothing to upgrade,,'',,'',2,0,0,2
+"Nothing, just leave this menu",,'',,'',2,0,0,2
+Now,,'',,'',2,0,0,2
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,'',,'',2,0,0,2
+Number,,'',,'',2,0,0,2
+Number of rows,,'',,'',2,0,0,2
+OE Changes,,'',,,1,0,0,1
+OK,,'',,'',2,0,0,2
+OK button (long),,'',,'',2,0,0,2
+OK button (short),,'',,'',2,0,0,2
+"OK, guide me through the upgrade process",,'',,'',2,0,0,2
+ONID,,'',,'',2,0,0,2
+OSD 3D Setup,,'',,'',2,0,0,2
+OSD name request,,'',,'',2,0,0,2
+OSD settings,,'',,,1,0,0,1
+OScam Info,,'',,'',2,0,0,2
+OScam info,,'',,'',2,0,0,2
+Off,,'',,'',2,0,0,2
+Offline decode delay (ms),,'',,'',2,0,0,2
+On,,'',,'',2,0,0,2
+On end of movie,,'',,'',2,0,0,2
+"On reaching the end of a file during playback, you can choose the box's behavior.",,'',,,1,0,0,1
+Once per day,,'',,'',2,0,0,2
+One,,'',,'',2,0,0,2
+One line,,'',,'',2,0,0,2
+OnlineVersionCheck,,'',,'',2,0,0,2
+Only active when in standby,,'',,'',2,0,0,2
+Only extensions.,,'',,'',2,0,0,2
+Only free scan,,'',,'',2,0,0,2
+Open satellites list,,'',,,1,0,0,1
+Open service list,,'',,,1,0,0,1
+Open service list and select next channel,,'',,,1,0,0,1
+Open service list and select previous channel,,'',,,1,0,0,1
+Open the movie list,,'',,'',2,0,0,2
+OpenVPN setup,,'',,,1,0,0,1
+OpenVpn Log,,'',,,1,0,0,1
+OpenVpn Setup,,'',,'',2,0,0,2
+Orbital position,,'',,'',2,0,0,2
+Original,,'',,'',2,0,0,2
+Oscam Info - Configuration,,'',,'',2,0,0,2
+Oscam Info - Main Menu,,'',,'',2,0,0,2
+Other,,'',,'',2,0,0,2
+Output,,'',,'',2,0,0,2
+Overwrite configuration files during software upgrade?,,'',,'',2,0,0,2
+Overwrite configuration files?,,'',,'',2,0,0,2
+PAGE UP/DOWN,,'',,'',2,0,0,2
+PAL,,'',,'',2,0,0,2
+PCR PID,,'',,'',2,0,0,2
+PIDs,,'',,,1,0,0,1
+PLP ID,,'',,'',2,0,0,2
+PMT PID,,'',,'',2,0,0,2
+PRIMETIME,,'',,'',2,0,0,2
+Package list update,,'',,'',2,0,0,2
+Packages,,'',,'',2,0,0,2
+Packet management,,'',,'',2,0,0,2
+Packet manager,,'',,'',2,0,0,2
+Page down,,'',,'',2,0,0,2
+Page right,,'',,'',2,0,0,2
+Page up,,'',,'',2,0,0,2
+Pan&scan,,'',,'',2,0,0,2
+Parent directory,,'',,'',2,0,0,2
+Parental control,,'',,'',2,0,0,2
+Parental control editor,,'',,,1,0,0,1
+Parental control setup,,'',,,1,0,0,1
+Parental control type,,'',,,1,0,0,1
+Password,,'',,'',2,0,0,2
+Password (httpwd),,'',,'',2,0,0,2
+Password:,,'',,'',2,0,0,2
+Pause,,'',,'',2,0,0,2
+Pause movie at end,,'',,'',2,0,0,2
+Pause playback,,'',,'',2,0,0,2
+Peak load (max queued requests per workerthread),,Peak load (max queued requests per worker thread),,'',2,1,0,1
+Percentage,,'',,'',2,0,0,2
+Percentage left,,'',,'',2,0,0,2
+Percentage right,,'',,'',2,0,0,2
+Perform a complete image backup before updating.,,'',,'',2,0,0,2
+Perform a full image backup,,'',,'',2,0,0,2
+Perform a settings backup before updating.,,'',,'',2,0,0,2
+"Perform a settings backup,",,'',,'',2,0,0,2
+"Perform a settings backup, making a backup before updating is strongly advised.",,'',,'',2,0,0,2
+Perform an online update check in the background,,'',,'',2,0,0,2
+Permanently delete all recordings in the trash can?,Are you sure you want to permanently delete all recordings in the trash?,'',,'',3,1,0,2
+Permanently remove all deleted items,,'',,'',2,0,0,2
+Persian,,'',,'',2,0,0,2
+Phone number,,'',,,1,0,0,1
+PiP,,'',,'',2,0,0,2
+Picon,,'',,'',2,0,0,2
+Picon and Service Name,,'',,'',2,0,0,2
+Picon width,,'',,'',2,0,0,2
+Picture in graphics,,'',,'',2,0,0,2
+Picture player,,'',,'',2,0,0,2
+Pillarbox,,'',,'',2,0,0,2
+Pilot,,'',,'',2,0,0,2
+Play,,'',,'',2,0,0,2
+Play Audio-CD...,,'',,'',2,0,0,2
+Play DVD,,'',,'',2,0,0,2
+Play Music...,,'',,'',2,0,0,2
+Play audio in background,,'',,'',2,0,0,2
+Play audio-CD...,,'',,'',2,0,0,2
+Play back media files,,'',,'',2,0,0,2
+Play entry,,'',,'',2,0,0,2
+Play from next mark or playlist entry,,'',,'',2,0,0,2
+Play from previous mark or playlist entry,,'',,'',2,0,0,2
+Play music...,,Play Music…,,'',2,1,0,1
+Play next,,'',,'',2,0,0,2
+Play next (return to movie list),,'',,'',2,0,0,2
+Play next (return to previous service),,'',,'',2,0,0,2
+Play previous,,'',,'',2,0,0,2
+Play recorded movies...,,'',,'',2,0,0,2
+Please add titles to the compilation.,,'',,'',2,0,0,2
+Please change recording endtime,,Please change recording end time,,,1,1,0,0
+Please check your network settings!,,'',,,1,0,0,1
+Please choose CCcam-Reader,,'',,,1,0,0,1
+Please choose an extension...,,'',,'',2,0,0,2
+Please choose reader,,'',,'',2,0,0,2
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,Please configure or verify your Name servers by filling out the required values.\nWhen you are ready press OK to continue.,,'',2,1,0,1
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,'',,'',2,0,0,2
+Please connect your receiver to the internet,,'',,'',2,0,0,2
+Please do not change any values unless you know what you are doing!,,'',,'',2,0,0,2
+Please enter a name for the new bouquet,,'',,'',2,0,0,2
+Please enter a name for the new marker,,'',,'',2,0,0,2
+Please enter a new filename,,'',,'',2,0,0,2
+Please enter filename (empty = use current date),,'',,'',2,0,0,2
+Please enter name of the new directory,,'',,,1,0,0,1
+Please enter new name:,,'',,'',2,0,0,2
+Please enter the correct pin code,,'',,'',2,0,0,2
+Please enter the old PIN code,,'',,'',2,0,0,2
+Please follow the instructions on the TV,,'',,'',2,0,0,2
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,,'',,'',2,0,0,2
+Please press OK to continue.,,'',,'',2,0,0,2
+Please select a default EPG type...,,Please select a default EPG type…,,,1,1,0,0
+Please select a playlist to delete...,,'',,'',2,0,0,2
+Please select a playlist...,,'',,'',2,0,0,2
+Please select a sub service...,,Please select a sub service…,,'',2,1,0,1
+Please select a subservice to record...,,'',,'',2,0,0,2
+Please select a subservice...,,'',,'',2,0,0,2
+Please select an NFI file and press green key to flash!,,'',,,1,0,0,1
+Please select medium to be scanned,,'',,'',2,0,0,2
+Please select medium to use as backup location,,'',,'',2,0,0,2
+Please select tag to filter...,,'',,,1,0,0,1
+Please select the movie path...,,'',,'',2,0,0,2
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,'',,'',2,0,0,2
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,'',,'',2,0,0,2
+Please set up tuner A,,'',,'',2,0,0,2
+Please set up tuner B,,'',,'',2,0,0,2
+Please set up tuner C,,'',,'',2,0,0,2
+Please set up tuner D,,'',,'',2,0,0,2
+Please setup your user interface by adjusting the values till the edges of the blue box are touching the edges of your TV.\nWhen you are ready press OK to continue.,,'',,,1,0,0,1
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,'',,,1,0,0,1
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,,'',,,1,0,0,1
+Please wait (downloading channel list),,'',,'',2,0,0,2
+Please wait (updating packages),,'',,'',2,0,0,2
+Please wait for activation of your network configuration...,,'',,,1,0,0,1
+Please wait while gathering data...,,'',,,1,0,0,1
+Please wait while scanning is in progress...,,'',,'',2,0,0,2
+Please wait while we configure your network...,,'',,'',2,0,0,2
+Please wait while we prepare your network interfaces...,,'',,'',2,0,0,2
+Please wait while we test your network...,,'',,'',2,0,0,2
+Please wait while your network is restarting...,,'',,,1,0,0,1
+Please wait whilst feeds state is checked.,,'',,,1,0,0,1
+Please wait...,,'',,'',2,0,0,2
+Please wait... Loading list...,,'',,'',2,0,0,2
+Plugin Browser,,'',,'',2,0,0,2
+Plugin details,,'',,'',2,0,0,2
+Plugin manager activity information,,'',,'',2,0,0,2
+Plugin manager help,,'',,'',2,0,0,2
+Plugins,,'',,'',2,0,0,2
+Polarisation,,'',,'',2,0,0,2
+Polarization,Polarisation,Polarisation,,'',3,1,1,1
+Polish,,'',,'',2,0,0,2
+Port,,'',,'',2,0,0,2
+Port A,,'',,'',2,0,0,2
+Port B,,'',,'',2,0,0,2
+Port C,,'',,'',2,0,0,2
+Port D,,'',,'',2,0,0,2
+Port:,,'',,'',2,0,0,2
+Portuguese,,'',,'',2,0,0,2
+Position Setup,,'',,,1,0,0,1
+Position of finished Timers in the Timer list,,'',,,1,0,0,1
+Position setup,,'',,,1,0,0,1
+Position stored at index,,'',,'',2,0,0,2
+Positioner,,'',,'',2,0,0,2
+Positioner setup,,'',,'',2,0,0,2
+Power threshold in mA,,'',,'',2,0,0,2
+PowerManager entry,,'',,,1,0,0,1
+PowerManager log,,'',,,1,0,0,1
+PowerTimer List,,'',,,1,0,0,1
+PowerTimer Overview,,'',,,1,0,0,1
+PowerTimers,,'',,,1,0,0,1
+Predefined,,'',,'',2,0,0,2
+Predefined transponder,,'',,'',2,0,0,2
+Prefer AC3 track,,'',,'',2,0,0,2
+Prefer audio track stored by service,,'',,'',2,0,0,2
+Prefer graphical DVB subtitles,,'',,'',2,0,0,2
+Prefer subtitles for hearing impaired,,'',,'',2,0,0,2
+Prefer subtitles stored by service,,'',,'',2,0,0,2
+Preferred tuner,,'',,'',2,0,0,2
+Prepare another USB stick for image flashing,,'',,,1,0,0,1
+Preparing... Please wait,,'',,'',2,0,0,2
+Press '0' to toggle internal/external PiP.,,'',,,1,0,0,1
+Press INFO on your remote control for additional information.,,'',,'',2,0,0,2
+Press MENU on your remote control for additional options.,,'',,'',2,0,0,2
+Press OK on your remote control to continue.,,'',,'',2,0,0,2
+Press OK to activate the selected skin.,,'',,,1,0,0,1
+Press OK to activate the settings.,,'',,'',2,0,0,2
+Press OK to edit the settings.,,'',,'',2,0,0,2
+Press OK to get further details for %s,,'',,'',2,0,0,2
+Press OK to scan,,'',,'',2,0,0,2
+Press OK to select a provider.,,'',,'',2,0,0,2
+Press OK to select/deselect a CAId.,,'',,'',2,0,0,2
+Press OK to set the MAC-address.,,'',,,1,0,0,1
+Press OK to start the scan,,'',,,1,0,0,1
+Press OK to toggle the selection.,,'',,'',2,0,0,2
+Press yellow to set this interface as default interface.,,Press yellow to set this interface as the default interface.,,,1,1,0,0
+Preview,,'',,'',2,0,0,2
+Preview menu,,'',,'',2,0,0,2
+Primary DNS,,'',,'',2,0,0,2
+Primetime hour,,'',,,1,0,0,1
+Primetime minute,,'',,,1,0,0,1
+Priority,,'',,'',2,0,0,2
+Process,,'',,'',2,0,0,2
+Profile,,'',,'',2,0,0,2
+Profile: Local box,,'',,'',2,0,0,2
+Progress,,'',,'',2,0,0,2
+Progress bar left,,'',,'',2,0,0,2
+Progress bar right,,'',,'',2,0,0,2
+Properties of current title,,'',,'',2,0,0,2
+Protect services,,'',,'',2,0,0,2
+Protect setup,,'',,,1,0,0,1
+Protocol,,'',,'',2,0,0,2
+Protocol:,,'',,'',2,0,0,2
+Provider,,'',,'',2,0,0,2
+Provider Name: ,,'',,'',2,0,0,2
+Provider to scan,,'',,,1,0,0,1
+Provider: ,,'',,'',2,0,0,2
+Providers,,'',,'',2,0,0,2
+Providers:,,'',,'',2,0,0,2
+Providers: ,,'',,'',2,0,0,2
+Put TV in standby,,'',,'',2,0,0,2
+Put your %s %s in standby,,'',,'',2,0,0,2
+Python frontend for /tmp/mmi.socket,,'',,'',2,0,0,2
+Quick,,'',,'',2,0,0,2
+Quick zap,,'',,'',2,0,0,2
+Quit Movie Player with EXIT button,,'',,'',2,0,0,2
+RAM,,'',,'',2,0,0,2
+RF output,,'',,,1,0,0,1
+RGB,,'',,'',2,0,0,2
+Random,,'',,'',2,0,0,2
+Rating defined by broadcaster - %d,,'',,'',2,0,0,2
+Rating undefined,,'',,'',2,0,0,2
+Read Userdata from oscam.conf,,Read User data from oscam.conf,,,1,1,0,0
+Reader,,'',,'',2,0,0,2
+Reader Statistics,,'',,'',2,0,0,2
+"Ready to install \""%s\"" ?",,'',,'',2,0,0,2
+"Ready to remove \""%s\"" ?",,'',,'',2,0,0,2
+Really close without saving settings?,,'',,'',2,0,0,2
+Really delete done timers?,,Really delete completed timers?,,,1,1,0,0
+Really exit the subservices quickzap?,,Really exit the sub-services quick-zap?,,'',2,1,0,1
+Really reboot now?,,'',,'',2,0,0,2
+Really reflash your %s %s and reboot now?,,'',,'',2,0,0,2
+Really restart now?,,'',,'',2,0,0,2
+Really shutdown now?,,'',,'',2,0,0,2
+Really upgrade the frontprocessor and reboot now?,,Really upgrade the front-processor and reboot now?,,'',2,1,0,1
+Really upgrade your %s %s and reboot now?,,'',,'',2,0,0,2
+Reboot,,'',,'',2,0,0,2
+Record,,'',,'',2,0,0,2
+Record next,,'',,'',2,0,0,2
+Record now,,'',,'',2,0,0,2
+Record started! Stopping timeshift now ...,,'',,'',2,0,0,2
+Record time limited due to conflicting timer %s,,'',,'',2,0,0,2
+Recording,,'',,'',2,0,0,2
+Recording in progress,,'',,'',2,0,0,2
+Recording settings,,'',,,1,0,0,1
+Recording type,,'',,'',2,0,0,2
+Recording(s) are in progress or coming up in few seconds!,,'',,'',2,0,0,2
+Recordings,,'',,'',2,0,0,2
+Recordings always have priority,Prioritise recordings,'',,'',3,1,0,2
+Red,,'',,'',2,0,0,2
+Red button...,,'',,'',2,0,0,2
+Reduce time scale,,'',,'',2,0,0,2
+Reenter new PIN,,'',,,1,0,0,1
+Reflash in progress\nPlease wait until your %s %s reboots\nThis may take a few minutes,,'',,'',2,0,0,2
+Refresh every (in hours),,'',,'',2,0,0,2
+Refresh rate,,'',,'',2,0,0,2
+Refresh rate selection.,,'',,'',2,0,0,2
+Regard deep standby as standby,,'',,'',2,0,0,2
+Relative,,'',,'',2,0,0,2
+Reload,,'',,'',2,0,0,2
+Reload black-/white lists,,'',,,1,0,0,1
+Reloading EPG Cache...,,'',,'',2,0,0,2
+Reloading bouquets and services...,,'',,'',2,0,0,2
+Remaining,,'',,'',2,0,0,2
+Remaining & Elapsed,,'',,'',2,0,0,2
+Remember service PIN,,'',,'',2,0,0,2
+Remote box,,'',,'',2,0,0,2
+Remote control type,,'',,'',2,0,0,2
+Remove,,'',,'',2,0,0,2
+Remove Confirmation,,'',,'',2,0,0,2
+Remove Service,,'',,'',2,0,0,2
+Remove a mark,,'',,'',2,0,0,2
+Remove a nameserver entry,,'',,'',2,0,0,2
+Remove bookmark,,'',,'',2,0,0,2
+Remove completed timers after (days),,'',,,1,0,0,1
+Remove currently selected title,,'',,'',2,0,0,2
+Remove finished.,,'',,'',2,0,0,2
+Remove items from trash can after (days),Remove items from trash after X days,'',,'',3,1,0,2
+Remove plugins,,'',,'',2,0,0,2
+Remove timer,,'',,'',2,0,0,2
+Remove title,,'',,'',2,0,0,2
+Removing,,'',,'',2,0,0,2
+Removing Service,,'',,'',2,0,0,2
+Removing directory %s failed. (Maybe not empty.),,'',,'',2,0,0,2
+Removing partition table,,'',,,1,0,0,1
+Rename,,'',,'',2,0,0,2
+Rename failed!,,'',,'',2,0,0,2
+Rename to:,,'',,'',2,0,0,2
+Renamed %s!,,'',,'',2,0,0,2
+Repeat,,'',,'',2,0,0,2
+Repeat Display Message,,'',,'',2,0,0,2
+Repeat type,,'',,'',2,0,0,2
+Repeating event currently recording... What do you want to do?,,'',,'',2,0,0,2
+Repeats,,'',,'',2,0,0,2
+Required medium type:,,'',,'',2,0,0,2
+Rereading partition table,,'',,,1,0,0,1
+Reserved,,'',,'',2,0,0,2
+Reset,,'',,'',2,0,0,2
+Reset and renumerate title names,,Reset and enumerate title names,,'',2,1,0,1
+Reset playback position,,'',,'',2,0,0,2
+Reset video enhancement settings to system defaults?,,'',,'',2,0,0,2
+Reset video enhancement settings to your last configuration?,,'',,'',2,0,0,2
+Reshare:,,'',,'',2,0,0,2
+Resolution,,'',,'',2,0,0,2
+Restart,,'',,'',2,0,0,2
+Restart GUI,,'',,'',2,0,0,2
+Restart GUI now?,,'',,'',2,0,0,2
+Restart enigma,,'',,,1,0,0,1
+Restart network,,'',,'',2,0,0,2
+Restart test,,'',,'',2,0,0,2
+Restart your network connection and interfaces.\n,,'',,'',2,0,0,2
+Restore,,'',,'',2,0,0,2
+Restore backups,,'',,'',2,0,0,2
+Restore is running...,,'',,,1,0,0,1
+Restore system settings,,'',,'',2,0,0,2
+Restoring...,,'',,'',2,0,0,2
+Resume from last position,,'',,'',2,0,0,2
+Resume position at %s,,'',,'',2,0,0,2
+Resuming playback,,'',,'',2,0,0,2
+Return to movie list,,'',,'',2,0,0,2
+Return to previous service,,'',,'',2,0,0,2
+Reverse bouquet buttons,,'',,'',2,0,0,2
+Rewind speeds,,'',,'',2,0,0,2
+Rewrap teletext subtitles,,'',,,1,0,0,1
+Right,,'',,'',2,0,0,2
+Right from servicename,,'',,'',2,0,0,2
+Roll-off,,'',,'',2,0,0,2
+Romanian,,'',,'',2,0,0,2
+Root directory,,'',,'',2,0,0,2
+Rotor step position:,,'',,'',2,0,0,2
+Rotor turning speed,,'',,'',2,0,0,2
+Run how often ?,,'',,'',2,0,0,2
+Running,,'',,'',2,0,0,2
+Russian,,'',,'',2,0,0,2
+S-Video,,'',,'',2,0,0,2
+SABnzbd Setup,,'',,'',2,0,0,2
+SABnzbd setup,,'',,,1,0,0,1
+SID,,'',,,1,0,0,1
+SINGLE LAYER DVD,,'',,'',2,0,0,2
+SPDIF,,'',,'',2,0,0,2
+SSID:,,'',,'',2,0,0,2
+Samba Log,,'',,,1,0,0,1
+Samba Setup,,'',,'',2,0,0,2
+Samba setup,,'',,,1,0,0,1
+Same resolution as skin,,'',,'',2,0,0,2
+Sat,,'',,'',2,0,0,2
+Satellite,,'',,'',2,0,0,2
+Satellite dish setup,,'',,,1,0,0,1
+Satellite equipment,,'',,'',2,0,0,2
+Satellite equipment setup,,'',,'',2,0,0,2
+Satellite longitude:,,'',,'',2,0,0,2
+Satellites,,'',,'',2,0,0,2
+Satfinder,,Sat finder,,,1,1,0,0
+Sats,,'',,'',2,0,0,2
+Saturation,,'',,'',2,0,0,2
+Saturday,,'',,'',2,0,0,2
+Save,,'',,'',2,0,0,2
+Save EPG,,'',,'',2,0,0,2
+Save and record,,'',,'',2,0,0,2
+Save and stop,,'',,'',2,0,0,2
+Save every (in hours),,'',,'',2,0,0,2
+Save playlist,,'',,'',2,0,0,2
+Save timeshift as movie and continue recording,,'',,'',2,0,0,2
+Save timeshift as movie and stop recording,,'',,'',2,0,0,2
+Saving EPG Cache...,,'',,'',2,0,0,2
+Saving Timeshift files,,'',,'',2,0,0,2
+Saving timeshift as movie now. This might take a while!,,'',,'',2,0,0,2
+Scaler sharpness,,'',,'',2,0,0,2
+Scaling mode,,'',,'',2,0,0,2
+Scan,,'',,'',2,0,0,2
+Scan ,,'',,'',2,0,0,2
+Scan %s,,'',,'',2,0,0,2
+Scan %s band,,'',,'',2,0,0,2
+Scan additional SR,,'',,'',2,0,0,2
+Scan files...,,'',,'',2,0,0,2
+Scan wireless networks,,'',,'',2,0,0,2
+Scan your network for wireless access points and connect to them using your selected wireless device.\n,,'',,'',2,0,0,2
+Scanning %s...,,'',,'',2,0,0,2
+Scanning failed!,,'',,'',2,0,0,2
+Scanning...,,'',,'',2,0,0,2
+Scans default lamedbs sorted by satellite with a connected dish positioner,,'',,'',2,0,0,2
+Scrolling Speed,,'',,'',2,0,0,2
+Scrolling Speed (software render),,'',,'',2,0,0,2
+Scrolling delay (software render),,'',,'',2,0,0,2
+Search,,'',,'',2,0,0,2
+Search IMDb for information about current event.,,'',,,1,0,0,1
+Search east,,'',,'',2,0,0,2
+Search for similar events,,'',,'',2,0,0,2
+Search the epg for current event.,,'',,,1,0,0,1
+Search west,,'',,'',2,0,0,2
+Searching,,'',,'',2,0,0,2
+Searching east ...,,'',,'',2,0,0,2
+Searching for available updates. Please wait...,,'',,'',2,0,0,2
+Searching for new installed or removed packages. Please wait...,,'',,'',2,0,0,2
+Searching west ...,,'',,'',2,0,0,2
+Secondary DNS,,'',,'',2,0,0,2
+Seek,,'',,'',2,0,0,2
+Seek backward,,'',,'',2,0,0,2
+Seek backward (enter time),,'',,'',2,0,0,2
+Seek forward,,'',,'',2,0,0,2
+Seek forward (enter time),,'',,'',2,0,0,2
+Seekbar activation,,'',,'',2,0,0,2
+Seekbar sensibility,,'',,'',2,0,0,2
+Select,,'',,'',2,0,0,2
+Select CAId,,'',,'',2,0,0,2
+Select a wireless network,,'',,'',2,0,0,2
+Select action for timer %s:,,'',,'',2,0,0,2
+Select an image to be downloaded,,'',,,1,0,0,1
+Select audio track,,'',,'',2,0,0,2
+Select backup files,,'',,'',2,0,0,2
+Select backup location,,'',,'',2,0,0,2
+Select channel to record from,,'',,'',2,0,0,2
+Select copy destination for:,,'',,'',2,0,0,2
+Select default EPG type...,,Select default EPG type…,,,1,1,0,0
+Select desired image from feed list,,'',,,1,0,0,1
+Select destination for:,,'',,'',2,0,0,2
+Select files for backup.,,'',,'',2,0,0,2
+Select files/folders to backup,,'',,'',2,0,0,2
+Select folders,,'',,,1,0,0,1
+Select how to activate the Quick EPG mode:,,'',,,1,0,0,1
+Select if timeshift should continue when set to record.,,'',,'',2,0,0,2
+Select if you want the Subservice mode to be activated.,,'',,,1,0,0,1
+Select if you want to use the ViX colored buttons (set to 'no' if you want to use (Multi Quick Button).,,Select if you want to use the ViX coloured buttons. Set to 'no' if you want to use (Multi Quick Button).,,,1,1,0,0
+Select input device,,'',,,1,0,0,1
+Select input device.,,'',,'',2,0,0,2
+Select interface,,'',,'',2,0,0,2
+Select location,,'',,'',2,0,0,2
+Select movie,,'',,'',2,0,0,2
+Select provider to add...,,'',,'',2,0,0,2
+Select refresh rate,,'',,'',2,0,0,2
+Select seekbar to be activated by arrow L/R (long) or << >> (long).,,'',,'',2,0,0,2
+Select service to add...,,'',,'',2,0,0,2
+Select target folder,,'',,'',2,0,0,2
+Select the movie path,,'',,'',2,0,0,2
+Select upgrade source,,'',,'',2,0,0,2
+Select upgrade source to edit.,,'',,'',2,0,0,2
+Select video input with up/down buttons,,'',,'',2,0,0,2
+Select video mode,,'',,'',2,0,0,2
+Select what you want the Channel +/- buttons to activate.,,'',,,1,0,0,1
+Select what you want the TV button to activate.,,'',,,1,0,0,1
+Select wireless network,,'',,'',2,0,0,2
+"Select your provider, and press OK to start the scan",,'',,'',2,0,0,2
+Send,,'',,'',2,0,0,2
+Send Confirmation,,'',,'',2,0,0,2
+Send DiSEqC,,'',,'',2,0,0,2
+Send DiSEqC only on satellite change,,'',,'',2,0,0,2
+Send yourself a copy,,'',,'',2,0,0,2
+Seperate titles with a main menu,,Separate titles with a main menu,,'',2,1,0,1
+Sequence repeat,,'',,'',2,0,0,2
+Serbian,,'',,'',2,0,0,2
+Serial No,,'',,'',2,0,0,2
+Serv.Name,,'',,'',2,0,0,2
+Server:,,'',,'',2,0,0,2
+Servers,,'',,'',2,0,0,2
+Servers:,,'',,'',2,0,0,2
+Service,,'',,'',2,0,0,2
+Service Information,,'',,,1,0,0,1
+Service Name,,'',,'',2,0,0,2
+Service Title mode,,'',,'',2,0,0,2
+Service font size,,'',,'',2,0,0,2
+Service has been added to the favourites.,Channel has been added to favourites.,'',,,2,1,0,1
+Service has been added to the selected bouquet.,,'',,,1,0,0,1
+Service info font size,,'',,'',2,0,0,2
+Service invalid!\n(Timeout reading PMT),,'',,'',2,0,0,2
+Service name font size,,'',,'',2,0,0,2
+Service not found!\n(SID not found in PAT),,'',,'',2,0,0,2
+Service number font size,,'',,'',2,0,0,2
+Service reference,,'',,'',2,0,0,2
+Service scan,,'',,'',2,0,0,2
+Service searching,,'',,,1,0,0,1
+Service unavailable!\nCheck tuner configuration!,,'',,'',2,0,0,2
+Service width,,'',,'',2,0,0,2
+Services,,'',,'',2,0,0,2
+"Services may be grouped in bouquets. When enabled, you can use more than one bouquet.",,'',,'',2,0,0,2
+Set System,,'',,,1,0,0,1
+Set end time,,'',,'',2,0,0,2
+Set fixed,,'',,'',2,0,0,2
+Set fps for external subtitles,,'',,'',2,0,0,2
+Set interface as default Interface,,'',,,1,0,0,1
+Set limits,,'',,'',2,0,0,2
+Set the MAC-address of your %s %s.\n,,'',,,1,0,0,1
+Set the channel for this timer.,,'',,'',2,0,0,2
+Set the date the timer must start.,,'',,'',2,0,0,2
+"Set the default location for your instant recordings. Press 'OK' to add new locations, select left/right to select an existing location.",,'',,'',2,0,0,2
+"Set the default location for your recordings. Press 'OK' to add new locations, select left/right to select an existing location.",,'',,'',2,0,0,2
+"Set the default location for your timers. Press 'OK' to add new locations, select left/right to select an existing location.",,'',,'',2,0,0,2
+"Set the default location for your timeshift-files. Press 'OK' to add new locations, select left/right to select an existing location.",,'',,'',2,0,0,2
+Set the default sorting method.,,'',,'',2,0,0,2
+"Set the delay time between repeated loops, this uses a software render in some skins.",,Set the delay time between repeated loops. This uses a software render in some skins.,,'',2,1,0,1
+Set the description of the recording.,,'',,'',2,0,0,2
+Set the desired primetime (hour).,,'',,,1,0,0,1
+Set the desired primetime (minutes).,,'',,,1,0,0,1
+Set the jump-size of the seekbar.,,'',,'',2,0,0,2
+Set the name the recording will get.,,'',,'',2,0,0,2
+"Set the scrolling speed of text on the front display, this uses a software render in some skins.",,Set the scrolling speed of text on the front display. This uses a software render in some skins.,,'',2,1,0,1
+Set the scrolling speed of text on the front display.,,'',,'',2,0,0,2
+Set the time before checking video source for resolution infomation.,,'',,,1,0,0,1
+Set the time delay before hiding the infobar.,,'',,'',2,0,0,2
+Set the time the timer must start.,,'',,'',2,0,0,2
+Set the time the timer must stop.,,'',,'',2,0,0,2
+Set the type of the progress indication in the channel selection screen.,,'',,'',2,0,0,2
+Set to the desired primetime (hour).,,'',,,1,0,0,1
+Set to the desired primetime (minutes).,,'',,,1,0,0,1
+Set to what you want the button to do.,,'',,'',2,0,0,2
+Set voltage and 22KHz,,'',,'',2,0,0,2
+"Sets the root folder of movie list, to remove the '..' from benign shown in that folder.",,'',,,1,0,0,1
+Settings,,'',,'',2,0,0,2
+Settings...,,'',,,1,0,0,1
+Setup,,'',,'',2,0,0,2
+Setup how to control the channel changing.,,'',,'',2,0,0,2
+Setup menu,,'',,'',2,0,0,2
+Setup mode,,'',,'',2,0,0,2
+Setup network time synchronization interval.,Configure the network time synchronisation interval.,Setup network time synchronisation interval.,,Setup network time synchronisation interval.,3,2,1,0
+Setup the interval (in hours) to check for online updates.,,'',,'',2,0,0,2
+Setup your positioner,,'',,'',2,0,0,2
+Setup your satellite equipment,,'',,'',2,0,0,2
+Setup your timezone.,,'',,,1,0,0,1
+Shall the USB stick wizard proceed and program the image file %s into flash memory?,,Should the USB stick wizard proceed and program the image file %s into flash memory?,,,1,1,0,0
+Share Folder's,,Share Folders,,'',2,1,0,1
+Share View,,'',,'',2,0,0,2
+Shares,,'',,'',2,0,0,2
+Sharpness,,'',,'',2,0,0,2
+Short filenames,,'',,'',2,0,0,2
+Show /tmp/ecm.info,,'',,'',2,0,0,2
+Show 1080p 24fps as,,'',,'',2,0,0,2
+Show 1080p 25fps as,,'',,'',2,0,0,2
+Show 1080p 30fps as,,'',,'',2,0,0,2
+Show 720p 24fps as,,'',,'',2,0,0,2
+Show AutoTimer List,,'',,,1,0,0,1
+Show CCcam Info in extensions?,,'',,'',2,0,0,2
+Show Clients,,'',,'',2,0,0,2
+Show Display Icons,,'',,'',2,0,0,2
+Show E2 Log,,'',,,1,0,0,1
+Show EIT now/next in infobar,,'',,'',2,0,0,2
+Show EPG for current channel...,,'',,,1,0,0,1
+Show Games show,,'',,,1,0,0,1
+Show Log,,'',,'',2,0,0,2
+Show Log Manager in extensions list ?,,Show Log Manager in extensions list ? ?,,'',2,1,0,1
+Show Media playback Remaining/Elapsed as,,'',,'',2,0,0,2
+Show OE Log,,'',,,1,0,0,1
+Show OScam Info in extensions?,,'',,'',2,0,0,2
+Show PVR status in Movie Player infobar,,'',,'',2,0,0,2
+Show RFmod setup...,,'',,'',2,0,0,2
+Show Readers/Proxies,,'',,'',2,0,0,2
+Show SD as,,'',,'',2,0,0,2
+Show Time Remaining/Elapsed,,'',,'',2,0,0,2
+Show Timer List,,'',,,1,0,0,1
+Show Transponder Remaining/Elapsed as,,'',,'',2,0,0,2
+Show VCR scart on main menu,,'',,'',2,0,0,2
+Show ViX spinning logo when the system is busy.,,'',,'',2,0,0,2
+Show WLAN status,,'',,'',2,0,0,2
+Show animation while busy,,'',,'',2,0,0,2
+Show background in Radio mode,,'',,'',2,0,0,2
+Show background when tuned to a radio channel.,,'',,'',2,0,0,2
+Show bouquet on launch,,'',,'',2,0,0,2
+Show channel number in infobar,,'',,'',2,0,0,2
+Show channel numbers in channel selection,,'',,'',2,0,0,2
+Show crypto info in infobar,,'',,'',2,0,0,2
+Show detailed event info,,'',,'',2,0,0,2
+Show encryption info in the infobar (when supported by the skin).,,'',,'',2,0,0,2
+Show epg,,'',,'',2,0,0,2
+Show event details,,'',,'',2,0,0,2
+Show event-progress in channel selection,,'',,'',2,0,0,2
+Show extended description,,'',,'',2,0,0,2
+Show extensions...,,'',,'',2,0,0,2
+Show icon for new/unseen items,,'',,'',2,0,0,2
+Show in extensions list ?,,'',,'',2,0,0,2
+Show info,,'',,'',2,0,0,2
+Show info line,,'',,'',2,0,0,2
+Show infobar on channel change,,'',,'',2,0,0,2
+Show infobar on event change,,'',,'',2,0,0,2
+Show infobar on skip forward/backward,,'',,'',2,0,0,2
+Show job tasks in extensions,,'',,'',2,0,0,2
+Show live tv when movie stopped,,Show live TV when movie is stopped,,'',2,1,0,1
+Show menu,,'',,'',2,0,0,2
+Show message when recording starts,,'',,'',2,0,0,2
+Show movie lengths in movielist,,'',,,1,0,0,1
+Show network mounts ...,,'',,'',2,0,0,2
+"Show or hide the extended description, (skin dependent).",,"Show or hide the extended description, (skin dependant).",,,1,1,0,0
+Show picon background color,,Show picon background colour,,'',2,1,0,1
+Show positioner movement,,'',,'',2,0,0,2
+Show screensaver,,'',,'',2,0,0,2
+Show second infobar,,'',,'',2,0,0,2
+Show service type icons,,'',,'',2,0,0,2
+Show services beginning with,,'',,,1,0,0,1
+Show shutdown menu,,'',,'',2,0,0,2
+Show single epg for current channel,,'',,'',2,0,0,2
+Show source packages,,'',,'',2,0,0,2
+Show status icons in movie list,,'',,'',2,0,0,2
+Show status icons in movielist,,'',,,1,0,0,1
+Show tag menu,,'',,,1,0,0,1
+Show the list of AutoTimers.,,'',,,1,0,0,1
+Show the list of timers.,,'',,'',2,0,0,2
+Show the media player...,,'',,,1,0,0,1
+Show the plugin browser..,,'',,'',2,0,0,2
+Show the radio player...,,'',,'',2,0,0,2
+Show the tv player...,,Show the TV player...,,'',2,1,0,1
+Show time elapsed as positive,,'',,'',2,0,0,2
+Show time remaining/elapsed,,'',,'',2,0,0,2
+Show translation packages,,'',,'',2,0,0,2
+Show transponder remaining/elapsed as,,'',,'',2,0,0,2
+Show warning when timeshift is stopped,,'',,'',2,0,0,2
+"Shows the icons when new/unseen, else will not show an icon.",,'',,,1,0,0,1
+Shows the state of your wireless LAN connection.\n,,'',,'',2,0,0,2
+Shows the watched status of the movie.,,'',,'',2,0,0,2
+Shuffle playlist,,'',,'',2,0,0,2
+Shutdown,,'',,,1,0,0,1
+Side by Side,,'',,'',2,0,0,2
+Side by side,,'',,'',2,0,0,2
+"Signal OK, proceeding",,'',,'',2,0,0,2
+Signal Strength:,,'',,,1,0,0,1
+Signal quality,,'',,'',2,0,0,2
+Signal strength:,,'',,'',2,0,0,2
+Signal: ,,'',,'',2,0,0,2
+Similar,,'',,'',2,0,0,2
+Similar broadcasts:,,'',,'',2,0,0,2
+Simple,,'',,'',2,0,0,2
+Simple titleset (compatibility for legacy players),,'',,'',2,0,0,2
+Single,,'',,'',2,0,0,2
+Single EPG,,'',,'',2,0,0,2
+Single satellite,,'',,'',2,0,0,2
+Single step (GOP),,'',,'',2,0,0,2
+Single transponder,,'',,,1,0,0,1
+SingleEPG settings,,'',,,1,0,0,1
+Site latitude,,'',,'',2,0,0,2
+Site longitude,,'',,'',2,0,0,2
+Size: ,,'',,,1,0,0,1
+Skin Setting,,'',,'',2,0,0,2
+Skin setup,,'',,'',2,0,0,2
+Skins,,'',,'',2,0,0,2
+Skip empty services,,'',,'',2,0,0,2
+Skip internet connection check (disables automatic package installation),,'',,'',2,0,0,2
+Sleep delay,,'',,'',2,0,0,2
+Slide picture in loop,,'',,'',2,0,0,2
+Slide show interval (sec.),,'',,'',2,0,0,2
+Slot %d,,'',,'',2,0,0,2
+Slovak,,'',,'',2,0,0,2
+Slovenian,,'',,'',2,0,0,2
+Slow,,'',,'',2,0,0,2
+Slow motion speeds,,'',,'',2,0,0,2
+Small progress,,'',,'',2,0,0,2
+Social/Political/Economics,,'',,'',2,0,0,2
+SoftCam / CI,,'',,,1,0,0,1
+Softcam setings,,Softcam settings,,,1,1,0,0
+Softcam settings,,'',,'',2,0,0,2
+SoftcamCheck,,'',,'',2,0,0,2
+Software,,'',,'',2,0,0,2
+Software Update,,'',,,1,0,0,1
+Software management,,'',,'',2,0,0,2
+Software manager setup,,'',,'',2,0,0,2
+Software restore,,'',,'',2,0,0,2
+Software update,,'',,'',2,0,0,2
+Software update settings,,'',,'',2,0,0,2
+Softwaremanager information,,Software manager information,,'',2,1,0,1
+Some plugins are not available:\n,,'',,'',2,0,0,2
+Sorry Inadyn Config is Missing,,'',,,1,0,0,1
+Sorry MiniDLNA Config is Missing,,'',,,1,0,0,1
+Sorry feeds are down for maintenance,,'',,,1,0,0,1
+"Sorry feeds are down for maintenance, please try again later.",,'',,,1,0,0,1
+"Sorry feeds seem be in an unstable state, if you wish to use them please enable 'Allow unstable updates' in \""software update setup\"".",,'',,,1,0,0,1
+Sorry uShare Config is Missing,,'',,,1,0,0,1
+"Sorry, %s has not been installed!",,'',,'',2,0,0,2
+"Sorry, no backups found!",,'',,'',2,0,0,2
+"Sorry, no details available!",,'',,'',2,0,0,2
+"Sorry, your backup destination is not writeable.\nPlease select a different one.",,'',,'',2,0,0,2
+Sort,,'',,'',2,0,0,2
+Sort EPG List,,'',,,1,0,0,1
+Sort list by,,'',,'',2,0,0,2
+Sort menu screens alphabetically,,'',,'',2,0,0,2
+Sort plug-in browser alphabetically,,'',,'',2,0,0,2
+Sort setting screens alphabetically,,'',,'',2,0,0,2
+Sound,,'',,'',2,0,0,2
+Sound carrier,,'',,'',2,0,0,2
+Source request,,'',,'',2,0,0,2
+South,,'',,'',2,0,0,2
+Space used:,,'',,'',2,0,0,2
+Spanish,,'',,'',2,0,0,2
+Split preview mode,,'',,'',2,0,0,2
+Sports,,'',,'',2,0,0,2
+Standard,,'',,'',2,0,0,2
+Standby,,'',,'',2,0,0,2
+Standby / Restart,,'',,,1,0,0,1
+Standby / restart,,'',,'',2,0,0,2
+Start,,'',,'',2,0,0,2
+Start from the beginning,,'',,'',2,0,0,2
+Start offline decode,,'',,'',2,0,0,2
+Start recording?,,'',,'',2,0,0,2
+Start test,,'',,'',2,0,0,2
+Start time,,'',,'',2,0,0,2
+Start timeshift,,'',,'',2,0,0,2
+Starting on,,'',,'',2,0,0,2
+Status,,'',,'',2,0,0,2
+Step east,,'',,'',2,0,0,2
+Step west,,'',,'',2,0,0,2
+Stepped east,,'',,'',2,0,0,2
+Stepped west,,'',,'',2,0,0,2
+Stop,,'',,'',2,0,0,2
+Stop PiP,,'',,'',2,0,0,2
+Stop current event and disable coming events,,'',,,1,0,0,1
+Stop current event but not coming events,,'',,,1,0,0,1
+Stop entry,,'',,'',2,0,0,2
+Stop playing this movie?,,'',,'',2,0,0,2
+Stop recording,,'',,'',2,0,0,2
+Stop recording and delete,,'',,'',2,0,0,2
+Stop recording now,,'',,'',2,0,0,2
+Stop test,,'',,'',2,0,0,2
+Stop testing plane after # failed transponders,,'',,'',2,0,0,2
+Stop testing plane after # successful transponders,,'',,'',2,0,0,2
+Stop timer recording,,'',,'',2,0,0,2
+Stop timeshift,,'',,'',2,0,0,2
+Stop timeshift while recording?,,'',,'',2,0,0,2
+Stopped,,'',,'',2,0,0,2
+Stops timeshift being used if a recording is in progress. (Advisable for USB sticks),,'',,'',2,0,0,2
+Storage devices,,'',,,1,0,0,1
+Store at index,,'',,'',2,0,0,2
+Store position,,'',,'',2,0,0,2
+Stored position,,'',,'',2,0,0,2
+Stream,,'',,'',2,0,0,2
+Stream request,,'',,'',2,0,0,2
+Strict DLNA,,'',,'',2,0,0,2
+Strongest position,,'',,'',2,0,0,2
+Subservice mode,,'',,,1,0,0,1
+Subservices,,'',,'',2,0,0,2
+Subtitle Quickmenu,,'',,,1,0,0,1
+Subtitle alignment,,'',,'',2,0,0,2
+Subtitle border width,,'',,'',2,0,0,2
+Subtitle delay when timing is bad,,'',,'',2,0,0,2
+Subtitle delay when timing lacks,,'',,'',2,0,0,2
+Subtitle font size,,'',,'',2,0,0,2
+Subtitle language selection 1,,'',,'',2,0,0,2
+Subtitle language selection 2,,'',,'',2,0,0,2
+Subtitle language selection 3,,'',,'',2,0,0,2
+Subtitle language selection 4,,'',,'',2,0,0,2
+Subtitle position,,'',,'',2,0,0,2
+Subtitle selection,,'',,'',2,0,0,2
+Subtitle selection...,,'',,'',2,0,0,2
+Subtitle settings,,'',,,1,0,0,1
+Subtitles,,'',,'',2,0,0,2
+Sun,,'',,'',2,0,0,2
+Sunday,,'',,'',2,0,0,2
+Support at,,'',,'',2,0,0,2
+Swap PiP and main picture,,'',,'',2,0,0,2
+Swap SNR in '%' with SNR in 'db',,'',,'',2,0,0,2
+Swap services,,'',,'',2,0,0,2
+Swedish,,'',,'',2,0,0,2
+Switch TV to correct input,,'',,'',2,0,0,2
+Switch between filelist/playlist,,'',,'',2,0,0,2
+Switch config,,'',,'',2,0,0,2
+Switch next channel,,'',,,1,0,0,1
+Switch to filelist,,'',,'',2,0,0,2
+Switch to next channel in history,,'',,,1,0,0,1
+Switch to next sub service,,'',,'',2,0,0,2
+Switch to playlist,,'',,'',2,0,0,2
+Switch to previous channel,,'',,,1,0,0,1
+Switch to previous channel in history,,'',,,1,0,0,1
+Switch to previous sub service,,'',,'',2,0,0,2
+Switchable tuner types:,,'',,,1,0,0,1
+Symbol rate,,'',,'',2,0,0,2
+Sync NTP every (minutes),,'',,'',2,0,0,2
+Sync failure moving back to origin !,,'',,'',2,0,0,2
+Sync time using,,'',,'',2,0,0,2
+Synchronize system time using transponder or internet.,,Synchronise system time using transponder or internet.,,Synchronise system time using transponder or internet.,2,1,1,0
+System,,'',,'',2,0,0,2
+System temperature: %s,,'',,'',2,0,0,2
+System: ,,'',,'',2,0,0,2
+TB,,'',,'',2,0,0,2
+TRANSLATOR_INFO,,'',,'',2,0,0,2
+TS file is too large for ISO9660 level 1!,,'',,'',2,0,0,2
+TSID,,'',,'',2,0,0,2
+TUNING,,'',,'',2,0,0,2
+TV button mode,,'',,,1,0,0,1
+TV physical address report,,'',,'',2,0,0,2
+TXT PID,,'',,'',2,0,0,2
+Table of contents for collection,,'',,'',2,0,0,2
+Tags,,'',,'',2,0,0,2
+Teletext subtitle color,Teletext subtitle colour,Teletext subtitle colour,,'',3,1,1,1
+Telnet Interface,,'',,'',2,0,0,2
+Telnet Port,,'',,'',2,0,0,2
+Telnet Setup,,'',,'',2,0,0,2
+Telnet setup,,'',,,1,0,0,1
+Terrestrial,,'',,'',2,0,0,2
+Terrestrial provider,,'',,,1,0,0,1
+Test DiSEqC settings,,'',,'',2,0,0,2
+Test mode,,'',,'',2,0,0,2
+Test the network configuration of your %s %s.\n,,'',,'',2,0,0,2
+Test type,,'',,'',2,0,0,2
+Text,,'',,'',2,0,0,2
+Text color,Text colour,Text colour,,'',3,1,1,1
+Thai,,'',,'',2,0,0,2
+Thank you for using the wizard.\nPlease press OK to continue.,,'',,'',2,0,0,2
+Thank you for using the wizard. Your %s %s is now ready to use.\nPlease press OK to start using your %s %s.,,'',,'',2,0,0,2
+The %s %s reads the stored EPG data every (hours).,,'',,'',2,0,0,2
+The %s %s stores the EPG data every (hours).,,'',,'',2,0,0,2
+The AutoTimer plugin is not installed!\nPlease install it.,,'',,'',2,0,0,2
+The Cool TV Guide plugin is not installed!\nPlease install it.,,'',,,1,0,0,1
+The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to create a %s %s format data DVD (which will not play in stand-alone DVD players) instead?,,'',,'',2,0,0,2
+The EPGSearch plugin is not installed!\nPlease install it.,,'',,'',2,0,0,2
+The Filesystem on your Timeshift-Device does not support hardlinks.\nMake sure it is formatted in EXT2 or EXT3!,,'',,,1,0,0,1
+The IMDb plugin is not installed!\nPlease install it.,,'',,'',2,0,0,2
+The MediaPlayer plugin is not installed!\nPlease install it.,,'',,,1,0,0,1
+The PIN code has been changed successfully.,,'',,'',2,0,0,2
+The PIN codes you entered are different.,,'',,'',2,0,0,2
+The USB stick was prepared to be bootable.\nNow you can download an NFI image file!,,'',,,1,0,0,1
+The backup failed. Please choose a different backup location.,,'',,'',2,0,0,2
+The current update may be unstable,,'',,'',2,0,0,2
+"The directory %s is not a EXT2, EXT3, EXT4 or NFS partition.\nMake sure you select a valid partition type.",,'',,'',2,0,0,2
+The directory %s is not writable.\nMake sure you select a writable directory instead.,,'',,'',2,0,0,2
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,'',,,1,0,0,1
+The following files were found...,,'',,'',2,0,0,2
+The loopthrough setting is wrong.,,'',,'',2,0,0,2
+"The md5sum validation failed, the file may be corrupted!",,'',,,1,0,0,1
+The network wizard extension is not installed!\nPlease install it.,,'',,'',2,0,0,2
+The path %s already exists.,,'',,'',2,0,0,2
+The pin code you entered is wrong.,,'',,'',2,0,0,2
+The results have been written to %s.,,'',,'',2,0,0,2
+The software management extension is not installed!\nPlease install it.,,'',,'',2,0,0,2
+The timer file (pm_timers.xml) is corrupt and could not be loaded.,,'',,'',2,0,0,2
+The timer file (timers.xml) is corrupt and could not be loaded.,,'',,'',2,0,0,2
+The user interface of your %s %s is restarting,,'',,'',2,0,0,2
+The user interface of your %s %s is restarting\ndue to an error in mytest.py,,'',,'',2,0,0,2
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,'',,'',2,0,0,2
+The wireless LAN plugin is not installed!\nPlease install it.,,'',,'',2,0,0,2
+The wizard can backup your current settings. Do you want to do a backup now?,,'',,'',2,0,0,2
+The wizard found a configuration backup. Do you want to restore your old settings from %s?,,'',,,1,0,0,1
+The wizard is finished now.,,'',,'',2,0,0,2
+There are at least ,,'',,'',2,0,0,2
+There are at least %s updates available.,,'',,'',2,0,0,2
+There are currently no outstanding actions.,,'',,'',2,0,0,2
+There are no updates available.,,'',,'',2,0,0,2
+There is no [webif] section in oscam.conf,,'',,,1,0,0,1
+There is no signal to lock on !,,'',,'',2,0,0,2
+There might not be enough space on the selected partition..\nDo you really want to continue?,,There might not be enough space on the selected partition.\nDo you really want to continue?,,'',2,1,0,1
+This %s %s cannot decode %s streams!,,'',,'',2,0,0,2
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,,'',,'',2,0,0,2
+"This allows you change the font size relative to skin size, so 1 increases by 1 point size, and -1 decreases by 1 point size",,'',,'',2,0,0,2
+"This allows you to change the font size relative to skin size, so 1 increases by 1 point size, and -1 decreases by 1 point size",,'',,'',2,0,0,2
+This allows you to change the number of rows shown.,,'',,'',2,0,0,2
+This option allows to reduce the block-noise in the picture. Obviously this is at the cost of the picture's sharpness.,,'',,'',2,0,0,2
+This option allows to set the level of dynamic contrast of the picture.,,'',,'',2,0,0,2
+This option allows you choose how to display elapsed time as + or -,,'',,'',2,0,0,2
+"This option allows you choose how to display remaining time, or elapsed time, or both.",,'',,'',2,0,0,2
+This option allows you choose how to display the remaining/elapsed time for live TV.,,'',,'',2,0,0,2
+This option allows you choose the background color of transparent picons.,,This option allows you to choose the background colour of transparent picons.,,'',2,1,0,1
+This option allows you set the layout view (Text or Graphics).,,'',,,1,0,0,1
+This option allows you to boost the blue tones in the picture.,,'',,'',2,0,0,2
+This option allows you to boost the green tones in the picture.,,'',,'',2,0,0,2
+This option allows you to bypass HDMI EDID check,,'',,'',2,0,0,2
+This option allows you to choose from the two channel lists that are available.,,'',,'',2,0,0,2
+This option allows you to choose how to display 1080p 24Hz on your TV. (as not all TV's support these resolutions),,This option allows you to choose how to display 1080p 24Hz on your TV. (As not all TV's support these resolutions.),,'',2,1,0,1
+This option allows you to choose how to display 1080p 25Hz on your TV. (as not all TV's support these resolutions),,This option allows you to choose how to display 1080p 25Hz on your TV. (As not all TV's support these resolutions.),,'',2,1,0,1
+This option allows you to choose how to display 1080p 30Hz on your TV. (as not all TV's support these resolutions),,This option allows you to choose how to display 1080p 30Hz on your TV. (As not all TV's support these resolutions.),,'',2,1,0,1
+This option allows you to choose how to display 720p 24Hz on your TV. (as not all TV's support these resolutions),,This option allows you to choose how to display 720p 24Hz on your TV. (As not all TV's support these resolutions.),,'',2,1,0,1
+This option allows you to choose how to display elapsed time. As + or -,,'',,'',2,0,0,2
+This option allows you to choose how to display standard defintion video on your TV.,,'',,'',2,0,0,2
+This option allows you to choose how to display the remaining/elapsed time for Media playback.,,'',,'',2,0,0,2
+This option allows you to choose how to display the remaining/elapsed time for live TV.,,'',,'',2,0,0,2
+This option allows you to choose how to display the remaining/elapsed time for media playback.,,'',,'',2,0,0,2
+"This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first)",,'',,,1,0,0,1
+This option allows you to disable sorting of the menus,,'',,'',2,0,0,2
+This option allows you to disable sorting of the option in setting screens,,'',,'',2,0,0,2
+This option allows you to disable sorting of the plugin browser.,,'',,'',2,0,0,2
+This option allows you to enable 3D Surround Sound.,,'',,,1,0,0,1
+This option allows you to set the layout view (Text or Graphics).,,'',,'',2,0,0,2
+This option allows you to show the SNR as a percentage (not all receivers support this).,,'',,'',2,0,0,2
+This option allows you to view the old and new settings side by side.,,'',,'',2,0,0,2
+This option configures the general audio delay of Dolby Digital sound tracks.,,'',,'',2,0,0,2
+This option configures the general audio delay of stereo sound tracks.,,'',,'',2,0,0,2
+This option configures the screen resolution in PC output mode.,,'',,'',2,0,0,2
+This option configures the video output mode (or resolution).,,'',,'',2,0,0,2
+This option lets you adjust the 3D depth,,'',,'',2,0,0,2
+This option lets you adjust the transparency of the user interface,,'',,'',2,0,0,2
+This option lets you choose the 3D mode,,'',,'',2,0,0,2
+This option lets you show the option in the extension screen,,'',,'',2,0,0,2
+This option moves the PVR status from the separate window into the Movie Player infobar.,,'',,'',2,0,0,2
+This option set the level of suppression of mosquito noise (Mosquito Noise is random aliasing as a result of strong compression). Obviously this goes at the cost of picture details.,,'',,,1,0,0,1
+This option sets  the picture contrast.,,'',,,1,0,0,1
+This option sets the picture brightness.,,'',,'',2,0,0,2
+This option sets the picture color space.,This option lets you set the picture colour space.,This option sets the picture colour space.,,'',3,2,0,1
+This option sets the picture flesh tones.,,'',,'',2,0,0,2
+This option sets the picture hue.,,'',,'',2,0,0,2
+This option sets the picture saturation.,,'',,'',2,0,0,2
+"This option sets the scaler sharpness, used when stretching picture from 4:3 to 16:9.",,"This option sets the scaler sharpness, used when scretching picture from 4:3 to 16:9.",,'',2,1,0,1
+"This option sets the surpression of false digital contours, that are the result of a limited number of discrete values.",,"This option sets the suppression of false digital contours, that are the result of a limited number of discrete values.",,'',2,1,0,1
+"This option sets up the picture sharpness, used when the picture is being upscaled.",,'',,'',2,0,0,2
+"This plugin creates a USB stick which can be used to update the firmware of your %s %s without the need for a network or WLAN connection.\nFirst, a USB stick needs to be prepared so that it becomes bootable.\nIn the next step, an NFI image file can be downloaded from the update server and saved on the USB stick.\nIf you already have a prepared bootable USB stick, please insert it now. Otherwise plug in a USB stick with a minimum size of 64 MB!",,'',,,1,0,0,1
+This plugin is installed.,,'',,'',2,0,0,2
+This plugin is not installed.,,'',,'',2,0,0,2
+This plugin will be installed.,,'',,'',2,0,0,2
+This plugin will be removed.,,'',,'',2,0,0,2
+"This test checks for configured nameservers.\nIf you get a \""unconfirmed\"" message:\n- please check your DHCP, cabling and adapter setup\n- if you configured your nameservers manually please verify your entries in the \""Nameserver\"" configuration",,'',,,1,0,0,1
+"This test checks whether a network cable is connected to your LAN adapter.\nIf you get a \""disconnected\"" message:\n- verify that a network cable is attached\n- verify that the cable is not broken",,'',,,1,0,0,1
+"This test checks whether a valid IP address is found for your LAN adapter.\nIf you get a \""unconfirmed\"" message:\n- no valid IP address was found\n- please check your DHCP, cabling and adapter setup",,'',,,1,0,0,1
+"This test checks whether your LAN adapter is set up for automatic IP address configuration with DHCP.\nIf you get a \""disabled\"" message:\n - then your LAN adapter is configured for manual IP setup\n- verify thay you have entered correct IP informations in the adapter setup dialog.\nIf you get an \""enabled\"" message:\n-verify that you have a configured and working DHCP server in your network.",,'',,,1,0,0,1
+This test detects your configured LAN adapter.,,'',,,1,0,0,1
+This will (re-)calculate all positions of your rotor and may remove previously memorised positions and fine-tuning!\nAre you sure?,This will (re-)calculate all positioner positions and may remove previously memorised positions and fine-tuning!\nDo you want to continue?,'',,'',3,1,0,2
+Three,,'',,'',2,0,0,2
+Threshold,,'',,'',2,0,0,2
+Thu,,'',,'',2,0,0,2
+Thumbnails,,'',,'',2,0,0,2
+Thursday,,'',,'',2,0,0,2
+TiVo support,,'',,'',2,0,0,2
+Time,,'',,'',2,0,0,2
+Time Update in Minutes,,'',,,1,0,0,1
+Time Update in Minutes:,,'',,'',2,0,0,2
+Time scale,,'',,'',2,0,0,2
+Time settings,,'',,,1,0,0,1
+Time to execute command or script,,'',,'',2,0,0,2
+Timeline font size,,'',,'',2,0,0,2
+Timer List,,'',,'',2,0,0,2
+Timer entry,,'',,,1,0,0,1
+Timer log,,'',,,1,0,0,1
+Timer overlap in pm_timers.xml detected!\nPlease recheck it!,,'',,'',2,0,0,2
+Timer overlap in timers.xml detected!\nPlease recheck it!,,'',,'',2,0,0,2
+Timer overview,,'',,,1,0,0,1
+Timer record location,,'',,'',2,0,0,2
+Timer recording location,,'',,'',2,0,0,2
+Timer sanity error,,'',,,1,0,0,1
+Timer selection,,'',,'',2,0,0,2
+Timer selection...,,'',,'',2,0,0,2
+Timer type,,'',,'',2,0,0,2
+Timers,,'',,'',2,0,0,2
+Timeshift,,'',,'',2,0,0,2
+Timeshift location,,'',,'',2,0,0,2
+Timeshift not possible!,,'',,'',2,0,0,2
+Timeshift save failed!,,'',,'',2,0,0,2
+Timeshift save recording (Select event),,Timeshift save recording (select event),,'',2,1,0,1
+Timeshift save recording (stop after current event),,'',,'',2,0,0,2
+Timeshift saved to your harddisk!,,Timeshift saved to your hard disk!,,'',2,1,0,1
+Timeshift settings,,'',,,1,0,0,1
+Timeshift will get saved at end of event!,,'',,,1,0,0,1
+Timeshift-save action on zap,,'',,'',2,0,0,2
+Timezone,,'',,,1,0,0,1
+Title,,'',,'',2,0,0,2
+Title properties,,'',,'',2,0,0,2
+Titleset mode,,Title set mode,,'',2,1,0,1
+"To update your %s %s firmware, please follow these steps:\n1) Turn off your box with the rear power switch and make sure the bootable USB stick is plugged in.\n2) Turn mains back on and hold the DOWN button on the front panel pressed for 10 seconds.\n3) Wait for bootup and follow instructions of the wizard.",,'',,,1,0,0,1
+Today,,'',,'',2,0,0,2
+Toggle Picture In Graphics,,'',,,1,0,0,1
+Toggle a cut mark at the current position,,'',,'',2,0,0,2
+Toggle aspect ratio...,,'',,'',2,0,0,2
+Toggle between bouquet/epg lists,,'',,'',2,0,0,2
+Tone amplitude,,'',,'',2,0,0,2
+Tone mode,,'',,'',2,0,0,2
+Toneburst,,'',,'',2,0,0,2
+Toneburst A/B,,'',,'',2,0,0,2
+Top and Bottom,,'',,'',2,0,0,2
+Top and bottom,,'',,,1,0,0,1
+Total,,'',,'',2,0,0,2
+Total Memory:,,'',,,1,0,0,1
+Total Swap:,,'',,,1,0,0,1
+Total cards:,,'',,'',2,0,0,2
+Total handled client ecm's,,'',,'',2,0,0,2
+Total handled client emm's,,'',,'',2,0,0,2
+Total:,,'',,'',2,0,0,2
+Track,,'',,'',2,0,0,2
+Translation Information,,'',,,1,0,0,1
+Translations,,'',,'',2,0,0,2
+Transmission mode,,'',,'',2,0,0,2
+Transparent,,'',,'',2,0,0,2
+Transponder,,'',,'',2,0,0,2
+Transponder type,,'',,,1,0,0,1
+Trashcan,Trash,'',,,2,1,0,1
+Trashcan:,Trash:,'',,'',3,1,0,2
+Tries left:,,'',,'',2,0,0,2
+Try to find used transponders in cable network.. please wait...,,'',,'',2,0,0,2
+Trying to download a new packetlist. Please wait...,,Trying to download a new packet list. Please wait...,,'',2,1,0,1
+Tue,,'',,'',2,0,0,2
+Tuesday,,'',,'',2,0,0,2
+Tune,,'',,'',2,0,0,2
+Tune and focus,,'',,'',2,0,0,2
+Tune failed!,,'',,'',2,0,0,2
+Tuner,,'',,'',2,0,0,2
+Tuner :,,'',,'',2,0,0,2
+Tuner configuration,,'',,,1,0,0,1
+Tuner settings,,'',,,1,0,0,1
+Tuner slot,,'',,'',2,0,0,2
+Tuner status,,'',,,1,0,0,1
+Tuner status:,,'',,'',2,0,0,2
+Tuner type,,'',,'',2,0,0,2
+Tuning step size,,'',,,1,0,0,1
+Turkish,,'',,'',2,0,0,2
+Two,,'',,'',2,0,0,2
+Two lines,,'',,'',2,0,0,2
+Type,,'',,'',2,0,0,2
+Type of scan,,'',,'',2,0,0,2
+Type: ,,'',,'',2,0,0,2
+USALS,,'',,'',2,0,0,2
+USALS calibration,,'',,,1,0,0,1
+USB stick wizard,,'',,,1,0,0,1
+Unattended upgrade without GUI and reboot system,,'',,,1,0,0,1
+Uncommitted DiSEqC command,,'',,,1,0,0,1
+Undetermined,,'',,'',2,0,0,2
+Undo install,,'',,'',2,0,0,2
+Undo uninstall,,'',,'',2,0,0,2
+Unencrypted,,'',,'',2,0,0,2
+Unicable,,'',,,1,0,0,1
+Unicable LNB,,'',,,1,0,0,1
+Unicable Matrix,,'',,,1,0,0,1
+Uninstall,,'',,'',2,0,0,2
+Universal LNB,,'',,'',2,0,0,2
+Unknown,,'',,'',2,0,0,2
+Unmount,,'',,,1,0,0,1
+Unsupported,,'',,'',2,0,0,2
+Update,,'',,'',2,0,0,2
+Update channel list only,,'',,'',2,0,0,2
+Update failed. Your %s %s does not have a working internet connection.,,'',,'',2,0,0,2
+Update interval (in seconds),,'',,'',2,0,0,2
+Updatefeed not available.,,Update feed not available.,,'',2,1,0,1
+Updating software catalog,Updating software catalogue,Updating software catalogue,,'',3,1,1,1
+Upgrade and reboot system,,'',,'',2,0,0,2
+Upgrade finished.,,'',,'',2,0,0,2
+Upgrade in progress\nPlease wait until your %s %s reboots\nThis may take a few minutes,,'',,'',2,0,0,2
+Upgrading,,'',,'',2,0,0,2
+Uphops +,,'',,'',2,0,0,2
+Uphops -,,'',,'',2,0,0,2
+Uphops: ,,'',,'',2,0,0,2
+Uptime,,'',,'',2,0,0,2
+Use,,'',,'',2,0,0,2
+Use DHCP,,'',,'',2,0,0,2
+Use EIT EPG information when it is available.,,'',,'',2,0,0,2
+Use FreeSat EPG information when it is available.,,'',,'',2,0,0,2
+Use MHW EPG information when it is available.,,'',,'',2,0,0,2
+Use Netmed EPG information when it is available.,,'',,'',2,0,0,2
+Use TV remote control,,'',,'',2,0,0,2
+Use USALS for this sat,,'',,'',2,0,0,2
+Use ViX colored Buttons*,,Use ViX coloured Buttons*,,,1,1,0,0
+Use ViaSat EPG information when it is available.,,'',,'',2,0,0,2
+Use WOL,,'',,,1,0,0,1
+Use a gateway,,'',,'',2,0,0,2
+Use fastscan channel names,,'',,'',2,0,0,2
+Use fastscan channel numbering,,'',,'',2,0,0,2
+Use frequency or channel,,'',,'',2,0,0,2
+Use individual settings for each directory,,'',,'',2,0,0,2
+Use interface,,'',,'',2,0,0,2
+Use official channel numbering,,'',,'',2,0,0,2
+Use original DVB subtitle position,,'',,'',2,0,0,2
+Use original teletext position,,'',,'',2,0,0,2
+Use power measurement,,'',,'',2,0,0,2
+Use slim screen,,'',,'',2,0,0,2
+"Use the Left/Right buttons on your remote to adjust the size of the user interface. Left button decreases the size, Right increases the size.",,'',,,1,0,0,1
+Use the Left/Right buttons on your remote to move the user interface up/down,,'',,,1,0,0,1
+Use the Left/Right buttons on your remote to move the user inyterface left/right,,'',,,1,0,0,1
+Use the alternative or the conventional radio mode.,,'',,'',2,0,0,2
+Use the alternative screen,,'',,'',2,0,0,2
+Use the network wizard to configure selected network adapter,,'',,'',2,0,0,2
+Use the network wizard to configure your Network\n,,'',,'',2,0,0,2
+"Use the up/down keys on your remote control to select an option. After that, press OK.",,'',,'',2,0,0,2
+Use the wizard to set up basic features,,'',,'',2,0,0,2
+Use these input device settings?,,'',,'',2,0,0,2
+Use these settings?,,'',,'',2,0,0,2
+Use this video enhancement settings?,,'',,'',2,0,0,2
+Use timeshift seekbar while timeshifting?,,'',,'',2,0,0,2
+Use trash can in movielist,Use trash in movie list,'',,,2,1,0,1
+Used service scan type,,'',,'',2,0,0,2
+Used:,,'',,'',2,0,0,2
+User - bouquets,,'',,'',2,0,0,2
+User defined,,'',,'',2,0,0,2
+User defined transponder,,'',,'',2,0,0,2
+User interface,,'',,'',2,0,0,2
+User interface visibility,,'',,'',2,0,0,2
+Username,,'',,'',2,0,0,2
+Username (httpuser),,'',,'',2,0,0,2
+Username:,,'',,'',2,0,0,2
+Using LNB %d,,'',,'',2,0,0,2
+Using fixed address,,'',,'',2,0,0,2
+Using old profile: ,,'',,'',2,0,0,2
+Using tuner %s,,'',,'',2,0,0,2
+"Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used.",,'',,'',2,0,0,2
+VCR scart,,'',,'',2,0,0,2
+VMGM (intro trailer),,'',,'',2,0,0,2
+Version:\t%s,,'',,,1,0,0,1
+Version: ,,'',,'',2,0,0,2
+Version: %s,,'',,'',2,0,0,2
+Vertical,,'',,'',2,0,0,2
+Vertical turning speed,,'',,'',2,0,0,2
+ViX EPG,,'',,'',2,0,0,2
+Video Enhancement Settings,,'',,,1,0,0,1
+Video PID,,'',,'',2,0,0,2
+Video content: %ix%i%s %iHz,,'',,'',2,0,0,2
+Video enhancement preview,,'',,'',2,0,0,2
+Video enhancement setup,,'',,'',2,0,0,2
+Video fine tuning,,'',,,1,0,0,1
+Video fine-tuning,,'',,,1,0,0,1
+Video input selection\n\nPlease press OK if you can see this page on your TV (or select a different input port).\n\nThe next input port will be automatically probed in 20 seconds.,,'',,,1,0,0,1
+Video mode selection.,,'',,'',2,0,0,2
+Video mode: %s,,'',,'',2,0,0,2
+Video output,,'',,'',2,0,0,2
+Video setup,,'',,,1,0,0,1
+Video wizard,,'',,,1,0,0,1
+Video: %s fps,,'',,'',2,0,0,2
+Videocodec,,Video codec,,,1,1,0,0
+Videoformat,,Video format,,,1,1,0,0
+Videosize,,Video size,,,1,1,0,0
+View,,'',,'',2,0,0,2
+View Movies...,,'',,'',2,0,0,2
+View Rass interactive...,,'',,'',2,0,0,2
+View Video CD...,,'',,'',2,0,0,2
+View details,,'',,'',2,0,0,2
+View list of available ,,'',,'',2,0,0,2
+View list of available CommonInterface extensions,,'',,'',2,0,0,2
+View list of available EPG extensions.,,'',,'',2,0,0,2
+View list of available Satellite equipment extensions.,,'',,'',2,0,0,2
+View list of available communication extensions.,,'',,'',2,0,0,2
+View list of available default settings,,'',,'',2,0,0,2
+View list of available display and userinterface extensions.,,'',,'',2,0,0,2
+View list of available multimedia extensions.,,'',,'',2,0,0,2
+View list of available networking extensions,,'',,'',2,0,0,2
+View list of available recording extensions,,'',,'',2,0,0,2
+View list of available skins,,'',,'',2,0,0,2
+View list of available software extensions,,'',,'',2,0,0,2
+View list of available system extensions,,'',,'',2,0,0,2
+View mode,,'',,'',2,0,0,2
+View photos...,,View photos…,,'',2,1,0,1
+View teletext...,,'',,'',2,0,0,2
+View the changes,,'',,'',2,0,0,2
+View video CD...,,'',,'',2,0,0,2
+Virtuosso Image Xtreme,,'',,'',2,0,0,2
+Vix forum user name,,'',,'',2,0,0,2
+Voltage mode,,'',,'',2,0,0,2
+W,,'',,'',2,0,0,2
+WARNING: feeds may be unstable.,,'',,'',2,0,0,2
+WEP,,'',,'',2,0,0,2
+WLAN connection,,'',,'',2,0,0,2
+WPA,,'',,'',2,0,0,2
+WPA or WPA2,,'',,'',2,0,0,2
+WPA2,,'',,'',2,0,0,2
+WSS on 4:3,,'',,'',2,0,0,2
+Wait please while scanning for devices...,,'',,,1,0,0,1
+Waiting,,'',,'',2,0,0,2
+Waiting for mount,,'',,,1,0,0,1
+Waiting for partition,,'',,,1,0,0,1
+Wake Up,,'',,'',2,0,0,2
+Wake Up To Standby,,'',,'',2,0,0,2
+Wakeup,,'',,'',2,0,0,2
+Wakeup TV from standby,,'',,'',2,0,0,2
+Wakeup signal from TV,,'',,'',2,0,0,2
+Wakeup your %s %s from standby,,'',,'',2,0,0,2
+Warning: no LNB; using factory defaults.,,'',,'',2,0,0,2
+Watch movies...,,'',,'',2,0,0,2
+Watch recordings...,,'',,'',2,0,0,2
+Web Interface,,'',,'',2,0,0,2
+Wed,,'',,'',2,0,0,2
+Wednesday,,'',,'',2,0,0,2
+Weekday,,'',,'',2,0,0,2
+Weekly,,'',,'',2,0,0,2
+Weighted position,,'',,'',2,0,0,2
+"Welcome to the cutlist editor.\n\nSeek to the start of the stuff you want to cut away. Press OK, select 'start cut'.\n\nThen seek to the end, press OK, select 'end cut'. That's it.",,'',,'',2,0,0,2
+Welcome to the image upgrade wizard. The wizard will assist you in upgrading the firmware of your %s %s by providing a backup facility for your current settings and a short explanation of how to upgrade your firmware.,,'',,'',2,0,0,2
+"Welcome.\n\nIf you want to connect your %s %s to the Internet, this wizard will guide you through the basic network setup of your %s %s.\n\nPress OK to start configuring your network",,'',,'',2,0,0,2
+Welcome.\n\nThis start wizard will guide you through the basic setup of your %s %s.\nPress the OK button on your remote control to move to the next step.,,'',,'',2,0,0,2
+West,,'',,'',2,0,0,2
+West limit set,,'',,'',2,0,0,2
+What Day of week ?,,'',,,1,0,0,1
+"What action is required on completion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do ecaxtly that.",,'',,,1,0,0,1
+What date of month ?,,Which date of month?,,'',2,1,0,1
+What do you want to scan?,,'',,'',2,0,0,2
+When enabled the online checker will also check for experimental versions,,'',,'',2,0,0,2
+"When enabled, AIT data will be included in http streams. This allows a client receiver to use HbbTV.",,'',,'',2,0,0,2
+"When enabled, EIT data will be included in http streams. This allows a client receiver to show EPG.",,'',,'',2,0,0,2
+"When enabled, a popup message will be shown when a movie has finished and the next one will start.",,'',,'',2,0,0,2
+"When enabled, a popup message will be shown when a recording starts.",,'',,'',2,0,0,2
+"When enabled, a recording is allowed to interrupt live TV, when there are no free tuners.",,'',,'',2,0,0,2
+"When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift.",,'',,'',2,0,0,2
+"When enabled, channel numbering will start at '1' for every bouquet.",,'',,'',2,0,0,2
+"When enabled, content with an aspect ratio of 4:3 will be stretched to fit the screen.",,'',,'',2,0,0,2
+"When enabled, continue to the next bouquet when the last channel of the current bouquet is reached.",,'',,'',2,0,0,2
+"When enabled, deleted recordings are moved to the trash can, instead of being deleted immediately.",Choose whether deleted recordings should be moved to the trash instead of being deleted immediately.,"When enabled, deleted recordings are moved to the trash can, instead of being permanently deleted.",,'',3,2,0,1
+"When enabled, external subtitles will always be turned on for movie playback.",,'',,'',2,0,0,2
+"When enabled, graphical DVB subtitles are preferred over teletext subtitles, when both types are available.",,'',,'',2,0,0,2
+"When enabled, graphical DVB subtitles will be centered horizontally.",,"When enabled, graphical DVB subtitles will be centred horizontally.",,,1,1,0,0
+"When enabled, graphical DVB subtitles will be displayed at their original position.",,'',,'',2,0,0,2
+"When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color.","When enabled, DVB subtitles will be displayed in yellow instead of their original colour.","When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original colour.",,'',3,2,0,1
+"When enabled, it is possible to leave the Movie Player with exit.",,'',,'',2,0,0,2
+"When enabled, measure power consumption to detect when the rotor stops turning (when supported by the tuner).",,'',,'',2,0,0,2
+"When enabled, network trash cans are probed for cleaning.",Choose whether the network trash should be checked for cleaning.,'',,'',3,1,0,2
+"When enabled, pressing '0' will zap you to the first channel in your first bouquet and delete your zap-history.",,'',,'',2,0,0,2
+"When enabled, show channel numbers in the channel selection screen.",,'',,'',2,0,0,2
+"When enabled, subtitles for the hearing impaired can be used.",,'',,'',2,0,0,2
+"When enabled, subtitles for the hearing impaired will be preferred over normal subtitles, when both types are available.",,'',,'',2,0,0,2
+"When enabled, teletext pages will be cached, allowing faster access.",,'',,'',2,0,0,2
+"When enabled, teletext subtitles will be displayed at their original position.",,'',,'',2,0,0,2
+"When enabled, the PiP can be closed by the EXIT button.",,'',,'',2,0,0,2
+"When enabled, the VCR scart option will be shown in the main menu",,"When enabled, the VCR scart option will be shown on the main menu",,'',2,1,0,1
+"When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time).",,'',,'',2,0,0,2
+"When enabled, the original line breaks will be removed from the teletext subtitles.",,'',,,1,0,0,1
+"When enabled, the receiver will automatically use the audio track which you selected before.",,'',,'',2,0,0,2
+"When enabled, the receiver will automatically use the subtitles which you selected before.",,'',,'',2,0,0,2
+"When enabled, the receiver will select an AC3 track (when available).",,'',,'',2,0,0,2
+"When enabled, timeshift starts automatically in background after the specified time.",,'',,'',2,0,0,2
+"When enabled, use DHCP for the IP configuration.",,'',,'',2,0,0,2
+"When enabled, your receiver will detect activity on the VCR SCART input.",,'',,'',2,0,0,2
+"When maximum space for all logs is reached, the oldest logs will be deleted.",,'',,'',2,0,0,2
+"When nonzero, a recording will start earlier than the starting time indicated by the EPG.",,'',,'',2,0,0,2
+"When nonzero, a recording will stop later than the ending time indicated by the EPG.",,'',,'',2,0,0,2
+"When set each folder will show the previous state used, when off the default values will be shown.",,'',,,1,0,0,1
+When set the PIG will return to live after a movie has stopped playing.,,'',,'',2,0,0,2
+"When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture.",,'',,'',2,0,0,2
+"When the content has an aspect ratio of 4:3, choose whether to scale/stretch the picture.",,'',,'',2,0,0,2
+When tuned to a service the system will normally scan the transponder for any changes and save them. Only set to 'yes' if you're absolutely sure of what you're doing.,,'',,'',2,0,0,2
+"When you do a factory reset, you will lose ALL your configuration data\n(including bouquets, services, satellite data ...)\nAfter completion of factory reset, your %s %s will restart automatically!\n\nReally do a factory reset?",,'',,,1,0,0,1
+Where do you want to backup your settings?,,'',,'',2,0,0,2
+Where should the recording be saved?,,'',,'',2,0,0,2
+Where to save temporary timeshift recordings?,,'',,'',2,0,0,2
+Which event do you want to save permanently?,,'',,'',2,0,0,2
+White,,'',,'',2,0,0,2
+Width,,'',,'',2,0,0,2
+Wireless LAN,,'',,'',2,0,0,2
+Wireless network,,'',,'',2,0,0,2
+Wireless network configuration...,,Wireless network configuration…,,'',2,1,0,1
+Wireless network connection setup,,'',,'',2,0,0,2
+Wireless network connection setup.,,'',,'',2,0,0,2
+Wireless network state,,'',,'',2,0,0,2
+With popup,,'',,'',2,0,0,2
+With this option set to 'yes' the channel list will always show you the list of bouquets. If set to 'no' the current bouquet will be opened.,,'',,'',2,0,0,2
+With this option you can hide Job Tasks from the extension screen (short blue button press).,,'',,'',2,0,0,2
+Without popup,,'',,'',2,0,0,2
+Write error while recording. Disk full?\n,,'',,'',2,0,0,2
+Write error while recording. Disk full?\n%s,,'',,'',2,0,0,2
+Write failed!,,'',,'',2,0,0,2
+XBox 360 support,,'',,'',2,0,0,2
+YPbPr,,'',,'',2,0,0,2
+Year,,'',,'',2,0,0,2
+Yellow DVB subtitles,,'',,'',2,0,0,2
+Yes,,'',,'',2,0,0,2
+Yes to all,,'',,'',2,0,0,2
+"Yes, always",,'',,'',2,0,0,2
+"Yes, and delete this movie",,'',,'',2,0,0,2
+"Yes, backup my settings!",,'',,'',2,0,0,2
+"Yes, but don't save timeshift as movie",,'',,'',2,0,0,2
+"Yes, but save timeshift as movie and continue recording",,'',,'',2,0,0,2
+"Yes, but save timeshift as movie and stop recording",,'',,'',2,0,0,2
+"Yes, do a manual scan now",,'',,'',2,0,0,2
+"Yes, do an automatic scan now",,'',,'',2,0,0,2
+"Yes, do another manual scan now",,'',,'',2,0,0,2
+"Yes, restore the settings now",,'',,'',2,0,0,2
+"Yes, returning to movie list",,'',,,1,0,0,1
+"Yes, shut down now.",,'',,'',2,0,0,2
+Yesterday,,'',,'',2,0,0,2
+"You already have a bootlogo installed,\nwould you like to remove\n\""%s\""?",,'',,'',2,0,0,2
+"You already have a channel list installed,\nwould you like to remove\n\""%s\""?",,'',,'',2,0,0,2
+You can cancel the installation.,,'',,'',2,0,0,2
+You can cancel the removal.,,'',,'',2,0,0,2
+You can continue watching TV etc. while this is running.,,'',,,1,0,0,1
+You can disable Telnet Server and use ssh to login.,,'',,,1,0,0,1
+You can have the list sorted by time or alphanumerical.,,'',,'',2,0,0,2
+You can install this plugin.,,'',,'',2,0,0,2
+You can only burn %s %s recordings!,,'',,'',2,0,0,2
+You can remove this plugin.,,'',,'',2,0,0,2
+You cannot delete this!,,'',,'',2,0,0,2
+You didn't select a channel to record from.,,'',,'',2,0,0,2
+"You have already sent this log, are you sure you want to resend this log:\n",,'',,,1,0,0,1
+You have chosen to backup your settings. Please press OK to start the backup now.,,'',,'',2,0,0,2
+You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased.,,'',,,1,0,0,1
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,'',,'',2,0,0,2
+"You have chosen to save the current timeshift event, but the event has not yet finished\nWhat do you want to do ?",,"You have chosen to save the current timeshift event, but the event has not yet finished\nWhat do you want to do?",,'',2,1,0,1
+"You have not setup your user info in the setup screen\nPress MENU, and enter your info, then try again",,'',,,1,0,0,1
+You have selected no logs to delete.,,You have not selected any logs to delete.,,,1,1,0,0
+You have selected no logs to send.,,You have not selected any logs to send.,,,1,1,0,0
+You have to wait %s!,,'',,'',2,0,0,2
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.hdfreaks.cc.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,'',,,1,0,0,1
+You seem to be in timeshift!,,'',,'',2,0,0,2
+"You seem to be in timeshift, Do you want to leave timeshift ?",,'',,'',2,0,0,2
+You system does not support ext4,,'',,,1,0,0,1
+"Your %s %s is not connected to the internet, please check your network settings and try again.",,'',,,1,0,0,1
+Your %s %s is now ready to be used.\n\nYour internet connection is working now.\n\n,,'',,'',2,0,0,2
+Your %s %s is now ready to use.\n\nYour internet connection is working now.\n\nPlease press OK to continue.,,'',,,1,0,0,1
+Your %s %s is rebooting,,'',,'',2,0,0,2
+Your %s %s is shutting down,,'',,'',2,0,0,2
+Your %s %s is shutting down. Please wait...,,'',,'',2,0,0,2
+Your %s %s might be unusable now. Please consult the manual for further assistance before rebooting your %s %s.,,'',,'',2,0,0,2
+"Your %s %s will be restarted after the installation of service\nReady to install \""%s\"" ?",,'',,,1,0,0,1
+Your %s %s will be restarted after the installation of service.\n\nDo you want to install now ?,,'',,'',2,0,0,2
+Your %s %s will be restarted after the removal of service\nDo you want to remove now ?,,'',,'',2,0,0,2
+Your STB will restart after pressing OK on your remote control.,,'',,'',2,0,0,2
+Your backup succeeded. We will now continue to explain the further upgrade process.,,'',,'',2,0,0,2
+"Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!",,'',,'',2,0,0,2
+Your config file is not well-formed:\n%s,,'',,,1,0,0,1
+Your current collection will get lost!,,'',,'',2,0,0,2
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,,Your front-processor firmware must be upgraded.\nPress OK to start upgrade.,,'',2,1,0,1
+Your frontprocessor will be upgraded\nPlease wait until your %s %s reboots\nThis may take a few minutes,,'',,'',2,0,0,2
+Your internet connection is not working!\nPlease choose what you want to do next.,,'',,'',2,0,0,2
+Your internet connection is working (ip: %s),,'',,'',2,0,0,2
+Your network configuration has been activated.,,'',,'',2,0,0,2
+Your receiver does not have an internet connection,,'',,'',2,0,0,2
+Your receiver is not connected to the internet,,'',,'',2,0,0,2
+Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,,'',,'',2,0,0,2
+Zap,,'',,'',2,0,0,2
+Zap + Exit,,'',,'',2,0,0,2
+Zap back to previously tuned service?,,'',,'',2,0,0,2
+Zap back to service before positioner setup?,,'',,'',2,0,0,2
+Zap back to service before tuner setup?,,'',,,1,0,0,1
+Zap focus to Picture in Picture,,'',,'',2,0,0,2
+Zap focus to main screen,,'',,'',2,0,0,2
+Zap mode,,'',,'',2,0,0,2
+Zap to channel (setup in menu),,'',,,1,0,0,1
+Zap to channel and close (setup in menu),,'',,,1,0,0,1
+Zoom In/Out TV...,,'',,'',2,0,0,2
+Zoom Off...,,'',,'',2,0,0,2
+[TimeShift] Restarting Timeshift!,,'',,'',2,0,0,2
+[Timeshift] Merging records failed!,,'',,'',2,0,0,2
+[alternative edit],,'',,'',2,0,0,2
+[bouquet edit],,'',,'',2,0,0,2
+[favourite edit],[editing favourite],'',,'',3,1,0,2
+[move mode],,'',,'',2,0,0,2
+a gui to assign services/providers to common interface modules,,'',,'',2,0,0,2
+a gui to assign services/providers/caids to common interface modules,,'',,'',2,0,0,2
+abort alternatives edit,,'',,,1,0,0,1
+abort bouquet edit,,'',,,1,0,0,1
+abort favourites edit,,'',,,1,0,0,1
+about to start,,'',,'',2,0,0,2
+activate network adapter configuration,,'',,,1,0,0,1
+add alternatives,,'',,,1,0,0,1
+add bookmark,,'',,'',2,0,0,2
+add bouquet,,'',,,1,0,0,1
+add marker,,'',,,1,0,0,1
+add service to bouquet,,'',,,1,0,0,1
+add service to favourites,,'',,,1,0,0,1
+add to parental protection,,'',,,1,0,0,1
+address:,,'',,'',2,0,0,2
+adult movie/drama,,'',,'',2,0,0,2
+advanced,,'',,'',2,0,0,2
+adventure/western/war,,'',,'',2,0,0,2
+advertisement/shopping,,'',,'',2,0,0,2
+alphabetic,,'',,'',2,0,0,2
+alphabetic reverse,,'',,'',2,0,0,2
+alternative,,'',,'',2,0,0,2
+"arts/culture (without music, general)",,'',,'',2,0,0,2
+arts/culture magazine,,'',,'',2,0,0,2
+as plugin in extended bar,,'',,'',2,0,0,2
+at beginning,,'',,'',2,0,0,2
+at end,,'',,'',2,0,0,2
+athletics,,'',,'',2,0,0,2
+audio tracks,,'',,'',2,0,0,2
+auto,,'',,'',2,0,0,2
+auto deepstandby,,'',,'',2,0,0,2
+auto standby,,'',,'',2,0,0,2
+automatic,,'',,'',2,0,0,2
+back,,'',,'',2,0,0,2
+background image,,'',,'',2,0,0,2
+ballet,,'',,'',2,0,0,2
+bc%s,,'',,,1,0,0,1
+better,,'',,'',2,0,0,2
+black,,'',,'',2,0,0,2
+black & white,,'',,'',2,0,0,2
+blacklist,,'',,'',2,0,0,2
+blue,,'',,'',2,0,0,2
+broadcasting/press,,'',,'',2,0,0,2
+by date,,'',,'',2,0,0,2
+caid:,,'',,'',2,0,0,2
+card,,'',,'',2,0,0,2
+card reader,,'',,'',2,0,0,2
+cartoon/puppets,,'',,'',2,0,0,2
+center,centre,centre,,'',3,1,1,1
+chapters,,'',,'',2,0,0,2
+childrens's/youth program (general),,children's's/youth program (general),,,1,1,0,0
+circular left,,'',,'',2,0,0,2
+circular right,,'',,'',2,0,0,2
+close share view,,'',,'',2,0,0,2
+comedy,,'',,'',2,0,0,2
+complex,,'',,,1,0,0,1
+confirmed,,'',,'',2,0,0,2
+connected,,'',,'',2,0,0,2
+continue,,'',,,1,0,0,1
+cooking,,'',,'',2,0,0,2
+copy,,'',,'',2,0,0,2
+copy to bouquets,,'',,,1,0,0,1
+create directory,,'',,'',2,0,0,2
+currently installed image: %s,,'',,,1,0,0,1
+daily,,'',,'',2,0,0,2
+day,,'',,'',2,0,0,2
+decrease uphop by 1,,'',,'',2,0,0,2
+delete,,'',,'',2,0,0,2
+delete cut,,'',,'',2,0,0,2
+descramble and record ecm,,'',,'',2,0,0,2
+detective/thriller,,'',,'',2,0,0,2
+disable,,'',,'',2,0,0,2
+disable move mode,,'',,,1,0,0,1
+disabled,,'',,'',2,0,0,2
+disconnected,,'',,'',2,0,0,2
+discussion/interview/debate,,'',,'',2,0,0,2
+do nothing,,'',,'',2,0,0,2
+documentary,,'',,'',2,0,0,2
+"don't descramble, record ecm",,'',,'',2,0,0,2
+done!,,'',,'',2,0,0,2
+e-mail address,,'',,'',2,0,0,2
+east,,'',,'',2,0,0,2
+ecm time:,,'',,'',2,0,0,2
+ecm.info,,'',,'',2,0,0,2
+economics/social advisory,,'',,'',2,0,0,2
+edit alternatives,,'',,,1,0,0,1
+education/science/factual topics (general),,'',,'',2,0,0,2
+empty,,'',,'',2,0,0,2
+enable,,'',,'',2,0,0,2
+enable bouquet edit,,'',,,1,0,0,1
+enable favourite edit,,'',,,1,0,0,1
+enable move mode,,'',,,1,0,0,1
+enabled,,'',,'',2,0,0,2
+end alternatives edit,,'',,,1,0,0,1
+end bouquet edit,,'',,,1,0,0,1
+end cut here,,'',,'',2,0,0,2
+end favourites edit,,'',,,1,0,0,1
+enter number to jump to channel.,,'',,,1,0,0,1
+entertainment (10-16 year old),,'',,'',2,0,0,2
+entertainment (6-14 year old),,'',,'',2,0,0,2
+equal to,,'',,,1,0,0,1
+equestrian,,'',,'',2,0,0,2
+exit DVD player or return to file browser,,'',,'',2,0,0,2
+exit mounts setup menu,,'',,,1,0,0,1
+exit network adapter configuration,,'',,,1,0,0,1
+exit networkadapter setup menu,,exit network adapter setup menu,,,1,1,0,0
+experimental film/video,,'',,'',2,0,0,2
+extensions.,,'',,'',2,0,0,2
+failed,,'',,'',2,0,0,2
+false,,'',,'',2,0,0,2
+fashion,,'',,'',2,0,0,2
+fast,,'',,'',2,0,0,2
+file oscam.conf could not be found,,'',,,1,0,0,1
+"fileformats (BMP, PNG, JPG, GIF)",,'',,'',2,0,0,2
+filename,,'',,'',2,0,0,2
+film/cinema,,'',,'',2,0,0,2
+fine arts,,'',,'',2,0,0,2
+fine-tune your display,,'',,,1,0,0,1
+fitness & health,,'',,'',2,0,0,2
+flat alphabetic,,'',,'',2,0,0,2
+flat alphabetic reverse,,'',,'',2,0,0,2
+folk/traditional music,,'',,'',2,0,0,2
+football/soccer,,'',,'',2,0,0,2
+foreign countries/expeditions,,'',,'',2,0,0,2
+forward to the next chapter,,'',,'',2,0,0,2
+free,,'',,'',2,0,0,2
+free diskspace,,disk space,,'',2,1,0,1
+full,,'',,'',2,0,0,2
+further education,,'',,'',2,0,0,2
+game show/quiz/contest,,'',,'',2,0,0,2
+gardening,,'',,'',2,0,0,2
+get the cards' server,,'',,'',2,0,0,2
+go to deep standby,,'',,'',2,0,0,2
+go to standby,,'',,'',2,0,0,2
+grab this frame as bitmap,,'',,'',2,0,0,2
+green,,'',,'',2,0,0,2
+handicraft,,'',,'',2,0,0,2
+handled,,'',,'',2,0,0,2
+has been sent to the ViX beta team.\nplease quote,,'',,,1,0,0,1
+height,,'',,'',2,0,0,2
+hops:,,'',,'',2,0,0,2
+horizontal,,'',,'',2,0,0,2
+increase uphop by 1,,'',,'',2,0,0,2
+information/education/school program,,'',,'',2,0,0,2
+init module,,'',,'',2,0,0,2
+init modules,,'',,,1,0,0,1
+insert mark here,,'',,'',2,0,0,2
+invalid type,,'',,'',2,0,0,2
+is strongly advised.,,'',,'',2,0,0,2
+jazz,,'',,'',2,0,0,2
+jump back to the previous title,,'',,'',2,0,0,2
+jump forward to the next title,,'',,'',2,0,0,2
+languages,,'',,'',2,0,0,2
+leave movie player...,,'',,,1,0,0,1
+left,,'',,'',2,0,0,2
+leisure hobbies (general),,'',,'',2,0,0,2
+length,,'',,'',2,0,0,2
+"limit ..., aborting !",,'',,'',2,0,0,2
+literature,,'',,'',2,0,0,2
+live broadcast,,'',,'',2,0,0,2
+locked,,'',,'',2,0,0,2
+loopthrough to,,'',,,1,0,0,1
+magazines/reports/documentary,,'',,'',2,0,0,2
+making a backup before updating,,'',,'',2,0,0,2
+manual,,'',,'',2,0,0,2
+martial sports,,'',,'',2,0,0,2
+medicine/physiology/psychology,,'',,'',2,0,0,2
+menu,,'',,'',2,0,0,2
+mins,,'',,'',2,0,0,2
+minute,,'',,'',2,0,0,2
+minutes,,'',,'',2,0,0,2
+month,,'',,'',2,0,0,2
+motor sport,,'',,'',2,0,0,2
+motoring,,'',,'',2,0,0,2
+move,,'',,'',2,0,0,2
+move down to last entry,,'',,,1,0,0,1
+move down to next entry,,'',,,1,0,0,1
+move up to first entry,,'',,,1,0,0,1
+move up to previous entry,,'',,,1,0,0,1
+movie/drama (general),,'',,'',2,0,0,2
+ms,,'',,'',2,0,0,2
+multinorm,,'',,'',2,0,0,2
+music/ballet/dance (general),,'',,'',2,0,0,2
+musical/opera,,'',,'',2,0,0,2
+nature/animals/environment,,'',,'',2,0,0,2
+never,,'',,'',2,0,0,2
+new media,,'',,'',2,0,0,2
+news magazine,,'',,'',2,0,0,2
+news/current affairs (general),,'',,'',2,0,0,2
+news/weather report,,'',,'',2,0,0,2
+no,,'',,'',2,0,0,2
+no CAId selected,,'',,'',2,0,0,2
+no CI slots found,,'',,'',2,0,0,2
+no module found,,'',,'',2,0,0,2
+no or unknown card inserted,no card or unrecognised card inserted,'',,'',3,1,0,2
+no storage devices found,,'',,'',2,0,0,2
+none,,'',,'',2,0,0,2
+normal,,'',,'',2,0,0,2
+not configured,,'',,'',2,0,0,2
+not locked,,'',,'',2,0,0,2
+not supported,,'',,'',2,0,0,2
+not used,,'',,,1,0,0,1
+nothing connected,,'',,'',2,0,0,2
+of a DUAL layer medium used.,,'',,'',2,0,0,2
+of a SINGLE layer medium used.,,'',,'',2,0,0,2
+off,,'',,'',2,0,0,2
+offset is,,'',,'',2,0,0,2
+on,,'',,'',2,0,0,2
+on READ ONLY medium.,,'',,'',2,0,0,2
+once,,'',,'',2,0,0,2
+only HD,,'',,'',2,0,0,2
+open bouquetlist,,open bouquet list,,,1,1,0,0
+open nameserver configuration,,'',,,1,0,0,1
+original,,'',,'',2,0,0,2
+original language,,'',,'',2,0,0,2
+packages selected.,,'',,'',2,0,0,2
+page left,,'',,'',2,0,0,2
+pass,,'',,'',2,0,0,2
+performing arts,,'',,'',2,0,0,2
+pid:,,'',,'',2,0,0,2
+play as picture in picture,,'',,,1,0,0,1
+play in mainwindow,,play in main window,,,1,1,0,0
+please press OK when ready,,'',,,1,0,0,1
+"please wait, loading picture...",,'',,'',2,0,0,2
+please wait...,,'',,'',2,0,0,2
+popular culture/traditional arts,,'',,'',2,0,0,2
+pre-school children's program,,'',,'',2,0,0,2
+provid:,,'',,'',2,0,0,2
+provider:,,'',,'',2,0,0,2
+reboot system,,'',,'',2,0,0,2
+record,,'',,'',2,0,0,2
+recording...,,'',,'',2,0,0,2
+red,,'',,'',2,0,0,2
+religion,,'',,'',2,0,0,2
+remarkable people,,'',,'',2,0,0,2
+remove after this position,,'',,'',2,0,0,2
+remove all alternatives,,'',,,1,0,0,1
+remove all new found flags,,'',,,1,0,0,1
+remove before this position,,'',,'',2,0,0,2
+remove bookmark,,'',,'',2,0,0,2
+remove directory,,'',,'',2,0,0,2
+remove entry,,'',,,1,0,0,1
+remove from parental protection,,'',,,1,0,0,1
+remove new found flag,,'',,,1,0,0,1
+remove selected satellite,,'',,,1,0,0,1
+remove this mark,,'',,'',2,0,0,2
+rename,,'',,'',2,0,0,2
+rename entry,,'',,,1,0,0,1
+repeat playlist,,'',,'',2,0,0,2
+repeated,,'',,'',2,0,0,2
+restart GUI,,'',,'',2,0,0,2
+reverse by date,,'',,'',2,0,0,2
+rewind to the previous chapter,,'',,'',2,0,0,2
+right,,'',,'',2,0,0,2
+rock/pop,,'',,'',2,0,0,2
+romance,,'',,'',2,0,0,2
+running...,,'',,'',2,0,0,2
+save last directory on exit,,'',,'',2,0,0,2
+save playlist on exit,,'',,'',2,0,0,2
+scan state,,'',,'',2,0,0,2
+science fiction/fantasy/horror,,'',,'',2,0,0,2
+second cable of motorized LNB,second cable of motorised LNB,second cable of motorised LNB,,,2,1,1,0
+seconds,,'',,'',2,0,0,2
+select,,'',,'',2,0,0,2
+select CAId's,,'',,'',2,0,0,2
+select menu entry,,'',,,1,0,0,1
+serious music/classic music,,'',,'',2,0,0,2
+serious/classical/religious/historical movie/drama,,'',,'',2,0,0,2
+service PIN,,'',,,1,0,0,1
+set as startup service,,'',,,1,0,0,1
+setup PIN,,'',,,1,0,0,1
+share:,,'',,'',2,0,0,2
+show DVD main menu,,'',,'',2,0,0,2
+show EPG...,,show EPG…,,,1,1,0,0
+show all cards,,'',,'',2,0,0,2
+show all tags,,'',,'',2,0,0,2
+show alternatives,,'',,,1,0,0,1
+show cards with uphop 0,,'',,'',2,0,0,2
+show cards with uphop 1,,'',,'',2,0,0,2
+show cards with uphop 2,,'',,'',2,0,0,2
+show cards with uphop 3,,'',,'',2,0,0,2
+show cards with uphop 4,,'',,'',2,0,0,2
+show cards with uphop 5,,'',,'',2,0,0,2
+show cards with uphop 6,,'',,'',2,0,0,2
+show cards with uphop 7,,'',,'',2,0,0,2
+show cards with uphop 8,,'',,'',2,0,0,2
+show cards with uphop 9,,'',,'',2,0,0,2
+show event details,,'',,'',2,0,0,2
+show mediaplayer on mainmenu,,show media player on main menu,,'',2,1,0,1
+show picons in service list,,'',,,1,0,0,1
+show program information...,,'',,,1,0,0,1
+show softwaremanager in plugin menu,,show software manager in plugin menu,,'',2,1,0,1
+show softwaremanager on blue button,,show software manager on blue button,,'',2,1,0,1
+show transponder info,,'',,,1,0,0,1
+show/game show (general),,'',,'',2,0,0,2
+shuffle,,'',,'',2,0,0,2
+shut down,,'',,'',2,0,0,2
+simple,,'',,'',2,0,0,2
+skip backward,,'',,'',2,0,0,2
+skip backward (enter time),,'',,'',2,0,0,2
+skip forward,,'',,'',2,0,0,2
+skip forward (enter time),,'',,'',2,0,0,2
+slow,,'',,'',2,0,0,2
+soap/melodram/folkloric,,soap/melodrama/folkloric,,,1,1,0,0
+social/political issues/economics (general),,'',,'',2,0,0,2
+social/spiritual science,,'',,'',2,0,0,2
+sorting of playlists,,'',,'',2,0,0,2
+special characters,,'',,,1,0,0,1
+special events,,'',,'',2,0,0,2
+sports (general),,'',,'',2,0,0,2
+sports magazine,,'',,'',2,0,0,2
+standard,,'',,,1,0,0,1
+start cut here,,'',,'',2,0,0,2
+start directory,,'',,'',2,0,0,2
+stepsize,,'',,'',2,0,0,2
+stereo,,'',,'',2,0,0,2
+stop using as startup service,,'',,,1,0,0,1
+switch to bookmarks,,'',,'',2,0,0,2
+switch to filelist,,'',,'',2,0,0,2
+switch to the next angle,,'',,'',2,0,0,2
+switch to the next audio track,,'',,'',2,0,0,2
+switch to the next subtitle language,,'',,'',2,0,0,2
+system:,,'',,'',2,0,0,2
+talk show,,'',,'',2,0,0,2
+team sports,,'',,'',2,0,0,2
+technology/natural science,,'',,'',2,0,0,2
+template file,,'',,'',2,0,0,2
+tennis/squash,,'',,'',2,0,0,2
+this recording,,'',,'',2,0,0,2
+this service is protected by a parental control pin,,'',,'',2,0,0,2
+"toggle time, chapter, audio, subtitle info",,'',,'',2,0,0,2
+top,,'',,'',2,0,0,2
+tourism/travel,,'',,'',2,0,0,2
+true,,'',,'',2,0,0,2
+tuner is not supported,,'',,,1,0,0,1
+uShare Log,,'',,,1,0,0,1
+uShare Name,,'',,'',2,0,0,2
+uShare Port,,'',,'',2,0,0,2
+uShare Setup,,'',,'',2,0,0,2
+uShare setup,,'',,,1,0,0,1
+unavailable,,'',,'',2,0,0,2
+unconfirmed,,'',,'',2,0,0,2
+unknown,,'',,'',2,0,0,2
+unknown service,,'',,'',2,0,0,2
+unpublished,,'',,'',2,0,0,2
+until standby/restart,,'',,'',2,0,0,2
+updates available.,,'',,'',2,0,0,2
+user defined,,'',,'',2,0,0,2
+using:,,'',,'',2,0,0,2
+variety show,,'',,'',2,0,0,2
+vertical,,'',,'',2,0,0,2
+view extensions...,,'',,,1,0,0,1
+wait for ci...,,'',,'',2,0,0,2
+wait for mmi...,,'',,'',2,0,0,2
+waiting,,'',,'',2,0,0,2
+wakeup,,'',,'',2,0,0,2
+wakeup to standby,,'',,'',2,0,0,2
+water sport,,'',,'',2,0,0,2
+weekly,,'',,'',2,0,0,2
+west,,'',,'',2,0,0,2
+when asking question about this log,,'',,,1,0,0,1
+when asking question about this log\n\nA copy has been sent to yourself.,,'',,,1,0,0,1
+white,,'',,'',2,0,0,2
+whitelist,,'',,,1,0,0,1
+width,,'',,'',2,0,0,2
+winter sport,,'',,'',2,0,0,2
+wireless network interface,,'',,'',2,0,0,2
+with exit button,,'',,'',2,0,0,2
+with left/right buttons,,'',,'',2,0,0,2
+with long OK press,,'',,'',2,0,0,2
+working,,'',,'',2,0,0,2
+yellow,,'',,'',2,0,0,2
+yes,,'',,'',2,0,0,2
+yes (keep feeds),,'',,'',2,0,0,2
+zap,,'',,'',2,0,0,2
+zap and record,,'',,'',2,0,0,2
+zapped,,'',,'',2,0,0,2
+Delete Language,,'',,,1,0,0,1
+%02d.%02d.,%02d.%02d,,,,1,1,0,0
+%d Mins,%d mins,,,,1,1,0,0
+Aborting updateprogress,Cancelling update progress...,,,,1,1,0,0
+Allocate a number to the physical LNB you are configuring. You will be able to select this LNB again for other satellites (e.g. motorised dishes) to save setting up the same LNB multiple times.,Allocate a number to the physical LNB you're configuring. You'll be able to select this LNB again for other satellites (e.g. motorised dishes) to avoid having to set up the same LNB multiple times.,,,,1,1,0,0
+Cancelled upon user request,Cancelled by user,,,,1,1,0,0
+Choose whether or not to show an icon when a motorized dish is moving.,Choose whether or not to show an indicator while a motorised dish is moving.,,,,1,1,0,0
+Color,Colour,,,,1,1,0,0
+"Configure which tuner will be preferred for recordings, when more than one tuner is available. 'Disabled' would select a tuner based on preferred tuner in customise screen. 'Auto' would choose based on E2's default rules, ignoring preferred tuner in customise screen.",Select which tuner should be used for recordings when more than one tuner is available. 'disabled' would select based on the preferred tuner on the customise screen. 'auto' will ignore the preferred tuner and select one based on Enigma2's default rules.,,,,1,1,0,0
+Customise enigma2 personal settings,Customise your receiver's settings,,,,1,1,0,0
+Do center DVB subs on this service,Centre DVB subtitles on this channel,,,,1,1,0,0
+Do not center DVB subs on this service,Don't centre DVB subtitles,,,,1,1,0,0
+Do you really want to move to trashcan ?,Are you sure you want to move to the trash?,,,,1,1,0,0
+External subtitle dialog colorisation,External subtitle dialogue colourisation,,,'',2,1,0,1
+File transfer was cancelled by user,File transfer was cancelled,,,,1,1,0,0
+HDMI Colordepth,HDMI colour depth/bit depth,,,,1,1,0,0
+HDMI Colorimetry,HDMI colourimetry,,,,1,1,0,0
+HDMI Colorspace,HDMI colour space,,,'',2,1,0,1
+"If the 'deep standby workaround' is enabled, it waits until the system time is synchronized. Depending on the requirement, the devices wake up will continuing after a maximum of 2 minutes.","If the 'deep standby workaround' is enabled, it will wait until the system time is synchronised. Depending on the requirement, the devices wake up will continuing after a maximum of 2 minutes.",,,,1,1,0,0
+"If you are using a Circular polarised LNB select 'yes', otherwise select 'no'.","If you're using a circular polarised LNB, select 'yes', otherwise select 'no'.",,,,1,1,0,0
+ImageWizard,Initialisation Wizard,,,,1,1,0,0
+Personalize your Skin,Customise your skin,,,,1,1,0,0
+Recording aborted,Recording cancelled,,,,1,1,0,0
+Red colored,red colour text,,,'',2,1,0,1
+Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired),Replace '- ' in dialogue with coloured text per speaker (like teletext subtitles for the hearing impaired).,,,'',2,1,0,1
+Select the tuner that controls the motorised dish.,Select which tuner should be used to control the motorised dish.,,,,1,1,0,0
+Service cant been added to the favourites.,Channel can't be added to favourites.,,,,1,1,0,0
+Synchronize systemtime using transponder or internet.,Choose whether to synchronise your receiver's clock with transponder information or an internet time server.,,,,1,1,0,0
+The SimpleUmount plugin is not installed!\nPlease install it.,The AutoTimer plugin is not installed!\nPlease install it.,,,,1,1,0,0
+Theater,Theatre,,,,1,1,0,0
+This option allows you can config the Colordepth for UHD,This option lets you set the colour depth (also known as as bit depth) for UHD,,,,1,1,0,0
+This option allows you can config the Colorimetry for HDR,This option lets you set the colourimetry for HDR.This relates to how colour is perceived.,,,,1,1,0,0
+This option allows you can config the Colorspace from Auto to RGB,Choose between Auto and RGB colour spaces.\nThis determines how color signals are sent to your TV.,,,,1,1,0,0
+This option allows you can enable or disable the 10 Bit Color Mode,Choose whether to enable or disable 10-bit colour mode,,,,1,1,0,0
+This option allows you can enable or disable the 12 Bit Color Mode,Choose whether to enable or disable 12-bit colour mode,,,,1,1,0,0
+This option allows you can force the HDR Modes for UHD,"This option allows you to force HDR mode for UHD\nHigh Dynamic Range; HDR pictures on supported television sets will have brighter highlights, more impact and a wider range of color detail.",,,,1,1,0,0
+This option allows you can force the HDR10 Modes for UHD,"This option allows you to force HDR10 mode for UHD\nHigh Dynamic Range for streaming; HDR10 is similar to Dolby Vision.HDR pictures on supported television sets will have brighter highlights, more impact and a wider range of color detail.",,,,1,1,0,0
+This option allows you can force the HLG Modes for UHD,"This option allows you to force HLG mode for UHDHybrid Log Gamma; HLG is a type of High Dynamic Range (HDR) for broadcast cable, satellite and live TV.\nHDR pictures on supported television sets have brighter highlights, more impact and a wider range of color detail.",,,,1,1,0,0
+This option allows you choose the background colour of transparent picons.,Choose which colour to show behind channel picons with transparent backgrounds.,,,,1,1,0,0
+USALS automatically moves a motorised dish to the correct satellite based on the coordinates entered by the user. Without USALS each satellite will need to be setup and saved individually.,"USALS automatically moves a motorised dish to the correct satellite based on the co-ordinates entered by the user. Without USALS, each satellite will need to be set up and saved individually.",,,,1,1,0,0
+Up/Down buttons also for 'all up/down'?,Synchronise column scrolling,,,,1,1,0,0
+With this option you can switch the LED color or deactivate the LED.,With this option you can change the LED colour or deactivate it.,,,,1,1,0,0
+Your receiver can use SCPC optimized search range. Consult your receiver's manual for more information.,Your receiver can use SCPC optimised search range. Consult your receiver's documentation for more information.,,,,1,1,0,0
+centered,centred,,,,1,1,0,0
+"centered, wrapped","centred, wrapped",,,,1,1,0,0
+\nRecording in progress.,,,,'',1,0,0,1
+ (Channel %s),,,,'',1,0,0,1
+ (disabled),,,,'',1,0,0,1
+ (higher than any auto),,,,'',1,0,0,1
+ (higher than rotor any auto),,,,'',1,0,0,1
+ (lower than any auto),,,,'',1,0,0,1
+%.0f GB,,,,'',1,0,0,1
+%.0f MB,,,,'',1,0,0,1
+%d %B %Y,,,,'',1,0,0,1
+%s:%s,,,,'',1,0,0,1
+* current animation,,,,'',1,0,0,1
+2160p 24Hz,,,,'',1,0,0,1
+2160p 25Hz,,,,'',1,0,0,1
+2160p 30Hz,,,,'',1,0,0,1
+2160p 50Hz,,,,'',1,0,0,1
+2160p 60Hz,,,,'',1,0,0,1
+3D Surround Speaker Position,,,,'',1,0,0,1
+480p 24Hz,,,,'',1,0,0,1
+"A background update check is in progress,\nplease wait a few minutes and try again.",,,,'',1,0,0,1
+"A background update check is in progress, please wait a few minutes and then try again.",,,,'',1,0,0,1
+A recording is currently in progress.\nWhat do you want to do?,,,,'',1,0,0,1
+A sleep timer wants to set your\n%s %s to standby. Proceed?,,,,'',1,0,0,1
+A sleep timer wants to shut down\nyour %s %s. Proceed?,,,,'',1,0,0,1
+AAC transcoding,,,,'',1,0,0,1
+AC3,,,,'',1,0,0,1
+Abort alternatives edit,,,,'',1,0,0,1
+Abort bouquet edit,,,,'',1,0,0,1
+Abort favourites edit,,,,'',1,0,0,1
+Activate HbbTV (RedButton),,,,'',1,0,0,1
+Activate MAC address configuration,,,,'',1,0,0,1
+Activate network adapter configuration,,,,'',1,0,0,1
+Activate timeshift end,,,,'',1,0,0,1
+Activate timeshift end and pause,,,,'',1,0,0,1
+Add alternatives,,,,'',1,0,0,1
+Add bouquet,,,,'',1,0,0,1
+Add bouquet to parental protection,,,,'',1,0,0,1
+Add marker,,,,'',1,0,0,1
+Add service to bouquet,,,,'',1,0,0,1
+Add service to favourites,,,,'',1,0,0,1
+Add to parental protection,,,,'',1,0,0,1
+Advanced,,,,'',1,0,0,1
+All frequency,,,,'',1,0,0,1
+All satellites 1 (USALS),,,,'',1,0,0,1
+All satellites 2 (USALS),,,,'',1,0,0,1
+All satellites 3 (USALS),,,,'',1,0,0,1
+All satellites 4 (USALS),,,,'',1,0,0,1
+Allows you to enable the debug logs. They contain very detailed information about everything the system does. Reboot required to enable this!,,,,'',1,0,0,1
+Also on standby,,,,'',1,0,0,1
+Animation Speed,,,,'',1,0,0,1
+Animations,,,,'',1,0,0,1
+"Are you ready to install \""%s\"" ?",,,,'',1,0,0,1
+"Are you ready to remove \""%s\"" ?",,,,'',1,0,0,1
+Are you sure you want to delete all the selected logs:\n,,,,'',1,0,0,1
+Are you sure you want to delete the EPG data from:\n,,,,'',1,0,0,1
+Are you sure you want to purge all deleted user bouquets?,,,,'',1,0,0,1
+Are you sure you want to remove all %d.%d%s%s services?,,,,'',1,0,0,1
+Are you sure you want to remove all cable services?,,,,'',1,0,0,1
+Are you sure you want to remove all terrestrial services?,,,,'',1,0,0,1
+Are you sure you want to remove this entry?,,,,'',1,0,0,1
+Ask user (with default as 'no'),,,,'',1,0,0,1
+Ask user (with default as 'yes'),,,,'',1,0,0,1
+"Attention, this is repeated timer!\n",,,,'',1,0,0,1
+Audio,,,,'',1,0,0,1
+Auto EXIF Orientation rotation/flipping,,,,'',1,0,0,1
+Auto Volume Level,,,,'',1,0,0,1
+Auto play blu-ray file,,,,'',1,0,0,1
+BER:,,,,'',1,0,0,1
+Back/Recall,,,,'',1,0,0,1
+Big PiP,,,,'',1,0,0,1
+Blue long,,,,'',1,0,0,1
+Buffering %d%%,,,,'',1,0,0,1
+Button setup for,,,,'',1,0,0,1
+ButtonSetup,,,,'',1,0,0,1
+CH%s,,,,'',1,0,0,1
+CI (Common Interface) Setup,,,,'',1,0,0,1
+Cannot move to the trash can,,,,'',1,0,0,1
+Capabilities: ,,,,'',1,0,0,1
+Cascade PiP,,,,'',1,0,0,1
+Change PIN,,,,'',1,0,0,1
+Change recording (add time),,,,'',1,0,0,1
+Change recording (end time),,,,'',1,0,0,1
+Channel down,,,,'',1,0,0,1
+Channel info,,,,'',1,0,0,1
+Channel up,,,,'',1,0,0,1
+Checking tuner %s\nDiSEqC port %s for %s,,,,'',1,0,0,1
+Choose the location for crash and debug logs folder.,,,,'',1,0,0,1
+Choose whether AAC sound tracks should be transcoded.,,,,'',1,0,0,1
+Choose whether multi channel sound tracks should be output as PCM.,,,,'',1,0,0,1
+Circular LNB,,,,'',1,0,0,1
+Clone TV screen to LCD,,,,'',1,0,0,1
+Configure if and how crypto icons will be shown in the channel selection list.,,,,'',1,0,0,1
+Configure if and how the record indicator will be shown in the channel selection list.,,,,'',1,0,0,1
+Configure if and how wide the service name column will be shown in the channel selection list.,,,,'',1,0,0,1
+Configure if behind the subtitles a background is shown.,,,,'',1,0,0,1
+"Configure if the subtitle should switch between normal, italic, bold and bolditalic",,,,'',1,0,0,1
+Configure the infobar fading speed,,,,'',1,0,0,1
+"Configure the minimum width before showing the 'i' icon, '0' is equal to not showing the icon at all.",,,,'',1,0,0,1
+Configure the number of days after which items are automatically removed from the trash can.\nA setting of 0 disables this.,,,,'',1,0,0,1
+Configure the refresh rate of the screen. Multi means refresh rate depends on the source 24/50/60Hz,,,,'',1,0,0,1
+Configure the source of the frontend data as shown on the infobars. 'Settings' is as stored on the settings. 'Tuner' is as reported by the tuner.,,,,'',1,0,0,1
+Configure whether or not an rotor position will be displayed on infobar,,,,'',1,0,0,1
+"Configure which tuner for recordings will be preferred, when more than one tuner is available.",,,,'',1,0,0,1
+Connected satellites,,,,'',1,0,0,1
+Context,,,,'',1,0,0,1
+Copy to bouquets,,,,'',1,0,0,1
+Could not record due to a conflicting timer %s,,,,'',1,0,0,1
+Could not record due to an invalid service %s,,,,'',1,0,0,1
+Current mode: %s \n,,,,'',1,0,0,1
+Current rotor position: ,,,,'',1,0,0,1
+Customize settings,,,,Customise settings,1,1,0,0
+DTS,,,,'',1,0,0,1
+De-select,,,,'',1,0,0,1
+Delay after change voltage before switch command,,,,'',1,0,0,1
+Delay after continuous tone disable before diseqc,,,,'',1,0,0,1
+Delay after diseqc peripherial poweron command,,,,'',1,0,0,1
+Delay after diseqc reset command,,,,'',1,0,0,1
+Delay after enable voltage before motor command,,,,'',1,0,0,1
+Delay after enable voltage before switch command,,,,'',1,0,0,1
+Delay after final continuous tone change,,,,'',1,0,0,1
+Delay after last diseqc command,,,,'',1,0,0,1
+Delay after last voltage change,,,,'',1,0,0,1
+Delay after motor stop command,,,,'',1,0,0,1
+Delay after set voltage before measure motor power,,,,'',1,0,0,1
+Delay after toneburst,,,,'',1,0,0,1
+Delay after voltage change before motor command,,,,'',1,0,0,1
+Delay before sequence repeat,,,,'',1,0,0,1
+Delay between diseqc commands,,,,'',1,0,0,1
+Delay between switch and motor command,,,,'',1,0,0,1
+Delete EPG,,,,'',1,0,0,1
+Descramble receiving http streams,,,,'',1,0,0,1
+Descramble sending http streams,,,,'',1,0,0,1
+Detected devices:,,,,'',1,0,0,1
+Detected tuners:,,,,'',1,0,0,1
+DiSEqC 1.0 command,,,,'',1,0,0,1
+DiSEqC 1.1 command,,,,'',1,0,0,1
+DiSEqC 1.1 repeats,,,,'',1,0,0,1
+Disable Animations,,,,'',1,0,0,1
+Disable move mode,,,,'',1,0,0,1
+Do nothing,,,,'',1,0,0,1
+Do you really want to initialize this device?\nAll the data on the device will be lost!,,,,Do you really want to initialise this device?\nAll the data on the device will be lost!,1,1,0,0
+Do you really want to move to the trash can ?,,,,'',1,0,0,1
+Do you really want to permamently remove '%s' from the trash can ?,,,,Do you really want to permanently remove '%s' from the trash can ?,1,1,0,0
+Do you really want to permanently remove from the trash can ?,,,,'',1,0,0,1
+Do you want to continue?,,,,'',1,0,0,1
+Do you want to delete all the selected files:\n(choose 'No' to only delete the currently selected file.),,,,'',1,0,0,1
+Do you want to resume playback?,,,,'',1,0,0,1
+Do you want to send all the selected files:\n(choose 'No' to only send the currently selected file.),,,,'',1,0,0,1
+Dobly Digital downmix is now,,,,'',1,0,0,1
+Don't stop current event but disable future events,,,,'',1,0,0,1
+Don't zap,,,,'',1,0,0,1
+Don't zap and disable timer,,,,'',1,0,0,1
+Don't zap and remove timer,,,,'',1,0,0,1
+Down,,,,'',1,0,0,1
+Drivers:\t%s\n,,,,'',1,0,0,1
+Edit alternatives,,,,'',1,0,0,1
+Edit new entry,,,,'',1,0,0,1
+Enable Virgin EPG,,,,'',1,0,0,1
+Enable auto cable scan,,,,'',1,0,0,1
+Enable auto fast scan,,,,'',1,0,0,1
+Enable bouquet edit,,,,'',1,0,0,1
+Enable debug logs *,,,,'',1,0,0,1
+Enable fallback remote receiver,,,,'',1,0,0,1
+Enable favourite edit,,,,'',1,0,0,1
+Enable infobar fade-out,,,,'',1,0,0,1
+Enable move mode,,,,'',1,0,0,1
+Enable parental protection,,,,'',1,0,0,1
+Enable timer conflict detection,,,,'',1,0,0,1
+End,,,,'',1,0,0,1
+End alternatives edit,,,,'',1,0,0,1
+End bouquet edit,,,,'',1,0,0,1
+End favourites edit,,,,'',1,0,0,1
+Epg/Guide,,,,'',1,0,0,1
+Epg/Guide long,,,,'',1,0,0,1
+Equal to,,,,'',1,0,0,1
+Event name first,,,,'',1,0,0,1
+Event view menu,,,,'',1,0,0,1
+Everyday,,,,'',1,0,0,1
+Exit MAC address configuration,,,,'',1,0,0,1
+Exit mounts setup menu,,,,'',1,0,0,1
+Exit movie player...,,,,'',1,0,0,1
+Exit network adapter configuration,,,,'',1,0,0,1
+Exit network adapter setup menu,,,,'',1,0,0,1
+Exit networkadapter setup menu,,,,'',1,0,0,1
+Extended,,,,'',1,0,0,1
+External PiP,,,,'',1,0,0,1
+External subtitle switch fonts,,,,'',1,0,0,1
+Extra motor options,,,,'',1,0,0,1
+Extrude from left,,,,'',1,0,0,1
+F1,,,,'',1,0,0,1
+F1/LAN,,,,'',1,0,0,1
+F1/LAN long,,,,'',1,0,0,1
+F2,,,,'',1,0,0,1
+F2 long,,,,'',1,0,0,1
+F3,,,,'',1,0,0,1
+F3 long,,,,'',1,0,0,1
+FEC:,,,,'',1,0,0,1
+Fade the infobar when hiding,,,,'',1,0,0,1
+Fallback remote receiver URL,,,,'',1,0,0,1
+Fastforward,,,,'',1,0,0,1
+Final scroll delay,,,,'',1,0,0,1
+Font size,,,,'',1,0,0,1
+Free swap:,,,,'',1,0,0,1
+Frequency:,,,,'',1,0,0,1
+GStreamer:\t%s\n,,,,'',1,0,0,1
+Go to next bouquet,,,,'',1,0,0,1
+Go to next channel,,,,'',1,0,0,1
+Go to next event,,,,'',1,0,0,1
+Go to previous bouquet,,,,'',1,0,0,1
+Go to previous channel,,,,'',1,0,0,1
+Go to previous event,,,,'',1,0,0,1
+Go to specific data/time,,,,'',1,0,0,1
+Green,,,,'',1,0,0,1
+Green long,,,,'',1,0,0,1
+Grow drop,,,,'',1,0,0,1
+Grow from left,,,,'',1,0,0,1
+HD2400,,,,'',1,0,0,1
+HDMIin,,,,'',1,0,0,1
+Harddisk setup,,,,'',1,0,0,1
+Help,,,,'',1,0,0,1
+Help long,,,,'',1,0,0,1
+Helps setting up your antenna,,,,'',1,0,0,1
+Hide parental locked services,,,,'',1,0,0,1
+History back,,,,'',1,0,0,1
+History next,,,,'',1,0,0,1
+How many minutes do you want add to the recording?,,,,'',1,0,0,1
+How many minutes do you want to record for?,,,,'',1,0,0,1
+If enabled the output resolution of the box will try to match the resolution of the video content,,,,'',1,0,0,1
+"If you can see this, something is wrong with\nyour scart connection. Press OK to return.",,,,'',1,0,0,1
+Incorrect service type for PiP!,,,,'',1,0,0,1
+Info (EPG),,,,'',1,0,0,1
+Info (EPG) Long,,,,'',1,0,0,1
+Info icon width,,,,'',1,0,0,1
+Infobar fade-out speed,,,,'',1,0,0,1
+Infobar frontend data source,,,,'',1,0,0,1
+Initial scroll delay,,,,'',1,0,0,1
+Inotify monitoring,,,,'',1,0,0,1
+Install extensions,,,,'',1,0,0,1
+Installed:\t%s\n,,,,'',1,0,0,1
+Installing service,,,,'',1,0,0,1
+Instant record,,,,'',1,0,0,1
+Internet,,,,'',1,0,0,1
+Jump first press in channel selection,,,,'',1,0,0,1
+Jump to the next marked position,,,,'',1,0,0,1
+Jump to the previous marked position,,,,'',1,0,0,1
+KA-SAT,,,,KA-SAT (9°E),1,1,0,0
+Keeps the movie list open whilst playing audio files.,,,,'',1,0,0,1
+Kernel:\t%s\n,,,,'',1,0,0,1
+Large,,,,'',1,0,0,1
+List/Fav/PVR,,,,'',1,0,0,1
+Lists reloaded!,,,,'',1,0,0,1
+Load unlinked userbouquets,,,,'',1,0,0,1
+Lock:,,,,'',1,0,0,1
+Log,,,,'',1,0,0,1
+Logs folder location,,,,'',1,0,0,1
+Logs older than the specified number of days will be deleted.,,,,'',1,0,0,1
+Lower Framerate save CPU Time,,,,'',1,0,0,1
+MAC address,,,,'',1,0,0,1
+Manual,,,,'',1,0,0,1
+Mark service as a dedicated 3D service,,,,'',1,0,0,1
+Mark/Portal/Playlist,,,,'',1,0,0,1
+Max memory positions,,,,'',1,0,0,1
+Maximum number of days,,,,'',1,0,0,1
+Maybe the reason that recording is currently running. Please stop the recording before trying to configure the positioner.,,,,'',1,0,0,1
+MiniTV,,,,'',1,0,0,1
+MiniTV with OSD,,,,'',1,0,0,1
+Model: %s %s\n,,,,'',1,0,0,1
+Motor command retries,,,,'',1,0,0,1
+Motor running timeout,,,,'',1,0,0,1
+Move PIP,,,,'',1,0,0,1
+Move down to last entry,,,,'',1,0,0,1
+Move down to next entry,,,,'',1,0,0,1
+Move up to first entry,,,,'',1,0,0,1
+Move up to previous entry,,,,'',1,0,0,1
+Multisat all select,,,,'',1,0,0,1
+N,,,,'',1,0,0,1
+NO,,,,'',1,0,0,1
+Network menu,,,,'',1,0,0,1
+Network servers:,,,,'',1,0,0,1
+No active channel found.,,,,'',1,0,0,1
+No age block,,,,'',1,0,0,1
+No connection,,,,'',1,0,0,1
+No priority,,,,'',1,0,0,1
+"No satellite, terrestrial or cable tuner is configured. Please check your tuner setup.",,,,'',1,0,0,1
+"No, but restart from the beginning",,,,'',1,0,0,1
+Not Defined,,,,'',1,0,0,1
+Number of rows to display,,,,'',1,0,0,1
+OSD,,,,'',1,0,0,1
+On end of movie (as menu),,,,'',1,0,0,1
+"On your remote, click on the button you want to change",,,,'',1,0,0,1
+Only on startup,,,,'',1,0,0,1
+Open bouquet list,,,,'',1,0,0,1
+Open nameserver configuration,,,,'',1,0,0,1
+Open service list and select the next channel,,,,'',1,0,0,1
+Open service list and select the next channel for PiP,,,,'',1,0,0,1
+Open service list and select the previous channel,,,,'',1,0,0,1
+Open service list and select the previous channel for PiP,,,,'',1,0,0,1
+Open setup tuner ,,,,'',1,0,0,1
+Open the favourites list,,,,'',1,0,0,1
+Open the satellites list,,,,'',1,0,0,1
+Open the service list,,,,'',1,0,0,1
+PCM Multichannel,,,,'',1,0,0,1
+PDC,,,,'',1,0,0,1
+PIP,,,,'',1,0,0,1
+PIP with OSD,,,,'',1,0,0,1
+Panic to,,,,'',1,0,0,1
+Pause/Continue playback,,,,'',1,0,0,1
+Play as picture in picture,,,,'',1,0,0,1
+Playback information missing\nPlayback aborted to avoid crash\nPlease retry,,,,'',1,0,0,1
+Playlist,,,,'',1,0,0,1
+Playpause,,,,'',1,0,0,1
+Please change the recording end time,,,,'',1,0,0,1
+Please enter a new name:,,,,'',1,0,0,1
+Please enter new description:,,,,'',1,0,0,1
+Please enter the name of the new directory,,,,'',1,0,0,1
+Please enter the new PIN code,,,,'',1,0,0,1
+Please open Picture in Picture first,,,,'',1,0,0,1
+Please re-enter the new PIN code,,,,'',1,0,0,1
+Please select the tag to filter...,,,,'',1,0,0,1
+Please set up tuner E,,,,'',1,0,0,1
+Please set up tuner F,,,,'',1,0,0,1
+Please set up tuner G,,,,'',1,0,0,1
+Please set up tuner H,,,,'',1,0,0,1
+Please set up tuner I,,,,'',1,0,0,1
+Please set up tuner J,,,,'',1,0,0,1
+Please set up tuner K,,,,'',1,0,0,1
+Please use the direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,,,'',1,0,0,1
+Please wait while gathering EPG data...,,,,'',1,0,0,1
+Please wait while scanning for devices...,,,,'',1,0,0,1
+Please wait while your network configuration is activated...,,,,'',1,0,0,1
+Plugin browser,,,,'',1,0,0,1
+Polarisation:,,,,'',1,0,0,1
+Popup,,,,'',1,0,0,1
+Positioner (selecting satellites),,,,'',1,0,0,1
+Positioner setup log,,,,'',1,0,0,1
+Power,,,,'',1,0,0,1
+Power LCD Display,,,,'',1,0,0,1
+Power long,,,,'',1,0,0,1
+Prefer AC3+ track,,,,'',1,0,0,1
+Preferred tuner DVB-C,,,,'',1,0,0,1
+Preferred tuner DVB-C for recordings,,,,'',1,0,0,1
+Preferred tuner DVB-S,,,,'',1,0,0,1
+Preferred tuner DVB-S for recordings,,,,'',1,0,0,1
+Preferred tuner DVB-T,,,,'',1,0,0,1
+Preferred tuner DVB-T for recordings,,,,'',1,0,0,1
+Preferred tuner for recordings,,,,'',1,0,0,1
+Press '0' to toggle PiP mode,,,,'',1,0,0,1
+Press OK to select satellites,,,,'',1,0,0,1
+Press OK to set the MAC address.,,,,'',1,0,0,1
+Press OK to toggle the selection,,,,'',1,0,0,1
+"Press OK, save and exit...",,,,'',1,0,0,1
+Press yellow to set this interface as the default interface.,,,,'',1,0,0,1
+Previous,,,,'',1,0,0,1
+Protect configuration,,,,'',1,0,0,1
+Protect context menus,,,,'',1,0,0,1
+Protect main menu,,,,'',1,0,0,1
+Protect manufacturer reset screen,,,,'',1,0,0,1
+Protect movie list,,,,'',1,0,0,1
+Protect on epg age,,,,'',1,0,0,1
+Protect plugin browser,,,,'',1,0,0,1
+Protect screens,,,,'',1,0,0,1
+Protect software update screen,,,,'',1,0,0,1
+Protect standby menu,,,,'',1,0,0,1
+Protect timer menu,,,,'',1,0,0,1
+Protect vix menu,,,,'',1,0,0,1
+Purge deleted user bouquets,,,,'',1,0,0,1
+Python:\t%s\n,,,,'',1,0,0,1
+Question,,,,'',1,0,0,1
+Quick Actions,,,,'',1,0,0,1
+Radio,,,,'',1,0,0,1
+Really delete completed timers?,,,,'',1,0,0,1
+Really store at index %2d for current position?,,,,'',1,0,0,1
+Rec,,,,'',1,0,0,1
+Recording and playback settings,,,,'',1,0,0,1
+Red long,,,,'',1,0,0,1
+Reflash recommended!,,,,'',1,0,0,1
+Region,,,,'',1,0,0,1
+Reload blacklists,,,,'',1,0,0,1
+"Reminder, you have chosen to save timeshift file.",,,,'',1,0,0,1
+Remove all alternatives,,,,'',1,0,0,1
+Remove all new found flags,,,,'',1,0,0,1
+Remove bouquet from parental protection,,,,'',1,0,0,1
+Remove cable services,,,,'',1,0,0,1
+Remove entry,,,,'',1,0,0,1
+Remove from parental protection,,,,'',1,0,0,1
+Remove new found flag,,,,'',1,0,0,1
+Remove selected satellite,,,,'',1,0,0,1
+Remove terrestrial services,,,,'',1,0,0,1
+Removing service,,,,'',1,0,0,1
+Rename entry,,,,'',1,0,0,1
+Rename name and description for new events,,,,'',1,0,0,1
+Repeating the event currently recording... What do you want to do?,,,,'',1,0,0,1
+Require authentication for http streams,,,,'',1,0,0,1
+Restore deleted user bouquets,,,,'',1,0,0,1
+Reverse list,,,,'',1,0,0,1
+Rewind,,,,'',1,0,0,1
+Rewrap subtitles,,,,'',1,0,0,1
+Rotor: ,,,,'',1,0,0,1
+S,,,,'',1,0,0,1
+SNR:,,,,'',1,0,0,1
+Save timeshift and zap,,,,'',1,0,0,1
+Scaler vertical dejagging,,,,'',1,0,0,1
+Scan options,,,,'',1,0,0,1
+Search IMDb for information about the current event.,,,,'',1,0,0,1
+Search the epg for the current event.,,,,'',1,0,0,1
+Search/WEB,,,,'',1,0,0,1
+Second cable of motorized LNB,,,,Second cable of motorised LNB,1,1,0,0
+Select action,,,,'',1,0,0,1
+Select all,,,,'',1,0,0,1
+Select menu entry,,,,'',1,0,0,1
+Select slot,,,,'',1,0,0,1
+Select sort method:,,,,'',1,0,0,1
+"Select the desired function and click on \""OK\"" to assign it. Use \""CH+/-\"" to toggle between the lists. Select an assigned function and click on \""OK\"" to de-assign it. Use \""Next/Previous\"" to change the order of the assigned functions.",,,,'',1,0,0,1
+Selecting satellites 1 (USALS),,,,'',1,0,0,1
+Selecting satellites 2 (USALS),,,,'',1,0,0,1
+Serial no,,,,'',1,0,0,1
+Set Framerate for MiniTV,,,,'',1,0,0,1
+Set as startup service,,,,'',1,0,0,1
+Set default,,,,'',1,0,0,1
+Set interface as the default Interface,,,,'',1,0,0,1
+Set startup service,,,,'',1,0,0,1
+Set system,,,,'',1,0,0,1
+Set the MAC address of your %s %s.\n,,,,'',1,0,0,1
+Set the time before checking video source for resolution/refresh rate infomation.,,,,'',1,0,0,1
+Show 2160p 24fps as,,,,'',1,0,0,1
+Show 2160p 25fps as,,,,'',1,0,0,1
+Show 2160p 30fps as,,,,'',1,0,0,1
+Show 480/576p 24fps as,,,,'',1,0,0,1
+Show EPG...,,,,'',1,0,0,1
+Show MiniTV in the Front Display,,,,'',1,0,0,1
+Show PIP,,,,'',1,0,0,1
+Show PIP in the Front Display,,,,'',1,0,0,1
+Show alternatives,,,,'',1,0,0,1
+Show background behind subtitles,,,,'',1,0,0,1
+Show columns,,,,'',1,0,0,1
+Show crypto icons,,,,'',1,0,0,1
+Show event info plugins,,,,'',1,0,0,1
+Show extension selection,,,,'',1,0,0,1
+Show favourites list,,,,'',1,0,0,1
+Show full menu path,,,,'',1,0,0,1
+Show help,,,,'',1,0,0,1
+Show movies,,,,'',1,0,0,1
+"Show or hide the extended description, (skin dependant).",,,,'',1,0,0,1
+Show picons in service list,,,,'',1,0,0,1
+Show positioner position,,,,'',1,0,0,1
+Show program information...,,,,'',1,0,0,1
+Show record indicator,,,,'',1,0,0,1
+Show select audio track,,,,'',1,0,0,1
+Show service list,,,,'',1,0,0,1
+Show service list or movies,,,,'',1,0,0,1
+Show subservice selection,,,,'',1,0,0,1
+Show subtitle selection,,,,'',1,0,0,1
+Show the DreamPlex player...,,,,'',1,0,0,1
+Show the list of autotimers.,,,,'',1,0,0,1
+Show time in 24 hour clock format.,,,,'',1,0,0,1
+Show transponder info,,,,'',1,0,0,1
+Shows live tv or informations on LCD.,,,,'',1,0,0,1
+"Shows the icons when new/unseen, otherwise it will not show an icon.",,,,'',1,0,0,1
+Signal finder,,,,'',1,0,0,1
+Simple fade,,,,'',1,0,0,1
+Simple zoom,,,,'',1,0,0,1
+Skip back,,,,'',1,0,0,1
+Skip forward,,,,'',1,0,0,1
+Sleep,,,,'',1,0,0,1
+Slide drop,,,,'',1,0,0,1
+Slide from left,,,,'',1,0,0,1
+Slide left to right,,,,'',1,0,0,1
+Slide right to left,,,,'',1,0,0,1
+Slide top to bottom,,,,'',1,0,0,1
+Small,,,,'',1,0,0,1
+Smooth,,,,'',1,0,0,1
+"Sorry feeds are down for maintenance, please try again later. If this issue persists please check openvix.co.uk or world-of-satellite.com.",,,,'',1,0,0,1
+"Sorry feeds seem be in an unstable state, if you wish to use them please enable 'Allow unstable (experimental) updates' in \""Software update settings\"".",,,,'',1,0,0,1
+Sorry the feeds are down for maintenance,,,,'',1,0,0,1
+"Sorry the feeds seem to be in an unstable state, if you wish to use them please enable 'Allow unstable (experimental) updates' in \""Software update settings\"".",,,,'',1,0,0,1
+Sorry your Inadyn config is missing,,,,'',1,0,0,1
+Sorry your MiniDLNA config is missing,,,,'',1,0,0,1
+Sorry your uShare config is missing,,,,'',1,0,0,1
+"Sorry, this tuner is in use.",,,,'',1,0,0,1
+Sort Trash by deletion time,,,,'',1,0,0,1
+Sort by,,,,'',1,0,0,1
+Sort by default,,,,'',1,0,0,1
+Sort list to default and exit?,,,,'',1,0,0,1
+Sort list:,,,,'',1,0,0,1
+Sort plugins list to default?,,,,'',1,0,0,1
+Splitscreen,,,,'',1,0,0,1
+Standart list,,,,'',1,0,0,1
+Standby and Restart,,,,'',1,0,0,1
+Start instant recording,,,,'',1,0,0,1
+Start teletext,,,,'',1,0,0,1
+Stop all current recordings,,,,'',1,0,0,1
+Stop and delete all current recordings,,,,'',1,0,0,1
+Stop and delete recording,,,,'',1,0,0,1
+Stop and delete recording:,,,,'',1,0,0,1
+Stop and delete recordings:,,,,'',1,0,0,1
+Stop current event and disable future events,,,,'',1,0,0,1
+Stop current event but not future events,,,,'',1,0,0,1
+Stop previous broadcasted service on return to movie list.,,,,'',1,0,0,1
+Stop recording:,,,,'',1,0,0,1
+Stop recordings:,,,,'',1,0,0,1
+Stop service on return to movie list,,,,'',1,0,0,1
+Stop using as startup service,,,,'',1,0,0,1
+Stream-tv,,,,'',1,0,0,1
+Streaming,,,,'',1,0,0,1
+Stripes,,,,'',1,0,0,1
+Subnet,,,,'',1,0,0,1
+Subtitle,,,,'',1,0,0,1
+Subtitles settings,,,,'',1,0,0,1
+Swap PIP,,,,'',1,0,0,1
+Switch to HDMI in mode,,,,'',1,0,0,1
+Switch to TV mode,,,,'',1,0,0,1
+Switch to radio mode,,,,'',1,0,0,1
+Switch to the next channel,,,,'',1,0,0,1
+Switch to the next channel in history,,,,'',1,0,0,1
+Switch to the previous channel,,,,'',1,0,0,1
+Switch to the previous channel in history,,,,'',1,0,0,1
+Symbolrate:,,,,'',1,0,0,1
+TV,,,,'',1,0,0,1
+Teletext,,,,'',1,0,0,1
+Telnet interface,,,,'',1,0,0,1
+Telnet port,,,,'',1,0,0,1
+Testscreens,,,,'',1,0,0,1
+Testscreens that are helpfull to fine-tune your display,,,,'',1,0,0,1
+The DreamPlex plugin is not installed!\nPlease install it.,,,,'',1,0,0,1
+The service has been added to the favourites.,,,,'',1,0,0,1
+The service has been added to the selected bouquet.,,,,'',1,0,0,1
+"There has been an error, please try again later. If this issue persists, please check openvix.co.uk or world-of-satellite.com",,,,'',1,0,0,1
+This option allows you enable smoothing filter to control the dithering process.,,,,'',1,0,0,1
+This option allows you enable the vertical scaler dejagging.,,,,'',1,0,0,1
+This option allows you to change the virtual loudspeaker position.,,,,'',1,0,0,1
+This option allows you to choose how to display 2160p 24Hz on your TV. (as not all TV's support these resolutions),,,,'',1,0,0,1
+This option allows you to choose how to display 2160p 25Hz on your TV. (as not all TV's support these resolutions),,,,'',1,0,0,1
+This option allows you to choose how to display 2160p 30Hz on your TV. (as not all TV's support these resolutions),,,,'',1,0,0,1
+This option allows you to choose how to display SD progressive 24Hz on your TV. (as not all TV's support these resolutions),,,,'',1,0,0,1
+"This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first), when 'Quick Actions' preset actions are perfomed. ",,,,'',1,0,0,1
+This option allows you to enable 3D Surround Sound for an output.,,,,'',1,0,0,1
+This option allows you to power on or off the display.,,,,'',1,0,0,1
+This option allows you to show the full menu path,,,,'',1,0,0,1
+This option configures output for Auto Volume Level.,,,,'',1,0,0,1
+Time update in minutes,,,,'',1,0,0,1
+Timeline 24 Hour,,,,'',1,0,0,1
+Timer,,,,'',1,0,0,1
+Timeshift is running. Select an action.\n,,,,'',1,0,0,1
+Timeshift will get saved at the end of an event!,,,,'',1,0,0,1
+Toggle Digital downmix...,,,,'',1,0,0,1
+Toggle HDMI-In PiP,,,,'',1,0,0,1
+Toggle HDMI-In full screen,,,,'',1,0,0,1
+Toggle LCD LiveTV,,,,'',1,0,0,1
+Toggle PIP-ZAP,,,,'',1,0,0,1
+Total clients streaming: %d (%s),,,,'',1,0,0,1
+Total memory:,,,,'',1,0,0,1
+Total swap:,,,,'',1,0,0,1
+Transcoding: ,,,,'',1,0,0,1
+Transponder Information,,,,'',1,0,0,1
+Trash can,,,,'',1,0,0,1
+Try to find used transponders in terrestrial network... please wait...,,,,'',1,0,0,1
+Tuner is not supported,,,,'',1,0,0,1
+Tuner not available.,,,,'',1,0,0,1
+Turn off HDMI-IN PiP mode,,,,'',1,0,0,1
+Turn off HDMI-IN full screen mode,,,,'',1,0,0,1
+Turn on HDMI-IN PiP mode,,,,'',1,0,0,1
+Turn on HDMI-IN full screen mode,,,,'',1,0,0,1
+Turn on the power LED during standby.,,,,'',1,0,0,1
+Turning step size,,,,'',1,0,0,1
+USALS Calibration,,,,'',1,0,0,1
+Ukrainian,,,,'',1,0,0,1
+Unhide parental control services,,,,'',1,0,0,1
+Unmark service as a dedicated 3D service,,,,'',1,0,0,1
+Up,,,,'',1,0,0,1
+Usage setup,,,,'',1,0,0,1
+Use Virgin EPG information when it is available.,,,,'',1,0,0,1
+Use circular LNB,,,,'',1,0,0,1
+Use trash can in movie list,,,,'',1,0,0,1
+User interface settings,,,,'',1,0,0,1
+VU+,,,,'',1,0,0,1
+View extensions...,,,,'',1,0,0,1
+Visual impaired commentary,,,,'',1,0,0,1
+Warning,,,,'',1,0,0,1
+Web interface,,,,'',1,0,0,1
+Weekend,,,,'',1,0,0,1
+"What action is required on completion of the timer? 'Auto' lets the box return to the state it had when the timer started. 'Do nothing', 'Go to standby' and 'Go to deep standby' do exactly that.",,,,'',1,0,0,1
+"When enabled enigma2 will load unlinked userbouquets. This means that userbouquets that are available, but not included in the bouquets.tv or bouquets.radio files, will still be loaded. This allows you for example to keep your own user bouquet while installed settings are upgraded",,,,'',1,0,0,1
+"When enabled, always descramble receiving http streams. This takes up more resources (descrambling demuxers), only enable if necessary. Individual streams are always descrambled if 0x100 is added to the service type, regardless of this setting. Default off.",,,,'',1,0,0,1
+"When enabled, authentication is required to watch http streams.",,,,'',1,0,0,1
+"When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling. Default on.",,,,'',1,0,0,1
+"When enabled, reformat subtitles to match the width of the screen.",,,,'',1,0,0,1
+"When enabled, the receiver will select an AC3+ track (when available).",,,,'',1,0,0,1
+"When enabled, this setting has more weight than 'Preferred tuner for recordings'.",,,,'',1,0,0,1
+"When enabled, this setting has more weight than 'Preferred tuner'.",,,,'',1,0,0,1
+Write to /tmp/positionersetup.log,,,,'',1,0,0,1
+XP1000,,,,'',1,0,0,1
+YES,,,,'',1,0,0,1
+Yellow,,,,'',1,0,0,1
+Yellow long,,,,'',1,0,0,1
+Yes (save index in setup tuner),,,,'',1,0,0,1
+"Yes, and return to the movie list",,,,'',1,0,0,1
+"Yes, delete this movie and return to the movie list",,,,'',1,0,0,1
+"Yes, show delete time",,,,'',1,0,0,1
+"Yes, show record time",,,,'',1,0,0,1
+You can Display MiniTV with or without OSD Menu,,,,'',1,0,0,1
+You can Display PIP with or without OSD Menu,,,,'',1,0,0,1
+You can continue watching TV while this is running.,,,,'',1,0,0,1
+"You have already sent this log, are you sure you want to resend it?\n",,,,'',1,0,0,1
+You have not selected any logs to delete.,,,,'',1,0,0,1
+You have not selected any logs to send,,,,'',1,0,0,1
+"You have not setup your user info in the setup screen\nPress MENU, enter your info, and then try again",,,,'',1,0,0,1
+You must switch to the service %s (%s - '%s')!\n,,,,'',1,0,0,1
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.dm7025.de.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,,,'',1,0,0,1
+"You seem to be in timeshft, the service will briefly stop as timeshift stops.",,,,'',1,0,0,1
+Your %s %s does not support PiP HD,,,,'',1,0,0,1
+"Your %s %s has no network access, please check your network settings and make sure you have network cable connected and try again.",,,,'',1,0,0,1
+"Your %s %s will be restarted after the installation of the service\nAre you ready to install \""%s\"" ?",,,,'',1,0,0,1
+Your %s %s will be restarted after the removal of the service\nDo you want to remove the service now ?,,,,'',1,0,0,1
+Your config file is not well formed:\n%s,,,,'',1,0,0,1
+Your network has finished restarting,,,,'',1,0,0,1
+"Your network is restarting, Please wait...",,,,'',1,0,0,1
+Zap down,,,,'',1,0,0,1
+Zap to,,,,'',1,0,0,1
+Zap up,,,,'',1,0,0,1
+Zoom from left,,,,'',1,0,0,1
+Zoom from right,,,,'',1,0,0,1
+activatePiP,,,,'',1,0,0,1
+alpha then oldest,,,,'',1,0,0,1
+alpharev then newest,,,,'',1,0,0,1
+am,,,,'',1,0,0,1
+and never ask again this session,,,,'',1,0,0,1
+are you sure you want to cancel all the changes,,,,'',1,0,0,1
+delete time - show delete time (Trash ONLY),,,,'',1,0,0,1
+delete time - show record time (Trash ONLY),,,,'',1,0,0,1
+ene,,,,'',1,0,0,1
+epg cache backup,,,,'',1,0,0,1
+error starting scanning,,,,'',1,0,0,1
+error while scanning,,,,'',1,0,0,1
+ese,,,,'',1,0,0,1
+et4000,,,,'',1,0,0,1
+et5000/6000,,,,'',1,0,0,1
+et8000/et10000,,,,'',1,0,0,1
+et9000/et9100,,,,'',1,0,0,1
+et9200/9500/6500,,,,'',1,0,0,1
+extra wide,,,,'',1,0,0,1
+from,,,,'',1,0,0,1
+has been sent to the ViX team.\nplease quote,,,,'',1,0,0,1
+long,,,,'',1,0,0,1
+ne,,,,'',1,0,0,1
+nne,,,,'',1,0,0,1
+nnw,,,,'',1,0,0,1
+no channel list,,,,'',1,0,0,1
+no delay,,,,'',1,0,0,1
+no resource manager,,,,'',1,0,0,1
+nw,,,,'',1,0,0,1
+pm,,,,'',1,0,0,1
+se,,,,'',1,0,0,1
+sse,,,,'',1,0,0,1
+ssw,,,,'',1,0,0,1
+sw,,,,'',1,0,0,1
+this bouquet is protected by a parental control pin,,,,'',1,0,0,1
+uShare name,,,,'',1,0,0,1
+uShare port,,,,'',1,0,0,1
+when asking questions about this log,,,,'',1,0,0,1
+when asking questions about this log\n\nA copy has been sent to yourself.,,,,'',1,0,0,1
+wide,,,,'',1,0,0,1
+with text,,,,'',1,0,0,1
+with tuner name,,,,'',1,0,0,1
+wnw,,,,'',1,0,0,1
+wsw,,,,'',1,0,0,1

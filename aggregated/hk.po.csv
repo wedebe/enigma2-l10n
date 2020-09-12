@@ -1,0 +1,1050 @@
+msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+\nAdvanced options and settings.,,\n高級選項和設定.,,,1,1,0,0
+"\nAfter pressing OK, please wait!",,"\n按OK鍵確定後, 請稍等!",,,1,1,0,0
+\nEdit the upgrade source address.,,\n編輯升級源地址。,,,1,1,0,0
+\nPress OK on your remote control to continue.,,\n按OK鍵確認.,,,1,1,0,0
+\nRestore your backups by date.,,\n按日期恢復您的備份,,,1,1,0,0
+\nScan for local extensions and install them.,,\n掃描本地套裝軟體並安裝它們。,,,1,1,0,0
+\nSelect your backup device.\nCurrent device: ,,\n選擇備份裝置.\n當前的裝置:,,,1,1,0,0
+"\nView, install and remove available or installed packages.",,"\n檢視, 安裝和刪除已安裝的套裝軟體。",,,1,1,0,0
+ extensions.,, 擴展.,,,1,1,0,0
+ packages selected.,,節目包選擇.,,,1,1,0,0
+ updates available.,,可用更新. ,,,1,1,0,0
+%H:%M,,'',,,1,0,0,1
+%d min,,%d 分鐘,,,1,1,0,0
+%d.%B %Y,,'',,,1,0,0,1
+%s (%s)\n,,'',,,1,0,0,1
+(ZAP),,'',,,1,0,0,1
+(empty),,(空的),,,1,1,0,0
+(show optional DVD audio menu),,(顯示可選的DVD音頻功能表),,,1,1,0,0
+* Only available if more than one interface is active.,,* 僅在一個或多個網卡啟動才有效.,,,1,1,0,0
+1,,'',,,1,0,0,1
+1.1,,'',,,1,0,0,1
+1.2,,'',,,1,0,0,1
+12V output,,12V-輸出,,,1,1,0,0
+13 V,,'',,,1,0,0,1
+16:10,,'',,,1,0,0,1
+16:10 Letterbox,,'',,,1,0,0,1
+16:10 PanScan,,'',,,1,0,0,1
+16:9,,'',,,1,0,0,1
+16:9 Letterbox,,'',,,1,0,0,1
+16:9 always,,總是 16:9,,,1,1,0,0
+18 V,,'',,,1,0,0,1
+2,,'',,,1,0,0,1
+3,,'',,,1,0,0,1
+4,,'',,,1,0,0,1
+4:3,,'',,,1,0,0,1
+4:3 Letterbox,,'',,,1,0,0,1
+4:3 PanScan,,'',,,1,0,0,1
+5,,'',,,1,0,0,1
+6,,'',,,1,0,0,1
+7,,'',,,1,0,0,1
+8,,'',,,1,0,0,1
+9,,'',,,1,0,0,1
+<Current movielist location>,,<當前電影列表位置>,,,1,1,0,0
+<Default movie location>,,<預設錄影位置>,,,1,1,0,0
+<Last timer location>,,<最近一次定時錄影位置>,,,1,1,0,0
+<unknown>,,<未知>,,,1,1,0,0
+??,,更新! 立即重啟dreambox嗎？,,,1,1,0,0
+A,,'',,,1,0,0,1
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,,配置檔(%s)在安裝後被修改了.\n是否想要保留您的版本？,,,1,1,0,0
+A graphical EPG for all services of an specific bouquet,,圖形EPG包含自定義組所有頻道,,,1,1,0,0
+A record has been started:\n%s,,錄製已經開始:\n%s,,,1,1,0,0
+A recording is currently running.\nWhat do you want to do?,,錄製正在進行中.\n您想做什麼?,,,1,1,0,0
+A recording is currently running. Please stop the recording before trying to configure the positioner.,,錄製正在進行中. 請在配置極軸之前停止錄製.,,,1,1,0,0
+A required tool (%s) was not found.,,一個必須的工具 (%s) 未找到.,,,1,1,0,0
+A search for available updates is currently in progress.,,正在搜尋可用更新.,,,1,1,0,0
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,,發現第二個網路介面配置.\n\n您想禁用第二個網路介面?,,,1,1,0,0
+A small overview of the available icon states and actions.,,可用圖示狀態和動作的簡要概述.,,,1,1,0,0
+A timer failed to record!\nDisable TV and try again?\n,,定時錄影失敗.\n禁用電視輸出並重試?\n,,,1,1,0,0
+Abort,,中止,,,1,1,0,0
+About,,關於,,,1,1,0,0
+About...,,關於...,,,1,1,0,0
+Accesspoint:,,接入點:,,,1,1,0,0
+Action on long powerbutton press,,長按電源按鈕,,,1,1,0,0
+Action on short powerbutton press,,短按電源按鈕,,,1,1,0,0
+Activate Picture in Picture,,啟用畫中畫,,,1,1,0,0
+Activate network settings,,啟用網路設定,,,1,1,0,0
+Adapter settings,,網卡設定,,,1,1,0,0
+Add,,添加,,,1,1,0,0
+Add a mark,,增加標記,,,1,1,0,0
+Add a new title,,增加一個新標題,,,1,1,0,0
+Add timer,,添加到計時器,,,1,1,0,0
+Add title,,添加標題,,,1,1,0,0
+Add to bouquet,,添加到自定義組,,,1,1,0,0
+Add to favourites,,添加到喜歡頻道,,,1,1,0,0
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.",,調整顏色設定以使所有的顏色深淺可以辨識出來，使之看起來盡可能飽和。如果您對結果感到滿意，按OK關閉視頻微調，或者用數位鍵選擇畫面上的其他測驗。 ,,,1,1,0,0
+Advanced restore,,高級恢復,,,1,1,0,0
+After event,,事件之後,,,1,1,0,0
+Album,,相冊,,,1,1,0,0
+All,,全部,,,1,1,0,0
+Alpha,,透明度,,,1,1,0,0
+Alternative services tuner priority,,可選調諧器優先順序,,,1,1,0,0
+An empty filename is illegal.,,一個空的檔案名是非法的.,,,1,1,0,0
+Arabic,,阿拉伯語,,,1,1,0,0
+Are you sure you want to activate this network configuration?\n\n,,確定要啟動此網路配置？\n\n,,,1,1,0,0
+Are you sure you want to exit this wizard?,,確定要退出此嚮導?,,,1,1,0,0
+Are you sure you want to restart your network interfaces?\n\n,,您確定要重新啟動網路介面?\n\n,,,1,1,0,0
+Artist,,藝術家,,,1,1,0,0
+Ask user,,詢問用戶,,,1,1,0,0
+Audio,,音頻,,,1,1,0,0
+AC3 downmix,,AC3 縮減混音,,,1,1,0,0
+Author: ,,作者:,,,1,1,0,0
+Authoring mode,,創作模式,,,1,1,0,0
+Auto,,自動,,,1,1,0,0
+Auto chapter split every ? minutes (0=never),,每隔? 分鐘自動分割.(0=從不) ,,,1,1,0,0
+Auto scart switching,,自動切換錄影機,,,1,1,0,0
+Automatic,,自動,,,1,1,0,0
+Available format variables,,可用的格式變數,,,1,1,0,0
+B,,'',,,1,0,0,1
+BER,,'',,,1,0,0,1
+BER:,,'',,,1,0,0,1
+Back,,返回,,,1,1,0,0
+Background,,後臺,,,1,1,0,0
+Backup failed.,,備份失敗!!,,,1,1,0,0
+Backup is running...,,備份正在運行...,,,1,1,0,0
+Backup system settings,,備份系統設定,,,1,1,0,0
+Band,,自動,,,1,1,0,0
+Bandwidth,,帶寬,,,1,1,0,0
+Begin time,,開始時間,,,1,1,0,0
+Behavior of 0 key in PiP-mode,,按 0 鍵啟用畫中畫模式,,,1,1,0,0
+Behavior when a movie is started,,當電影開始時,,,1,1,0,0
+Behavior when a movie is stopped,,當電影結束時,,,1,1,0,0
+Behavior when a movie reaches the end,,當電影快要結束時,,,1,1,0,0
+Bitrate:,,誤碼率:,,,1,1,0,0
+Block noise reduction,,塊狀雜訊控制,,,1,1,0,0
+Blue boost,,藍色增強,,,1,1,0,0
+Bookmarks,,書簽,,,1,1,0,0
+Brightness,,亮度,,,1,1,0,0
+Burn DVD,,燒錄 DVD,,,1,1,0,0
+Burn existing image to DVD,,燒錄已有的鏡像到DVD,,,1,1,0,0
+Burn to DVD,,燒錄到DVD,,,1,1,0,0
+Bus: ,,匯流排:,,,1,1,0,0
+C,,'',,,1,0,0,1
+C-Band,,C-波段,,,1,1,0,0
+CI assignment,,CI-證書,,,1,1,0,0
+CVBS,,'',,,1,0,0,1
+Cable,,有線,,,1,1,0,0
+Cancel,,取消,,,1,1,0,0
+Capacity: ,,容量: ,,,1,1,0,0
+Card,,'',,,1,0,0,1
+Change bouquets in quickzap,,快速切換自定義組,,,1,1,0,0
+Change step size,,調整,,,1,1,0,0
+Channel,,頻道,,,1,1,0,0
+Channel not in services list,,頻道不在列表中,,,1,1,0,0
+Channel:,,頻道:,,,1,1,0,0
+Channellist menu,,頻道列表功能表,,,1,1,0,0
+Chap.,,章節.,,,1,1,0,0
+Chapter,,章節,,,1,1,0,0
+Chapter:,,章節:,,,1,1,0,0
+Check,,檢視,,,1,1,0,0
+Circular left,,左圓極化,,,1,1,0,0
+Circular right,,右圓極化,,,1,1,0,0
+Cleanup,,清理,,,1,1,0,0
+Clear,,清除,,,1,1,0,0
+Clear before scan,,掃描前清理頻道,,,1,1,0,0
+Clear log,,清除日誌,,,1,1,0,0
+Close,,關閉,,,1,1,0,0
+Close title selection,,關閉標題選項,,,1,1,0,0
+Coderate HP,,HP編碼率,,,1,1,0,0
+Coderate LP,,LP編碼率,,,1,1,0,0
+Collection name,,收藏名稱,,,1,1,0,0
+Collection settings,,收藏設定,,,1,1,0,0
+Command execution...,,執行命令...,,,1,1,0,0
+Command order,,命令順序,,,1,1,0,0
+Common Interface,,通用介面 (CI),,,1,1,0,0
+Communication,,通訊,,,1,1,0,0
+Complete,,完成,,,1,1,0,0
+Complex (allows mixing audio tracks and aspects),,複合 (允許混合音軌和相位),,,1,1,0,0
+Configure interface,,配置網卡,,,1,1,0,0
+Configure nameservers,,配置功能變數名稱伺服器,,,1,1,0,0
+Configure your internal LAN,,配置無線網路,,,1,1,0,0
+Configure your network again,,重新配置網路,,,1,1,0,0
+Configure your wireless LAN again,,重新配置無線網路,,,1,1,0,0
+Configuring,,配置,,,1,1,0,0
+Conflicting timer,,配置計時器,,,1,1,0,0
+Connect,,連接,,,1,1,0,0
+Connected to,,連接到,,,1,1,0,0
+Constellation,,星位,,,1,1,0,0
+Content does not fit on DVD!,,容量不適合DVD!,,,1,1,0,0
+Continue in background,,繼續後臺運行,,,1,1,0,0
+Continue playing,,繼續播放,,,1,1,0,0
+Contrast,,對比度,,,1,1,0,0
+Copy,,複製,,,1,1,0,0
+Could not open Picture in Picture,,不能打開畫中畫.,,,1,1,0,0
+Create DVD-ISO,,創建DVD-ISO,,,1,1,0,0
+Creating directory %s failed.,,創建目錄%s 失敗.,,,1,1,0,0
+Croatian,,克羅地亞,,,1,1,0,0
+Current settings:,,當前設定:,,,1,1,0,0
+Current value: ,,當前值: ,,,1,1,0,0
+Current version:,,當前版本:,,,1,1,0,0
+Customize,,高級設定,,,1,1,0,0
+Cut,,剪切,,,1,1,0,0
+Cutlist editor...,,剪輯編輯器...,,,1,1,0,0
+Czech,,捷克,,,1,1,0,0
+D,,'',,,1,0,0,1
+DHCP,,'',,,1,0,0,1
+DUAL LAYER DVD,,雙層DVD,,,1,1,0,0
+DVB-S,,'',,,1,0,0,1
+DVB-S2,,'',,,1,0,0,1
+Danish,,丹麥,,,1,1,0,0
+Date,,日期,,,1,1,0,0
+Default,,預設,,,1,1,0,0
+Default movie location,,預設錄影位置,,,1,1,0,0
+Default settings,,預設設定,,,1,1,0,0
+Delete,,刪除,,,1,1,0,0
+Delete entry,,刪除項目,,,1,1,0,0
+Delete failed!,,刪除失敗.,,,1,1,0,0
+Description,,描述,,,1,1,0,0
+Deselect,,取消,,,1,1,0,0
+Detected HDD:,,測驗到的硬碟:,,,1,1,0,0
+Detected NIMs:,,測驗到的調諧器:,,,1,1,0,0
+DiSEqC,,'',,,1,0,0,1
+DiSEqC A/B,,'',,,1,0,0,1
+DiSEqC A/B/C/D,,'',,,1,0,0,1
+DiSEqC mode,,DiSEqC-模式,,,1,1,0,0
+Digital contour removal,,數字等高線消除,,,1,1,0,0
+Direct playback of linked titles without menu,,直接播放鏈結標題，不使用功能表,,,1,1,0,0
+Directory,,目錄,,,1,1,0,0
+Directory browser,,目錄流覽,,,1,1,0,0
+Disable,,禁用,,,1,1,0,0
+Disable Picture in Picture,,禁用畫中畫,,,1,1,0,0
+Disabled,,禁用,,,1,1,0,0
+Display 16:9 content as,,顯示16:9內容,,,1,1,0,0
+Display 4:3 content as,,顯示4:3內容,,,1,1,0,0
+Display >16:9 content as,,顯示 >16:9 內容,,,1,1,0,0
+Do you really want to check the filesystem?\nThis could take lots of time!,, 是否檢視檔系統?\n這將需要很長時間!,,,1,1,0,0
+Do you really want to delete %s?,, 是否刪除 %s?,,,1,1,0,0
+"Do you really want to download\nthe plugin \""%s\""?",," 是否下載插件 \""%s\""?",,,1,1,0,0
+Do you really want to exit?,, 是否確定退出?,,,1,1,0,0
+Do you really want to remove directory %s from the disk?,, 是否從磁片上刪除目錄%s ?,,,1,1,0,0
+Do you really want to remove your bookmark of %s?,, 是否刪除 %s 書簽?,,,1,1,0,0
+Do you want to burn this collection to DVD medium?,, 是否燒錄這個收藏到DVD光碟?,,,1,1,0,0
+Do you want to do a service scan?,, 是否開始頻道掃描?,,,1,1,0,0
+Do you want to do another manual service scan?,, 是否手動掃描其他頻道?,,,1,1,0,0
+Do you want to install the package:\n,, 是否安裝套裝軟體:\n,,,1,1,0,0
+Do you want to play DVD in drive?,, 是否播放DVD?,,,1,1,0,0
+Do you want to preview this DVD before burning?,, 是否在燒錄之前預覽DVD?,,,1,1,0,0
+Do you want to remove the package:\n,, 是否移出套裝軟體:\n,,,1,1,0,0
+Do you want to restore your settings?,, 是否恢復您的設定?,,,1,1,0,0
+Do you want to resume this playback?,, 是否繼續上次播放?,,,1,1,0,0
+Do you want to upgrade the package:\n,, 是否升級套裝軟體:\n,,,1,1,0,0
+Don't stop current event but disable coming events,,"不能停止當前事件, 不過可以禁用下一個事件.",,,1,1,0,0
+Download,,下載,,,1,1,0,0
+Downloadable new plugins,,可下載的新插件,,,1,1,0,0
+Downloadable plugins,,可下載的插件,,,1,1,0,0
+Downloading,,下載中,,,1,1,0,0
+Downloading plugin information. Please wait...,,"正在下載插件列表,請稍候...",,,1,1,0,0
+Dutch,,荷蘭語,,,1,1,0,0
+Dynamic contrast,,動態對比度,,,1,1,0,0
+E,,'',,,1,0,0,1
+ERROR - failed to scan (%s)!,,錯誤 - 掃描 (%s)失敗!,,,1,1,0,0
+East,,東方,,,1,1,0,0
+Edit,,修改,,,1,1,0,0
+Edit DNS,,編輯 DNS,,,1,1,0,0
+Edit chapters of current title,,編輯章節當前標題,,,1,1,0,0
+Edit settings,,編輯設定,,,1,1,0,0
+Edit title,,修改標題,,,1,1,0,0
+Edit upgrade source url.,,編輯升級源地址.,,,1,1,0,0
+Electronic Program Guide,,電子節目指南,,,1,1,0,0
+Enable,,啟用,,,1,1,0,0
+Enable 5V for active antenna,,為有源天線啟用5V供電,,,1,1,0,0
+Enable multiple bouquets,,啟用自定義組,,,1,1,0,0
+Enabled,,啟用的,,,1,1,0,0
+Encrypted: ,,加密系統: ,,,1,1,0,0
+Encryption,,加密系統,,,1,1,0,0
+Encryption:,,加密系統:,,,1,1,0,0
+End time,,結束時間,,,1,1,0,0
+English,,英語,,,1,1,0,0
+Enter main menu...,,進入主功能表...,,,1,1,0,0
+Enter the service pin,,輸入密碼,,,1,1,0,0
+Error,,錯誤,,,1,1,0,0
+Error executing plugin,,執行插件發生錯誤,,,1,1,0,0
+Error: %s\nRetry?,,錯誤: %s\n重試?,,,1,1,0,0
+Estonian,,愛沙尼亞語,,,1,1,0,0
+Exceeds dual layer medium!,,超過雙層介質！,,,1,1,0,0
+Execution finished!!,,執行完畢！,,,1,1,0,0
+Exif,,'',,,1,0,0,1
+Exit,,退出,,,1,1,0,0
+Exit editor,,退出編輯,,,1,1,0,0
+Exit network wizard,,退出網路設定嚮導,,,1,1,0,0
+Exit the wizard,,退出嚮導,,,1,1,0,0
+Expert,,高級,,,1,1,0,0
+Extended Software,,擴展軟體,,,1,1,0,0
+Extended Software Plugin,,擴展插件,,,1,1,0,0
+Extensions,,擴展,,,1,1,0,0
+Extensions management,,擴展管理,,,1,1,0,0
+FEC,,'',,,1,0,0,1
+Factory reset,,出廠設定,,,1,1,0,0
+Failed,,失敗,,,1,1,0,0
+Fan %d,,風扇 %d,,,1,1,0,0
+Fan %d PWM,,'',,,1,0,0,1
+Fast,,快速,,,1,1,0,0
+Fast DiSEqC,,快速DiSEqC,,,1,1,0,0
+Fast epoch,,'',,,1,0,0,1
+Favourites,,自定義組,,,1,1,0,0
+Finetune,,調整,,,1,1,0,0
+Finished,,完成,,,1,1,0,0
+Finished configuring your network,,網路設定完成,,,1,1,0,0
+Finished restarting your network,,重啟網路完成,,,1,1,0,0
+Finnish,,芬蘭,,,1,1,0,0
+Flashing failed,,安裝失敗,,,1,1,0,0
+Following tasks will be done after you press OK!,,按下 OK 鍵後將完成以下任務!,,,1,1,0,0
+Format,,格式化,,,1,1,0,0
+Frame size in full view,,全屏顯示時的幀大小,,,1,1,0,0
+French,,法國,,,1,1,0,0
+Frequency,,頻率,,,1,1,0,0
+Frequency bands,,頻帶,,,1,1,0,0
+Frequency scan step size(khz),,頻率掃描步長(khz),,,1,1,0,0
+Frequency steps,,頻率步進,,,1,1,0,0
+Fri,,星期五,,,1,1,0,0
+Friday,,星期五,,,1,1,0,0
+Frontprocessor version: %d,,前端版本: %d,,,1,1,0,0
+Gateway,,閘道,,,1,1,0,0
+Genre,,類型,,,1,1,0,0
+German,,德語,,,1,1,0,0
+Getting plugin information. Please wait...,,"正在下載插件資訊, 請稍候...",,,1,1,0,0
+Goto 0,,轉到 0,,,1,1,0,0
+Goto position,,轉到位置,,,1,1,0,0
+Graphical Multi EPG,,多路圖形EPG,,,1,1,0,0
+Greek,,希臘語,,,1,1,0,0
+Green boost,,綠色增強,,,1,1,0,0
+Harddisk,,硬碟,,,1,1,0,0
+High bitrate support,,高位元率支援,,,1,1,0,0
+Horizontal,,水準,,,1,1,0,0
+How many minutes do you want to record?,,您想錄製多少分鐘?,,,1,1,0,0
+Hue,,色調,,,1,1,0,0
+Hungarian,,匈牙利語,,,1,1,0,0
+ISO file is too large for this filesystem!,,ISO文件過大!,,,1,1,0,0
+ISO path,,ISO 路徑,,,1,1,0,0
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,"如果您能看到這個提示,說明您的色差連接有錯誤.\n按OK返回.",,,1,1,0,0
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,如果您的電視機有亮度或對比度增強項，請關閉它。如果裏面有標為“動態”的專案，將其設定為標準。調整背光等級的值以符合您的口味。將電視機的對比度盡可能地降低。然後盡可能將亮度設定調低，但請確保最下面的兩個灰色能夠分辨出來。現在，不必關心亮度的色調，它們將在接下來的步驟中設定。如果您對結果感到滿意，按OK 。,,,1,1,0,0
+"In order to record a timer, the TV was switched to the recording service!\n",,"定時錄製開始,即將切換到預錄頻道!\n",,,1,1,0,0
+Increased voltage,,增加電壓,,,1,1,0,0
+Index,,索引,,,1,1,0,0
+Info,,資訊,,,1,1,0,0
+Information,,資訊,,,1,1,0,0
+Init,,初始化,,,1,1,0,0
+Initialize,,初始化,,,1,1,0,0
+Input,,輸入,,,1,1,0,0
+Install,,安裝,,,1,1,0,0
+Install a new image with a USB stick,,安裝一個新的韧體到U盤,,,1,1,0,0
+Install a new image with your web browser,,通過網頁流覽器安裝一個新的韧體,,,1,1,0,0
+Install extensions.,,安裝附件.,,,1,1,0,0
+Install local extension,,安裝本地附件,,,1,1,0,0
+Installing,,正在安裝,,,1,1,0,0
+Intermediate,,常規,,,1,1,0,0
+Invalid directory selected: %s,,選擇了無效目錄: %s,,,1,1,0,0
+Inversion,,反向,,,1,1,0,0
+Ipkg,,IPKG,,,1,1,0,0
+Italian,,義大利語,,,1,1,0,0
+Keyboard,,鍵盤佈局,,,1,1,0,0
+LNB,,'',,,1,0,0,1
+Language,,語言,,,1,1,0,0
+Language selection,,語言選擇,,,1,1,0,0
+Last config,,最後一次正確配置,,,1,1,0,0
+Last speed,,最快速度,,,1,1,0,0
+Latitude,,緯度,,,1,1,0,0
+Latvian,,拉脫維亞,,,1,1,0,0
+Left,,左,,,1,1,0,0
+Letterbox,,信箱模式,,,1,1,0,0
+Limit east,,東極限位置,,,1,1,0,0
+Limit west,,西極限位置,,,1,1,0,0
+Limits off,,限位設定關閉,,,1,1,0,0
+Limits on,,限位設定打開,,,1,1,0,0
+Link:,,連接:,,,1,1,0,0
+Linked titles with a DVD menu,,與DVD功能表的連接的標題,,,1,1,0,0
+Lithuanian,,立陶宛語,,,1,1,0,0
+Load,,載入,,,1,1,0,0
+Location,,位置,,,1,1,0,0
+Location for instant recordings,,即時錄製位置,,,1,1,0,0
+Lock:,,鎖定:,,,1,1,0,0
+Log results to harddisk,,記錄日誌到硬碟,,,1,1,0,0
+Longitude,,經度,,,1,1,0,0
+MORE,,更多,,,1,1,0,0
+Main menu,,主功能表,,,1,1,0,0
+Make this mark an 'in' point,,這個標記作為'in'節點,,,1,1,0,0
+Make this mark an 'out' point,,這個標記作為'out'節點,,,1,1,0,0
+Make this mark just a mark,,這僅僅只是一上標記,,,1,1,0,0
+Manage extensions,,附件管理,,,1,1,0,0
+Manage your receiver's software,,管理Dreambox軟體.,,,1,1,0,0
+Manual Scan,,手動掃描,,,1,1,0,0
+Manual transponder,,手動轉發器掃描,,,1,1,0,0
+Manufacturer,,製造商,,,1,1,0,0
+Media player,,媒體播放器,,,1,1,0,0
+Medium is not a writeable DVD!,,媒介不是可寫DVD!,,,1,1,0,0
+Medium is not empty!,,媒介不是空白的!,,,1,1,0,0
+Memory,,記憶體,,,1,1,0,0
+Menu,,功能表,,,1,1,0,0
+Message,,資訊,,,1,1,0,0
+Message...,,資訊...,,,1,1,0,0
+Modulation,,調製,,,1,1,0,0
+Modulator,,調製器,,,1,1,0,0
+Mon,,星期一,,,1,1,0,0
+Mon-Fri,,星期一至星期五,,,1,1,0,0
+Monday,,星期一,,,1,1,0,0
+Mosquito noise reduction,,蚊式雜訊控制,,,1,1,0,0
+Mount,,安裝(Mount),,,1,1,0,0
+Move,,移動,,,1,1,0,0
+Move Picture in Picture,,移動畫中畫,,,1,1,0,0
+Move east,,東移,,,1,1,0,0
+Move west,,西移,,,1,1,0,0
+Movie location,,電影位置,,,1,1,0,0
+Movielist menu,,已錄節目列表功能表,,,1,1,0,0
+Multi EPG,,多路 EPG,,,1,1,0,0
+Multimedia,,'',,,1,0,0,1
+Multiple service support,,多系統支援,,,1,1,0,0
+Multisat,,多星,,,1,1,0,0
+Mute,,靜音,,,1,1,0,0
+N/A,,'',,,1,0,0,1
+NEXT,,下一個,,,1,1,0,0
+NFI image flashing completed. Press Yellow to Reboot!,,NFI Image安裝完成.\n按黃鍵重啟Dreambox!,,,1,1,0,0
+NOW,,現在,,,1,1,0,0
+NTSC,,'',,,1,0,0,1
+Name,,名稱,,,1,1,0,0
+Nameserver,,DNS伺服器,,,1,1,0,0
+Nameserver %d,,DNS %d,,,1,1,0,0
+Nameserver settings,,DNS設定,,,1,1,0,0
+Netmask,,子網路遮罩,,,1,1,0,0
+Network,,網路設定,,,1,1,0,0
+Network scan,,網路掃描,,,1,1,0,0
+Network setup,,網路設定,,,1,1,0,0
+Network test,,網路測驗,,,1,1,0,0
+Network test...,,網路測驗...,,,1,1,0,0
+Network:,,網路:,,,1,1,0,0
+New,,新增,,,1,1,0,0
+New version:,,新版本:,,,1,1,0,0
+No,,否,,,1,1,0,0
+No (supported) DVDROM found!,,未找到(支援的)DVDROM!,,,1,1,0,0
+No Connection,,未連接,,,1,1,0,0
+No HDD found or HDD not initialized!,,未找到硬碟或硬碟未初始化！,,,1,1,0,0
+No backup needed,,不需要備份,,,1,1,0,0
+No data on transponder!\n(Timeout reading PAT),,轉發器上未找到數據!\n(讀取PAT超時),,,1,1,0,0
+No description available.,,無可用的描述.,,,1,1,0,0
+No details for this image file,,這個韧體沒有詳細說明,,,1,1,0,0
+No displayable files on this medium found!,,在這個媒介上未發現檔!,,,1,1,0,0
+"No event info found, recording indefinitely.",,"EPG資料沒有發現,無限制錄製.",,,1,1,0,0
+No fast winding possible yet.. but you can use the number buttons to skip forward/backward!,,結束還要一段時間.. 但您可以使用數位鍵 前進/後退!,,,1,1,0,0
+No free tuner!,,沒有空閒的調諧器,,,1,1,0,0
+No network connection available.,,無可用網路連接.,,,1,1,0,0
+No networks found,,找不到網路,,,1,1,0,0
+No positioner capable frontend found.,,未發現有支援的極軸天線.,,,1,1,0,0
+No standby,,沒有待機,,,1,1,0,0
+No to all,,非全部,,,1,1,0,0
+No tuner is configured for use with a diseqc positioner!,,沒有配置Rotor(DiSEqC 1.2).,,,1,1,0,0
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,,未找到可用的調諧器!\n請設定您的調諧器的設定，然後再啟動頻道掃描。.,,,1,1,0,0
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,未找到可用的本地網路.\n請檢視網路連接並檢視網卡配置是否正確.,,,1,1,0,0
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,未找到可用的無線網路連接.\n請檢視無線網路裝置並檢視無線網卡配置是否正確.,,,1,1,0,0
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,未找到可用的無線網卡.\n請確認您已連接相容的無線網卡或使用本地網卡.,,,1,1,0,0
+"No, but restart from begin",,"否, 重新開始播放這個視頻",,,1,1,0,0
+"No, do nothing.",,"否, 什麼也不做.",,,1,1,0,0
+None,,無,,,1,1,0,0
+Nonlinear,,非線性,,,1,1,0,0
+North,,北,,,1,1,0,0
+Norwegian,,挪威語,,,1,1,0,0
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,,沒有掃描!\n請設定您的調諧器，然後再啟動頻道掃描。.,,,1,1,0,0
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,現在，盡可能使用對比度設定出現的亮度背景，但是請確保您仍然可以看到色調的兩個最亮等級之間的不同。如果您已經完成了，按OK。,,,1,1,0,0
+OK,,'',,,1,0,0,1
+"OK, guide me through the upgrade process",,"OK, 引導我的升級過程",,,1,1,0,0
+Off,,關閉,,,1,1,0,0
+On,,打開,,,1,1,0,0
+One,,1,,,1,1,0,0
+Only extensions.,,僅增加部分.,,,1,1,0,0
+Other,,其他,,,1,1,0,0
+PAL,,'',,,1,0,0,1
+PIDs,,'',,,1,0,0,1
+Package list update,,升級軟體列表,,,1,1,0,0
+Packet management,,套裝軟體管理,,,1,1,0,0
+Packet manager,,軟體管理器,,,1,1,0,0
+Parental control,,家長控制,,,1,1,0,0
+Parental control setup,,家長控制設定,,,1,1,0,0
+Pause movie at end,,電影結束時暫停,,,1,1,0,0
+Pillarbox,,原始大小,,,1,1,0,0
+Pilot,,'',,,1,0,0,1
+Play,,播放,,,1,1,0,0
+Play DVD,,播放DVD,,,1,1,0,0
+Play recorded movies...,,播放錄製的電影...,,,1,1,0,0
+Please add titles to the compilation.,,請添加標題.,,,1,1,0,0
+Please change recording endtime,,請更改錄製結束時間,,,1,1,0,0
+Please check your network settings!,,請檢視網路設定！,,,1,1,0,0
+Please choose an extension...,,請選擇增加部分...,,,1,1,0,0
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,請設定或核實填寫您的功能變數名稱伺服器.\n準備好後按OK繼續.,,,1,1,0,0
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,下列數值必須設定正確才能連接到Internet.\n當您準備好後按OK鍵確認.,,,1,1,0,0
+Please do not change any values unless you know what you are doing!,,"不要做任何改變,除非您知道您在幹什麼!",,,1,1,0,0
+Please enter a name for the new bouquet,,重命名自定義組,,,1,1,0,0
+Please enter a name for the new marker,,重命名標籤,,,1,1,0,0
+Please enter a new filename,,請輸入一個新的檔案名,,,1,1,0,0
+Please enter filename (empty = use current date),,請輸入檔案名 (空=使用當時日期命名),,,1,1,0,0
+Please enter name of the new directory,,為新的目錄重命名,,,1,1,0,0
+Please enter the correct pin code,,請輸入正確的密碼,,,1,1,0,0
+Please follow the instructions on the TV,,請依照電視螢幕指導操作.,,,1,1,0,0
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,,"請注意的是之前選擇的媒體不能訪問,預設的目錄已被替換.",,,1,1,0,0
+Please press OK to continue.,,請按OK鍵確認.,,,1,1,0,0
+Please select a playlist to delete...,,請選擇要刪除的播放列表...,,,1,1,0,0
+Please select a playlist...,,請選擇一個播放列表...,,,1,1,0,0
+Please select a subservice to record...,,請選擇要錄製的字幕...,,,1,1,0,0
+Please select a subservice...,,請選擇一個字幕...,,,1,1,0,0
+Please select medium to use as backup location,,請選擇作為備份的媒介,,,1,1,0,0
+Please select the movie path...,,請選擇電影路徑...,,,1,1,0,0
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,請選擇連接Internet的網路裝置.\n\n按OK鍵確認.,,,1,1,0,0
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,請選擇您要接入的無線網路.\n\n按OK鍵確認,,,1,1,0,0
+Please set up tuner B,,請選擇調諧器 B.,,,1,1,0,0
+Please set up tuner C,,請選擇調諧器 C.,,,1,1,0,0
+Please set up tuner D,,請選擇調諧器 D.,,,1,1,0,0
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,請使用方向鍵移動畫中畫視窗.\n按遙控器上 Bouquet +/- 改變視窗大小..\n按OK返回到電視模式，或按EXIT取消調整。,,,1,1,0,0
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,,"按 上/下 鍵選擇語言, 選定後按 OK.",,,1,1,0,0
+Please wait for activation of your network configuration...,,請等待網路配置啟動...,,,1,1,0,0
+Please wait while scanning is in progress...,,正在掃描...請稍候...,,,1,1,0,0
+Please wait while we configure your network...,,正在配置網路...請稍候...,,,1,1,0,0
+Please wait while we prepare your network interfaces...,,"請稍候,我們正在準備您的網路介面...",,,1,1,0,0
+Please wait while we test your network...,,"請稍候,我們正在測驗您的網路...",,,1,1,0,0
+Please wait while your network is restarting...,,正在重啟網路...請稍候...,,,1,1,0,0
+Please wait...,,請稍候...,,,1,1,0,0
+Please wait... Loading list...,,正在載入列表... 請稍候...,,,1,1,0,0
+Plugin browser,,流覽插件,,,1,1,0,0
+Plugin manager activity information,,插件管理活動資訊,,,1,1,0,0
+Plugin manager help,,插件管理幫助,,,1,1,0,0
+Plugins,,插件,,,1,1,0,0
+Polarization,,極化,,,1,1,0,0
+Polish,,波蘭語,,,1,1,0,0
+Port A,,埠 A,,,1,1,0,0
+Port B,,埠 B,,,1,1,0,0
+Port C,,埠 C,,,1,1,0,0
+Port D,,埠 D,,,1,1,0,0
+Portuguese,,葡萄牙語,,,1,1,0,0
+Positioner,,Rotor,,,1,1,0,0
+Positioner setup,,極軸設定(DiSEqC 1.2),,,1,1,0,0
+Power threshold in mA,,功率閾值(mA),,,1,1,0,0
+Predefined transponder,,預設定轉發器,,,1,1,0,0
+Preparing... Please wait,,準備中... 請稍候!,,,1,1,0,0
+Press OK on your remote control to continue.,,按OK鍵確認.,,,1,1,0,0
+Press OK to activate the selected skin.,,按OK啟動所選皮膚.,,,1,1,0,0
+Press OK to activate the settings.,,按OK鍵啟動設定.,,,1,1,0,0
+Press OK to edit the settings.,,按OK鍵修改設定,,,1,1,0,0
+Press OK to get further details for %s,,按OK鍵獲取 %s 詳細說明,,,1,1,0,0
+Press OK to scan,,按OK鍵開始掃描.,,,1,1,0,0
+Press OK to select/deselect a CAId.,,按 OK 選擇/取消 CAId.,,,1,1,0,0
+Press OK to start the scan,,按OK鍵開始掃描.,,,1,1,0,0
+Press OK to toggle the selection.,,按OK來切換選擇.,,,1,1,0,0
+Press yellow to set this interface as default interface.,,按黃鍵來設定此介面為預設.,,,1,1,0,0
+Preview,,預覽,,,1,1,0,0
+Preview menu,,DVD預覽功能表,,,1,1,0,0
+Primary DNS,,主 DNS,,,1,1,0,0
+Priority,,次序,,,1,1,0,0
+Process,,進程資訊,,,1,1,0,0
+Properties of current title,,當前標題屬性,,,1,1,0,0
+Protect services,,保護服務,,,1,1,0,0
+Provider,,供應商,,,1,1,0,0
+Provider to scan,,掃描供應商,,,1,1,0,0
+Providers,,供應商,,,1,1,0,0
+Quick,,快速,,,1,1,0,0
+RF output,,RF-輸出,,,1,1,0,0
+RGB,,'',,,1,0,0,1
+Random,,隨機,,,1,1,0,0
+Really close without saving settings?,,關閉而不保存設定?,,,1,1,0,0
+Really delete done timers?,,確實要刪除計時器?,,,1,1,0,0
+Really exit the subservices quickzap?,,退出字幕快速切換?,,,1,1,0,0
+Really reboot now?,,立即重啟(Reboot)?,,,1,1,0,0
+Really restart now?,,立即重啟(Restart)?,,,1,1,0,0
+Really shutdown now?,,立即關機?,,,1,1,0,0
+Reboot,,重新啟動,,,1,1,0,0
+Record,,錄製,,,1,1,0,0
+Record time limited due to conflicting timer %s,,由於計時器 %s 衝突導致錄製時間受限,,,1,1,0,0
+Recorded files...,,錄製檔...,,,1,1,0,0
+Recording,,正在錄製,,,1,1,0,0
+Recording paths,,錄影位置,,,1,1,0,0
+Recording(s) are in progress or coming up in few seconds!,,錄製正在進行中或剛開始錄製不久!,,,1,1,0,0
+Recordings,,錄音,,,1,1,0,0
+Recordings always have priority,,總是優先錄製,,,1,1,0,0
+Refresh rate selection.,,選擇刷新率.,,,1,1,0,0
+Reload,,重新載入,,,1,1,0,0
+Remove,,移除,,,1,1,0,0
+Remove a mark,,移除標記,,,1,1,0,0
+Remove currently selected title,,移除當前選擇的標題,,,1,1,0,0
+Remove plugins,,移除插件,,,1,1,0,0
+Remove title,,移除標題,,,1,1,0,0
+Removing,,正在刪除...,,,1,1,0,0
+Removing directory %s failed. (Maybe not empty.),,刪除 %s 目錄失敗. (很可能不是空目錄.),,,1,1,0,0
+Rename,,重命,,,1,1,0,0
+Repeating event currently recording... What do you want to do?,,重複的定時錄製事件...\n您準備怎麼辦?,,,1,1,0,0
+Repeat,,重複,,,1,1,0,0
+Repeats,,重複,,,1,1,0,0
+Required medium type:,,需要介質類型:,,,1,1,0,0
+Reset,,重定,,,1,1,0,0
+Reset and renumerate title names,,復位並重設標題名稱,,,1,1,0,0
+Reset video enhancement settings to system defaults?,,重置視頻增強設定為預設設定?,,,1,1,0,0
+Reset video enhancement settings to your last configuration?,,重置視頻增強設定為最近一次配置?,,,1,1,0,0
+Resolution,,解析度,,,1,1,0,0
+Restart,,重新啟動,,,1,1,0,0
+Restart GUI now?,,立即重啟GUI?,,,1,1,0,0
+Restart network,,重啟網路,,,1,1,0,0
+Restart test,,重新測驗,,,1,1,0,0
+Restart your network connection and interfaces.\n,,重啟 Dreambox網路連接.\n,,,1,1,0,0
+Restore,,恢復,,,1,1,0,0
+Restore backups,,恢復備份,,,1,1,0,0
+Restore is running...,,正在恢復...,,,1,1,0,0
+Restore system settings,,恢復系統設定,,,1,1,0,0
+Resume from last position,,從最後位置恢復,,,1,1,0,0
+Resume position at %s,,恢復位置到 %s,,,1,1,0,0
+Resuming playback,,恢復播放,,,1,1,0,0
+Return to movie list,,返回電影列表,,,1,1,0,0
+Return to previous service,,返回之前的頻道,,,1,1,0,0
+Rewind speeds,,快退速度,,,1,1,0,0
+Right,,右,,,1,1,0,0
+Rotor turning speed,,Rotor轉速,,,1,1,0,0
+Russian,,俄語,,,1,1,0,0
+S-Video,,'',,,1,0,0,1
+Sat,,星期六,,,1,1,0,0
+Satellite,,衛星,,,1,1,0,0
+Satellites,,衛星,,,1,1,0,0
+Satfinder,,尋星,,,1,1,0,0
+Saturation,,飽和度,,,1,1,0,0
+Saturday,,星期六,,,1,1,0,0
+Save,,保存,,,1,1,0,0
+Scaler sharpness,,銳度,,,1,1,0,0
+Scan ,,掃描,,,1,1,0,0
+Scan additional SR,,掃描更多 SR,,,1,1,0,0
+Search east,,向東搜索,,,1,1,0,0
+Search west,,向西搜索,,,1,1,0,0
+Searching for available updates. Please wait...,,"搜尋可用更新,請稍候...",,,1,1,0,0
+Searching for new installed or removed packages. Please wait...,,搜尋新的套裝軟體(安裝或刪除).請稍候...,,,1,1,0,0
+Secondary DNS,,副 DNS,,,1,1,0,0
+Seek,,跳過,,,1,1,0,0
+Select,,選擇,,,1,1,0,0
+Select HDD,,選擇硬碟,,,1,1,0,0
+Select a movie,,選擇一部電影,,,1,1,0,0
+Select audio track,,選擇音軌,,,1,1,0,0
+Select channel to record from,,選擇要記錄的頻道,,,1,1,0,0
+Select files/folders to backup,,選擇要備份的檔/目錄,,,1,1,0,0
+Select interface,,選擇介面,,,1,1,0,0
+Select provider to add...,,選擇並添加供應商...,,,1,1,0,0
+Select refresh rate,,選擇刷新率,,,1,1,0,0
+Select service to add...,,選擇並添加頻道...,,,1,1,0,0
+Select upgrade source to edit.,,選擇並編輯升級來源,,,1,1,0,0
+Select video input with up/down buttons,,選擇視頻輸入(上/下 鍵),,,1,1,0,0
+Select video mode,,設定視頻模式,,,1,1,0,0
+Select wireless network,,選擇無線網路,,,1,1,0,0
+Send DiSEqC,,發送DiSEqC命令,,,1,1,0,0
+Send DiSEqC only on satellite change,,當改變衛星時發送DiSEqC命令,,,1,1,0,0
+Sequence repeat,,重複序列,,,1,1,0,0
+Serbian,,'',,,1,0,0,1
+Service,,頻道,,,1,1,0,0
+Service has been added to the favourites.,,頻道已添加到喜愛頻道,,,1,1,0,0
+Service has been added to the selected bouquet.,,頻道已添加到選定的自定義組.,,,1,1,0,0
+Service invalid!\n(Timeout reading PMT),,頻道無效!\n(讀取PMT超時),,,1,1,0,0
+Service not found!\n(SID not found in PAT),,頻道未找到!\n(在PAT中找不以SID),,,1,1,0,0
+Service scan,,頻道掃描,,,1,1,0,0
+Service unavailable!\nCheck tuner configuration!,,頻道無法使用!\n請檢視調諧器配置!,,,1,1,0,0
+Services,,頻道,,,1,1,0,0
+Set interface as default Interface,,將網卡設為預設,,,1,1,0,0
+Set limits,,設定極限,,,1,1,0,0
+Settings,,設定,,,1,1,0,0
+Setup,,設定,,,1,1,0,0
+Sharpness,,銳化,,,1,1,0,0
+Show event-progress in channel selection,,選擇頻道時顯示事件進度,,,1,1,0,0
+Show infobar on channel change,,切換頻道時顯示資訊條,,,1,1,0,0
+Show infobar on event change,,事件更改時顯示資訊條,,,1,1,0,0
+Show infobar on skip forward/backward,,快退 / 快進時顯示資訊條,,,1,1,0,0
+Show positioner movement,,檢視Rotor移動,,,1,1,0,0
+Show the radio player...,,廣播重播模式下...,,,1,1,0,0
+Show the tv player...,,電視重播模式下...,,,1,1,0,0
+Shows the state of your wireless LAN connection.\n,,顯示WLAN連接資訊.\n,,,1,1,0,0
+Shutdown,,關機,,,1,1,0,0
+Signal Quality,,信號品質,,,1,1,0,0
+Signal Strength,,信號強度,,,1,1,0,0
+Signal: ,,信號: ,,,1,1,0,0
+Quality,,品質,,,1,1,0,0
+Similar,,類似,,,1,1,0,0
+Similar broadcasts:,,類似的廣播:,,,1,1,0,0
+Simple,,簡易,,,1,1,0,0
+Simplified Chinese,,簡體中文,,,1,1,0,0
+Simple titleset (compatibility for legacy players),,簡易的標題 (更好的相容性),,,1,1,0,0
+Single,,單個,,,1,1,0,0
+Single EPG,,單個-EPG,,,1,1,0,0
+Single satellite,,單個衛星,,,1,1,0,0
+Skin,,設定皮膚,,,1,1,0,0
+Slot %d,,插槽 %d,,,1,1,0,0
+Slovenian,,斯洛伐克,,,1,1,0,0
+Slow,,慢的,,,1,1,0,0
+Software management,,軟體管理,,,1,1,0,0
+Software restore,,軟體還原,,,1,1,0,0
+Software update,,軟體升級,,,1,1,0,0
+Some plugins are not available:\n,,不使用這些插件:\n,,,1,1,0,0
+Sort A-Z,,按字母排序,,,1,1,0,0
+Sound,,聲音,,,1,1,0,0
+South,,南,,,1,1,0,0
+Spanish,,西班牙語,,,1,1,0,0
+Split preview mode,,Split 預覽模式,,,1,1,0,0
+Sports,,體育,,,1,1,0,0
+Standby,,待機,,,1,1,0,0
+Start from the beginning,,重頭開始,,,1,1,0,0
+Start recording?,,開始錄製？,,,1,1,0,0
+Start test,,開始測驗,,,1,1,0,0
+Starting on,,開始,,,1,1,0,0
+Step east,,向東步進,,,1,1,0,0
+Step west,,向西步進,,,1,1,0,0
+Stop,,停止,,,1,1,0,0
+Stop current event and disable coming events,,停止當前事件並禁用下一個事件,,,1,1,0,0
+Stop current event but not coming events,,停止當前事件但不禁用下一個事件,,,1,1,0,0
+Stop playing this movie?,,停止播放這部電影？,,,1,1,0,0
+Stop test,,停止測驗,,,1,1,0,0
+Stop testing plane after # failed transponders,,'',,,1,0,0,1
+Stop testing plane after # successful transponders,,'',,,1,0,0,1
+Stopped,,停止,,,1,1,0,0
+Store position,,存貯位置,,,1,1,0,0
+Stored position,,存貯位置,,,1,1,0,0
+Subservice list...,,子服務列表...,,,1,1,0,0
+Subservices,,子服務,,,1,1,0,0
+Subtitle selection,,字幕選擇,,,1,1,0,0
+Subtitles,,字幕,,,1,1,0,0
+Sun,,星期日,,,1,1,0,0
+Sunday,,星期日,,,1,1,0,0
+Swedish,,瑞典語,,,1,1,0,0
+System,,系統設定,,,1,1,0,0
+TS file is too large for ISO9660 level 1!,,TS文件太大！,,,1,1,0,0
+Tags,,標籤,,,1,1,0,0
+Terrestrial,,地面波,,,1,1,0,0
+Terrestrial provider,,地面波提供商,,,1,1,0,0
+Test DiSEqC settings,,測驗DiSEqC設定,,,1,1,0,0
+Test mode,,測驗模式,,,1,1,0,0
+Thank you for using the wizard.\nPlease press OK to continue.,,感謝您使用設定嚮導.\n按OK鍵確認.,,,1,1,0,0
+The backup failed. Please choose a different backup location.,,備份操作失敗！請選擇不同的備份位置。,,,1,1,0,0
+The directory %s is not writable.\nMake sure you select a writable directory instead.,,'',,,1,0,0,1
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,下列裝備被發現:\n\n%s\n\n是否刷新這個U盤?,,,1,1,0,0
+The following files were found...,,下列文件被發現...,,,1,1,0,0
+The path %s already exists.,,路徑 %s 已經存在.,,,1,1,0,0
+The pin code you entered is wrong.,,密碼輸入有誤.,,,1,1,0,0
+The results have been written to %s.,,測驗結果是在 %s 中保存.,,,1,1,0,0
+The sleep timer has been activated.,,定時休眠已被啟動.,,,1,1,0,0
+The sleep timer has been disabled.,,定時休眠已被禁用.,,,1,1,0,0
+The timer file (timers.xml) is corrupt and could not be loaded.,,計時器文件（timers.xml）已損壞，無法載入.,,,1,1,0,0
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,無線網路插件未安裝!\n請安裝並選擇下一步做什麼.,,,1,1,0,0
+The wireless LAN plugin is not installed!\nPlease install it.,,WLAN插件未安裝!\n請先安裝.,,,1,1,0,0
+The wizard can backup your current settings. Do you want to do a backup now?,,該嚮導可以備份您當前的設定.您想要做的一個備份嗎？,,,1,1,0,0
+The wizard is finished now.,,嚮導已完成設定.,,,1,1,0,0
+There are at least ,,這裏至少有 ,,,1,1,0,0
+There are currently no outstanding actions.,,目前沒有異常.,,,1,1,0,0
+There are no updates available.,,這裏沒有可用更新.,,,1,1,0,0
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,所選的分區上可能沒有足夠的空間.\n是否繼續？,,,1,1,0,0
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,,這張DVD RW已經格式化過，再次格式化將刪除所有檔,,,1,1,0,0
+This plugin is installed.,,這個插件已安裝.,,,1,1,0,0
+This plugin is not installed.,,這個插件未安裝.,,,1,1,0,0
+This plugin will be installed.,,這個插件將要被安裝.,,,1,1,0,0
+This plugin will be removed.,,這個插件將要被移除.,,,1,1,0,0
+Three,,3,,,1,1,0,0
+Threshold,,轉折頻率,,,1,1,0,0
+Thu,,星期四,,,1,1,0,0
+Thumbnails,,縮略圖,,,1,1,0,0
+Thursday,,星期四,,,1,1,0,0
+Time,,時間,,,1,1,0,0
+Timer,,計時器,,,1,1,0,0
+Timer entry,,計時器項目,,,1,1,0,0
+Timer log,,計時器日誌,,,1,1,0,0
+Timer overlap in timers.xml detected!\nPlease recheck it!,,測驗timers.xml有重疊部分！\n請重新檢視它!,,,1,1,0,0
+Timer sanity error,,計時器測驗中的錯誤,,,1,1,0,0
+Timer selection,,計時器選擇,,,1,1,0,0
+Timer type,,定時類型,,,1,1,0,0
+Timeshift,,時光平移,,,1,1,0,0
+Timeshift location,,時光平移位置,,,1,1,0,0
+Timeshift not possible!,,不能時光平移!,,,1,1,0,0
+Timezone,,時區,,,1,1,0,0
+Title,,音樂,,,1,1,0,0
+Title properties,,標題屬性,,,1,1,0,0
+Titleset mode,,標題設定模式,,,1,1,0,0
+Today,,今天,,,1,1,0,0
+Tone mode,,22K模式,,,1,1,0,0
+Toneburst,,'',,,1,0,0,1
+Toneburst A/B,,'',,,1,0,0,1
+Track,,軌道,,,1,1,0,0
+Traditional Chinese,,繁體中文,,,1,1,0,0
+Translation,,翻譯:,,,1,1,0,0
+Translation:,,翻譯:,,,1,1,0,0
+Transmission mode,,傳輸模式,,,1,1,0,0
+Transponder,,轉發器,,,1,1,0,0
+Tries left:,,嘗試:,,,1,1,0,0
+Try to find used transponders in cable network.. please wait...,,嘗試從電纜找尋可用的轉發器.. 請稍候...,,,1,1,0,0
+Trying to download a new packetlist. Please wait...,,嘗試下載新的套裝軟體列表. 請稍候...,,,1,1,0,0
+Tue,,星期二,,,1,1,0,0
+Tuesday,,星期二,,,1,1,0,0
+Tune,,調製,,,1,1,0,0
+Tune failed!,,調製失敗!,,,1,1,0,0
+Tuner,,調諧器,,,1,1,0,0
+Tuner configuration,,調諧器配置,,,1,1,0,0
+Tuner status,,調諧器資訊,,,1,1,0,0
+Turkish,,土耳其語,,,1,1,0,0
+Ukrainian,,烏克蘭,,,1,1,0,0
+Two,,2,,,1,1,0,0
+Type,,類型,,,1,1,0,0
+Type of scan,,掃描類型,,,1,1,0,0
+USALS,,'',,,1,0,0,1
+USB stick wizard,,USB Stick 嚮導,,,1,1,0,0
+Undo install,,撤銷安裝,,,1,1,0,0
+Undo uninstall,,撤銷刪除,,,1,1,0,0
+Unicable Martix,,'',,,1,0,0,1
+Uninstall,,反安裝,,,1,1,0,0
+Universal LNB,,通用,,,1,1,0,0
+Unknown,,未知,,,1,1,0,0
+Unmount,,解除安裝(Unmount),,,1,1,0,0
+Unsupported,,不支援的,,,1,1,0,0
+Update,,更新,,,1,1,0,0
+Updating software catalog,,更新軟體目錄,,,1,1,0,0
+Upgrading,,升級,,,1,1,0,0
+Use,,使用,,,1,1,0,0
+Use DHCP,,自動分配位址(DHCP),,,1,1,0,0
+Use a gateway,,使用閘道,,,1,1,0,0
+Use power measurement,,使用功率測量,,,1,1,0,0
+"Use the up/down keys on your remote control to select an option. After that, press OK.",,使用遙控 上/下 鍵選擇一個選項。在此之後按下 OK 。,,,1,1,0,0
+Use this video enhancement settings?,,使用此視頻增強設定?,,,1,1,0,0
+Used service scan type,,按頻道類型搜索,,,1,1,0,0
+User - bouquets,,自定義組,,,1,1,0,0
+User defined,,用戶定義,,,1,1,0,0
+VCR scart,,錄影機,,,1,1,0,0
+Vertical,,垂直,,,1,1,0,0
+Video enhancement preview,,視頻增強預覽,,,1,1,0,0
+Video enhancement settings,,視頻增強,,,1,1,0,0
+Video enhancement setup,,視頻增強設定,,,1,1,0,0
+Video mode selection.,,選擇視頻模式.,,,1,1,0,0
+View Rass interactive...,,'',,,1,0,0,1
+View details,,檢視明細,,,1,1,0,0
+View list of available ,,檢視可用列表 ,,,1,1,0,0
+View list of available CommonInterface extensions,,檢視可用的CI通用介面列表.,,,1,1,0,0
+View list of available EPG extensions.,,檢視可用的EPG列表.,,,1,1,0,0
+View list of available communication extensions.,,檢視可用的通訊裝置列表.,,,1,1,0,0
+View list of available default settings,,檢視可用的預設設定列表,,,1,1,0,0
+View list of available multimedia extensions.,,檢視可用的多媒體裝置列表.,,,1,1,0,0
+View list of available networking extensions,,檢視可用的網路列表,,,1,1,0,0
+View list of available recording extensions,,檢視可用的錄影列表,,,1,1,0,0
+View list of available skins,,檢視可用的皮膚列表,,,1,1,0,0
+View list of available software extensions,,檢視可用的軟體列表,,,1,1,0,0
+View list of available system extensions,,檢視可用的系統裝置列表,,,1,1,0,0
+View teletext...,,檢視電傳視訊...,,,1,1,0,0
+Voltage mode,,極化方式,,,1,1,0,0
+Volume,,音量,,,1,1,0,0
+W,,'',,,1,0,0,1
+WEP,,'',,,1,0,0,1
+WPA,,'',,,1,0,0,1
+WPA or WPA2,,WPA 或r WPA2,,,1,1,0,0
+WPA2,,'',,,1,0,0,1
+WSS on 4:3,,'',,,1,0,0,1
+Waiting,,等待,,,1,1,0,0
+Wed,,星期三,,,1,1,0,0
+Wednesday,,星期三,,,1,1,0,0
+Weekday,,星期,,,1,1,0,0
+Welcome...,,歡迎...,,,1,1,0,0
+West,,西,,,1,1,0,0
+What do you want to scan?,,是否開始掃描?,,,1,1,0,0
+"When you do a factory reset, you will lose ALL your configuration data\n(including bouquets, services, satellite data ...)\nAfter completion of factory reset, your receiver will restart automatically!\n\nReally do a factory reset?",,"如果恢復出廠設定，全部個人設定將丟失\n(包括衛星, 頻道, 自定義組等 ...)\n完成出廠設定復位後, 接收機將自動重啟!\n\n確定要恢復出廠設定嗎?",,,1,1,0,0
+Where do you want to backup your settings?,,在哪里備份您的設定?,,,1,1,0,0
+Where to save temporary timeshift recordings?,,在哪里保存時光平移臨時錄製的內容?,,,1,1,0,0
+Wireless LAN,,無線網WLAN,,,1,1,0,0
+Write error while recording. Disk full?\n,,錄製節目時出現錯誤.磁片已滿?\n,,,1,1,0,0
+Write failed!,,寫入失敗！,,,1,1,0,0
+YPbPr,,'',,,1,0,0,1
+Year,,年,,,1,1,0,0
+Yes,,是,,,1,1,0,0
+Yes to all,,全部是,,,1,1,0,0
+"Yes, and delete this movie",,是的，刪除此電影,,,1,1,0,0
+"Yes, backup my settings!",,"是, 備份我的設定!",,,1,1,0,0
+"Yes, do a manual scan now",,是，開始手動掃描,,,1,1,0,0
+"Yes, do an automatic scan now",,是，開始自動掃描,,,1,1,0,0
+"Yes, do another manual scan now",,是，手動掃描另一個參數,,,1,1,0,0
+"Yes, perform a shutdown now.",,是，立即關機。,,,1,1,0,0
+"Yes, restore the settings now",,是，立即還原設定,,,1,1,0,0
+"Yes, returning to movie list",,是，返回電影列表,,,1,1,0,0
+You can cancel the installation.,,您可以退出安裝.,,,1,1,0,0
+You can cancel the removal.,,您可以取消刪除.,,,1,1,0,0
+You can install this plugin.,,您可以安裝這個插件.,,,1,1,0,0
+You can remove this plugin.,,您可以移除這個插件.,,,1,1,0,0
+You cannot delete this!,,這個檔不能刪除!,,,1,1,0,0
+You have chosen to backup your settings. Please press OK to start the backup now.,,您已選擇要備份您的設定。請按OK鍵開始備份。,,,1,1,0,0
+You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased.,,"您已經選擇創建一個新的用於安裝.NFI的啟動U盤,這將重新對U盤進行格式化,所有資料將被刪除.",,,1,1,0,0
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,您已經選擇恢復備份設定.恢復後將重啟Enigma2.請按OK開始恢復備份.,,,1,1,0,0
+You have to wait %s!,,您必須等待 %s !,,,1,1,0,0
+Your backup succeeded. We will now continue to explain the further upgrade process.,,備份成功.現在將繼續說明下一步的升級過程.,,,1,1,0,0
+"Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!",,"您的收藏超過單層DVD大小,您將需要一個空白雙層DVD！！！",,,1,1,0,0
+Your current collection will get lost!,,您當前的收集將丟失!,,,1,1,0,0
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,,您的前端處理器韧體必須更新.\n按 OK 開始升級.,,,1,1,0,0
+Your internet connection is not working!\nPlease choose what you want to do next.,,Internet連接不正常！\n請選擇下一步做什麼,,,1,1,0,0
+Your network configuration has been activated.,,您的網路配置已被啟動.,,,1,1,0,0
+Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,,無線網路不能連接！\n是否連接了USB無線網卡?\n\n請選擇下一步做什麼.,,,1,1,0,0
+Zap back to service before positioner setup?,,切換回設定位置之前的頻道?,,,1,1,0,0
+Zap back to service before tuner setup?,,切換回調諧器配置之前的頻道?,,,1,1,0,0
+[alternative edit],,[編輯專案],,,1,1,0,0
+[bouquet edit],,[編輯自定義組],,,1,1,0,0
+[favourite edit],,[編輯喜愛頻道],,,1,1,0,0
+[move mode],,[移動模式],,,1,1,0,0
+a gui to assign services/providers to common interface modules,,'',,,1,0,0,1
+a gui to assign services/providers/caids to common interface modules,,'',,,1,0,0,1
+abort alternatives edit,,取消專案編輯,,,1,1,0,0
+abort bouquet edit,,取消自定義組編輯,,,1,1,0,0
+abort favourites edit,,取消喜愛頻道編輯,,,1,1,0,0
+about to start,,立即開始,,,1,1,0,0
+activate network adapter configuration,,啟動網卡配置,,,1,1,0,0
+add alternatives,,增加項目,,,1,1,0,0
+add bookmark,,增加書簽,,,1,1,0,0
+add bouquet,,增加自定義組,,,1,1,0,0
+add marker,,添加標記,,,1,1,0,0
+add service to bouquet,,添加頻道到自定義組,,,1,1,0,0
+add service to favourites,,添加頻道到喜愛頻道,,,1,1,0,0
+add to parental protection,,添加到家長控制,,,1,1,0,0
+advanced,,高級,,,1,1,0,0
+audio tracks,,單軌,,,1,1,0,0
+auto,,自動,,,1,1,0,0
+back,,後退,,,1,1,0,0
+background image,,背景圖片,,,1,1,0,0
+better,,較好,,,1,1,0,0
+black,,黑色,,,1,1,0,0
+blacklist,,黑名單,,,1,1,0,0
+blue,,藍色,,,1,1,0,0
+chapters,,章節,,,1,1,0,0
+circular left,,左旋,,,1,1,0,0
+circular right,,右旋,,,1,1,0,0
+config menu,,配置功能表,,,1,1,0,0
+confirmed,,測驗通過,,,1,1,0,0
+connected,,已連接,,,1,1,0,0
+continue,,繼續,,,1,1,0,0
+copy to bouquets,,複製到自定義組,,,1,1,0,0
+create directory,,創建目錄,,,1,1,0,0
+daily,,每天,,,1,1,0,0
+day,,天,,,1,1,0,0
+default,,預設,,,1,1,0,0
+delete cut,,刪除剪輯,,,1,1,0,0
+disable,,禁止,,,1,1,0,0
+disable move mode,,禁用移動模式,,,1,1,0,0
+disabled,,不可用,,,1,1,0,0
+disconnected,,斷開,,,1,1,0,0
+do nothing,,什麼都不做,,,1,1,0,0
+done!,,完成!,,,1,1,0,0
+edit alternatives,,編輯選項,,,1,1,0,0
+empty,,空的,,,1,1,0,0
+enable,,啟用,,,1,1,0,0
+enable bouquet edit,,允許編輯自定義組,,,1,1,0,0
+enable favourite edit,,允許編輯喜愛頻道,,,1,1,0,0
+enable move mode,,允許移動模式,,,1,1,0,0
+enabled,,允許,,,1,1,0,0
+end alternatives edit,,結速專案編輯,,,1,1,0,0
+end bouquet edit,,結束自定義組編輯,,,1,1,0,0
+end cut here,,結束錄影剪輯,,,1,1,0,0
+end favourites edit,,結束喜愛頻道編輯,,,1,1,0,0
+equal to,,相同,,,1,1,0,0
+exit DVD player or return to file browser,,退出DVD播放器或返回檔流覽器,,,1,1,0,0
+exit network adapter configuration,,退出網卡配置,,,1,1,0,0
+exit networkadapter setup menu,,退出網卡設定功能表,,,1,1,0,0
+"fileformats (BMP, PNG, JPG, GIF)",,"檔格式 (BMP, PNG, JPG, GIF)",,,1,1,0,0
+filename,,檔案名,,,1,1,0,0
+forward to the next chapter,,快進到下一個章節,,,1,1,0,0
+free,,空閒,,,1,1,0,0
+go to deep standby,,深度休眠,,,1,1,0,0
+go to standby,,待機,,,1,1,0,0
+grab this frame as bitmap,,抓取當前幀為bmp圖片,,,1,1,0,0
+green,,綠色,,,1,1,0,0
+help...,,説明...,,,1,1,0,0
+horizontal,,水準,,,1,1,0,0
+init module,,模組初始化,,,1,1,0,0
+insert mark here,,在這裏標記,,,1,1,0,0
+jump back to the previous title,,跳轉到上一個標題,,,1,1,0,0
+jump forward to the next title,,跳轉到下一個標題,,,1,1,0,0
+leave movie player...,,退出電影播放...,,,1,1,0,0
+left,,左,,,1,1,0,0
+length,,長度,,,1,1,0,0
+list style compact,,列表樣式,,,1,1,0,0
+list style compact with description,,帶描述的列表樣式,,,1,1,0,0
+list style default,,預設列表樣式,,,1,1,0,0
+list style single line,,單行列表樣式,,,1,1,0,0
+locked,,鎖定,,,1,1,0,0
+loopthrough to,,聯繫,,,1,1,0,0
+manual,,手動,,,1,1,0,0
+menu,,功能表,,,1,1,0,0
+mins,,分鐘,,,1,1,0,0
+minutes,,分鐘,,,1,1,0,0
+month,,月份,,,1,1,0,0
+move down to last entry,,向下移動到最後項目,,,1,1,0,0
+move down to next entry,,向下移動到下一個項目,,,1,1,0,0
+move up to first entry,,向上移動到第一個項目,,,1,1,0,0
+move up to previous entry,,向上移動到上一個項目,,,1,1,0,0
+multinorm,,多模,,,1,1,0,0
+never,,從不,,,1,1,0,0
+no,,否,,,1,1,0,0
+no CAId selected,,未選擇CAId,,,1,1,0,0
+no CI slots found,,未找到CI插座,,,1,1,0,0
+no module found,,未找到模組,,,1,1,0,0
+none,,無,,,1,1,0,0
+not locked,,無信號,,,1,1,0,0
+not used,,未使用,,,1,1,0,0
+nothing connected,,從未連接,,,1,1,0,0
+of a DUAL layer medium used.,,使用雙層介質,,,1,1,0,0
+of a SINGLE layer medium used.,,使用單層介質.,,,1,1,0,0
+off,,關,,,1,1,0,0
+on,,開,,,1,1,0,0
+on READ ONLY medium.,,唯讀介質.,,,1,1,0,0
+once,,一次,,,1,1,0,0
+open nameserver configuration,,打開DNS設定,,,1,1,0,0
+pass,,通過,,,1,1,0,0
+please press OK when ready,,準備好後，按OK鍵,,,1,1,0,0
+"please wait, loading picture...",,請稍候，正在載入圖片...,,,1,1,0,0
+record,,錄影,,,1,1,0,0
+recording...,,正在錄影...,,,1,1,0,0
+red,,紅色,,,1,1,0,0
+remove after this position,,移除這個位置之後的,,,1,1,0,0
+remove all alternatives,,移除所有項目,,,1,1,0,0
+remove all new found flags,,移除所有新發現標記,,,1,1,0,0
+remove before this position,,移除這個位置之前的,,,1,1,0,0
+remove bookmark,,移除書簽,,,1,1,0,0
+remove directory,,移除目錄,,,1,1,0,0
+remove entry,,移除項目,,,1,1,0,0
+remove from parental protection,,取消家長控制,,,1,1,0,0
+remove new found flag,,移除新發現標記,,,1,1,0,0
+remove selected satellite,,移除選定的衛星,,,1,1,0,0
+remove this mark,,移除這個標記,,,1,1,0,0
+repeat playlist,,重複播放列表,,,1,1,0,0
+repeated,,重複,,,1,1,0,0
+rewind to the previous chapter,,退回上一個章節,,,1,1,0,0
+right,,右,,,1,1,0,0
+save last directory on exit,,退出時保存目錄,,,1,1,0,0
+save playlist on exit,,退出時保存播放列表,,,1,1,0,0
+scan state,,掃描狀態,,,1,1,0,0
+second cable of motorized LNB,,第二條線纜連接Rotor,,,1,1,0,0
+seconds,,秒,,,1,1,0,0
+select,,選擇,,,1,1,0,0
+select CAId's,,選擇 CAId's,,,1,1,0,0
+select menu entry,,選擇功能表專案,,,1,1,0,0
+show DVD main menu,,顯示DVD主功能表,,,1,1,0,0
+show alternatives,,顯示選項,,,1,1,0,0
+show event details,,顯示事件詳細內容,,,1,1,0,0
+show transponder info,,顯示轉發器資訊,,,1,1,0,0
+shut down,,關機,,,1,1,0,0
+simple,,簡單,,,1,1,0,0
+skip backward,,快倒,,,1,1,0,0
+skip forward,,快進,,,1,1,0,0
+standard,,標準,,,1,1,0,0
+start cut here,,從這裏開始剪輯,,,1,1,0,0
+start directory,,開始目錄,,,1,1,0,0
+stereo,,身歷聲,,,1,1,0,0
+switch to bookmarks,,切換到書簽,,,1,1,0,0
+switch to filelist,,切換到檔列表,,,1,1,0,0
+switch to the next angle,,切換到下一個角度,,,1,1,0,0
+switch to the next audio track,,切換到下一個單軌,,,1,1,0,0
+switch to the next subtitle language,,切換到下一個語種字幕,,,1,1,0,0
+this recording,,這個錄影,,,1,1,0,0
+this service is protected by a parental control pin,,此頻道受家長控制.,,,1,1,0,0
+"toggle time, chapter, audio, subtitle info",,"切換時間, 章節, 音頻,字幕資訊",,,1,1,0,0
+unavailable,,不可用,,,1,1,0,0
+unconfirmed,,測驗未通過,,,1,1,0,0
+unknown,,未知,,,1,1,0,0
+unknown service,,未知頻道,,,1,1,0,0
+user defined,,用戶定義,,,1,1,0,0
+vertical,,垂直,,,1,1,0,0
+wait for ci...,,等待CI...,,,1,1,0,0
+wait for mmi...,,等待mmi...,,,1,1,0,0
+waiting,,等待,,,1,1,0,0
+weekly,,每週,,,1,1,0,0
+yellow,,黃色,,,1,1,0,0
+yes,,是,,,1,1,0,0
+yes (keep feeds),,是 (保留),,,1,1,0,0
+zap,,切換,,,1,1,0,0
+zapped,,轉自,,,1,1,0,0
+Search,,搜索,,,1,1,0,0
+Symbol Rate,,符號率,,,1,1,0,0
+Polarity,,極化,,,1,1,0,0
+Current,,當前,,,1,1,0,0
+Next,,下一個,,,1,1,0,0

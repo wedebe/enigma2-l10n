@@ -1,0 +1,1254 @@
+msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+"\nAfter pressing OK, please wait!",\nBíðið eftir að hafa ýtt á OK!,\nBíðið eftir að hafa ýtt á OK!,\nBíðið eftir að hafa ýtt á OK!,\nBíðið eftir að hafa ýtt á OK!,4,1,3,0
+\nPress OK on your remote control to continue.,\nÝtið á OK á fjarstýringunni til að halda áfram.,\nÝtið á OK á fjarstýringunni til að halda áfram.,\nÝtið á OK á fjarstýringunni til að halda áfram.,\nÝtið á OK á fjarstýringunni til að halda áfram.,4,1,3,0
+ extensions.,,, viðbætur.,,1,1,0,0
+ ms,,,'',,1,0,0,1
+ packages selected.,,, pakkar valdir.,,1,1,0,0
+ updates available.,,, uppfærslur tiltækar.,,1,1,0,0
+%H:%M,,'','','',3,0,0,3
+%d min,,'','','',3,0,0,3
+%d.%B %Y,,'','',,2,0,0,2
+%s (%s)\n,,'','','',3,0,0,3
+(ZAP),,(STÖKK),(STÖKK),(STÖKK),3,1,2,0
+(empty),(tómt),(tómt),(tómt),(tómt),4,1,3,0
+(show optional DVD audio menu),(sýna viðbótar DVD hljóð valmynd),(sýna viðbótar DVD hljóð valmynd),(sýna viðbótar DVD hljóð valmynd),(sýna viðbótar DVD hljóð valmynd),4,1,3,0
+* Only available if more than one interface is active.,* Bara virkt ef að fleira en eitt tæki er virkt.,* Bara virkt ef að fleira en eitt tæki er virkt.,* Bara virkt ef að fleira en eitt tæki er virkt.,* Bara virkt ef að fleira en eitt tæki er virkt.,4,1,3,0
+0,,,'',,1,0,0,1
+1,,,'',,1,0,0,1
+1.0,,'','','',3,0,0,3
+1.1,,'','','',3,0,0,3
+1.2,,'','','',3,0,0,3
+12V output,12V út,12V út,12V út,12V út,4,1,3,0
+13 V,,'','','',3,0,0,3
+16:10,,'','','',3,0,0,3
+16:10 Letterbox,,'','','',3,0,0,3
+16:10 PanScan,,'','','',3,0,0,3
+16:9,,'','','',3,0,0,3
+16:9 Letterbox,,'','','',3,0,0,3
+16:9 always,16:9 alltaf,16:9 alltaf,16:9 alltaf,16:9 alltaf,4,1,3,0
+18 V,,'','','',3,0,0,3
+2,,,'',,1,0,0,1
+3,,,'',,1,0,0,1
+4,,,'',,1,0,0,1
+4:3,,'','','',3,0,0,3
+4:3 Letterbox,,'','','',3,0,0,3
+4:3 PanScan,,'','','',3,0,0,3
+5,,,'',,1,0,0,1
+6,,,'',,1,0,0,1
+7,,,'',,1,0,0,1
+8,,,'',,1,0,0,1
+9,,,'',,1,0,0,1
+<Current movielist location>,<Núverandi staður bíómyndalista>,<Núverandi staður bíómyndalista>,<Núverandi staður bíómyndalista>,<Núverandi staður bíómyndalista>,4,1,3,0
+<Default movie location>,<Sjálfgefinn staður bíómynda>,<Sjálfgefinn staður bíómynda>,<Sjálfgefinn staður bíómynda>,<Sjálfgefinn staður bíómynda>,4,1,3,0
+<Last timer location>,<Síðasti staður tímastillinga>,<Síðasti staður tímastillinga>,<Síðasti staður tímastillinga>,<Síðasti staður tímastillinga>,4,1,3,0
+<unknown>,<óþekkt>,<óþekkt>,<óþekkt>,<óþekkt>,4,1,3,0
+??,,'','','',3,0,0,3
+A,,'','','',3,0,0,3
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,Stillingaskrá (%s) er breytt síðan uppsetning var gerð.\nViltu halda þinni útgáfu?,Stillingaskrá (%s) er breytt síðan uppsetning var gerð.\nViltu halda þinni útgáfu?,Stillingaskrá (%s) er breytt síðan uppsetning var gerð.\nViltu halda þinni útgáfu?,Stillingaskrá (%s) er breytt síðan uppsetning var gerð.\nViltu halda þinni útgáfu?,4,1,3,0
+A record has been started:\n%s,,,Upptaka hefur hafist:\n%s,,1,1,0,0
+A recording is currently running.\nWhat do you want to do?,Upptaka er nú í gangi.\nHvað viltu núna gera?,Upptaka er nú í gangi.\nHvað viltu núna gera?,Upptaka er nú í gangi.\nHvað viltu núna gera?,,3,1,2,0
+A required tool (%s) was not found.,Nauðsynlegt tól (%s) fannst ekki.,Nauðsynlegt tól (%s) fannst ekki.,Nauðsynlegt tól (%s) fannst ekki.,Nauðsynlegt tól (%s) fannst ekki.,4,1,3,0
+A search for available updates is currently in progress.,Leit að tiltækum uppfærslum í gangi.,Leit að tiltækum uppfærslum í gangi.,Leit að tiltækum uppfærslum í gangi.,Leit að tiltækum uppfærslum í gangi.,4,1,3,0
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,Annað uppsett netkort fannst.\n\nViltu hætta að nota það?,Annað uppsett netkort fannst.\n\nViltu hætta að nota það?,Annað uppsett netkort fannst.\n\nViltu hætta að nota það?,Annað uppsett netkort fannst.\n\nViltu hætta að nota það?,4,1,3,0
+A small overview of the available icon states and actions.,Einfalt yfirlit yfir stöðu smámynda og aðgerða.,Einfalt yfirlit yfir stöðu smámynda og aðgerða.,Einfalt yfirlit yfir stöðu smámynda og aðgerða.,Einfalt yfirlit yfir stöðu smámynda og aðgerða.,4,1,3,0
+A timer failed to record!\nDisable TV and try again?\n,Tímastillt upptaka mistókst!\nHætta og reyna aftur?\n,Tímastillt upptaka mistókst!\nHætta og reyna aftur?\n,Tímastillt upptaka mistókst!\nHætta og reyna aftur?\n,Tímastillt upptaka mistókst!\nHætta og reyna aftur?\n,4,1,3,0
+Abort,Hætta við,Hætta við,Hætta við,Hætta við,4,1,3,0
+Abort alternatives edit,,,Hætta við að breyta valkostum,,1,1,0,0
+Abort bouquet edit,,,Hætta við að breyta fléttu,,1,1,0,0
+Abort favourites edit,,,Hætta við að breyta eftirlætis lista,,1,1,0,0
+About,Um,Um,Um,Um,4,1,3,0
+Accesspoint:,Aðgangspunktur:,Aðgangspunktur:,Aðgangspunktur:,Aðgangspunktur:,4,1,3,0
+Activate Picture in Picture,Virkja Mynd í Mynd,Virkja Mynd í Mynd,Virkja Mynd í Mynd,Virkja Mynd í Mynd,4,1,3,0
+Activate network settings,Virkja netkerfis stillingar,Virkja netkerfis stillingar,Virkja netkerfis stillingar,Virkja netkerfis stillingar,4,1,3,0
+Adapter settings,Stilling tækis,Stilling tækis,Stilling tækis,Stilling tækis,4,1,3,0
+Add,Viðbót,Viðbót,Viðbót,Viðbót,4,1,3,0
+Add a mark,Bæta við merki,Bæta við merki,Bæta við merki,Bæta við merki,4,1,3,0
+Add a new title,Bæta við nýjum titli,Bæta við nýjum titli,Bæta við nýjum titli,Bæta við nýjum titli,4,1,3,0
+Add alternatives,,,bæta við valkosti,,1,1,0,0
+Add bouquet,,,Bæta rásavendi við,,1,1,0,0
+Add marker,,,Bæta við merki,,1,1,0,0
+Add service to bouquet,,,Bæta rás við fléttu,,1,1,0,0
+Add service to favourites,,,Bæta rás við eftirlætis lista,,1,1,0,0
+Add timer,Taka upp,Taka upp,Taka upp,Taka upp,4,1,3,0
+Add title,Bæta við titli,Bæta við titli,Bæta við titli,Bæta við titli,4,1,3,0
+Add to bouquet,,Bæta við rásavönd,Bæta við rásavönd,Bæta við rásavönd,3,1,2,0
+Add to favourites,,Bæta við eftirlætisrásir,Bæta við eftirlætisrásir,Bæta við eftirlætisrásir,3,1,2,0
+Add to parental protection,,,Bæta við foreldra lás,,1,1,0,0
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.","Stilltu lita stillingar þannig að öll litablæbrigði séu aðgreinanleg og eru eins björt og hægt er. Ef þú ert ánægður með árangurinn, ýttu þá á OK til að loka stillinga skjánum eða ýttu á númeralykil til að velja aðra prufumynd.","Stilltu lita stillingar þannig að öll litablæbrigði séu aðgreinanleg og eru eins björt og hægt er. Ef þú ert ánægður með árangurinn, ýttu þá á OK til að loka stillinga skjánum eða ýttu á númeralykil til að velja aðra prufumynd.","Stilltu lita stillingar þannig að öll litablæbrigði séu aðgreinanleg og eru eins björt og hægt er. Ef þú ert ánægður með árangurinn, ýttu þá á OK til að loka stillinga skjánum eða ýttu á númeralykil til að velja aðra prufumynd.","Stilltu lita stillingar þannig að öll litablæbrigði séu aðgreinanleg og eru eins björt og hægt er. Ef þú ert ánægður með árangurinn, ýttu þá á OK til að loka stillinga skjánum eða ýttu á númeralykil til að velja aðra prufumynd.",4,1,3,0
+Advanced options and settings.,,,Auka sérfræði stillingar.,,1,1,0,0
+Advanced restore,Sérfræði innsetning afrita,Sérfræði innsetning afrita,Sérfræði innsetning afrita,Sérfræði innsetning afrita,4,1,3,0
+After event,Eftir atriði,Eftir atriði,Eftir atriði,Eftir atriði,4,1,3,0
+Album,,'','','',3,0,0,3
+All,Allt,Allt,Allt,Allt,4,1,3,0
+Alpha,Gegnsæi,Gegnsæi,Gegnsæi,Gegnsæi,4,1,3,0
+Alternative services tuner priority,Móttakara forgangur við rásaval,Móttakara forgangur við rásaval,Móttakara forgangur við rásaval,Móttakara forgangur við rásaval,4,1,3,0
+Always ask,Spyrja alltaf,Spyrja alltaf,Spyrja alltaf,Spyrja alltaf,4,1,3,0
+An empty filename is illegal.,Það þarf að vera skráarnafn.,Það þarf að vera skráarnafn.,Það þarf að vera skráarnafn.,Það þarf að vera skráarnafn.,4,1,3,0
+An unknown error occurred!,,,Óþekkt villa varð!,,1,1,0,0
+Arabic,Arabíska,Arabíska,Arabíska,Arabíska,4,1,3,0
+Are you sure you want to activate this network configuration?\n\n,Ertu viss um að þú viljir virkja þessa net stillingu?\n\n,Ertu viss um að þú viljir virkja þessa net stillingu?\n\n,Ertu viss um að þú viljir virkja þessa net stillingu?\n\n,Ertu viss um að þú viljir virkja þessa net stillingu?\n\n,4,1,3,0
+Are you sure you want to exit this wizard?,Ertu viss um að þú viljir hætta í ráðgjafanum?,Ertu viss um að þú viljir hætta í ráðgjafanum?,Ertu viss um að þú viljir hætta í ráðgjafanum?,Ertu viss um að þú viljir hætta í ráðgjafanum?,4,1,3,0
+Are you sure you want to restart your network interfaces?\n\n,Ertu viss um að þú viljir endurræsa netkortið?\n\n,Ertu viss um að þú viljir endurræsa netkortið?\n\n,Ertu viss um að þú viljir endurræsa netkortið?\n\n,Ertu viss um að þú viljir endurræsa netkortið?\n\n,4,1,3,0
+Artist,Listamaður,Listamaður,Listamaður,Listamaður,4,1,3,0
+Ask user,Spyrja notanda,Spyrja notanda,Spyrja notanda,Spyrja notanda,4,1,3,0
+Audio,,,Hljóð,,1,1,0,0
+Audio PID,Hljóð PID,Hljóð PID,Hljóð PID,Hljóð PID,4,1,3,0
+Author: ,Höfundur:,Höfundur:,Höfundur:,Höfundur:,4,1,3,0
+Authoring mode,Höfunda hamur,Höfunda hamur,Höfunda hamur,Höfunda hamur,4,1,3,0
+Auto,Sjálfvirkt,Sjálfvirkt,Sjálfvirkt,Sjálfvirkt,4,1,3,0
+Auto chapter split every ? minutes (0=never),Skipta í kafla hverja ? mínútu (0=aldrei),Skipta í kafla hverja ? mínútu (0=aldrei),Skipta í kafla hverja ? mínútu (0=aldrei),Skipta í kafla hverja ? mínútu (0=aldrei),4,1,3,0
+Auto flesh,Sjálfvirkt skinn,Sjálfvirkt skinn,Sjálfvirkt skinn,Sjálfvirkt skinn,4,1,3,0
+Auto scart switching,Sjálfvirk skipting á scarti,Sjálfvirk skipting á scarti,Sjálfvirk skipting á scarti,Sjálfvirk skipting á scarti,4,1,3,0
+Automatic,Sjálfvirkt,Sjálfvirkt,Sjálfvirkt,Sjálfvirkt,4,1,3,0
+Available format variables,Útfærslur tiltækra forma,Útfærslur tiltækra forma,Útfærslur tiltækra forma,Útfærslur tiltækra forma,4,1,3,0
+B,,'','','',3,0,0,3
+BER,,,'',,1,0,0,1
+BER:,,,'',,1,0,0,1
+Back,Til baka,Til baka,Til baka,Til baka,4,1,3,0
+Background,Bakgrunnur,Bakgrunnur,Bakgrunnur,Bakgrunnur,4,1,3,0
+Backup failed.,Afritun tókst ekki.,Afritun tókst ekki.,Afritun tókst ekki.,Afritun tókst ekki.,4,1,3,0
+Backup is running...,Afritun í vinnslu...,Afritun í vinnslu...,Afritun í vinnslu...,Afritun í vinnslu...,4,1,3,0
+Backup system settings,Afrita kerfis stillingar,Afrita kerfis stillingar,Afrita kerfis stillingar,Afrita kerfis stillingar,4,1,3,0
+Band,Tíðnisvið,Tíðnisvið,Tíðnisvið,Tíðnisvið,4,1,3,0
+Bandwidth,Bandbreidd,Bandbreidd,Bandbreidd,Bandbreidd,4,1,3,0
+Begin time,Byrjunar tími,Byrjunar tími,Byrjunar tími,Byrjunar tími,4,1,3,0
+Behavior of '0' button in PiP mode,,,Virkun 0 hnapps í PiP-ham,,1,1,0,0
+Behavior when a movie is started,Aðgerð þegar mynd byrjar,Aðgerð þegar mynd byrjar,Aðgerð þegar mynd byrjar,Aðgerð þegar mynd byrjar,4,1,3,0
+Behavior when a movie is stopped,Aðgerð þegar mynd er stoppuð,Aðgerð þegar mynd er stoppuð,Aðgerð þegar mynd er stoppuð,Aðgerð þegar mynd er stoppuð,4,1,3,0
+Behavior when a movie reaches the end,Aðgerð þegar mynd er búin,Aðgerð þegar mynd er búin,Aðgerð þegar mynd er búin,Aðgerð þegar mynd er búin,4,1,3,0
+Bitrate:,Bitahraði:,Bitahraði:,Bitahraði:,Bitahraði:,4,1,3,0
+Block noise reduction,Suð deyfing,Suð deyfing,Suð deyfing,Suð deyfing,4,1,3,0
+Bookmarks,Bókamerki,Bókamerki,Bókamerki,Bókamerki,4,1,3,0
+Brightness,Birta,Birta,Birta,Birta,4,1,3,0
+Burn DVD,Brenna DVD,Brenna DVD,Brenna DVD,Brenna DVD,4,1,3,0
+Burn existing image to DVD,,Brenna tilbúna mynd á DVD,Brenna tilbúna mynd á DVD,Brenna tilbúna mynd á DVD,3,1,2,0
+Burn to DVD,,Brenna á DVD,Brenna á DVD,Brenna á DVD,3,1,2,0
+Bus: ,Rás:,Rás:,Rás:,Rás:,4,1,3,0
+C,,,'',,1,0,0,1
+C-Band,,'','','',3,0,0,3
+CI assignment,CI stillingar,CI stillingar,CI stillingar,CI stillingar,4,1,3,0
+CVBS,,'','','',3,0,0,3
+Cable,Kapalkerfi,Kapalkerfi,Kapalkerfi,Kapalkerfi,4,1,3,0
+Cancel,Hætta við,Hætta við,Hætta við,Hætta við,4,1,3,0
+Capacity: ,Stærð:,Stærð:,Stærð:,Stærð:,4,1,3,0
+Card,,,Kort,,1,1,0,0
+Change bouquets in quickzap,Skipta á milli rása flétta í rásastökki,Skipta á milli rása flétta í rásastökki,Skipta á milli rása flétta í rásastökki,Skipta á milli rása flétta í rásastökki,4,1,3,0
+Change step size,Breyta skrefa stærð,Breyta skrefa stærð,Breyta skrefa stærð,Breyta skrefa stærð,4,1,3,0
+Channel,Rás,Rás,Rás,Rás,4,1,3,0
+Channel not in services list,Rás ekki á rásalista,Rás ekki á rásalista,Rás ekki á rásalista,Rás ekki á rásalista,4,1,3,0
+Channel:,Rás:,Rás:,Rás:,Rás:,4,1,3,0
+Channellist menu,,,Valmynd rásalista,,1,1,0,0
+Chap.,Kafli.,Kafli.,Kafli.,Kafli.,4,1,3,0
+Chapter,Kafli,Kafli,Kafli,Kafli,4,1,3,0
+Chapter:,Kafli:,Kafli:,Kafli:,Kafli:,4,1,3,0
+Check,Athuga,Athuga,Athuga,Athuga,4,1,3,0
+Circular left,Hringpólun vinstri,Hringpólun vinstri,Hringpólun vinstri,Hringpólun vinstri,4,1,3,0
+Circular right,Hringpólun hægri,Hringpólun hægri,Hringpólun hægri,Hringpólun hægri,4,1,3,0
+Cleanup,Hreinsa,Hreinsa,Hreinsa,Hreinsa,4,1,3,0
+Clear before scan,Eyða fyrir leit,Eyða fyrir leit,Eyða fyrir leit,Eyða fyrir leit,4,1,3,0
+Clear log,Tæma lista,Tæma lista,Tæma lista,Tæma lista,4,1,3,0
+Close,Loka,Loka,Loka,Loka,4,1,3,0
+Close title selection,Loka titils vali,Loka titils vali,Loka titils vali,Loka titils vali,4,1,3,0
+Code rate HP,Bitahraði HP,Bitahraði HP,Bitahraði HP,Bitahraði HP,4,1,3,0
+Code rate LP,Bitahraði LP,Bitahraði LP,Bitahraði LP,Bitahraði LP,4,1,3,0
+Collection name,Nafn safns,Nafn safns,Nafn safns,Nafn safns,4,1,3,0
+Collection settings,Stillingar safns,Stillingar safns,Stillingar safns,Stillingar safns,4,1,3,0
+Command execution...,,,Keyrsla skipunar...,,1,1,0,0
+Command order,Röðun skipana,Röðun skipana,Röðun skipana,Röðun skipana,4,1,3,0
+Common Interface,Afruglara tengi,Afruglara tengi,Afruglara tengi,Afruglara tengi,4,1,3,0
+Communication,Samskipti,Samskipti,Samskipti,Samskipti,4,1,3,0
+Complete,Allt,Allt,Allt,Allt,4,1,3,0
+Complex (allows mixing audio tracks and aspects),Flókið (mögulegt að blanda hljóð rásir og stærðar hlutföll),Flókið (mögulegt að blanda hljóð rásir og stærðar hlutföll),Flókið (mögulegt að blanda hljóð rásir og stærðar hlutföll),Flókið (mögulegt að blanda hljóð rásir og stærðar hlutföll),4,1,3,0
+Composition of the recording filenames,Samsetning nafna á upptökum,Samsetning nafna á upptökum,Samsetning nafna á upptökum,Samsetning nafna á upptökum,4,1,3,0
+Configure interface,Stilla netkort,Stilla netkort,Stilla netkort,Stilla netkort,4,1,3,0
+Configure nameservers,Stilla nafnaþjón,Stilla nafnaþjón,Stilla nafnaþjón,Stilla nafnaþjón,4,1,3,0
+Configure your internal LAN,Stilla innbyggt netkort,Stilla innbyggt netkort,Stilla innbyggt netkort,Stilla innbyggt netkort,4,1,3,0
+Configure your network again,Stilla netkortið þitt aftur,Stilla netkortið þitt aftur,Stilla netkortið þitt aftur,Stilla netkortið þitt aftur,4,1,3,0
+Configure your wireless LAN again,Stilla þráðlausa netkortið þitt aftur,Stilla þráðlausa netkortið þitt aftur,Stilla þráðlausa netkortið þitt aftur,Stilla þráðlausa netkortið þitt aftur,4,1,3,0
+Configuring,Stilli,Stilli,Stilli,Stilli,4,1,3,0
+Connect,Tengi,Tengi,Tengi,Tengi,4,1,3,0
+Connected to,Tengd við,Tengd við,Tengd við,Tengd við,4,1,3,0
+Content does not fit on DVD!,Innihald passar ekki á DVD!,Innihald passar ekki á DVD!,Innihald passar ekki á DVD!,Innihald passar ekki á DVD!,4,1,3,0
+Continue,Áfram,Áfram,Áfram,Áfram,4,1,3,0
+Continue playing,Halda áfram að spila,Halda áfram að spila,Halda áfram að spila,Halda áfram að spila,4,1,3,0
+Contrast,Skerpa,Skerpa,Skerpa,Skerpa,4,1,3,0
+Copy to bouquets,,,Afrita til rásavanda,,1,1,0,0
+Could not open Picture in Picture,Gat ekki opnað mynd í mynd,Gat ekki opnað mynd í mynd,Gat ekki opnað mynd í mynd,,3,1,2,0
+Create DVD-ISO,Búa til DVD-ISO,Búa til DVD-ISO,Búa til DVD-ISO,Búa til DVD-ISO,4,1,3,0
+Create directory,,,Búa til möppu,,1,1,0,0
+Creating directory %s failed.,Tókst ekki að búa möppuna %s.,Tókst ekki að búa möppuna %s.,Tókst ekki að búa möppuna %s.,Tókst ekki að búa möppuna %s.,4,1,3,0
+Croatian,Króatíska,Króatíska,Króatíska,Króatíska,4,1,3,0
+Current device: ,Núverandi tæki: ,Núverandi tæki: ,Núverandi tæki: ,Núverandi tæki: ,4,1,3,0
+Current settings:,Núverandi stilling:,Núverandi stilling:,Núverandi stilling:,Núverandi stilling:,4,1,3,0
+Current value: ,Núverandi val:,Núverandi val:,Núverandi val:,Núverandi val:,4,1,3,0
+Customize,Aðrar stillingar,Aðrar stillingar,Aðrar stillingar,,3,1,2,0
+Cut,Klippa,Klippa,Klippa,Klippa,4,1,3,0
+Cutlist editor...,Klippingastjóri...,Klippingastjóri...,Klippingastjóri...,Klippingastjóri...,4,1,3,0
+Czech,Tékkneska,Tékkneska,Tékkneska,Tékkneska,4,1,3,0
+D,,,'',,1,0,0,1
+DHCP,,'','','',3,0,0,3
+DUAL LAYER DVD,Tveggja laga DVD,Tveggja laga DVD,Tveggja laga DVD,Tveggja laga DVD,4,1,3,0
+DVB-S,,'','','',3,0,0,3
+DVB-S2,,'','','',3,0,0,3
+DVD media toolbox,,DVD miðla tól,DVD miðla tól,DVD miðla tól,3,1,2,0
+Danish,Danska,Danska,Danska,Danska,4,1,3,0
+Date,Dags,Dags,Dags,Dags,4,1,3,0
+Default,Venjulegt,Venjulegt,Venjulegt,Venjulegt,4,1,3,0
+Default movie location,Sjálfgefin staðsetning bíómynda,Sjálfgefin staðsetning bíómynda,Sjálfgefin staðsetning bíómynda,Sjálfgefin staðsetning bíómynda,4,1,3,0
+Delete,Eyða,Eyða,Eyða,Eyða,4,1,3,0
+Delete entry,Eyða innslætti,Eyða innslætti,Eyða innslætti,Eyða innslætti,4,1,3,0
+Delete failed!,Tókst ekki að eyða!,Tókst ekki að eyða!,Tókst ekki að eyða!,Tókst ekki að eyða!,4,1,3,0
+Description,Lýsing,Lýsing,Lýsing,Lýsing,4,1,3,0
+Deselect,Ekki velja,Ekki velja,Ekki velja,Ekki velja,4,1,3,0
+Details for plugin: ,Upplýsingar um íforrit:,Upplýsingar um íforrit:,Upplýsingar um íforrit:,Upplýsingar um íforrit:,4,1,3,0
+Detected HDD:,,,Fann harðan disk:,,1,1,0,0
+Detected NIMs:,Fann NIM:,Fann NIM:,Fann NIM:,,3,1,2,0
+DiSEqC,,'','','',3,0,0,3
+DiSEqC A/B,,'','','',3,0,0,3
+DiSEqC A/B/C/D,,'','','',3,0,0,3
+DiSEqC mode,DiSEqC gerð,DiSEqC gerð,DiSEqC gerð,DiSEqC gerð,4,1,3,0
+Digital contour removal,Fjarlægja stafrænt contour,Fjarlægja stafrænt contour,Fjarlægja stafrænt contour,Fjarlægja stafrænt contour,4,1,3,0
+Direct playback of linked titles without menu,Spila beint tengda titla án valmyndar,Spila beint tengda titla án valmyndar,Spila beint tengda titla án valmyndar,Spila beint tengda titla án valmyndar,4,1,3,0
+Directory browser,Möppu vafri,Möppu vafri,Möppu vafri,Möppu vafri,4,1,3,0
+Disable,Gera óvirkt,Gera óvirkt,Gera óvirkt,Gera óvirkt,4,1,3,0
+Disable Picture in Picture,Gera Mynd í Mynd óvirka,Gera Mynd í Mynd óvirka,Gera Mynd í Mynd óvirka,Gera Mynd í Mynd óvirka,4,1,3,0
+Disable move mode,,,Hætta í færslu stöðu,,1,1,0,0
+Disabled,Óvirkt,Óvirkt,Óvirkt,Óvirkt,4,1,3,0
+Display 16:9 content as,Sýna 16:9 innihald sem,Sýna 16:9 innihald sem,Sýna 16:9 innihald sem,Sýna 16:9 innihald sem,4,1,3,0
+Display 4:3 content as,Sýna 4:3 innihald sem,Sýna 4:3 innihald sem,Sýna 4:3 innihald sem,Sýna 4:3 innihald sem,4,1,3,0
+Display >16:9 content as,Sýna >16:9 efni sem,Sýna >16:9 efni sem,Sýna >16:9 efni sem,Sýna >16:9 efni sem,4,1,3,0
+Do you really want to check the filesystem?\nThis could take lots of time!,,,Viltu örugglega athuga skráarkerfi?\nÞað tekur langan tíma!,,1,1,0,0
+Do you really want to delete %s?,Viltu virkilega eyða %s?,Viltu virkilega eyða %s?,Viltu virkilega eyða %s?,Viltu virkilega eyða %s?,4,1,3,0
+"Do you really want to download\nthe plugin \""%s\""?",,,"Viltu örugglega hala niður\níforritinu \""%s\""?",,1,1,0,0
+Do you really want to exit?,Viltu virkilega hætta?,Viltu virkilega hætta?,Viltu virkilega hætta?,Viltu virkilega hætta?,4,1,3,0
+Do you really want to remove directory %s from the disk?,Viltu örugglega eyða möppunni %s af diskinum?,Viltu örugglega eyða möppunni %s af diskinum?,Viltu örugglega eyða möppunni %s af diskinum?,Viltu örugglega eyða möppunni %s af diskinum?,4,1,3,0
+Do you really want to remove your bookmark of %s?,Viltu örugglega eyða bókamerkinu %s?,Viltu örugglega eyða bókamerkinu %s?,Viltu örugglega eyða bókamerkinu %s?,Viltu örugglega eyða bókamerkinu %s?,4,1,3,0
+Do you want to burn this collection to DVD medium?,Viltu brenna þessa skráar safn á DVD disk?,Viltu brenna þessa skráar safn á DVD disk?,Viltu brenna þessa skráar safn á DVD disk?,Viltu brenna þessa skráar safn á DVD disk?,4,1,3,0
+Do you want to install the package:\n,Viltu setja inn pakkann:\n,Viltu setja inn pakkann:\n,Viltu setja inn pakkann:\n,Viltu setja inn pakkann:\n,4,1,3,0
+Do you want to play DVD in drive?,Viltu spila DVD diskinn sem er í spilaranum?,Viltu spila DVD diskinn sem er í spilaranum?,Viltu spila DVD diskinn sem er í spilaranum?,Viltu spila DVD diskinn sem er í spilaranum?,4,1,3,0
+Do you want to preview this DVD before burning?,Viltu forskoða þennan DVD disk fyrir brennslu?,Viltu forskoða þennan DVD disk fyrir brennslu?,Viltu forskoða þennan DVD disk fyrir brennslu?,Viltu forskoða þennan DVD disk fyrir brennslu?,4,1,3,0
+Do you want to remove the package:\n,Viltu taka út pakkann:\n,Viltu taka út pakkann:\n,Viltu taka út pakkann:\n,Viltu taka út pakkann:\n,4,1,3,0
+Do you want to restore your settings?,Viltu setja inn stillingarnar þínar aftur?,Viltu setja inn stillingarnar þínar aftur?,Viltu setja inn stillingarnar þínar aftur?,Viltu setja inn stillingarnar þínar aftur?,4,1,3,0
+Do you want to resume this playback?,Viltu halda áfram að spila þetta?,Viltu halda áfram að spila þetta?,Viltu halda áfram að spila þetta?,,3,1,2,0
+Do you want to update the package:\n,,,Viltu uppfæra pakkann:\n,,1,1,0,0
+Don't stop current event but disable coming events,Ekki stoppa núverandi atriði en hætta við næsta,Ekki stoppa núverandi atriði en hætta við næsta,Ekki stoppa núverandi atriði en hætta við næsta,,3,1,2,0
+Downloadable new plugins,,,Niðurhalanleg ný íforrit,,1,1,0,0
+Downloadable plugins,,,Niðurhalanleg íforrit,,1,1,0,0
+Downloading,Hleð niður,Hleð niður,Hleð niður,Hleð niður,4,1,3,0
+Downloading plugin information. Please wait...,Hala niður íforrits upplýsingum. Vinsamlega bíðið...,Hala niður íforrits upplýsingum. Vinsamlega bíðið...,Hala niður íforrits upplýsingum. Vinsamlega bíðið...,Hala niður íforrits upplýsingum. Vinsamlega bíðið...,4,1,3,0
+Dutch,Hollenska,Hollenska,Hollenska,Hollenska,4,1,3,0
+Dynamic contrast,Dýnamísk skerpa,Dýnamísk skerpa,Dýnamísk skerpa,Dýnamísk skerpa,4,1,3,0
+E,,'','','',3,0,0,3
+ERROR - failed to scan (%s)!,VILLA - gat ekki leitað (%s)!,VILLA - gat ekki leitað (%s)!,VILLA - gat ekki leitað (%s)!,VILLA - gat ekki leitað (%s)!,4,1,3,0
+East,Austur,Austur,Austur,Austur,4,1,3,0
+Edit,Breyta,Breyta,Breyta,Breyta,4,1,3,0
+Edit DNS,,Breyta DNS,Breyta DNS,Breyta DNS,3,1,2,0
+Edit alternatives,,,Breyta valkosti,,1,1,0,0
+Edit chapters of current title,Breyta köflum núverandi titils,Breyta köflum núverandi titils,Breyta köflum núverandi titils,Breyta köflum núverandi titils,4,1,3,0
+Edit settings,Breyta stillingum,Breyta stillingum,Breyta stillingum,Breyta stillingum,4,1,3,0
+Edit the update source address.,,,Breyta veffangi uppfærslu uppruna.,,1,1,0,0
+Edit title,Breyta titili,Breyta titili,Breyta titili,Breyta titili,4,1,3,0
+Edit update source url,,,Breyta uppfærslu uppruna slóð,,1,1,0,0
+Electronic Program Guide,Rafrænn dagskrárstjóri (EPG),Rafrænn dagskrárstjóri (EPG),Rafrænn dagskrárstjóri (EPG),Rafrænn dagskrárstjóri (EPG),4,1,3,0
+Enable,Virkja,Virkja,Virkja,Virkja,4,1,3,0
+Enable 5V for active antenna,Kveikja á 5V fyrir loftnet með magnara,Kveikja á 5V fyrir loftnet með magnara,Kveikja á 5V fyrir loftnet með magnara,Kveikja á 5V fyrir loftnet með magnara,4,1,3,0
+Enable bouquet edit,,,Byrja féttu breytingu,,1,1,0,0
+Enable favourites edit,,,Virkja breytingu eftirlætis lista,,1,1,0,0
+Enable move mode,,,Virkja færlsu stöðu,,1,1,0,0
+Enable multiple bouquets,Virkja marga rásavendi,Virkja marga rásavendi,Virkja marga rásavendi,Virkja marga rásavendi,4,1,3,0
+Enabled,Virkt,Virkt,Virkt,Virkt,4,1,3,0
+Encrypted: ,Kóðun:,Kóðun:,Kóðun:,Kóðun:,4,1,3,0
+Encryption,Kóðun,Kóðun,Kóðun,Kóðun,4,1,3,0
+Encryption:,Kóðun:,Kóðun:,Kóðun:,Kóðun:,4,1,3,0
+End alternatives edit,,,Hætta breytingum valkosta,,1,1,0,0
+End bouquet edit,,,Hætta að breyta fléttu,,1,1,0,0
+End favourites edit,,,Hætta breytingum eftirlætis lista,,1,1,0,0
+End time,Loka tími,Loka tími,Loka tími,Loka tími,4,1,3,0
+English,Enska,Enska,Enska,Enska,4,1,3,0
+Enter main menu...,Fara í aðal valmynd...,Fara í aðal valmynd...,Fara í aðal valmynd...,Fara í aðal valmynd...,4,1,3,0
+Enter pin code,Slá inn kóða,Slá inn kóða,Slá inn kóða,Slá inn kóða,4,1,3,0
+Enter the service pin,Sláðu inn rása kóða,Sláðu inn rása kóða,Sláðu inn rása kóða,Sláðu inn rása kóða,4,1,3,0
+Error,Villa,Villa,Villa,Villa,4,1,3,0
+Error: %s\nRetry?,Villa: %s\nReyna aftur?,Villa: %s\nReyna aftur?,Villa: %s\nReyna aftur?,Villa: %s\nReyna aftur?,4,1,3,0
+Estonian,Eistneska,Eistneska,Eistneska,Eistneska,4,1,3,0
+Ethernet network interface,Ethernet netkort,Ethernet netkort,Ethernet netkort,Ethernet netkort,4,1,3,0
+Exceeds dual layer medium!,Þarf meira en tveggja laga disk!,Þarf meira en tveggja laga disk!,Þarf meira en tveggja laga disk!,Þarf meira en tveggja laga disk!,4,1,3,0
+Execution finished!!,Keyrslu lokið!!,Keyrslu lokið!!,Keyrslu lokið!!,Keyrslu lokið!!,4,1,3,0
+Exif,,'','','',3,0,0,3
+Exit,Hætta,Hætta,Hætta,Hætta,4,1,3,0
+Exit editor,Hætta í breytingum,Hætta í breytingum,Hætta í breytingum,Hætta í breytingum,4,1,3,0
+Exit input device selection.,Hætta í inntaks tækja vali.,Hætta í inntaks tækja vali.,Hætta í inntaks tækja vali.,Hætta í inntaks tækja vali.,4,1,3,0
+Exit network wizard,Hætta í netkerfis ráðgjafa,Hætta í netkerfis ráðgjafa,Hætta í netkerfis ráðgjafa,Hætta í netkerfis ráðgjafa,4,1,3,0
+Exit the wizard,Hætta í ráðgjafa,Hætta í ráðgjafa,Hætta í ráðgjafa,Hætta í ráðgjafa,4,1,3,0
+Expert,Sérfræði,Sérfræði,Sérfræði,Sérfræði,4,1,3,0
+Extended Software,Viðbótar forrit,Viðbótar forrit,Viðbótar forrit,Viðbótar forrit,4,1,3,0
+Extended Software Plugin,Viðbótar hugbúnaðar íforrit,Viðbótar hugbúnaðar íforrit,Viðbótar hugbúnaðar íforrit,Viðbótar hugbúnaðar íforrit,4,1,3,0
+Extensions,Viðbætur,Viðbætur,Viðbætur,Viðbætur,4,1,3,0
+Extensions management,Viðbóta umsýsla,Viðbóta umsýsla,Viðbóta umsýsla,Viðbóta umsýsla,4,1,3,0
+FEC,,'','','',3,0,0,3
+Factory reset,Verksmiðju stilling,Verksmiðju stilling,Verksmiðju stilling,Verksmiðju stilling,4,1,3,0
+Failed,Tókst ekki,Tókst ekki,Tókst ekki,Tókst ekki,4,1,3,0
+Fan %d,Vifta %d,Vifta %d,Vifta %d,Vifta %d,4,1,3,0
+Fan %d PWM,,,Vifta %d PWM,,1,1,0,0
+Fast,Hratt,Hratt,Hratt,Hratt,4,1,3,0
+Fast DiSEqC,Hratt DiSEqC,Hratt DiSEqC,Hratt DiSEqC,Hratt DiSEqC,4,1,3,0
+Fast epoch,Hratt tímabil,Hratt tímabil,Hratt tímabil,Hratt tímabil,4,1,3,0
+Favourites,Eftirlætis listar,Eftirlætis listar,Eftirlætis listar,Eftirlætis listar,4,1,3,0
+Finetune,Fínstilla,Fínstilla,Fínstilla,Fínstilla,4,1,3,0
+Finished,Búið,Búið,Búið,Búið,4,1,3,0
+Finished configuring your network,Búið að stilla netkerfið,Búið að stilla netkerfið,Búið að stilla netkerfið,Búið að stilla netkerfið,4,1,3,0
+Finished restarting your network,Búið að endurræsa netkerfið,Búið að endurræsa netkerfið,Búið að endurræsa netkerfið,,3,1,2,0
+Finnish,Finnska,Finnska,Finnska,Finnska,4,1,3,0
+Following tasks will be done after you press OK!,Eftirfarandi aðgerðir verða framkvæmdar eftir að þú ýtir á OK!,Eftirfarandi aðgerðir verða framkvæmdar eftir að þú ýtir á OK!,Eftirfarandi aðgerðir verða framkvæmdar eftir að þú ýtir á OK!,Eftirfarandi aðgerðir verða framkvæmdar eftir að þú ýtir á OK!,4,1,3,0
+Format,Forma,Forma,Forma,Forma,4,1,3,0
+Frame size in full view,Stærð ramma í fullri stærð,Stærð ramma í fullri stærð,Stærð ramma í fullri stærð,Stærð ramma í fullri stærð,4,1,3,0
+French,Franska,Franska,Franska,Franska,4,1,3,0
+Frequency,Tíðni,Tíðni,Tíðni,Tíðni,4,1,3,0
+Frequency bands,Tíðni bönd,Tíðni bönd,Tíðni bönd,Tíðni bönd,4,1,3,0
+Frequency scan step size(khz),Skref við tíðnileit (khz),Skref við tíðnileit (khz),Skref við tíðnileit (khz),Skref við tíðnileit (khz),4,1,3,0
+Frequency steps,Tíðniskref,Tíðniskref,Tíðniskref,Tíðniskref,4,1,3,0
+Fri,Fös,Fös,Fös,Fös,4,1,3,0
+Friday,Föstudagur,Föstudagur,Föstudagur,Föstudagur,4,1,3,0
+Gateway,Beinir,Beinir,Beinir,Beinir,4,1,3,0
+Genre,Gerð,Gerð,Gerð,Gerð,4,1,3,0
+German,Þýska,Þýska,Þýska,Þýska,4,1,3,0
+Getting plugin information. Please wait...,Næ í upplýsingar um íforrit. Vinsamlega bíðið...,Næ í upplýsingar um íforrit. Vinsamlega bíðið...,Næ í upplýsingar um íforrit. Vinsamlega bíðið...,Næ í upplýsingar um íforrit. Vinsamlega bíðið...,4,1,3,0
+Goto 0,Fara á 0,Fara á 0,Fara á 0,Fara á 0,4,1,3,0
+Goto position,Fara á staðsetningu,Fara á staðsetningu,Fara á staðsetningu,Fara á staðsetningu,4,1,3,0
+Graphical Multi EPG,,,Myndrænn dagskrárstjóri (EPG),,1,1,0,0
+Greek,Gríska,Gríska,Gríska,Gríska,4,1,3,0
+Guard interval,,'','','',3,0,0,3
+Harddisk,,,Harður diskur,,1,1,0,0
+Hidden network,Falið netkerfi,Falið netkerfi,Falið netkerfi,Falið netkerfi,4,1,3,0
+Hierarchy info,Hierarchy upplýsingar,Hierarchy upplýsingar,Hierarchy upplýsingar,Hierarchy upplýsingar,4,1,3,0
+High bitrate support,Háhraða stuðningur,Háhraða stuðningur,Háhraða stuðningur,Háhraða stuðningur,4,1,3,0
+Horizontal,Lárétt,Lárétt,Lárétt,Lárétt,4,1,3,0
+How many minutes do you want to record?,Í hvað margar mínútur viltu taka upp?,Í hvað margar mínútur viltu taka upp?,Í hvað margar mínútur viltu taka upp?,,3,1,2,0
+Hue,Litatónn,Litatónn,Litatónn,Litatónn,4,1,3,0
+Hungarian,Ungverska,Ungverska,Ungverska,Ungverska,4,1,3,0
+ISO file is too large for this filesystem!,Iso skrá er of stór fyrir þetta skráarkerfi!,Iso skrá er of stór fyrir þetta skráarkerfi!,Iso skrá er of stór fyrir þetta skráarkerfi!,Iso skrá er of stór fyrir þetta skráarkerfi!,4,1,3,0
+ISO path,Slóð ISO skráar,Slóð ISO skráar,Slóð ISO skráar,Slóð ISO skráar,4,1,3,0
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",Ef þú sérð þetta þá er eitthvað að scart\ntengingunni.Ýttu á OK til að fara til baka.,Ef þú sérð þetta þá er eitthvað að scart\ntengingunni.Ýttu á OK til að fara til baka.,Ef þú sérð þetta þá er eitthvað að scart\ntengingunni.Ýttu á OK til að fara til baka.,,3,1,2,0
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.","Ef sjónvarpið þitt hefur skerpu aukningu (contrast enhancement), slökktu þá á því. Ef það er með eitthvað kallað \""dynamic\"", settu það þá á Standard eða Normal. Stilltu birtu baklýsingar eins og þér finnst best. Minnkaðu skerpu (contrast) stillingu sjónvarpsins eins mikið og hægt er en vertu samt viss um að rétt sjá dekkstu tvo grátónana.\nEkki hafa áhyggjur af björtum svæðum núna. Þeir verða stilltir næst.\nEf stillingin er orðin eins og þér finnst best ýttu þá á OK.","Ef sjónvarpið þitt hefur skerpu aukningu (contrast enhancement), slökktu þá á því. Ef það er með eitthvað kallað \""dynamic\"", settu það þá á Standard eða Normal. Stilltu birtu baklýsingar eins og þér finnst best. Minnkaðu skerpu (contrast) stillingu sjónvarpsins eins mikið og hægt er en vertu samt viss um að rétt sjá dekkstu tvo grátónana.\nEkki hafa áhyggjur af björtum svæðum núna. Þeir verða stilltir næst.\nEf stillingin er orðin eins og þér finnst best ýttu þá á OK.","Ef sjónvarpið þitt hefur skerpu aukningu (contrast enhancement), slökktu þá á því. Ef það er með eitthvað kallað \""dynamic\"", settu það þá á Standard eða Normal. Stilltu birtu baklýsingar eins og þér finnst best. Minnkaðu skerpu (contrast) stillingu sjónvarpsins eins mikið og hægt er en vertu samt viss um að rétt sjá dekkstu tvo grátónana.\nEkki hafa áhyggjur af björtum svæðum núna. Þeir verða stilltir næst.\nEf stillingin er orðin eins og þér finnst best ýttu þá á OK.","Ef sjónvarpið þitt hefur skerpu aukningu (contrast enhancement), slökktu þá á því. Ef það er með eitthvað kallað \""dynamic\"", settu það þá á Standard eða Normal. Stilltu birtu baklýsingar eins og þér finnst best. Minnkaðu skerpu (contrast) stillingu sjónvarpsins eins mikið og hægt er en vertu samt viss um að rétt sjá dekkstu tvo grátónana.\nEkki hafa áhyggjur af björtum svæðum núna. Þeir verða stilltir næst.\nEf stillingin er orðin eins og þér finnst best ýttu þá á OK.",4,1,3,0
+"In order to record a timer, the TV was switched to the recording service!\n",,Til að taka upp á tíma stillingu þá var sjónvarpið stillt á upptökurás!\n,Til að taka upp á tíma stillingu þá var sjónvarpið stillt á upptökurás!\n,Til að taka upp á tíma stillingu þá var sjónvarpið stillt á upptökurás!\n,3,1,2,0
+Increased voltage,Aukin spenna,Aukin spenna,Aukin spenna,Aukin spenna,4,1,3,0
+Index,,,Yfirlit,,1,1,0,0
+Info,Upplýsingar,Upplýsingar,Upplýsingar,Upplýsingar,4,1,3,0
+Information,Upplýsingar,Upplýsingar,Upplýsingar,Upplýsingar,4,1,3,0
+Init,Stilli,Stilli,Stilli,Stilli,4,1,3,0
+Initial location in new timers,,,Sjálfgefin staður í nýjum tímastillingum,,1,1,0,0
+Initialization,Frumstilling,Frumstilling,Frumstilling,,3,1,2,0
+Initialize,Frumstiling,Frumstiling,Frumstiling,Frumstiling,4,1,3,0
+Input,Inntak,Inntak,Inntak,Inntak,4,1,3,0
+Input device setup,,Inntaks tækja uppsetning,Inntaks tækja uppsetning,,2,1,1,0
+Input devices,,,Inntaks tæki,,1,1,0,0
+Install,Setja inn,Setja inn,Setja inn,Setja inn,4,1,3,0
+Install local extension,Setja inn viðbót af %s %si,Setja inn viðbót af %s %si,Setja inn viðbót af boxi,Setja inn viðbót af %s %si,4,2,2,0
+Installing,Set inn,Set inn,Set inn,Set inn,4,1,3,0
+Interface: ,Netkort:,Netkort:,Netkort:,Netkort:,4,1,3,0
+Invalid directory selected: %s,Ógild mappa valin: %s,Ógild mappa valin: %s,Ógild mappa valin: %s,Ógild mappa valin: %s,4,1,3,0
+Inversion,Umbreyting,Umbreyting,Umbreyting,Umbreyting,4,1,3,0
+Invert,Snúa við,Snúa við,Snúa við,Snúa við,4,1,3,0
+Italian,Ítalska,Ítalska,Ítalska,Ítalska,4,1,3,0
+Keyboard,Lyklaborð,Lyklaborð,Lyklaborð,Lyklaborð,4,1,3,0
+LAN connection,LAN tenging,LAN tenging,LAN tenging,LAN tenging,4,1,3,0
+LNB,,'','','',3,0,0,3
+Language,Tungumál,Tungumál,Tungumál,Tungumál,4,1,3,0
+Language selection,Val tungumáls,Val tungumáls,Val tungumáls,Val tungumáls,4,1,3,0
+Last config,Síðasta stilling,Síðasta stilling,Síðasta stilling,Síðasta stilling,4,1,3,0
+Last speed,Síðasti hraði,Síðasti hraði,Síðasti hraði,Síðasti hraði,4,1,3,0
+Latitude,Breiddargráða,Breiddargráða,Breiddargráða,Breiddargráða,4,1,3,0
+Latvian,Lettneska,Lettneska,Lettneska,Lettneska,4,1,3,0
+Left,Vinstri,Vinstri,Vinstri,Vinstri,4,1,3,0
+Letterbox,,'','','',3,0,0,3
+Limit east,Mörk í austur,Mörk í austur,Mörk í austur,Mörk í austur,4,1,3,0
+Limit west,Mörk í vestur,Mörk í vestur,Mörk í vestur,Mörk í vestur,4,1,3,0
+Limits off,Mörk ekki stillt,Mörk ekki stillt,Mörk ekki stillt,Mörk ekki stillt,4,1,3,0
+Limits on,Mörk á,Mörk á,Mörk á,Mörk á,4,1,3,0
+Link:,Tenging:,Tenging:,Tenging:,Tenging:,4,1,3,0
+Linked titles with a DVD menu,Tengdir titlar við DVD valmynd,Tengdir titlar við DVD valmynd,Tengdir titlar við DVD valmynd,Tengdir titlar við DVD valmynd,4,1,3,0
+List available networks,Sýna netkerfi í boði,Sýna netkerfi í boði,Sýna netkerfi í boði,Sýna netkerfi í boði,4,1,3,0
+Lithuanian,Litháíska,Litháíska,Litháíska,Litháíska,4,1,3,0
+Load,Hleð,Hleð,Hleð,Hleð,4,1,3,0
+Location,Staðsetning,Staðsetning,Staðsetning,Staðsetning,4,1,3,0
+Location for instant recordings,,,Staðsetning fyrir skyndi upptökur,,1,1,0,0
+Lock:,,,Lás:,,1,1,0,0
+Long filenames,Löng skráarnöfn,Löng skráarnöfn,Löng skráarnöfn,Löng skráarnöfn,4,1,3,0
+Longitude,Lengdargráða,Lengdargráða,Lengdargráða,Lengdargráða,4,1,3,0
+MORE,,,MEIRA,,1,1,0,0
+Main menu,Aðalvalmynd,Aðalvalmynd,Aðalvalmynd,Aðalvalmynd,4,1,3,0
+Make this mark an 'in' point,Gera þetta merki að 'inn' merki,Gera þetta merki að 'inn' merki,Gera þetta merki að 'inn' merki,Gera þetta merki að 'inn' merki,4,1,3,0
+Make this mark an 'out' point,Gera þetta merki að 'út' merki,Gera þetta merki að 'út' merki,Gera þetta merki að 'út' merki,Gera þetta merki að 'út' merki,4,1,3,0
+Make this mark just a mark,Gera þetta merki bara að merki,Gera þetta merki bara að merki,Gera þetta merki bara að merki,Gera þetta merki bara að merki,4,1,3,0
+Manage extensions,Sýsla með íforrit,Sýsla með íforrit,Sýsla með íforrit,Sýsla með íforrit,4,1,3,0
+Manage your receiver's software,,,Stjórna hugbúnaði móttakarans,,1,1,0,0
+Manual Scan,Handvirk leitun,Handvirk leitun,Handvirk leitun,Handvirk leitun,4,1,3,0
+Manual configuration,Handvirk stilling,Handvirk stilling,Handvirk stilling,Handvirk stilling,4,1,3,0
+Manual transponder,Handvirk leit á sendi,Handvirk leit á sendi,Handvirk leit á sendi,Handvirk leit á sendi,4,1,3,0
+Manufacturer,Framleiðandi,Framleiðandi,Framleiðandi,Framleiðandi,4,1,3,0
+Media player,Spilari,Spilari,Spilari,Spilari,4,1,3,0
+Medium is not a writeable DVD!,Diskur er ekki skrifanlegur DVD diskur!,Diskur er ekki skrifanlegur DVD diskur!,Diskur er ekki skrifanlegur DVD diskur!,Diskur er ekki skrifanlegur DVD diskur!,4,1,3,0
+Medium is not empty!,Diskur er ekki tómur!,Diskur er ekki tómur!,Diskur er ekki tómur!,Diskur er ekki tómur!,4,1,3,0
+Menu,Valmynd,Valmynd,Valmynd,Valmynd,4,1,3,0
+Message,,,Skilaboð,,1,1,0,0
+Message...,,,Skilaboð...,,1,1,0,0
+Model: ,Gerð:,Gerð:,Gerð:,Gerð:,4,1,3,0
+Modulation,Mótun,Mótun,Mótun,Mótun,4,1,3,0
+Modulator,Mótari,Mótari,Mótari,Mótari,4,1,3,0
+Mon,Mán,Mán,Mán,Mán,4,1,3,0
+Mon-Fri,Mán-Fös,Mán-Fös,Mán-Fös,Mán-Fös,4,1,3,0
+Monday,Mánudagur,Mánudagur,Mánudagur,Mánudagur,4,1,3,0
+Mosquito noise reduction,Mosquito suð deyfing,Mosquito suð deyfing,Mosquito suð deyfing,Mosquito suð deyfing,4,1,3,0
+Move Picture in Picture,,Færa Mynd í Mynd,Færa Mynd í Mynd,Færa Mynd í Mynd,3,1,2,0
+Move east,Færa austur,Færa austur,Færa austur,Færa austur,4,1,3,0
+Move west,Færa vestur,Færa vestur,Færa vestur,Færa vestur,4,1,3,0
+Movie location,Staðsetning bíómynda,Staðsetning bíómynda,Staðsetning bíómynda,Staðsetning bíómynda,4,1,3,0
+Movielist menu,,,Bíómynda valmynd,,1,1,0,0
+Multi EPG,Mörg EPG,Mörg EPG,Mörg EPG,Mörg EPG,4,1,3,0
+Multi-EPG bouquet selection,,,Mörg-EPG rásavanda val,,1,1,0,0
+Multimedia,Margmiðlun,Margmiðlun,Margmiðlun,Margmiðlun,4,1,3,0
+Multiple service support,Styður margar rásir,Styður margar rásir,Styður margar rásir,Styður margar rásir,4,1,3,0
+Multisat,Margir gervihnettir,Margir gervihnettir,Margir gervihnettir,Margir gervihnettir,4,1,3,0
+Mute,,,Hljóð Af,,1,1,0,0
+N/A,Ekki til,Ekki til,Ekki til,Ekki til,4,1,3,0
+NEXT,,,NÆST,,1,1,0,0
+NOW,,,NÚNA,,1,1,0,0
+NTSC,,'','','',3,0,0,3
+Name,Nafn,Nafn,Nafn,Nafn,4,1,3,0
+Nameserver,Nafnaþjónn,Nafnaþjónn,Nafnaþjónn,Nafnaþjónn,4,1,3,0
+Nameserver %d,Nafnaþjónn %d,Nafnaþjónn %d,Nafnaþjónn %d,Nafnaþjónn %d,4,1,3,0
+Nameserver settings,Uppsetning nafnaþjóns,Uppsetning nafnaþjóns,Uppsetning nafnaþjóns,Uppsetning nafnaþjóns,4,1,3,0
+Netmask,Netmaski,Netmaski,Netmaski,Netmaski,4,1,3,0
+Network,Netkerfi,Netkerfi,Netkerfi,Netkerfi,4,1,3,0
+Network scan,Leita netkerfið allt,Leita netkerfið allt,Leita netkerfið allt,Leita netkerfið allt,4,1,3,0
+Network setup,Stillingar netkerfis,Stillingar netkerfis,Stillingar netkerfis,,3,1,2,0
+Network test,Prufa nettengingu,Prufa nettengingu,Prufa nettengingu,Prufa nettengingu,4,1,3,0
+Network test...,,,Prufa nettengingu...,,1,1,0,0
+Network test: ,Prufa nettengingu:,Prufa nettengingu:,Prufa nettengingu:,,3,1,2,0
+Network:,Nettenging:,Nettenging:,Nettenging:,Nettenging:,4,1,3,0
+New,Nýtt,Nýtt,Nýtt,Nýtt,4,1,3,0
+No,Nei,Nei,Nei,Nei,4,1,3,0
+No (supported) DVDROM found!,Enginn (studdur) DVDROM fannst!,Enginn (studdur) DVDROM fannst!,Enginn (studdur) DVDROM fannst!,Enginn (studdur) DVDROM fannst!,4,1,3,0
+No Connection,Engin tenging,Engin tenging,Engin tenging,Engin tenging,4,1,3,0
+No HDD found or HDD not initialized!,Fann ekki harðan disk eða hann ekki formaður!,Fann ekki harðan disk eða hann ekki formaður!,Fann ekki harðan disk eða hann ekki formaður!,Fann ekki harðan disk eða hann ekki formaður!,4,1,3,0
+No data on transponder!\n(Timeout reading PAT),Engin gögn á sendi!\n(Rann út á tíma við lestur PAT),Engin gögn á sendi!\n(Rann út á tíma við lestur PAT),Engin gögn á sendi!\n(Rann út á tíma við lestur PAT),Engin gögn á sendi!\n(Rann út á tíma við lestur PAT),4,1,3,0
+No description available.,Engin lýsing tiltæk.,Engin lýsing tiltæk.,Engin lýsing tiltæk.,Engin lýsing tiltæk.,4,1,3,0
+No displayable files on this medium found!,Engar skrár fundust á þessu tæki!,Engar skrár fundust á þessu tæki!,Engar skrár fundust á þessu tæki!,Engar skrár fundust á þessu tæki!,4,1,3,0
+"No event info found, recording indefinitely.","Engar upplýsingar um atriði fundust, tek upp endalaust.","Engar upplýsingar um atriði fundust, tek upp endalaust.","Engar upplýsingar um atriði fundust, tek upp endalaust.","Engar upplýsingar um atriði fundust, tek upp endalaust.",4,1,3,0
+No fast winding possible yet.. but you can use the number buttons to skip forward/backward!,"Ekki mögulegt að hraðspóla enn, þú getur notað númera takkana til að stökkva áfram/afturábak!","Ekki mögulegt að hraðspóla enn, þú getur notað númera takkana til að stökkva áfram/afturábak!","Ekki mögulegt að hraðspóla enn, þú getur notað númera takkana til að stökkva áfram/afturábak!","Ekki mögulegt að hraðspóla enn, þú getur notað númera takkana til að stökkva áfram/afturábak!",4,1,3,0
+No free tuner!,Enginn laus móttakari!,Enginn laus móttakari!,Enginn laus móttakari!,Enginn laus móttakari!,4,1,3,0
+No network connection available.,Engin nettenging virk.,Engin nettenging virk.,Engin nettenging virk.,Engin nettenging virk.,4,1,3,0
+No networks found,Ekkert netkerfi fannst,Ekkert netkerfi fannst,Ekkert netkerfi fannst,Ekkert netkerfi fannst,4,1,3,0
+No positioner capable frontend found.,Það fannst ekki móttakari sem styður staðsetjara.,Það fannst ekki móttakari sem styður staðsetjara.,Það fannst ekki móttakari sem styður staðsetjara.,Það fannst ekki móttakari sem styður staðsetjara.,4,1,3,0
+No tags are set on these movies.,Engin merki sett á þessa mynd.,Engin merki sett á þessa mynd.,Engin merki sett á þessa mynd.,Engin merki sett á þessa mynd.,4,1,3,0
+No to all,Nei við öllu,Nei við öllu,Nei við öllu,Nei við öllu,4,1,3,0
+No tuner is configured for use with a diseqc positioner!,Enginn móttakari er stilltur til að nota með staðsetjara!,Enginn móttakari er stilltur til að nota með staðsetjara!,Enginn móttakari er stilltur til að nota með staðsetjara!,Enginn móttakari er stilltur til að nota með staðsetjara!,4,1,3,0
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,Enginn móttakari er valinn!\nStilltu móttakara áður er að þú ferð að leita að rásum.,Enginn móttakari er valinn!\nStilltu móttakara áður er að þú ferð að leita að rásum.,Enginn móttakari er valinn!\nStilltu móttakara áður er að þú ferð að leita að rásum.,Enginn móttakari er valinn!\nStilltu móttakara áður er að þú ferð að leita að rásum.,4,1,3,0
+No wireless networks found! Searching...,Ekkert þráðlaust net fannst! Leita...,Ekkert þráðlaust net fannst! Leita...,Ekkert þráðlaust net fannst! Leita...,Ekkert þráðlaust net fannst! Leita...,4,1,3,0
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,Ekkert virkt netkort fannst.\nAthugaðu hvort að það sé tengdur netkapallinn og netið sé rétt stillt.,Ekkert virkt netkort fannst.\nAthugaðu hvort að það sé tengdur netkapallinn og netið sé rétt stillt.,Ekkert virkt netkort fannst.\nAthugaðu hvort að það sé tengdur netkapallinn og netið sé rétt stillt.,Ekkert virkt netkort fannst.\nAthugaðu hvort að það sé tengdur netkapallinn og netið sé rétt stillt.,4,1,3,0
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,Ekkert virkt þráðlaust netkort fannst.\nAthugaðu hvort að það sé tengt samhæft þráðlaust netkort og að það sé rétt stillt.,Ekkert virkt þráðlaust netkort fannst.\nAthugaðu hvort að það sé tengt samhæft þráðlaust netkort og að það sé rétt stillt.,Ekkert virkt þráðlaust netkort fannst.\nAthugaðu hvort að það sé tengt samhæft þráðlaust netkort og að það sé rétt stillt.,Ekkert virkt þráðlaust netkort fannst.\nAthugaðu hvort að það sé tengt samhæft þráðlaust netkort og að það sé rétt stillt.,4,1,3,0
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,Ekkert virkt þráðlaust netkort fannst.\n Athugaðu hvort að það sé tengt samhæft þráðlaust netkort eða athugaðu með stillingar á því.,Ekkert virkt þráðlaust netkort fannst.\n Athugaðu hvort að það sé tengt samhæft þráðlaust netkort eða athugaðu með stillingar á því.,Ekkert virkt þráðlaust netkort fannst.\n Athugaðu hvort að það sé tengt samhæft þráðlaust netkort eða athugaðu með stillingar á því.,Ekkert virkt þráðlaust netkort fannst.\n Athugaðu hvort að það sé tengt samhæft þráðlaust netkort eða athugaðu með stillingar á því.,4,1,3,0
+"No, but restart from begin","Nei, en byrja frá byrjun","Nei, en byrja frá byrjun","Nei, en byrja frá byrjun",,3,1,2,0
+"No, never","Nei, aldrei","Nei, aldrei","Nei, aldrei","Nei, aldrei",4,1,3,0
+None,Enginn,Enginn,Enginn,Enginn,4,1,3,0
+Nonlinear,,,Teygð mynd,,1,1,0,0
+North,Norður,Norður,Norður,Norður,4,1,3,0
+Norwegian,Norska,Norska,Norska,Norska,4,1,3,0
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,Ekkert til að leita!\nStilltu inn móttakarann áður en að þú byrjar rása leit.,Ekkert til að leita!\nStilltu inn móttakarann áður en að þú byrjar rása leit.,Ekkert til að leita!\nStilltu inn móttakarann áður en að þú byrjar rása leit.,Ekkert til að leita!\nStilltu inn móttakarann áður en að þú byrjar rása leit.,4,1,3,0
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,,Notaðu núna skerpu (contrast) stillingar til að auka birtu bakgrunns eins mikið og hægt er en vertu samt viss um að sjá mun á björtustu tveim hlutum myndarinnar. Þegar þú hefur gert það ýttu þá á OK.,,1,1,0,0
+OK,,'','','',3,0,0,3
+ONID,,'','','',3,0,0,3
+Off,Af,Af,Af,Af,4,1,3,0
+On,Á,Á,Á,Á,4,1,3,0
+One,Einn,Einn,Einn,Einn,4,1,3,0
+Only extensions.,Bara viðbætur.,Bara viðbætur.,Bara viðbætur.,Bara viðbætur.,4,1,3,0
+Orbital position,Staðsetning hnattar,Staðsetning hnattar,Staðsetning hnattar,Staðsetning hnattar,4,1,3,0
+Overwrite configuration files during software update?,,,Skrifa yfir stillinga skrár við hugbúnaðar uppfærslu?,,1,1,0,0
+PAL,,'','','',3,0,0,3
+PCR PID,,'','','',3,0,0,3
+PMT PID,,'','','',3,0,0,3
+Package list update,Listi uppfærðra pakka,Listi uppfærðra pakka,Listi uppfærðra pakka,Listi uppfærðra pakka,4,1,3,0
+Packet management,Pakka meðhöndlun,Pakka meðhöndlun,Pakka meðhöndlun,Pakka meðhöndlun,4,1,3,0
+Packet manager,Hugbúnaðarpakka stjóri,Hugbúnaðarpakka stjóri,Hugbúnaðarpakka stjóri,Hugbúnaðarpakka stjóri,4,1,3,0
+Parental control,Foreldrastýring,Foreldrastýring,Foreldrastýring,Foreldrastýring,4,1,3,0
+Parental control setup,Uppsetning á foreldrastýringu,Uppsetning á foreldrastýringu,Uppsetning á foreldrastýringu,,3,1,2,0
+Pause movie at end,Setja á pásu við enda myndar,Setja á pásu við enda myndar,Setja á pásu við enda myndar,Setja á pásu við enda myndar,4,1,3,0
+Persian,Persneska,Persneska,Persneska,Persneska,4,1,3,0
+Pillarbox,,'','','',3,0,0,3
+Pilot,Stjóri,Stjóri,Stjóri,Stjóri,4,1,3,0
+Play,,Spila,Spila,Spila,3,1,2,0
+Play DVD,Spila DVD,Spila DVD,Spila DVD,Spila DVD,4,1,3,0
+Play recorded movies...,Spila uppteknar bíómyndir...,Spila uppteknar bíómyndir...,Spila uppteknar bíómyndir...,Spila uppteknar bíómyndir...,4,1,3,0
+Please add titles to the compilation.,Vinsamlega bætið við titlum við efnið.,Vinsamlega bætið við titlum við efnið.,Vinsamlega bætið við titlum við efnið.,Vinsamlega bætið við titlum við efnið.,4,1,3,0
+Please change recording endtime,Vinsamlega breytið lokatíma upptöku,Vinsamlega breytið lokatíma upptöku,Vinsamlega breytið lokatíma upptöku,,3,1,2,0
+Please choose an extension...,Vinsamlega veldu viðbót...,Vinsamlega veldu viðbót...,Vinsamlega veldu viðbót...,Vinsamlega veldu viðbót...,4,1,3,0
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,Ýttu á stilla eða að athugaðu Nafnaþjóns stillingar.\nÝttu á OK þegar þú ert búinn.,Ýttu á stilla eða að athugaðu Nafnaþjóns stillingar.\nÝttu á OK þegar þú ert búinn.,Ýttu á stilla eða að athugaðu Nafnaþjóns stillingar.\nÝttu á OK þegar þú ert búinn.,Ýttu á stilla eða að athugaðu Nafnaþjóns stillingar.\nÝttu á OK þegar þú ert búinn.,4,1,3,0
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,Til að stilla nettengingu filltu þá út viðeigandi gildi.\nÝttu þá á OK til að halda áfram.,Til að stilla nettengingu filltu þá út viðeigandi gildi.\nÝttu þá á OK til að halda áfram.,Til að stilla nettengingu filltu þá út viðeigandi gildi.\nÝttu þá á OK til að halda áfram.,Til að stilla nettengingu filltu þá út viðeigandi gildi.\nÝttu þá á OK til að halda áfram.,4,1,3,0
+Please do not change any values unless you know what you are doing!,Ekki breyta gildum ef þú veist ekki hvað þú ert að gera!,Ekki breyta gildum ef þú veist ekki hvað þú ert að gera!,Ekki breyta gildum ef þú veist ekki hvað þú ert að gera!,Ekki breyta gildum ef þú veist ekki hvað þú ert að gera!,4,1,3,0
+Please enter a name for the new bouquet,Settu inn nafn á nýjum rása vendi,Settu inn nafn á nýjum rása vendi,Settu inn nafn á nýjum rása vendi,Settu inn nafn á nýjum rása vendi,4,1,3,0
+Please enter a name for the new marker,Sláðu inn nafn fyrir nýja merkingu,Sláðu inn nafn fyrir nýja merkingu,Sláðu inn nafn fyrir nýja merkingu,Sláðu inn nafn fyrir nýja merkingu,4,1,3,0
+Please enter a new filename,Sláðu inn nýtt skráarnafn,Sláðu inn nýtt skráarnafn,Sláðu inn nýtt skráarnafn,Sláðu inn nýtt skráarnafn,4,1,3,0
+Please enter filename (empty = use current date),Sláðu inn skráarnafn (tómt = nota núverandi dag),Sláðu inn skráarnafn (tómt = nota núverandi dag),Sláðu inn skráarnafn (tómt = nota núverandi dag),Sláðu inn skráarnafn (tómt = nota núverandi dag),4,1,3,0
+Please enter name of the new directory,Sláðu inn nafn á nýju möppunni,Sláðu inn nafn á nýju möppunni,Sláðu inn nafn á nýju möppunni,,3,1,2,0
+Please enter the correct pin code,Sláðu inn réttan kóða,Sláðu inn réttan kóða,Sláðu inn réttan kóða,Sláðu inn réttan kóða,4,1,3,0
+Please enter the old PIN code,Sláðu inn gamla PIN kóðann þinn,Sláðu inn gamla PIN kóðann þinn,Sláðu inn gamla PIN kóðann þinn,Sláðu inn gamla PIN kóðann þinn,4,1,3,0
+Please follow the instructions on the TV,Fylgdu leiðbeiningum á skjá,Fylgdu leiðbeiningum á skjá,Fylgdu leiðbeiningum á skjá,Fylgdu leiðbeiningum á skjá,4,1,3,0
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,Vinsamlega athugið að áður valinn diskur er ekki tiltækur núna og þá verður notuð sjálfgefin mappa í staðinn.,Vinsamlega athugið að áður valinn diskur er ekki tiltækur núna og þá verður notuð sjálfgefin mappa í staðinn.,Vinsamlega athugið að áður valinn diskur er ekki tiltækur núna og þá verður notuð sjálfgefin mappa í staðinn.,Vinsamlega athugið að áður valinn diskur er ekki tiltækur núna og þá verður notuð sjálfgefin mappa í staðinn.,4,1,3,0
+Please press OK to continue.,Ýttu á OK til að halda áfram.,Ýttu á OK til að halda áfram.,Ýttu á OK til að halda áfram.,Ýttu á OK til að halda áfram.,4,1,3,0
+Please select a playlist to delete...,Veldu spilunarlista til að eyða...,Veldu spilunarlista til að eyða...,Veldu spilunarlista til að eyða...,Veldu spilunarlista til að eyða...,4,1,3,0
+Please select a playlist...,Vinsamlega veldu spilunarlista...,Vinsamlega veldu spilunarlista...,Vinsamlega veldu spilunarlista...,Vinsamlega veldu spilunarlista...,4,1,3,0
+Please select a subservice to record...,Velja undirrás til að taka upp...,Velja undirrás til að taka upp...,Velja undirrás til að taka upp...,Velja undirrás til að taka upp...,4,1,3,0
+Please select a subservice...,Vinsamlega veldu undirrás...,Vinsamlega veldu undirrás...,Vinsamlega veldu undirrás...,Vinsamlega veldu undirrás...,4,1,3,0
+Please select medium to use as backup location,Vinsamlega veljið tæki til að nota sem afritunar stað,Vinsamlega veljið tæki til að nota sem afritunar stað,Vinsamlega veljið tæki til að nota sem afritunar stað,Vinsamlega veljið tæki til að nota sem afritunar stað,4,1,3,0
+Please select tag to filter...,Vinsamlega veldu merki til að sía út...,Vinsamlega veldu merki til að sía út...,Vinsamlega veldu merki til að sía út...,,3,1,2,0
+Please select the movie path...,Veldu slóð að mynd...,Veldu slóð að mynd...,Veldu slóð að mynd...,Veldu slóð að mynd...,4,1,3,0
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,Veldu það netkort sem að þú vilt nota fyrir veraldarvefs tengingu.\n\nÝttu á OK til að halda áfram.,Veldu það netkort sem að þú vilt nota fyrir veraldarvefs tengingu.\n\nÝttu á OK til að halda áfram.,Veldu það netkort sem að þú vilt nota fyrir veraldarvefs tengingu.\n\nÝttu á OK til að halda áfram.,Veldu það netkort sem að þú vilt nota fyrir veraldarvefs tengingu.\n\nÝttu á OK til að halda áfram.,4,1,3,0
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,Vinsamlegast veldu það þráðlausa net sem að þú vilt tengjast.\n\nÝttu á OK til að halda áfram.,Vinsamlegast veldu það þráðlausa net sem að þú vilt tengjast.\n\nÝttu á OK til að halda áfram.,Vinsamlegast veldu það þráðlausa net sem að þú vilt tengjast.\n\nÝttu á OK til að halda áfram.,Vinsamlegast veldu það þráðlausa net sem að þú vilt tengjast.\n\nÝttu á OK til að halda áfram.,4,1,3,0
+Please set up tuner B,Vinsamlega settu upp móttakara B,Vinsamlega settu upp móttakara B,Vinsamlega settu upp móttakara B,Vinsamlega settu upp móttakara B,4,1,3,0
+Please set up tuner C,Vinsamlega settu upp móttakara C,Vinsamlega settu upp móttakara C,Vinsamlega settu upp móttakara C,Vinsamlega settu upp móttakara C,4,1,3,0
+Please set up tuner D,Vinsamlega settu upp móttakara D,Vinsamlega settu upp móttakara D,Vinsamlega settu upp móttakara D,Vinsamlega settu upp móttakara D,4,1,3,0
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,Vinsamlega notið örvatakka til að færa Mynd í Mynd glugga.\nÝttu á Bouquet +/- til að breyta stærð á glugga.\nÝttu á OK til að fara aftur í venjulega stillingu eða EXIT til að hætta við.,Vinsamlega notið örvatakka til að færa Mynd í Mynd glugga.\nÝttu á Bouquet +/- til að breyta stærð á glugga.\nÝttu á OK til að fara aftur í venjulega stillingu eða EXIT til að hætta við.,Vinsamlega notið örvatakka til að færa Mynd í Mynd glugga.\nÝttu á Bouquet +/- til að breyta stærð á glugga.\nÝttu á OK til að fara aftur í venjulega stillingu eða EXIT til að hætta við.,,3,1,2,0
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,Vinsamlega notið UP og NIÐUR takka til að velja tungumál. Ýttu svo á OK til að nota.,Vinsamlega notið UP og NIÐUR takka til að velja tungumál. Ýttu svo á OK til að nota.,Vinsamlega notið UP og NIÐUR takka til að velja tungumál. Ýttu svo á OK til að nota.,,3,1,2,0
+Please wait for activation of your network configuration...,Vinsamlega bíðið eftir virkjun á netkerfis stillingum...,Vinsamlega bíðið eftir virkjun á netkerfis stillingum...,Vinsamlega bíðið eftir virkjun á netkerfis stillingum...,,3,1,2,0
+Please wait while scanning is in progress...,Vinsamlega bíðið á meðan leit fer fram...,Vinsamlega bíðið á meðan leit fer fram...,Vinsamlega bíðið á meðan leit fer fram...,Vinsamlega bíðið á meðan leit fer fram...,4,1,3,0
+Please wait while we configure your network...,Vinsamlega bíðið á meðan stilling fer fram á netkerfinu...,Vinsamlega bíðið á meðan stilling fer fram á netkerfinu...,Vinsamlega bíðið á meðan stilling fer fram á netkerfinu...,Vinsamlega bíðið á meðan stilling fer fram á netkerfinu...,4,1,3,0
+Please wait while we prepare your network interfaces...,Vinsamlegast bíðið á meðan við stillum netkort...,Vinsamlegast bíðið á meðan við stillum netkort...,Vinsamlegast bíðið á meðan við stillum netkort...,Vinsamlegast bíðið á meðan við stillum netkort...,4,1,3,0
+Please wait while we test your network...,Vinsamlega bíðið á meðan við prufum net tengingu...,Vinsamlega bíðið á meðan við prufum net tengingu...,Vinsamlega bíðið á meðan við prufum net tengingu...,Vinsamlega bíðið á meðan við prufum net tengingu...,4,1,3,0
+Please wait while your network is restarting...,Vinsamlega bíðið á meðan netkerfið er endurræst...,Vinsamlega bíðið á meðan netkerfið er endurræst...,Vinsamlega bíðið á meðan netkerfið er endurræst...,,3,1,2,0
+Please wait...,Vinsamlega bíðið...,Vinsamlega bíðið...,Vinsamlega bíðið...,Vinsamlega bíðið...,4,1,3,0
+Please wait... Loading list...,Vinsamlega bíðið.. les inn lista...,Vinsamlega bíðið.. les inn lista...,Vinsamlega bíðið.. les inn lista...,Vinsamlega bíðið.. les inn lista...,4,1,3,0
+Plugin browser,,,Íforrita leit,,1,1,0,0
+Plugin manager activity information,Íforritstjóra aðgerða upplýsingar,Íforritstjóra aðgerða upplýsingar,Íforritstjóra aðgerða upplýsingar,Íforritstjóra aðgerða upplýsingar,4,1,3,0
+Plugin manager help,Íforritsstjóra hjálp,Íforritsstjóra hjálp,Íforritsstjóra hjálp,Íforritsstjóra hjálp,4,1,3,0
+Plugins,Íforrit,Íforrit,Íforrit,Íforrit,4,1,3,0
+Polarization,Pólun,Pólun,Pólun,Pólun,4,1,3,0
+Polish,Pólska,Pólska,Pólska,Pólska,4,1,3,0
+Port A,Tengi A,Tengi A,Tengi A,Tengi A,4,1,3,0
+Port B,Tengi B,Tengi B,Tengi B,Tengi B,4,1,3,0
+Port C,Tengi C,Tengi C,Tengi C,Tengi C,4,1,3,0
+Port D,Tengi D,Tengi D,Tengi D,Tengi D,4,1,3,0
+Portuguese,Portúgalska,Portúgalska,Portúgalska,Portúgalska,4,1,3,0
+Positioner,Mótorstýring,Mótorstýring,Mótorstýring,Mótorstýring,4,1,3,0
+Positioner setup,Uppsetning mótors,Uppsetning mótors,Uppsetning mótors,Uppsetning mótors,4,1,3,0
+Power threshold in mA,Aflmörk í mA,Aflmörk í mA,Aflmörk í mA,Aflmörk í mA,4,1,3,0
+Predefined transponder,Fyrirfram forritaður sendir,Fyrirfram forritaður sendir,Fyrirfram forritaður sendir,Fyrirfram forritaður sendir,4,1,3,0
+Preparing... Please wait,Undirbý...vinsamlega bíðið,Undirbý...vinsamlega bíðið,Undirbý...vinsamlega bíðið,Undirbý...vinsamlega bíðið,4,1,3,0
+Press INFO on your remote control for additional information.,Ýttu á INFO á fjarstýringunni fyrir nánari upplýsingar.,Ýttu á INFO á fjarstýringunni fyrir nánari upplýsingar.,Ýttu á INFO á fjarstýringunni fyrir nánari upplýsingar.,Ýttu á INFO á fjarstýringunni fyrir nánari upplýsingar.,4,1,3,0
+Press MENU on your remote control for additional options.,Ýttu á MENU á fjarstýringunni til að sjá meiri möguleika.,Ýttu á MENU á fjarstýringunni til að sjá meiri möguleika.,Ýttu á MENU á fjarstýringunni til að sjá meiri möguleika.,Ýttu á MENU á fjarstýringunni til að sjá meiri möguleika.,4,1,3,0
+Press OK on your remote control to continue.,Ýttu á OK á fjarstýringunni til að halda áfram.,Ýttu á OK á fjarstýringunni til að halda áfram.,Ýttu á OK á fjarstýringunni til að halda áfram.,Ýttu á OK á fjarstýringunni til að halda áfram.,4,1,3,0
+Press OK to activate the settings.,Ýtið á OK til að virkja stillingar.,Ýtið á OK til að virkja stillingar.,Ýtið á OK til að virkja stillingar.,Ýtið á OK til að virkja stillingar.,4,1,3,0
+Press OK to edit the settings.,Ýttu á OK til að breyta stillingum.,Ýttu á OK til að breyta stillingum.,Ýttu á OK til að breyta stillingum.,Ýttu á OK til að breyta stillingum.,4,1,3,0
+Press OK to get further details for %s,Ýttu á OK til að fá nánari upplýsingar um %s,Ýttu á OK til að fá nánari upplýsingar um %s,Ýttu á OK til að fá nánari upplýsingar um %s,Ýttu á OK til að fá nánari upplýsingar um %s,4,1,3,0
+Press OK to scan,Ýtið á OK til að leita,Ýtið á OK til að leita,Ýtið á OK til að leita,Ýtið á OK til að leita,4,1,3,0
+Press OK to select/deselect a CAId.,Ýttu á OK til að velja eða ekki velja CAId.,Ýttu á OK til að velja eða ekki velja CAId.,Ýttu á OK til að velja eða ekki velja CAId.,Ýttu á OK til að velja eða ekki velja CAId.,4,1,3,0
+Press OK to toggle the selection.,Ýttu á OK til að velja á milli.,Ýttu á OK til að velja á milli.,Ýttu á OK til að velja á milli.,Ýttu á OK til að velja á milli.,4,1,3,0
+Press yellow to set this interface as default interface.,,Ýttu á gula til að hafa þetta netkort sem sjálfvalið.,Ýttu á gula til að hafa þetta netkort sem sjálfvalið.,,2,1,1,0
+Preview,Forsýn,Forsýn,Forsýn,Forsýn,4,1,3,0
+Preview menu,Forskoða valmynd,Forskoða valmynd,Forskoða valmynd,Forskoða valmynd,4,1,3,0
+Primary DNS,Aðal DNS,Aðal DNS,Aðal DNS,Aðal DNS,4,1,3,0
+Priority,Forgangur,Forgangur,Forgangur,Forgangur,4,1,3,0
+Process,Verk,Verk,Verk,Verk,4,1,3,0
+Properties of current title,Nánari upplýsingar um titil,Nánari upplýsingar um titil,Nánari upplýsingar um titil,Nánari upplýsingar um titil,4,1,3,0
+Protect services,Læsa rásum,Læsa rásum,Læsa rásum,Læsa rásum,4,1,3,0
+Provider,Sendandi,Sendandi,Sendandi,Sendandi,4,1,3,0
+Providers,Sendendur,Sendendur,Sendendur,Sendendur,4,1,3,0
+Python frontend for /tmp/mmi.socket,Python framendi fyrir /tmp/mmi.socket,Python framendi fyrir /tmp/mmi.socket,Python framendi fyrir /tmp/mmi.socket,Python framendi fyrir /tmp/mmi.socket,4,1,3,0
+Quick,Hratt,Hratt,Hratt,Hratt,4,1,3,0
+RF output,Loftnetsrás,Loftnetsrás,Loftnetsrás,,3,1,2,0
+RGB,,'','','',3,0,0,3
+Radio,,,Útvarp,,1,1,0,0
+Random,Handahóf,Handahóf,Handahóf,Handahóf,4,1,3,0
+Really close without saving settings?,Viltu loka án þess að vista stillingar?,Viltu loka án þess að vista stillingar?,Viltu loka án þess að vista stillingar?,Viltu loka án þess að vista stillingar?,4,1,3,0
+Really delete done timers?,Viltu eyða liðnum tímastillingum?,Viltu eyða liðnum tímastillingum?,Viltu eyða liðnum tímastillingum?,,3,1,2,0
+Really exit the subservices quickzap?,Viltu hætta í undirrása hraðstökki?,Viltu hætta í undirrása hraðstökki?,Viltu hætta í undirrása hraðstökki?,Viltu hætta í undirrása hraðstökki?,4,1,3,0
+Really reboot now?,Viltu örugglega endurræsa núna?,Viltu örugglega endurræsa núna?,Viltu örugglega endurræsa núna?,Viltu örugglega endurræsa núna?,4,1,3,0
+Really restart now?,Viltu örugglega endurræsa núna?,Viltu örugglega endurræsa núna?,Viltu örugglega endurræsa núna?,Viltu örugglega endurræsa núna?,4,1,3,0
+Really shutdown now?,Viltu örugglega slökkva núna?,Viltu örugglega slökkva núna?,Viltu örugglega slökkva núna?,Viltu örugglega slökkva núna?,4,1,3,0
+Reboot,Endurræsi,Endurræsi,Endurræsi,Endurræsi,4,1,3,0
+Record,Upptaka,Upptaka,Upptaka,Upptaka,4,1,3,0
+Record time limited due to conflicting timer %s,"Upptöku tími takmarkaður vegna annarar tímastillingar, %s","Upptöku tími takmarkaður vegna annarar tímastillingar, %s","Upptöku tími takmarkaður vegna annarar tímastillingar, %s","Upptöku tími takmarkaður vegna annarar tímastillingar, %s",4,1,3,0
+Recorded files...,,,Uppteknar skrár...,,1,1,0,0
+Recording,Upptaka,Upptaka,Upptaka,Upptaka,4,1,3,0
+Recording paths,,,Upptöku slóð,,1,1,0,0
+Recording(s) are in progress or coming up in few seconds!,Upptaka (tökur) eru í gangi núna eða eru væntanlegar fljótlega!,Upptaka (tökur) eru í gangi núna eða eru væntanlegar fljótlega!,Upptaka (tökur) eru í gangi núna eða eru væntanlegar fljótlega!,Upptaka (tökur) eru í gangi núna eða eru væntanlegar fljótlega!,4,1,3,0
+Recordings,Upptökur,Upptökur,Upptökur,Upptökur,4,1,3,0
+Recordings always have priority,Upptaka hefur alltaf forgang,Upptaka hefur alltaf forgang,Upptaka hefur alltaf forgang,Upptaka hefur alltaf forgang,4,1,3,0
+Refresh rate selection.,Hressingar tíðni val.,Hressingar tíðni val.,Hressingar tíðni val.,Hressingar tíðni val.,4,1,3,0
+Reload,Endurlesa,Endurlesa,Endurlesa,Endurlesa,4,1,3,0
+Remember service PIN,Muna eftir PIN númeri rásar,Muna eftir PIN númeri rásar,Muna eftir PIN númeri rásar,Muna eftir PIN númeri rásar,4,1,3,0
+Remove,Eyða,Eyða,Eyða,Eyða,4,1,3,0
+Remove a mark,Eyða merkingu,Eyða merkingu,Eyða merkingu,Eyða merkingu,4,1,3,0
+Remove all alternatives,,,Taka út alla valkosti,,1,1,0,0
+Remove all new found flags,,,Eyða öllum merkingum um nýfundna rás,,1,1,0,0
+Remove currently selected title,Taka út þegar valinn titil,Taka út þegar valinn titil,Taka út þegar valinn titil,Taka út þegar valinn titil,4,1,3,0
+Remove directory,,,Eyða möppu,,1,1,0,0
+Remove entry,,,Taka út,,1,1,0,0
+Remove from parental protection,,,Taka foreldralæsingu af,,1,1,0,0
+Remove new found flag,,,Eyða merkingu um nýfundna rás,,1,1,0,0
+Remove plugins,Taka út íforrit,Taka út íforrit,Taka út íforrit,Taka út íforrit,4,1,3,0
+Remove selected satellite,,,Eyða völdum gervihnetti,,1,1,0,0
+Remove title,Taka út titil,Taka út titil,Taka út titil,Taka út titil,4,1,3,0
+Removing,Eyði,Eyði,Eyði,Eyði,4,1,3,0
+Removing directory %s failed. (Maybe not empty.),Tókst ekki að taka út möppuna %s. (kannski ekki tóm.),Tókst ekki að taka út möppuna %s. (kannski ekki tóm.),Tókst ekki að taka út möppuna %s. (kannski ekki tóm.),Tókst ekki að taka út möppuna %s. (kannski ekki tóm.),4,1,3,0
+Rename,Endurnefna,Endurnefna,Endurnefna,Endurnefna,4,1,3,0
+Repeat playlist,,,Endurtaka spilunarlista,,1,1,0,0
+Repeating event currently recording... What do you want to do?,Endurtaka atriði sem er í upptöku.. hvað viltu gera núna?,Endurtaka atriði sem er í upptöku.. hvað viltu gera núna?,Endurtaka atriði sem er í upptöku.. hvað viltu gera núna?,Endurtaka atriði sem er í upptöku.. hvað viltu gera núna?,4,1,3,0
+Repeats,Endurtekningar,Endurtekningar,Endurtekningar,Endurtekningar,4,1,3,0
+Required medium type:,Þarf gerð disks:,Þarf gerð disks:,Þarf gerð disks:,Þarf gerð disks:,4,1,3,0
+Reset,Endursetja,Endursetja,Endursetja,Endursetja,4,1,3,0
+Reset and renumerate title names,Endursetja og endurnúmera nöfn titla,Endursetja og endurnúmera nöfn titla,Endursetja og endurnúmera nöfn titla,Endursetja og endurnúmera nöfn titla,4,1,3,0
+Reset video enhancement settings to system defaults?,Endursetja mynd stillingar á sjálfvaldar kerfis stillingar?,Endursetja mynd stillingar á sjálfvaldar kerfis stillingar?,Endursetja mynd stillingar á sjálfvaldar kerfis stillingar?,Endursetja mynd stillingar á sjálfvaldar kerfis stillingar?,4,1,3,0
+Reset video enhancement settings to your last configuration?,Endursetja mynd bóta stillingar á síðast valdar stillingar?,Endursetja mynd bóta stillingar á síðast valdar stillingar?,Endursetja mynd bóta stillingar á síðast valdar stillingar?,Endursetja mynd bóta stillingar á síðast valdar stillingar?,4,1,3,0
+Resolution,Upplausn,Upplausn,Upplausn,Upplausn,4,1,3,0
+Restart,Endurræsa,Endurræsa,Endurræsa,Endurræsa,4,1,3,0
+Restart GUI now?,Endurræsa gluggakerfi núna?,Endurræsa gluggakerfi núna?,Endurræsa gluggakerfi núna?,Endurræsa gluggakerfi núna?,4,1,3,0
+Restart network,Endurræsi netkort,Endurræsi netkort,Endurræsi netkort,Endurræsi netkort,4,1,3,0
+Restart test,Prufa aftur,Prufa aftur,Prufa aftur,Prufa aftur,4,1,3,0
+Restart your network connection and interfaces.\n,Endurræsa nettengingu og netkort.\n,Endurræsa nettengingu og netkort.\n,Endurræsa nettengingu og netkort.\n,Endurræsa nettengingu og netkort.\n,4,1,3,0
+Restore,Setja inn,Setja inn,Setja inn,Setja inn,4,1,3,0
+Restore backups,Setja inn afrit,Setja inn afrit,Setja inn afrit,Setja inn afrit,4,1,3,0
+Restore system settings,Setja inn kerfis stillingar,Setja inn kerfis stillingar,Setja inn kerfis stillingar,Setja inn kerfis stillingar,4,1,3,0
+Restore your backups by date.,,,Setja inn stilligar eftir dagsetningu.,,1,1,0,0
+Resume from last position,Halda áfram frá sama stað og síðast,Halda áfram frá sama stað og síðast,Halda áfram frá sama stað og síðast,Halda áfram frá sama stað og síðast,4,1,3,0
+Resume position at %s,Byrja aftur eftir %s,Byrja aftur eftir %s,Byrja aftur eftir %s,Byrja aftur eftir %s,4,1,3,0
+Resuming playback,Held áfram spilun,Held áfram spilun,Held áfram spilun,Held áfram spilun,4,1,3,0
+Return to movie list,Til baka til mynda lista,Til baka til mynda lista,Til baka til mynda lista,Til baka til mynda lista,4,1,3,0
+Return to previous service,Til  baka á síðustu rás,Til  baka á síðustu rás,Til  baka á síðustu rás,Til  baka á síðustu rás,4,1,3,0
+Rewind speeds,Hraði hraðspólunar til baka,Hraði hraðspólunar til baka,Hraði hraðspólunar til baka,Hraði hraðspólunar til baka,4,1,3,0
+Right,Hægri,Hægri,Hægri,Hægri,4,1,3,0
+Rotor turning speed,Hraði mótors,Hraði mótors,Hraði mótors,Hraði mótors,4,1,3,0
+Russian,Rússneska,Rússneska,Rússneska,Rússneska,4,1,3,0
+S-Video,,'','','',3,0,0,3
+SINGLE LAYER DVD,,'','','',3,0,0,3
+SNR,,,'',,1,0,0,1
+SNR:,,,'',,1,0,0,1
+SSID:,,'','','',3,0,0,3
+Sat,Lau,Lau,Lau,Lau,4,1,3,0
+Satellite,Gervihnöttur,Gervihnöttur,Gervihnöttur,Gervihnöttur,4,1,3,0
+Satellite equipment,Gervihnatta búnaður,Gervihnatta búnaður,Gervihnatta búnaður,Gervihnatta búnaður,4,1,3,0
+Satellites,Gervihnettir,Gervihnettir,Gervihnettir,Gervihnettir,4,1,3,0
+Sats,Gervihn.,Gervihn.,Gervihn.,Gervihn.,4,1,3,0
+Saturation,Lita mettun,Lita mettun,Lita mettun,Lita mettun,4,1,3,0
+Saturday,Laugardagur,Laugardagur,Laugardagur,Laugardagur,4,1,3,0
+Save,Vista,Vista,Vista,Vista,4,1,3,0
+Save last directory on exit,,,Vista síðustu möppu þegar hætt er,,1,1,0,0
+Save playlist on exit,,,Vista spilunarlista þegar hætt er,,1,1,0,0
+Scaler sharpness,Skölunar skerpa,Skölunar skerpa,Skölunar skerpa,Skölunar skerpa,4,1,3,0
+Scan ,Leita,Leita,Leita,Leita,4,1,3,0
+Scan additional SR,Leita á fleiri SR,Leita á fleiri SR,Leita á fleiri SR,Leita á fleiri SR,4,1,3,0
+Scan for local extensions and install them.,,,Leita að viðbótum á móttakara og setja þær upp.,,1,1,0,0
+Scan your network for wireless access points and connect to them using your selected wireless device.\n,Leita að þráðlausu neti og tengjast þeim með völdu netkorti.\n,Leita að þráðlausu neti og tengjast þeim með völdu netkorti.\n,Leita að þráðlausu neti og tengjast þeim með völdu netkorti.\n,Leita að þráðlausu neti og tengjast þeim með völdu netkorti.\n,4,1,3,0
+Scans default lamedbs sorted by satellite with a connected dish positioner,"Leita sjálfgefna gervihnetti, raðað eftir hnöttum með tengdum mótor","Leita sjálfgefna gervihnetti, raðað eftir hnöttum með tengdum mótor","Leita sjálfgefna gervihnetti, raðað eftir hnöttum með tengdum mótor","Leita sjálfgefna gervihnetti, raðað eftir hnöttum með tengdum mótor",4,1,3,0
+Search east,Leita austur,Leita austur,Leita austur,Leita austur,4,1,3,0
+Search west,Leita vestur,Leita vestur,Leita vestur,Leita vestur,4,1,3,0
+Searching for available updates. Please wait...,Leita að tiltækum uppfærslum. Vinsamlega bíðið...,Leita að tiltækum uppfærslum. Vinsamlega bíðið...,Leita að tiltækum uppfærslum. Vinsamlega bíðið...,Leita að tiltækum uppfærslum. Vinsamlega bíðið...,4,1,3,0
+Searching for new installed or removed packages. Please wait...,Leita að nýinnsettum eða fjarlægðum pökkum. Vinsamlega bíðið...,Leita að nýinnsettum eða fjarlægðum pökkum. Vinsamlega bíðið...,Leita að nýinnsettum eða fjarlægðum pökkum. Vinsamlega bíðið...,Leita að nýinnsettum eða fjarlægðum pökkum. Vinsamlega bíðið...,4,1,3,0
+Secondary DNS,Vara DNS,Vara DNS,Vara DNS,Vara DNS,4,1,3,0
+Seek,Leita,Leita,Leita,Leita,4,1,3,0
+Select,Veldu,Veldu,Veldu,Veldu,4,1,3,0
+Select HDD,,,Veldu harðadisk,,1,1,0,0
+Select a movie,,,Veldu mynd,,1,1,0,0
+Select audio track,Veldu hljóð rás,Veldu hljóð rás,Veldu hljóð rás,Veldu hljóð rás,4,1,3,0
+Select channel to record from,Veldu rás til að taka upp frá,Veldu rás til að taka upp frá,Veldu rás til að taka upp frá,Veldu rás til að taka upp frá,4,1,3,0
+Select files for backup.,,Veldu skrár fyrir afrit.,Veldu skrár fyrir afrit.,Veldu skrár fyrir afrit.,3,1,2,0
+Select files/folders to backup,Veldu skrár/möppur til afritunar,Veldu skrár/möppur til afritunar,Veldu skrár/möppur til afritunar,Veldu skrár/möppur til afritunar,4,1,3,0
+Select input device,Veldu inntaks tæki,Veldu inntaks tæki,Veldu inntaks tæki,,3,1,2,0
+Select input device.,Veldu inntaks tæki.,Veldu inntaks tæki.,Veldu inntaks tæki.,Veldu inntaks tæki.,4,1,3,0
+Select interface,Veldu netkort,Veldu netkort,Veldu netkort,Veldu netkort,4,1,3,0
+Select provider to add...,Veldu sendanda til að bæta við...,Veldu sendanda til að bæta við...,Veldu sendanda til að bæta við...,Veldu sendanda til að bæta við...,4,1,3,0
+Select refresh rate,Veldu hressingar tíðni,Veldu hressingar tíðni,Veldu hressingar tíðni,Veldu hressingar tíðni,4,1,3,0
+Select service to add...,Veldur rás til að bæta við...,Veldur rás til að bæta við...,Veldur rás til að bæta við...,Veldur rás til að bæta við...,4,1,3,0
+Select update source to edit,,,Veldu upphafs slóð til að breyta,,1,1,0,0
+Select video input with up/down buttons,Veldu mynd inngang með up/niður tökkum,Veldu mynd inngang með up/niður tökkum,Veldu mynd inngang með up/niður tökkum,Veldu mynd inngang með up/niður tökkum,4,1,3,0
+Select video mode,Veldu mynd stillingu,Veldu mynd stillingu,Veldu mynd stillingu,Veldu mynd stillingu,4,1,3,0
+Select wireless network,Veldu þráðlaust net,Veldu þráðlaust net,Veldu þráðlaust net,Veldu þráðlaust net,4,1,3,0
+Select your backup device.\nCurrent device: ,,,Veldu afritunar tæki.\nNúverandi tæki:,,1,1,0,0
+Send DiSEqC,Senda DiSEqC,Senda DiSEqC,Senda DiSEqC,Senda DiSEqC,4,1,3,0
+Send DiSEqC only on satellite change,Senda DiSEqC bara við að skipta á annan gevihnött,Senda DiSEqC bara við að skipta á annan gevihnött,Senda DiSEqC bara við að skipta á annan gevihnött,Senda DiSEqC bara við að skipta á annan gevihnött,4,1,3,0
+Separate titles with a main menu,,,Taka út titla af aðalvalmynd,,1,1,0,0
+Sequence repeat,Endurtaka runu,Endurtaka runu,Endurtaka runu,Endurtaka runu,4,1,3,0
+Serbian,Serneska,Serneska,Serneska,Serneska,4,1,3,0
+Service,Rás,Rás,Rás,Rás,4,1,3,0
+Service has been added to the favourites.,Rás hefur verið bætt við eftirlætis lista.,Rás hefur verið bætt við eftirlætis lista.,Rás hefur verið bætt við eftirlætis lista.,,3,1,2,0
+Service has been added to the selected bouquet.,Rás hefur verið bætt við valinn rásavöndul.,Rás hefur verið bætt við valinn rásavöndul.,Rás hefur verið bætt við valinn rásavöndul.,,3,1,2,0
+Service invalid!\n(Timeout reading PMT),Rás ógild!\n(Rann út á tíma við lestur PMT),Rás ógild!\n(Rann út á tíma við lestur PMT),Rás ógild!\n(Rann út á tíma við lestur PMT),Rás ógild!\n(Rann út á tíma við lestur PMT),4,1,3,0
+Service not found!\n(SID not found in PAT),Rás fannst ekki!\n(SID fannst ekki í PAT),Rás fannst ekki!\n(SID fannst ekki í PAT),Rás fannst ekki!\n(SID fannst ekki í PAT),Rás fannst ekki!\n(SID fannst ekki í PAT),4,1,3,0
+Service reference,Rása upplýsingar,Rása upplýsingar,Rása upplýsingar,Rása upplýsingar,4,1,3,0
+Service scan,Rása leit,Rása leit,Rása leit,Rása leit,4,1,3,0
+Service unavailable!\nCheck tuner configuration!,Rás finnst ekki!\nAthugaðu stillingar móttakara!,Rás finnst ekki!\nAthugaðu stillingar móttakara!,Rás finnst ekki!\nAthugaðu stillingar móttakara!,Rás finnst ekki!\nAthugaðu stillingar móttakara!,4,1,3,0
+Services,Rásir,Rásir,Rásir,Rásir,4,1,3,0
+Set interface as default Interface,,Gera að sjálfgefnu korti,Gera að sjálfgefnu korti,,2,1,1,0
+Settings,Stillingar,Stillingar,Stillingar,Stillingar,4,1,3,0
+Setup,Uppsetning,Uppsetning,Uppsetning,Uppsetning,4,1,3,0
+Sharpness,Skerpa,Skerpa,Skerpa,Skerpa,4,1,3,0
+Short filenames,Stutt skráarnöfn,Stutt skráarnöfn,Stutt skráarnöfn,Stutt skráarnöfn,4,1,3,0
+Show alternatives,,,Súna valkosti,,1,1,0,0
+Show event-progress in channel selection,Sýna framvindu atriðis við rásaval,Sýna framvindu atriðis við rásaval,Sýna framvindu atriðis við rásaval,Sýna framvindu atriðis við rásaval,4,1,3,0
+Show infobar on channel change,Sýna upplýsingaborða við að skipta um stöð,Sýna upplýsingaborða við að skipta um stöð,Sýna upplýsingaborða við að skipta um stöð,Sýna upplýsingaborða við að skipta um stöð,4,1,3,0
+Show infobar on event change,Sýna upplýsinga borða við breytingu á atriði,Sýna upplýsinga borða við breytingu á atriði,Sýna upplýsinga borða við breytingu á atriði,Sýna upplýsinga borða við breytingu á atriði,4,1,3,0
+Show infobar on skip forward/backward,Sýna upplýsingaborða við stökk fram eða aftur,Sýna upplýsingaborða við stökk fram eða aftur,Sýna upplýsingaborða við stökk fram eða aftur,Sýna upplýsingaborða við stökk fram eða aftur,4,1,3,0
+Show positioner movement,Sýna færslu mótors,Sýna færslu mótors,Sýna færslu mótors,Sýna færslu mótors,4,1,3,0
+Show the radio player...,Sýna útvarpsspilara...,Sýna útvarpsspilara...,Sýna útvarpsspilara...,Sýna útvarpsspilara...,4,1,3,0
+Show the tv player...,Sýna sjónvarpsspilara...,Sýna sjónvarpsspilara...,Sýna sjónvarpsspilara...,Sýna sjónvarpsspilara...,4,1,3,0
+Show transponder info,,,Sýna upplýsingar um sendi,,1,1,0,0
+Shows the state of your wireless LAN connection.\n,Sýnir stöðu þráðlausrar nettenginar.\n,Sýnir stöðu þráðlausrar nettenginar.\n,Sýnir stöðu þráðlausrar nettenginar.\n,Sýnir stöðu þráðlausrar nettenginar.\n,4,1,3,0
+Shutdown,Slökkva,Slökkva,Slökkva,,3,1,2,0
+Signal: ,Merki:,Merki:,Merki:,Merki:,4,1,3,0
+Similar,Svipað,Svipað,Svipað,Svipað,4,1,3,0
+Similar broadcasts:,Svipuð útsending:,Svipuð útsending:,Svipuð útsending:,Svipuð útsending:,4,1,3,0
+Simple,Einfalt,Einfalt,Einfalt,Einfalt,4,1,3,0
+Simple titleset (compatibility for legacy players),Einföld valmynd (virkar fyrir flesta spilara),Einföld valmynd (virkar fyrir flesta spilara),Einföld valmynd (virkar fyrir flesta spilara),Einföld valmynd (virkar fyrir flesta spilara),4,1,3,0
+Single,Einn,Einn,Einn,Einn,4,1,3,0
+Single EPG,Eitt EPG,Eitt EPG,Eitt EPG,Eitt EPG,4,1,3,0
+Single satellite,Einn gervihnöttur,Einn gervihnöttur,Einn gervihnöttur,Einn gervihnöttur,4,1,3,0
+Skins,Skinn,Skinn,Skinn,Skinn,4,1,3,0
+Slot %d,Sleði %d,Sleði %d,Sleði %d,Sleði %d,4,1,3,0
+Slovenian,,'','','',3,0,0,3
+Slow,Hægt,Hægt,Hægt,Hægt,4,1,3,0
+Software,Hugbúnaður,Hugbúnaður,Hugbúnaður,Hugbúnaður,4,1,3,0
+Software management,Hugbúnaðar umsýsla,Hugbúnaðar umsýsla,Hugbúnaðar umsýsla,Hugbúnaðar umsýsla,4,1,3,0
+Software manager setup,Uppsetning hugbúnaðar umsýslu,Uppsetning hugbúnaðar umsýslu,Uppsetning hugbúnaðar umsýslu,Uppsetning hugbúnaðar umsýslu,4,1,3,0
+Software update,Hugbúnaðar uppfærsla,Hugbúnaðar uppfærsla,Hugbúnaðar uppfærsla,Hugbúnaðar uppfærsla,4,1,3,0
+Softwaremanager information,Upplýsingar hugbúnaðar umsýslu,Upplýsingar hugbúnaðar umsýslu,Upplýsingar hugbúnaðar umsýslu,Upplýsingar hugbúnaðar umsýslu,4,1,3,0
+Some plugins are not available:\n,Sum íforrit eru ekki til:\n,Sum íforrit eru ekki til:\n,Sum íforrit eru ekki til:\n,Sum íforrit eru ekki til:\n,4,1,3,0
+Sort A-Z,,,Raða A-Ö,,1,1,0,0
+Sound,Hljóð,Hljóð,Hljóð,Hljóð,4,1,3,0
+South,Suður,Suður,Suður,Suður,4,1,3,0
+Spanish,Spænska,Spænska,Spænska,Spænska,4,1,3,0
+Split preview mode,Skipta forsýn,Skipta forsýn,Skipta forsýn,Skipta forsýn,4,1,3,0
+Standby,Biðstaða,Biðstaða,Biðstaða,Biðstaða,4,1,3,0
+Start directory,,,Byrjunar mappa,,1,1,0,0
+Start from the beginning,Byrja frá byrjun,Byrja frá byrjun,Byrja frá byrjun,Byrja frá byrjun,4,1,3,0
+Start recording?,,,Byrja upptöku?,,1,1,0,0
+Start test,Byrja prófun,Byrja prófun,Byrja prófun,Byrja prófun,4,1,3,0
+Starting on,Byrja á,Byrja á,Byrja á,Byrja á,4,1,3,0
+Step east,Skref austur,Skref austur,Skref austur,Skref austur,4,1,3,0
+Step west,Skref vestur,Skref vestur,Skref vestur,Skref vestur,4,1,3,0
+Stop,Stopp,Stopp,Stopp,Stopp,4,1,3,0
+Stop current event and disable coming events,Stoppa núverandi atriði og hætta við komandi atriði,Stoppa núverandi atriði og hætta við komandi atriði,Stoppa núverandi atriði og hætta við komandi atriði,,3,1,2,0
+Stop current event but not coming events,Stoppa núverandi atriði en halda komandi atriðum,Stoppa núverandi atriði en halda komandi atriðum,Stoppa núverandi atriði en halda komandi atriðum,,3,1,2,0
+Stop playing this movie?,Stoppa spilun?,Stoppa spilun?,Stoppa spilun?,Stoppa spilun?,4,1,3,0
+Stop test,Stoppa prófun,Stoppa prófun,Stoppa prófun,Stoppa prófun,4,1,3,0
+Stop testing plane after # failed transponders,Hætta að prufa eftir # senda sem fundust ekki,Hætta að prufa eftir # senda sem fundust ekki,Hætta að prufa eftir # senda sem fundust ekki,Hætta að prufa eftir # senda sem fundust ekki,4,1,3,0
+Stop testing plane after # successful transponders,Hætta að prufa eftir að # sendar fundust,Hætta að prufa eftir að # sendar fundust,Hætta að prufa eftir að # sendar fundust,Hætta að prufa eftir að # sendar fundust,4,1,3,0
+Store position,Vista staðsetningu,Vista staðsetningu,Vista staðsetningu,Vista staðsetningu,4,1,3,0
+Stored position,Vistuð staða,Vistuð staða,Vistuð staða,Vistuð staða,4,1,3,0
+Subservice list...,,,Listi undirrása...,,1,1,0,0
+Subservices,Undirþjónusta,Undirþjónusta,Undirþjónusta,Undirþjónusta,4,1,3,0
+Subtitle selection,Velja undirtexta,Velja undirtexta,Velja undirtexta,Velja undirtexta,4,1,3,0
+Subtitles,Undirtextar,Undirtextar,Undirtextar,Undirtextar,4,1,3,0
+Sun,,'','','',3,0,0,3
+Sunday,Sunnudagur,Sunnudagur,Sunnudagur,Sunnudagur,4,1,3,0
+Swedish,Sænskt,Sænskt,Sænskt,Sænskt,4,1,3,0
+Switch to bookmarks,,,Fara á bókamerki,,1,1,0,0
+Symbol rate,Bitahraði,Bitahraði,Bitahraði,Bitahraði,4,1,3,0
+System,Kerfi,Kerfi,Kerfi,Kerfi,4,1,3,0
+TS file is too large for ISO9660 level 1!,TS skrá er of stór fyrir ISO9660 level 1!,TS skrá er of stór fyrir ISO9660 level 1!,TS skrá er of stór fyrir ISO9660 level 1!,TS skrá er of stór fyrir ISO9660 level 1!,4,1,3,0
+TSID,,'','','',3,0,0,3
+TXT PID,,'','','',3,0,0,3
+Tags,Merki,Merki,Merki,Merki,4,1,3,0
+Terrestrial,Stafrænt í lofti,Stafrænt í lofti,Stafrænt í lofti,Stafrænt í lofti,4,1,3,0
+Test DiSEqC settings,Prufa DiSEqC stillingar,Prufa DiSEqC stillingar,Prufa DiSEqC stillingar,Prufa DiSEqC stillingar,4,1,3,0
+Test mode,Prufu hamur,Prufu hamur,Prufu hamur,Prufu hamur,4,1,3,0
+Thank you for using the wizard.\nPlease press OK to continue.,Takk fyrir að nota álfinn.\nÝttu á OK til að halda áfram.,Takk fyrir að nota álfinn.\nÝttu á OK til að halda áfram.,Takk fyrir að nota álfinn.\nÝttu á OK til að halda áfram.,Takk fyrir að nota álfinn.\nÝttu á OK til að halda áfram.,4,1,3,0
+The PIN code has been changed successfully.,Það tókst að breyta PIN kóðanum.,Það tókst að breyta PIN kóðanum.,Það tókst að breyta PIN kóðanum.,Það tókst að breyta PIN kóðanum.,4,1,3,0
+The PIN codes you entered are different.,PIN númerin sem að þú slóst inn eru ekki eins.,PIN númerin sem að þú slóst inn eru ekki eins.,PIN númerin sem að þú slóst inn eru ekki eins.,PIN númerin sem að þú slóst inn eru ekki eins.,4,1,3,0
+The directory %s is not writable.\nMake sure you select a writable directory instead.,Mappan %s er ekki skrifanleg.\nVertu viss um að velja möppu sem má skrifa í.,Mappan %s er ekki skrifanleg.\nVertu viss um að velja möppu sem má skrifa í.,Mappan %s er ekki skrifanleg.\nVertu viss um að velja möppu sem má skrifa í.,Mappan %s er ekki skrifanleg.\nVertu viss um að velja möppu sem má skrifa í.,4,1,3,0
+The following files were found...,Eftirfarandi skrár fundust...,Eftirfarandi skrár fundust...,Eftirfarandi skrár fundust...,Eftirfarandi skrár fundust...,4,1,3,0
+The path %s already exists.,Slóðin %s er þegar til.,Slóðin %s er þegar til.,Slóðin %s er þegar til.,Slóðin %s er þegar til.,4,1,3,0
+The pin code you entered is wrong.,Kóðinn sem þú slóst inn er rangur.,Kóðinn sem þú slóst inn er rangur.,Kóðinn sem þú slóst inn er rangur.,Kóðinn sem þú slóst inn er rangur.,4,1,3,0
+The sleep timer has been activated.,,,Tíma stilling fyrir svefn er virk.,,1,1,0,0
+The sleep timer has been disabled.,,,Tímastilling til að slökkva er óvirkur.,,1,1,0,0
+The timer file (timers.xml) is corrupt and could not be loaded.,Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana.,Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana.,Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana.,Atriða skrá (timer.xml) er skemmd og var ekki hægt að lesa hana.,4,1,3,0
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,Forrit fyrir þráðlausa net ekki uppsett!\nSettu það inn og veldu hvað þú vilt gera næst.,Forrit fyrir þráðlausa net ekki uppsett!\nSettu það inn og veldu hvað þú vilt gera næst.,Forrit fyrir þráðlausa net ekki uppsett!\nSettu það inn og veldu hvað þú vilt gera næst.,Forrit fyrir þráðlausa net ekki uppsett!\nSettu það inn og veldu hvað þú vilt gera næst.,4,1,3,0
+The wireless LAN plugin is not installed!\nPlease install it.,Þráðlausa netkortið er ekki tengt!\nVinsamlega tengið það.,Þráðlausa netkortið er ekki tengt!\nVinsamlega tengið það.,Þráðlausa netkortið er ekki tengt!\nVinsamlega tengið það.,Þráðlausa netkortið er ekki tengt!\nVinsamlega tengið það.,4,1,3,0
+There are at least ,Það eru allavega ,Það eru allavega ,Það eru allavega ,Það eru allavega ,4,1,3,0
+There are currently no outstanding actions.,Það er ekkert atriði sem að liggur fyrir.,Það er ekkert atriði sem að liggur fyrir.,Það er ekkert atriði sem að liggur fyrir.,Það er ekkert atriði sem að liggur fyrir.,4,1,3,0
+There are no updates available.,Það er engin uppfærsla tiltæk.,Það er engin uppfærsla tiltæk.,Það er engin uppfærsla tiltæk.,Það er engin uppfærsla tiltæk.,4,1,3,0
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,,"Það gæti verið of lítið pláss á valinni disksneið,\nViltu örugglega halda áfram?",,1,1,0,0
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,Þessi DVD RW diskur er þegar formaður - endurformun mun eyða öllum gögnum af honum.,Þessi DVD RW diskur er þegar formaður - endurformun mun eyða öllum gögnum af honum.,Þessi DVD RW diskur er þegar formaður - endurformun mun eyða öllum gögnum af honum.,Þessi DVD RW diskur er þegar formaður - endurformun mun eyða öllum gögnum af honum.,4,1,3,0
+This plugin is installed.,Þetta íforrit er uppsett.,Þetta íforrit er uppsett.,Þetta íforrit er uppsett.,Þetta íforrit er uppsett.,4,1,3,0
+This plugin is not installed.,Þetta íforrit er ekki sett upp.,Þetta íforrit er ekki sett upp.,Þetta íforrit er ekki sett upp.,Þetta íforrit er ekki sett upp.,4,1,3,0
+This plugin will be installed.,Þetta íforrit verður sett inn.,Þetta íforrit verður sett inn.,Þetta íforrit verður sett inn.,Þetta íforrit verður sett inn.,4,1,3,0
+This plugin will be removed.,Þetta íforrit verður tekið út.,Þetta íforrit verður tekið út.,Þetta íforrit verður tekið út.,Þetta íforrit verður tekið út.,4,1,3,0
+Three,Þrír,Þrír,Þrír,Þrír,4,1,3,0
+Threshold,Mörk,Mörk,Mörk,Mörk,4,1,3,0
+Thu,Fim,Fim,Fim,Fim,4,1,3,0
+Thumbnails,Smámyndir,Smámyndir,Smámyndir,Smámyndir,4,1,3,0
+Thursday,Fimmtudagur,Fimmtudagur,Fimmtudagur,Fimmtudagur,4,1,3,0
+Time,Tími,Tími,Tími,Tími,4,1,3,0
+Timer,,,Tímastilling,,1,1,0,0
+Timer entry,Innsláttur tímastilltra atriða,Innsláttur tímastilltra atriða,Innsláttur tímastilltra atriða,,3,1,2,0
+Timer log,Tíma skrá,Tíma skrá,Tíma skrá,,3,1,2,0
+Timer overlap in timers.xml detected!\nPlease recheck it!,Tímastillingar ná yfir hvorn annan!\nVinsamlega athugið það!,Tímastillingar ná yfir hvorn annan!\nVinsamlega athugið það!,Tímastillingar ná yfir hvorn annan!\nVinsamlega athugið það!,Tímastillingar ná yfir hvorn annan!\nVinsamlega athugið það!,4,1,3,0
+Timer sanity error,Villa í tímastillingu,Villa í tímastillingu,Villa í tímastillingu,,3,1,2,0
+Timer selection,Tímastillinga val,Tímastillinga val,Tímastillinga val,Tímastillinga val,4,1,3,0
+Timeshift,Lifandi pása,Lifandi pása,Lifandi pása,Lifandi pása,4,1,3,0
+Timeshift location,Staður fyrir lifandi pásu,Staður fyrir lifandi pásu,Staður fyrir lifandi pásu,Staður fyrir lifandi pásu,4,1,3,0
+Timeshift not possible!,Tímabreyting ekki möguleg!,Tímabreyting ekki möguleg!,Tímabreyting ekki möguleg!,Tímabreyting ekki möguleg!,4,1,3,0
+Timezone,,Tímabelti,Tímabelti,,2,1,1,0
+Title,Titill,Titill,Titill,Titill,4,1,3,0
+Title properties,Upplýsingar titils,Upplýsingar titils,Upplýsingar titils,Upplýsingar titils,4,1,3,0
+Titleset mode,Titla stillingar,Titla stillingar,Titla stillingar,Titla stillingar,4,1,3,0
+Today,Í dag,Í dag,Í dag,Í dag,4,1,3,0
+Tone mode,Tón stilling,Tón stilling,Tón stilling,Tón stilling,4,1,3,0
+Toneburst,Tónstýring,Tónstýring,Tónstýring,Tónstýring,4,1,3,0
+Toneburst A/B,Tón stýring A/B,Tón stýring A/B,Tón stýring A/B,Tón stýring A/B,4,1,3,0
+Track,Spor,Spor,Spor,Spor,4,1,3,0
+Translation,,,Þýðing,,1,1,0,0
+Translation:,,,Þýðing:,,1,1,0,0
+Transmission mode,Sendi stilling,Sendi stilling,Sendi stilling,Sendi stilling,4,1,3,0
+Transponder,Sendir,Sendir,Sendir,Sendir,4,1,3,0
+Tries left:,Tilraunir eftir:,Tilraunir eftir:,Tilraunir eftir:,Tilraunir eftir:,4,1,3,0
+Try to find used transponders in cable network.. please wait...,Reyni að finna sendi í kapalkerfi.. vinsamlega bíðið...,Reyni að finna sendi í kapalkerfi.. vinsamlega bíðið...,Reyni að finna sendi í kapalkerfi.. vinsamlega bíðið...,Reyni að finna sendi í kapalkerfi.. vinsamlega bíðið...,4,1,3,0
+Trying to download a new packetlist. Please wait...,Reyni að hlaða niður nýjum pakka lista. Vinsamlega bíðið...,Reyni að hlaða niður nýjum pakka lista. Vinsamlega bíðið...,Reyni að hlaða niður nýjum pakka lista. Vinsamlega bíðið...,Reyni að hlaða niður nýjum pakka lista. Vinsamlega bíðið...,4,1,3,0
+Tue,Þri,Þri,Þri,Þri,4,1,3,0
+Tuesday,Þriðjudagur,Þriðjudagur,Þriðjudagur,Þriðjudagur,4,1,3,0
+Tune,Stilla,Stilla,Stilla,Stilla,4,1,3,0
+Tune failed!,Tókst ekki að stilla inn!,Tókst ekki að stilla inn!,Tókst ekki að stilla inn!,Tókst ekki að stilla inn!,4,1,3,0
+Tuner,Móttakari,Móttakari,Móttakari,Móttakari,4,1,3,0
+Tuner configuration,Stilling móttakara,Stilling móttakara,Stilling móttakara,,3,1,2,0
+Tuner type,,Gerð móttakara,Gerð móttakara,Gerð móttakara,3,1,2,0
+Turkish,Tyrkneska,Tyrkneska,Tyrkneska,Tyrkneska,4,1,3,0
+Two,Tveir,Tveir,Tveir,Tveir,4,1,3,0
+Type,Gerð,Gerð,Gerð,Gerð,4,1,3,0
+Type of scan,Gerð leitunar,Gerð leitunar,Gerð leitunar,Gerð leitunar,4,1,3,0
+USALS,,'','','',3,0,0,3
+Undo install,Hætta við innsetningu,Hætta við innsetningu,Hætta við innsetningu,Hætta við innsetningu,4,1,3,0
+Undo uninstall,Hætta við að hætta við,Hætta við að hætta við,Hætta við að hætta við,Hætta við að hætta við,4,1,3,0
+Unencrypted,Opin rás,Opin rás,Opin rás,Opin rás,4,1,3,0
+UnhandledKey,,,Ónotaður,,1,1,0,0
+Uninstall,Taka út,Taka út,Taka út,Taka út,4,1,3,0
+Universal LNB,Venjulegt LNB,Venjulegt LNB,Venjulegt LNB,Venjulegt LNB,4,1,3,0
+Unknown,Óþekkt,Óþekkt,Óþekkt,Óþekkt,4,1,3,0
+Unsupported,Ekki stutt,Ekki stutt,Ekki stutt,Ekki stutt,4,1,3,0
+Update,Uppfæra,Uppfæra,Uppfæra,Uppfæra,4,1,3,0
+Updatefeed not available.,Uppfærslur á fæðirásum ekki tiltækar.,Uppfærslur á fæðirásum ekki tiltækar.,Uppfærslur á fæðirásum ekki tiltækar.,Uppfærslur á fæðirásum ekki tiltækar.,4,1,3,0
+Updating,,,Uppfæri,,1,1,0,0
+Updating software catalog,Uppfæri efnisyfirlit hugbúnaðar,Uppfæri efnisyfirlit hugbúnaðar,Uppfæri efnisyfirlit hugbúnaðar,Uppfæri efnisyfirlit hugbúnaðar,4,1,3,0
+Use,Nota,Nota,Nota,Nota,4,1,3,0
+Use DHCP,Nota DHCP,Nota DHCP,Nota DHCP,Nota DHCP,4,1,3,0
+Use a gateway,Nota beini,Nota beini,Nota beini,Nota beini,4,1,3,0
+Use power measurement,Nota aflmælingu,Nota aflmælingu,Nota aflmælingu,Nota aflmælingu,4,1,3,0
+"Use the up/down keys on your remote control to select an option. After that, press OK.",Ýttu á up/niður takka á fjarstýringu til að velja. Ýttu svo á OK.,Ýttu á up/niður takka á fjarstýringu til að velja. Ýttu svo á OK.,Ýttu á up/niður takka á fjarstýringu til að velja. Ýttu svo á OK.,Ýttu á up/niður takka á fjarstýringu til að velja. Ýttu svo á OK.,4,1,3,0
+Use this video enhancement settings?,Nota mynd endurbóta stillingar?,Nota mynd endurbóta stillingar?,Nota mynd endurbóta stillingar?,Nota mynd endurbóta stillingar?,4,1,3,0
+Used service scan type,Notuð leitunaraðferð,Notuð leitunaraðferð,Notuð leitunaraðferð,Notuð leitunaraðferð,4,1,3,0
+User defined,Stillt af notanda,Stillt af notanda,Stillt af notanda,Stillt af notanda,4,1,3,0
+VCR scart,Vídeó scart,Vídeó scart,Vídeó scart,Vídeó scart,4,1,3,0
+VMGM (intro trailer),VMGM (mynd sýnishorn),VMGM (mynd sýnishorn),VMGM (mynd sýnishorn),VMGM (mynd sýnishorn),4,1,3,0
+Vertical,Lóðrétt,Lóðrétt,Lóðrétt,Lóðrétt,4,1,3,0
+Video PID,,'','','',3,0,0,3
+Video enhancement preview,Mynd endurbóta forsýn,Mynd endurbóta forsýn,Mynd endurbóta forsýn,Mynd endurbóta forsýn,4,1,3,0
+Video enhancement settings,,,Mynd endurbóta stillingar,,1,1,0,0
+Video enhancement setup,Mynd endurbóta uppsetnging,Mynd endurbóta uppsetnging,Mynd endurbóta uppsetnging,Mynd endurbóta uppsetnging,4,1,3,0
+Video mode selection.,Mynd hams stilling.,Mynd hams stilling.,Mynd hams stilling.,Mynd hams stilling.,4,1,3,0
+View Rass interactive...,Skoða gagnvirkt Útvarp,Skoða gagnvirkt Útvarp,Skoða gagnvirkt Útvarp,Skoða gagnvirkt Útvarp,4,1,3,0
+View details,Skoða nánar,Skoða nánar,Skoða nánar,Skoða nánar,4,1,3,0
+View list of available ,Skoða lista af tiltækum,Skoða lista af tiltækum,Skoða lista af tiltækum,Skoða lista af tiltækum,4,1,3,0
+View list of available CommonInterface extensions,Skoða lista af tiltækum CommonInterface viðbótum.,Skoða lista af tiltækum CommonInterface viðbótum.,Skoða lista af tiltækum CommonInterface viðbótum.,Skoða lista af tiltækum CommonInterface viðbótum.,4,1,3,0
+View list of available EPG extensions.,Skoða lista af tiltækum EPG viðbótum.,Skoða lista af tiltækum EPG viðbótum.,Skoða lista af tiltækum EPG viðbótum.,Skoða lista af tiltækum EPG viðbótum.,4,1,3,0
+View list of available Satellite equipment extensions.,Skoða lista af tiltækum gervihnatta viðbótum.,Skoða lista af tiltækum gervihnatta viðbótum.,Skoða lista af tiltækum gervihnatta viðbótum.,Skoða lista af tiltækum gervihnatta viðbótum.,4,1,3,0
+View list of available communication extensions.,Skoða lista af tiltækum samskipta viðbótum.,Skoða lista af tiltækum samskipta viðbótum.,Skoða lista af tiltækum samskipta viðbótum.,Skoða lista af tiltækum samskipta viðbótum.,4,1,3,0
+View list of available default settings,Skoða lista af tiltækum sjálfgefnum stillingum,Skoða lista af tiltækum sjálfgefnum stillingum,Skoða lista af tiltækum sjálfgefnum stillingum,Skoða lista af tiltækum sjálfgefnum stillingum,4,1,3,0
+View list of available multimedia extensions.,Skoða lista af tiltækum magmiðlunar viðbótum.,Skoða lista af tiltækum magmiðlunar viðbótum.,Skoða lista af tiltækum magmiðlunar viðbótum.,Skoða lista af tiltækum magmiðlunar viðbótum.,4,1,3,0
+View list of available networking extensions,Skoða lista af tiltækum netkerfis viðbótum,Skoða lista af tiltækum netkerfis viðbótum,Skoða lista af tiltækum netkerfis viðbótum,Skoða lista af tiltækum netkerfis viðbótum,4,1,3,0
+View list of available recording extensions,Skoða lista af tiltækum upptöku viðbótum,Skoða lista af tiltækum upptöku viðbótum,Skoða lista af tiltækum upptöku viðbótum,Skoða lista af tiltækum upptöku viðbótum,4,1,3,0
+View list of available skins,Skoða lista af tiltækum skinnum,Skoða lista af tiltækum skinnum,Skoða lista af tiltækum skinnum,Skoða lista af tiltækum skinnum,4,1,3,0
+View list of available software extensions,Skoða lista af tiltækum hugbúnaðar viðbótum,Skoða lista af tiltækum hugbúnaðar viðbótum,Skoða lista af tiltækum hugbúnaðar viðbótum,Skoða lista af tiltækum hugbúnaðar viðbótum,4,1,3,0
+View list of available system extensions,Skoða lista af tiltækum kerfis viðbótum,Skoða lista af tiltækum kerfis viðbótum,Skoða lista af tiltækum kerfis viðbótum,Skoða lista af tiltækum kerfis viðbótum,4,1,3,0
+View teletext...,Skoða textavarp...,Skoða textavarp...,Skoða textavarp...,Skoða textavarp...,4,1,3,0
+"View, install and remove available or installed packages.",,,"Skoða, setja inn og taka út hugbúnaðar pakka.",,1,1,0,0
+Voltage mode,Spennu stýring,Spennu stýring,Spennu stýring,Spennu stýring,4,1,3,0
+Volume,,,Styrkur,,1,1,0,0
+W,,'','','',3,0,0,3
+WEP,,'','','',3,0,0,3
+WLAN connection,WLAN nettenging,WLAN nettenging,WLAN nettenging,WLAN nettenging,4,1,3,0
+WPA,,'','','',3,0,0,3
+WPA or WPA2,WPA eða WPA2,WPA eða WPA2,WPA eða WPA2,WPA eða WPA2,4,1,3,0
+WPA2,,'','','',3,0,0,3
+WSS on 4:3,WSS á 4:3,WSS á 4:3,WSS á 4:3,WSS á 4:3,4,1,3,0
+Waiting,Bíð,Bíð,Bíð,Bíð,4,1,3,0
+Wed,Mið,Mið,Mið,Mið,4,1,3,0
+Wednesday,Miðvikudagur,Miðvikudagur,Miðvikudagur,Miðvikudagur,4,1,3,0
+Weekday,Vikudagur,Vikudagur,Vikudagur,Vikudagur,4,1,3,0
+Welcome...,,,Velkomin(n)...,,1,1,0,0
+West,Vestur,Vestur,Vestur,Vestur,4,1,3,0
+Where to save temporary timeshift recordings?,Hvar á að vista tímabundnar tímafærslu upptökur?,Hvar á að vista tímabundnar tímafærslu upptökur?,Hvar á að vista tímabundnar tímafærslu upptökur?,Hvar á að vista tímabundnar tímafærslu upptökur?,4,1,3,0
+Wireless LAN,­Þráðlaust net,­Þráðlaust net,­Þráðlaust net,­Þráðlaust net,4,1,3,0
+Wireless network connection setup,Uppsetning á þráðlausu neti,Uppsetning á þráðlausu neti,Uppsetning á þráðlausu neti,Uppsetning á þráðlausu neti,4,1,3,0
+Wireless network connection setup.,Uppsetning á þráðlausu neti.,Uppsetning á þráðlausu neti.,Uppsetning á þráðlausu neti.,Uppsetning á þráðlausu neti.,4,1,3,0
+Wireless network state,Staða þráðlausa nets,Staða þráðlausa nets,Staða þráðlausa nets,Staða þráðlausa nets,4,1,3,0
+Write error while recording. Disk full?\n,,Villla við upptöku. Diskur fullur?\n,Villla við upptöku. Diskur fullur?\n,Villla við upptöku. Diskur fullur?\n,3,1,2,0
+Write failed!,Tókst ekki að skrifa!,Tókst ekki að skrifa!,Tókst ekki að skrifa!,Tókst ekki að skrifa!,4,1,3,0
+YPbPr,,'','','',3,0,0,3
+Year,Ár,Ár,Ár,Ár,4,1,3,0
+Yes,Já,Já,Já,Já,4,1,3,0
+Yes to all,Já við allt,Já við allt,Já við allt,Já við allt,4,1,3,0
+"Yes, always","Já, alltaf","Já, alltaf","Já, alltaf","Já, alltaf",4,1,3,0
+"Yes, and delete this movie","Já, og eyða þessari bíómynd","Já, og eyða þessari bíómynd","Já, og eyða þessari bíómynd","Já, og eyða þessari bíómynd",4,1,3,0
+"Yes, returning to movie list","Já, fara til baka á mynda lista","Já, fara til baka á mynda lista","Já, fara til baka á mynda lista",,3,1,2,0
+You can cancel the installation.,Þú getur hætt við uppsetninguna.,Þú getur hætt við uppsetninguna.,Þú getur hætt við uppsetninguna.,Þú getur hætt við uppsetninguna.,4,1,3,0
+You can cancel the removal.,Þú getur hætt við að fjarlægja.,Þú getur hætt við að fjarlægja.,Þú getur hætt við að fjarlægja.,Þú getur hætt við að fjarlægja.,4,1,3,0
+You can install this plugin.,Þú getur sett inn þetta íforrit.,Þú getur sett inn þetta íforrit.,Þú getur sett inn þetta íforrit.,Þú getur sett inn þetta íforrit.,4,1,3,0
+You can remove this plugin.,Þú getur tekið út þetta íforrit.,Þú getur tekið út þetta íforrit.,Þú getur tekið út þetta íforrit.,Þú getur tekið út þetta íforrit.,4,1,3,0
+You cannot delete this!,Þú getur ekki eytt þessu!,Þú getur ekki eytt þessu!,Þú getur ekki eytt þessu!,Þú getur ekki eytt þessu!,4,1,3,0
+You didn't select a channel to record from.,Þú valdir ekki rás til að taka upp af.,Þú valdir ekki rás til að taka upp af.,Þú valdir ekki rás til að taka upp af.,Þú valdir ekki rás til að taka upp af.,4,1,3,0
+You have to wait %s!,Þú þarf að bíða %s!,Þú þarf að bíða %s!,Þú þarf að bíða %s!,Þú þarf að bíða %s!,4,1,3,0
+"Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!",Safn þitt er of stórt fyrir disk með einfalt lag. Þú þarft tóman disk með tveim lögum.,Safn þitt er of stórt fyrir disk með einfalt lag. Þú þarft tóman disk með tveim lögum.,Safn þitt er of stórt fyrir disk með einfalt lag. Þú þarft tóman disk með tveim lögum.,Safn þitt er of stórt fyrir disk með einfalt lag. Þú þarft tóman disk með tveim lögum.,4,1,3,0
+Your current collection will get lost!,Núverandi safn þitt mun glatast!,Núverandi safn þitt mun glatast!,Núverandi safn þitt mun glatast!,Núverandi safn þitt mun glatast!,4,1,3,0
+Your internet connection is not working!\nPlease choose what you want to do next.,Veraldarvefs tenging virkar ekki!\nVinsamlega veldu hvað þú vilt gera næst.,Veraldarvefs tenging virkar ekki!\nVinsamlega veldu hvað þú vilt gera næst.,Veraldarvefs tenging virkar ekki!\nVinsamlega veldu hvað þú vilt gera næst.,Veraldarvefs tenging virkar ekki!\nVinsamlega veldu hvað þú vilt gera næst.,4,1,3,0
+Your network configuration has been activated.,Stillingar netkerfis hafa verið gerðar virkar.,Stillingar netkerfis hafa verið gerðar virkar.,Stillingar netkerfis hafa verið gerðar virkar.,Stillingar netkerfis hafa verið gerðar virkar.,4,1,3,0
+Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,Það tókst ekki að ræsa þráðlausu net tenginguna þína!\nErtu búinn að tengja þráðlausa USB stautinn?\n\nVinsamlega veldu hvað þú vilt gera næst.,Það tókst ekki að ræsa þráðlausu net tenginguna þína!\nErtu búinn að tengja þráðlausa USB stautinn?\n\nVinsamlega veldu hvað þú vilt gera næst.,Það tókst ekki að ræsa þráðlausu net tenginguna þína!\nErtu búinn að tengja þráðlausa USB stautinn?\n\nVinsamlega veldu hvað þú vilt gera næst.,Það tókst ekki að ræsa þráðlausu net tenginguna þína!\nErtu búinn að tengja þráðlausa USB stautinn?\n\nVinsamlega veldu hvað þú vilt gera næst.,4,1,3,0
+Zap back to previously tuned service?,Fara aftur á rás sem áður var stillt á?,Fara aftur á rás sem áður var stillt á?,Fara aftur á rás sem áður var stillt á?,Fara aftur á rás sem áður var stillt á?,4,1,3,0
+Zap back to service before positioner setup?,Fara aftur á rás fyrir stillingu á mótorstýringu?,Fara aftur á rás fyrir stillingu á mótorstýringu?,Fara aftur á rás fyrir stillingu á mótorstýringu?,Fara aftur á rás fyrir stillingu á mótorstýringu?,4,1,3,0
+[alternative edit],[breyta valkostum],[breyta valkostum],[breyta valkostum],[breyta valkostum],4,1,3,0
+[bouquet edit],[breyta fléttu],[breyta fléttu],[breyta fléttu],[breyta fléttu],4,1,3,0
+[favourite edit],[breyta eftirlætis lista],[breyta eftirlætis lista],[breyta eftirlætis lista],[breyta eftirlætis lista],4,1,3,0
+[move mode],[færslu staða],[færslu staða],[færslu staða],[færslu staða],4,1,3,0
+a gui to assign services/providers to common interface modules,viðmót til að tengja rásir/sendendur við afruglara í tengi fyrir afruglara,viðmót til að tengja rásir/sendendur við afruglara í tengi fyrir afruglara,viðmót til að tengja rásir/sendendur við afruglara í tengi fyrir afruglara,viðmót til að tengja rásir/sendendur við afruglara í tengi fyrir afruglara,4,1,3,0
+a gui to assign services/providers/caids to common interface modules,viðmót til að tengja rásir/sendendur/caid við afruglara í tengi fyrir afruglara,viðmót til að tengja rásir/sendendur/caid við afruglara í tengi fyrir afruglara,viðmót til að tengja rásir/sendendur/caid við afruglara í tengi fyrir afruglara,viðmót til að tengja rásir/sendendur/caid við afruglara í tengi fyrir afruglara,4,1,3,0
+about to start,er að byrja,er að byrja,er að byrja,er að byrja,4,1,3,0
+activate network adapter configuration,virkja stillingar netkorts,virkja stillingar netkorts,virkja stillingar netkorts,,3,1,2,0
+advanced,meiri stillingar,meiri stillingar,meiri stillingar,meiri stillingar,4,1,3,0
+audio tracks,hljóð rás,hljóð rás,hljóð rás,hljóð rás,4,1,3,0
+auto,sjálfvirkt,sjálfvirkt,sjálfvirkt,sjálfvirkt,4,1,3,0
+back,til baka,til baka,til baka,til baka,4,1,3,0
+background image,bakgrunns mynd,bakgrunns mynd,bakgrunns mynd,bakgrunns mynd,4,1,3,0
+better,betra,betra,betra,betra,4,1,3,0
+black,svartur,svartur,svartur,svartur,4,1,3,0
+blacklist,svarti listi,svarti listi,svarti listi,svarti listi,4,1,3,0
+blue,blár,blár,blár,blár,4,1,3,0
+chapters,kaflar,kaflar,kaflar,kaflar,4,1,3,0
+circular left,hringpólun vinstri,hringpólun vinstri,hringpólun vinstri,hringpólun vinstri,4,1,3,0
+circular right,hringpólun hægri,hringpólun hægri,hringpólun hægri,hringpólun hægri,4,1,3,0
+config menu,,,stillinga valmynd,,1,1,0,0
+confirmed,staðfest,staðfest,staðfest,staðfest,4,1,3,0
+connected,tengt,tengt,tengt,tengt,4,1,3,0
+daily,daglega,daglega,daglega,daglega,4,1,3,0
+day,dagur,dagur,dagur,dagur,4,1,3,0
+delete cut,eyða klippingu,eyða klippingu,eyða klippingu,eyða klippingu,4,1,3,0
+disable,óvirkt,óvirkt,óvirkt,óvirkt,4,1,3,0
+disabled,óvirkt,óvirkt,óvirkt,óvirkt,4,1,3,0
+disconnected,ótengt,ótengt,ótengt,ótengt,4,1,3,0
+do nothing,ekki gera neitt,ekki gera neitt,ekki gera neitt,ekki gera neitt,4,1,3,0
+done!,búinn!,búinn!,búinn!,búinn!,4,1,3,0
+empty,tómt,tómt,tómt,tómt,4,1,3,0
+enable,virkt,virkt,virkt,virkt,4,1,3,0
+enabled,virkt,virkt,virkt,virkt,4,1,3,0
+end cut here,enda klippingu hér,enda klippingu hér,enda klippingu hér,enda klippingu hér,4,1,3,0
+exit DVD player or return to file browser,hætta í DVD spilara og fara til baka í skráarvafra,hætta í DVD spilara og fara til baka í skráarvafra,hætta í DVD spilara og fara til baka í skráarvafra,hætta í DVD spilara og fara til baka í skráarvafra,4,1,3,0
+exit network adapter configuration,fara úr netkorts stillingum,fara úr netkorts stillingum,fara úr netkorts stillingum,,3,1,2,0
+exit networkadapter setup menu,hætta í netkorts stillingum,hætta í netkorts stillingum,hætta í netkorts stillingum,,3,1,2,0
+"fileformats (BMP, PNG, JPG, GIF)","skráarform (BMP, PNG, JPG, GIF)","skráarform (BMP, PNG, JPG, GIF)","skráarform (BMP, PNG, JPG, GIF)","skráarform (BMP, PNG, JPG, GIF)",4,1,3,0
+filename,skráarnafn,skráarnafn,skráarnafn,skráarnafn,4,1,3,0
+forward to the next chapter,stökkva í næsta kafla,stökkva í næsta kafla,stökkva í næsta kafla,stökkva í næsta kafla,4,1,3,0
+free,laust,laust,laust,laust,4,1,3,0
+go to deep standby,fara í djúpsvefn,fara í djúpsvefn,fara í djúpsvefn,fara í djúpsvefn,4,1,3,0
+go to standby,fara í biðstöðu,fara í biðstöðu,fara í biðstöðu,fara í biðstöðu,4,1,3,0
+grab this frame as bitmap,grípa þennan ramma sem bitmap,grípa þennan ramma sem bitmap,grípa þennan ramma sem bitmap,grípa þennan ramma sem bitmap,4,1,3,0
+green,grænn,grænn,grænn,grænn,4,1,3,0
+help...,,,hjálp...,,1,1,0,0
+horizontal,lárétt,lárétt,lárétt,lárétt,4,1,3,0
+init module,stilli einingu,stilli einingu,stilli einingu,stilli einingu,4,1,3,0
+init modules,stilla einingar,stilla einingar,stilla einingar,,3,1,2,0
+insert mark here,setja merki hér,setja merki hér,setja merki hér,setja merki hér,4,1,3,0
+jump back to the previous title,stökkva til baka í fyrri titil,stökkva til baka í fyrri titil,stökkva til baka í fyrri titil,stökkva til baka í fyrri titil,4,1,3,0
+jump forward to the next title,stökkva áfram í næsta titil,stökkva áfram í næsta titil,stökkva áfram í næsta titil,stökkva áfram í næsta titil,4,1,3,0
+leave movie player...,hætta í spilara,hætta í spilara,hætta í spilara,,3,1,2,0
+left,vinstri,vinstri,vinstri,vinstri,4,1,3,0
+length,lengd,lengd,lengd,lengd,4,1,3,0
+list style compact,,,stíll lista lítill,,1,1,0,0
+list style compact with description,,,stíll lista lítill með lýsingu,,1,1,0,0
+list style default,,,stíll lista venjulegur,,1,1,0,0
+list style single line,,,"stíll lista, ein lína",,1,1,0,0
+locked,læst,læst,læst,læst,4,1,3,0
+manual,handvirkt,handvirkt,handvirkt,handvirkt,4,1,3,0
+menu,valmynd,valmynd,valmynd,valmynd,4,1,3,0
+mins,mín,mín,mín,mín,4,1,3,0
+minutes,mínútur,mínútur,mínútur,mínútur,4,1,3,0
+month,mánuður,mánuður,mánuður,mánuður,4,1,3,0
+move down to last entry,fara niður í síðasta atriði,fara niður í síðasta atriði,fara niður í síðasta atriði,,3,1,2,0
+move down to next entry,fara niður í næsta atriði,fara niður í næsta atriði,fara niður í næsta atriði,,3,1,2,0
+move up to first entry,fara upp í fyrsta atriði,fara upp í fyrsta atriði,fara upp í fyrsta atriði,,3,1,2,0
+move up to previous entry,fara upp í næsta atriði,fara upp í næsta atriði,fara upp í næsta atriði,,3,1,2,0
+multinorm,fjölkerfa,fjölkerfa,fjölkerfa,fjölkerfa,4,1,3,0
+never,aldrei,aldrei,aldrei,aldrei,4,1,3,0
+no,nei,nei,nei,nei,4,1,3,0
+no CAId selected,ekkert CAId valið,ekkert CAId valið,ekkert CAId valið,ekkert CAId valið,4,1,3,0
+no CI slots found,fann engin CI tengi,fann engin CI tengi,fann engin CI tengi,fann engin CI tengi,4,1,3,0
+no module found,fann ekki einingu,fann ekki einingu,fann ekki einingu,fann ekki einingu,4,1,3,0
+none,engin,engin,engin,engin,4,1,3,0
+not configured,ekki stillt,ekki stillt,ekki stillt,ekki stillt,4,1,3,0
+not locked,ekki læst,ekki læst,ekki læst,ekki læst,4,1,3,0
+not supported,ekki stutt,ekki stutt,ekki stutt,ekki stutt,4,1,3,0
+nothing connected,ekkert tengt,ekkert tengt,ekkert tengt,ekkert tengt,4,1,3,0
+of a DUAL layer medium used.,af tveggja laga DVD.,af tveggja laga DVD.,af tveggja laga DVD.,af tveggja laga DVD.,4,1,3,0
+of a SINGLE layer medium used.,af eins lags DVD disk.,af eins lags DVD disk.,af eins lags DVD disk.,af eins lags DVD disk.,4,1,3,0
+off,af,af,af,af,4,1,3,0
+on,á,á,á,á,4,1,3,0
+on READ ONLY medium.,á READ ONLY disk.,á READ ONLY disk.,á READ ONLY disk.,á READ ONLY disk.,4,1,3,0
+once,einu sinni,einu sinni,einu sinni,einu sinni,4,1,3,0
+open nameserver configuration,,opna nafnaþjóns stillingar,opna nafnaþjóns stillingar,,2,1,1,0
+pass,í lagi,í lagi,í lagi,í lagi,4,1,3,0
+please press OK when ready,vinsamlega ýtið á OK þegar tilbúið,vinsamlega ýtið á OK þegar tilbúið,vinsamlega ýtið á OK þegar tilbúið,,3,1,2,0
+"please wait, loading picture...","hleð inn mynd, vinsamlegast bíðið..","hleð inn mynd, vinsamlegast bíðið..","hleð inn mynd, vinsamlegast bíðið..","hleð inn mynd, vinsamlegast bíðið..",4,1,3,0
+record,taka upp,taka upp,taka upp,taka upp,4,1,3,0
+recording...,tek upp....,tek upp....,tek upp....,tek upp....,4,1,3,0
+red,rauður,rauður,rauður,rauður,4,1,3,0
+remove after this position,eyða fyrir aftan þetta,eyða fyrir aftan þetta,eyða fyrir aftan þetta,eyða fyrir aftan þetta,4,1,3,0
+remove before this position,eyða fyrir framan þetta,eyða fyrir framan þetta,eyða fyrir framan þetta,eyða fyrir framan þetta,4,1,3,0
+remove this mark,taka út þetta merki,taka út þetta merki,taka út þetta merki,taka út þetta merki,4,1,3,0
+repeated,endurtekinn,endurtekinn,endurtekinn,endurtekinn,4,1,3,0
+rewind to the previous chapter,fara til baka á fyrri kafla,fara til baka á fyrri kafla,fara til baka á fyrri kafla,fara til baka á fyrri kafla,4,1,3,0
+right,hægri,hægri,hægri,hægri,4,1,3,0
+scan state,leitar staða,leitar staða,leitar staða,leitar staða,4,1,3,0
+seconds,sekúndur,sekúndur,sekúndur,sekúndur,4,1,3,0
+select CAId's,veldu CAId,veldu CAId,veldu CAId,veldu CAId,4,1,3,0
+select menu entry,veldu valmynda atriði,veldu valmynda atriði,veldu valmynda atriði,,3,1,2,0
+show DVD main menu,sýna aðalvalmynd DVD ,sýna aðalvalmynd DVD ,sýna aðalvalmynd DVD ,sýna aðalvalmynd DVD ,4,1,3,0
+show event details,sýna atriði nánar,sýna atriði nánar,sýna atriði nánar,sýna atriði nánar,4,1,3,0
+shut down,slökkva,slökkva,slökkva,slökkva,4,1,3,0
+simple,einfalt,einfalt,einfalt,einfalt,4,1,3,0
+skip backward,fara til baka,fara til baka,fara til baka,fara til baka,4,1,3,0
+skip forward,fara áfram,fara áfram,fara áfram,fara áfram,4,1,3,0
+standard,venjulegt,venjulegt,venjulegt,,3,1,2,0
+start cut here,byrja klippingu hér,byrja klippingu hér,byrja klippingu hér,byrja klippingu hér,4,1,3,0
+stereo,víðóma,víðóma,víðóma,víðóma,4,1,3,0
+switch to the next angle,skipta í næstu sýn,skipta í næstu sýn,skipta í næstu sýn,skipta í næstu sýn,4,1,3,0
+switch to the next audio track,skipta á næstu hljóð rás,skipta á næstu hljóð rás,skipta á næstu hljóð rás,skipta á næstu hljóð rás,4,1,3,0
+switch to the next subtitle language,skipta á næsta undirtexta,skipta á næsta undirtexta,skipta á næsta undirtexta,skipta á næsta undirtexta,4,1,3,0
+template file,sniðmáts skrá,sniðmáts skrá,sniðmáts skrá,sniðmáts skrá,4,1,3,0
+testing,,,er að vinna,,1,1,0,0
+this recording,þessi upptaka,þessi upptaka,þessi upptaka,þessi upptaka,4,1,3,0
+this service is protected by a parental control pin,þessi rás er læst með kóða,þessi rás er læst með kóða,þessi rás er læst með kóða,þessi rás er læst með kóða,4,1,3,0
+"toggle time, chapter, audio, subtitle info","skipta á milli tíma, kafla, undirtexta upplýsingar","skipta á milli tíma, kafla, undirtexta upplýsingar","skipta á milli tíma, kafla, undirtexta upplýsingar","skipta á milli tíma, kafla, undirtexta upplýsingar",4,1,3,0
+unavailable,,,ekki tiltækt,,1,1,0,0
+unconfirmed,óstaðfest,óstaðfest,óstaðfest,óstaðfest,4,1,3,0
+unknown,óþekktur,óþekktur,óþekktur,óþekktur,4,1,3,0
+unknown service,óþekkt rás,óþekkt rás,óþekkt rás,óþekkt rás,4,1,3,0
+until standby/restart,bíða til biðstöðu/endurræsingu,bíða til biðstöðu/endurræsingu,bíða til biðstöðu/endurræsingu,bíða til biðstöðu/endurræsingu,4,1,3,0
+user defined,stillt af notanda,stillt af notanda,stillt af notanda,stillt af notanda,4,1,3,0
+vertical,lóðrétt,lóðrétt,lóðrétt,lóðrétt,4,1,3,0
+wait for ci...,,bíð eftir afruglara..,bíð eftir afruglara..,bíð eftir afruglara..,3,1,2,0
+wait for mmi...,bíð eftir mmi...,bíð eftir mmi...,bíð eftir mmi...,bíð eftir mmi...,4,1,3,0
+waiting,bíð,bíð,bíð,bíð,4,1,3,0
+weekly,vikulega,vikulega,vikulega,vikulega,4,1,3,0
+wireless network interface,þráðlaust netkort,þráðlaust netkort,þráðlaust netkort,þráðlaust netkort,4,1,3,0
+yellow,gulur,gulur,gulur,gulur,4,1,3,0
+yes,já,já,já,já,4,1,3,0
+yes (keep feeds),já (halda fæðirásum),já (halda fæðirásum),já (halda fæðirásum),já (halda fæðirásum),4,1,3,0
+zap,stökk,stökk,stökk,stökk,4,1,3,0
+zapped,stokkið,stokkið,stokkið,stokkið,4,1,3,0
+\nAdvanced options and settings.,\nAuka sérfræði stillingar.,\nAuka sérfræði stillingar.,,\nAuka sérfræði stillingar.,3,1,2,0
+\nEdit the upgrade source address.,\nBreyta veffangi uppfærslu uppruna.,\nBreyta veffangi uppfærslu uppruna.,,\nBreyta veffangi uppfærslu uppruna.,3,1,2,0
+\nRestore your backups by date.,\nSetja inn stilligar eftir dagsetningu.,\nSetja inn stilligar eftir dagsetningu.,,\nSetja inn stilligar eftir dagsetningu.,3,1,2,0
+\nScan for local extensions and install them.,\nLeita að viðbótum á móttakara og setja þær upp.,\nLeita að viðbótum á móttakara og setja þær upp.,,\nLeita að viðbótum á móttakara og setja þær upp.,3,1,2,0
+\nSelect your backup device.\nCurrent device: ,\nVeldu afritunar tæki.\nNúverandi tæki:,\nVeldu afritunar tæki.\nNúverandi tæki:,,\nVeldu afritunar tæki.\nNúverandi tæki:,3,1,2,0
+"\nView, install and remove available or installed packages.","\nSkoða, setja inn og taka út hugbúnaðar pakka.","\nSkoða, setja inn og taka út hugbúnaðar pakka.",,"\nSkoða, setja inn og taka út hugbúnaðar pakka.",3,1,2,0
+%d jobs are running in the background!,,%d verk eru í vinnslu í bakgrunni!,,%d verk eru í vinnslu í bakgrunni!,2,1,1,0
+A recording is currently running. Please stop the recording before trying to configure the positioner.,Upptaka er nú í gangi. Stoppið vinsamlega upptökuna áður en að þú reynir að stilla staðsetjara.,Upptaka er nú í gangi. Stoppið vinsamlega upptökuna áður en að þú reynir að stilla staðsetjara.,,,2,1,1,0
+A recording is currently running. Please stop the recording before trying to start the satfinder.,Upptaka er í gangi núna. Stoppaðu upptökuna áður en að þú byrjar gervihnattaleit.,Upptaka er í gangi núna. Stoppaðu upptökuna áður en að þú byrjar gervihnattaleit.,,,2,1,1,0
+AA,,'',,,1,0,0,1
+AB,,'',,,1,0,0,1
+About...,Um...,Um...,,,2,1,1,0
+Automatic Scan,Sjálfvirk leit,Sjálfvirk leit,,Sjálfvirk leit,3,1,2,0
+BA,,'',,,1,0,0,1
+BB,,'',,,1,0,0,1
+Behavior of 'pause' when paused,Aðgerð þegar ýtt er á pásu,Aðgerð þegar ýtt er á pásu,,Aðgerð þegar ýtt er á pásu,3,1,2,0
+Behavior of 0 key in PiP-mode,Virkun 0 hnapps í PiP-ham,Virkun 0 hnapps í PiP-ham,,Virkun 0 hnapps í PiP-ham,3,1,2,0
+Change pin code,Breyta aðgangskóða,Breyta aðgangskóða,,,2,1,1,0
+Change service PIN,,Breyta aðgangsorði fyrir rásir,,,1,1,0,0
+Change service PINs,,Breyta aðgangsorðum fyrir rásir,,,1,1,0,0
+Change setup PIN,,Breyta aðgangsorði fyrir uppsetningu,,,1,1,0,0
+Changelog,Breytingaskrá,Breytingaskrá,,,2,1,1,0
+Coderate HP,Gagnahraði HP,Gagnahraði HP,,,2,1,1,0
+Coderate LP,Gagnahraði LP,Gagnahraði LP,,,2,1,1,0
+Committed DiSEqC command,,Fyrsta DiSEqC rofa stýring,,,1,1,0,0
+Common Interface Assignment,Stillingar afruglara tengis,Stillingar afruglara tengis,,,2,1,1,0
+Conflicting timer,Tímastilling skarast,Tímastilling skarast,,Tímastilling skarast,3,1,2,0
+Connected!,,Tengdur!,,,1,1,0,0
+Constellation,,'',,,1,0,0,1
+Current version:,Núverandi útgáfa:,Núverandi útgáfa:,,Núverandi útgáfa:,3,1,2,0
+Currently installed image,Núverandi stýrikerfi,Núverandi stýrikerfi,,,2,1,1,0
+Deep Standby,Djúp biðstaða,Djúp biðstaða,,Djúp biðstaða,3,1,2,0
+DiSEqC repeats,,DiSEqC endurtekning,,,1,1,0,0
+Dialing:,,Hringi:,,,1,1,0,0
+Disconnect,,Aftengja,,,1,1,0,0
+Do you really want to check the filesystem?\nThis could take a long time!,Viltu örugglega athuga skráarkerfi?\nÞað tekur langan tíma!,Viltu örugglega athuga skráarkerfi?\nÞað tekur langan tíma!,,Viltu örugglega athuga skráarkerfi?\nÞað tekur langan tíma!,3,1,2,0
+"Do you really want to download the plugin \""%s\""?","Viltu örugglega hala niður íforritinu \""%s\""?","Viltu örugglega hala niður íforritinu \""%s\""?",,"Viltu örugglega hala niður íforritinu \""%s\""?",3,1,2,0
+"Do you really want to remove the plugin \""%s\""?","Viltu örugglega eyða EYÐA íforriti \""%s\""?","Viltu örugglega eyða EYÐA íforriti \""%s\""?",,"Viltu örugglega eyða EYÐA íforriti \""%s\""?",3,1,2,0
+Do you want to do a service scan?,Viltu leita að rásum?,Viltu leita að rásum?,,Viltu leita að rásum?,3,1,2,0
+Do you want to do another manual service scan?,Viltu leita aftur handvirkt?,Viltu leita aftur handvirkt?,,Viltu leita aftur handvirkt?,3,1,2,0
+Do you want to download the image to %s ?,Viltu hlaða niður stýrikerfinu á %s ?,Viltu hlaða niður stýrikerfinu á %s ?,,,2,1,1,0
+Do you want to upgrade the package:\n,Viltu uppfæra pakkann:\n,Viltu uppfæra pakkann:\n,,Viltu uppfæra pakkann:\n,3,1,2,0
+Download,Hlaða niður,Hlaða niður,,,2,1,1,0
+Edit bouquets list,,Breyta rásavanda lista,,,1,1,0,0
+Edit services list,,Breyta rása lista,,,1,1,0,0
+Edit upgrade source url.,Breyta uppfærslu uppruna slóð.,Breyta uppfærslu uppruna slóð.,,Breyta uppfærslu uppruna slóð.,3,1,2,0
+Enable parental control,,Virkja foreldra stýringu,,,1,1,0,0
+Error executing plugin,Villa við keyrslu íforrits,Villa við keyrslu íforrits,,Villa við keyrslu íforrits,3,1,2,0
+Extended Networksetup Plugin...,Íforrit fyrir nánari stillingar netkerfis...,Íforrit fyrir nánari stillingar netkerfis...,,Íforrit fyrir nánari stillingar netkerfis...,3,1,2,0
+Extended Setup...,Viðbótar stillingar...,Viðbótar stillingar...,,Viðbótar stillingar...,3,1,2,0
+Filesystem Check,Skráarkerfis athugun,Skráarkerfis athugun,,Skráarkerfis athugun,3,1,2,0
+Flash,Forritun,Forritun,,,2,1,1,0
+Flashing failed,Forritun tókt ekki,Forritun tókt ekki,,,2,1,1,0
+Frontprocessor version: %d,,Útgáfa framheila: %d,,,1,1,0,0
+Get latest experimental image,Ná í nýjustu prufuútgáfu stýrikerfis,Ná í nýjustu prufuútgáfu stýrikerfis,,,2,1,1,0
+Get latest release image,Ná í nýjasta útgefið stýrikerfi,Ná í nýjasta útgefið stýrikerfi,,,2,1,1,0
+Install a new image with a USB stick,Setja inn nýtt stýrikerfi með USB staut,Setja inn nýtt stýrikerfi með USB staut,,Setja inn nýtt stýrikerfi með USB staut,3,1,2,0
+Install a new image with your web browser,Setja inn nýtt stýrikerfi með vafra,Setja inn nýtt stýrikerfi með vafra,,Setja inn nýtt stýrikerfi með vafra,3,1,2,0
+Install extensions.,Setja inn viðbót.,Setja inn viðbót.,,Setja inn viðbót.,3,1,2,0
+Install or remove finished.,Innsetning eða fjarlæging tókst.,Innsetning eða fjarlæging tókst.,,Innsetning eða fjarlæging tókst.,3,1,2,0
+Installation finished.,Uppsetning búin.,Uppsetning búin.,,Uppsetning búin.,3,1,2,0
+Instant record location,Skyndi upptöku staðsetning,Skyndi upptöku staðsetning,,Skyndi upptöku staðsetning,3,1,2,0
+Intermediate,millistig,millistig,,millistig,3,1,2,0
+Ipkg,,'',,'',2,0,0,2
+Job View,Skoða vinnslu,Skoða vinnslu,,Skoða vinnslu,3,1,2,0
+Link Quality:,Gæði tengingar:,Gæði tengingar:,,,2,1,1,0
+Log results to harddisk,Skýrslur á harðadisk,Skýrslur á harðadisk,,Skýrslur á harðadisk,3,1,2,0
+Mainmenu,Aðalvalmynd,Aðalvalmynd,,Aðalvalmynd,3,1,2,0
+Multiplex,Margar rásir,Margar rásir,,,2,1,1,0
+NFI image flashing completed. Press Yellow to Reboot!,NFI forritun er lokið. Ýttu á gulan til að endurræsa!,NFI forritun er lokið. Ýttu á gulan til að endurræsa!,,,2,1,1,0
+NIM,,'',,,1,0,0,1
+Namespace,Nafnabox,Nafnabox,,Nafnabox,3,1,2,0
+Network Setup,Stilla netkerfi,Stilla netkerfi,,Stilla netkerfi,3,1,2,0
+New PIN,Nýtt PIN númer,Nýtt PIN númer,,,2,1,1,0
+New version:,Ný útgáfa:,Ný útgáfa:,,Ný útgáfa:,3,1,2,0
+No backup needed,Afritun óþörf,Afritun óþörf,,Afritun óþörf,3,1,2,0
+No details for this image file,Engar upplýsingar um þetta stýrikerfi,Engar upplýsingar um þetta stýrikerfi,,,2,1,1,0
+No valid service PIN found!\nDo you like to change the service PIN now?\nWhen you say 'No' here the service protection stay disabled!,,"Enginn virkur kóði fyrir rásalæsingu fannst!\nViltu búa til nýjan kóða núna?\nEf þú svarar \""Nei\"" þá er engin læsing virk!",,,1,1,0,0
+No valid setup PIN found!\nDo you like to change the setup PIN now?\nWhen you say 'No' here the setup protection stay disabled!,,"Enginn virkur kóði fyrir uppsetningu fannst!\nViltu búa til nýjan kóða núna?\nEf þú svarar \""Nei\"" þá er engin læsing virk!",,,1,1,0,0
+"No, do nothing.","Nei, ekki gera neitt.","Nei, ekki gera neitt.",,"Nei, ekki gera neitt.",3,1,2,0
+"No, just start my %s %s","Nei, ræstu bara %s %sið mitt","Nei, ræstu bara %s %sið mitt",,"Nei, ræstu bara %s %sið mitt",3,1,2,0
+"No, scan later manually","Nei, leita seinna handvirkt","Nei, leita seinna handvirkt",,"Nei, leita seinna handvirkt",3,1,2,0
+Not-Associated,Ekki tengt,Ekki tengt,,Ekki tengt,3,1,2,0
+"OK, guide me through the upgrade process",Leiðbeindu mér með uppfærsluna,Leiðbeindu mér með uppfærsluna,,Leiðbeindu mér með uppfærsluna,3,1,2,0
+Overwrite configuration files during software upgrade?,Skrifa yfir stillinga skrár við hugbúnaðar uppfærslu?,Skrifa yfir stillinga skrár við hugbúnaðar uppfærslu?,,Skrifa yfir stillinga skrár við hugbúnaðar uppfærslu?,3,1,2,0
+PIDs,,'',,,1,0,0,1
+Parental control type,,Gerð foreldrastýringar,,,1,1,0,0
+Password,Aðgangsorð,Aðgangsorð,,Aðgangsorð,3,1,2,0
+Phone number,,Síma númer,,,1,1,0,0
+Play Audio-CD...,,Spila hljóð disk...,,Spila hljóð disk...,2,1,1,0
+Play Music...,,Spila tónlist...,,Spila tónlist...,2,1,1,0
+Please check your network settings!,Vinsamlega athugaðu stillingar netkerfis!,Vinsamlega athugaðu stillingar netkerfis!,,,2,1,1,0
+Please select an NFI file and press green key to flash!,Vinsamlega veldu NFI stýrikerfi og ýttu á græna takkann til að setja inn!,Vinsamlega veldu NFI stýrikerfi og ýttu á græna takkann til að setja inn!,,,2,1,1,0
+Prepare another USB stick for image flashing,Undirbúa annan USB staut fyrir stýrikerfis forritun,Undirbúa annan USB staut fyrir stýrikerfis forritun,,,2,1,1,0
+Press OK to activate the selected skin.,Ýttu á OK til að velja valið skinn.,Ýttu á OK til að velja valið skinn.,,,2,1,1,0
+Press OK to start the scan,Ýtið á OK til að byrja að leita,Ýtið á OK til að byrja að leita,,,2,1,1,0
+Protect setup,,Læsa valmynd,,,1,1,0,0
+Provider to scan,,Sendandi sem leita á,,,1,1,0,0
+Reenter new PIN,,Sláðu aftur inn nýtt PIN,,,1,1,0,0
+Remove finished.,Eyðingu lokið.,Eyðingu lokið.,,Eyðingu lokið.,3,1,2,0
+Remove timer,Eyða tímastillingu,Eyða tímastillingu,,Eyða tímastillingu,3,1,2,0
+Restore is running...,Set inn afrit...,Set inn afrit...,,,2,1,1,0
+SID,,'',,,1,0,0,1
+Satfinder,Gervihnattaleit,Gervihnattaleit,,,2,1,1,0
+Select desired image from feed list,Veldu stýrikerfi af listanum,Veldu stýrikerfi af listanum,,,2,1,1,0
+Select upgrade source to edit.,Veldu upphafs slóð til að breyta.,Veldu upphafs slóð til að breyta.,,Veldu upphafs slóð til að breyta.,3,1,2,0
+Seperate titles with a main menu,Taka út titla af aðalvalmynd,Taka út titla af aðalvalmynd,,Taka út titla af aðalvalmynd,3,1,2,0
+Shall the USB stick wizard proceed and program the image file %s into flash memory?,Á USB stauts ráðgjafi  að halda áfram og setja stýrikerfi %s inn í minni móttakarans?,Á USB stauts ráðgjafi  að halda áfram og setja stýrikerfi %s inn í minni móttakarans?,,,2,1,1,0
+Show services beginning with,,Sýna rásir sem byrja á,,,1,1,0,0
+Signal Strength:,Styrkur merkis:,Styrkur merkis:,,,2,1,1,0
+Single transponder,,Einn sendir,,,1,1,0,0
+Software restore,Hugbúnaðar endurinnsetning,Hugbúnaðar endurinnsetning,,Hugbúnaðar endurinnsetning,3,1,2,0
+Standby / Restart,Biðstaða / Endurræsing,Biðstaða / Endurræsing,,,2,1,1,0
+Switchable tuner types:,Gerðir umskiptanlegra móttakara:,Gerðir umskiptanlegra móttakara:,,,2,1,1,0
+TRANSLATOR_INFO,Dreifingaraðili á Íslandi:\n Öreind sf. Auðbrekka 3\n200 Kópavogur\n\nEmail: oreind@oreind.is\nVefur: http://www.oreind.is,Dreifingaraðili á Íslandi:\n Öreind sf. Auðbrekka 3\n200 Kópavogur\n\nEmail: oreind@oreind.is\nVefur: http://www.oreind.is,,Dreifingaraðili á Íslandi:\n Öreind sf. Auðbrekka 3\n200 Kópavogur\n\nEmail: oreind@oreind.is\nVefur: http://www.oreind.is,3,1,2,0
+Terrestrial provider,,Sendandi á landi,,,1,1,0,0
+The USB stick was prepared to be bootable.\nNow you can download an NFI image file!,USB stauturinn var gerður ræsanlegur.\nNúna getur þú hlaðið niður NFI  stýrikerfis skrá!,USB stauturinn var gerður ræsanlegur.\nNúna getur þú hlaðið niður NFI  stýrikerfis skrá!,,,2,1,1,0
+The backup failed. Please choose a different backup location.,Afritun mistókst. Veldu annan stað fyrir afritið.,Afritun mistókst. Veldu annan stað fyrir afritið.,,Afritun mistókst. Veldu annan stað fyrir afritið.,3,1,2,0
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,Eftirfarandi tæki fannst:\n\n%s\n\nViltu skrifa USB keyrslu skrá á þennan staut?,Eftirfarandi tæki fannst:\n\n%s\n\nViltu skrifa USB keyrslu skrá á þennan staut?,,,2,1,1,0
+"The md5sum validation failed, the file may be corrupted!","Md5sum prufun tókst ekki, skráin er sennilega skemmd!","Md5sum prufun tókst ekki, skráin er sennilega skemmd!",,,2,1,1,0
+The results have been written to %s.,Útkoman hefur verið skrifuð á %s.,Útkoman hefur verið skrifuð á %s.,,Útkoman hefur verið skrifuð á %s.,3,1,2,0
+The wizard can backup your current settings. Do you want to do a backup now?,Ráðgjafinn getur tekið afrit af stillingum þínum. Viltu taka afrit núna?,Ráðgjafinn getur tekið afrit af stillingum þínum. Viltu taka afrit núna?,,Ráðgjafinn getur tekið afrit af stillingum þínum. Viltu taka afrit núna?,3,1,2,0
+The wizard found a configuration backup. Do you want to restore your old settings from %s?,Ráðgjafinn fann afrit af stillingum. Viltu setja inn stillingar síðan %s?,Ráðgjafinn fann afrit af stillingum. Viltu setja inn stillingar síðan %s?,,,2,1,1,0
+The wizard is finished now.,Ráðgjafinn er búinn núna.,Ráðgjafinn er búinn núna.,,Ráðgjafinn er búinn núna.,3,1,2,0
+There might not be enough space on the selected partition..\nDo you really want to continue?,"Það gæti verið of lítið pláss á valinni disksneið,\nViltu örugglega halda áfram?","Það gæti verið of lítið pláss á valinni disksneið,\nViltu örugglega halda áfram?",,"Það gæti verið of lítið pláss á valinni disksneið,\nViltu örugglega halda áfram?",3,1,2,0
+Timer record location,Staður fyrir tímastilltar upptökur,Staður fyrir tímastilltar upptökur,,Staður fyrir tímastilltar upptökur,3,1,2,0
+Tuner status,Móttakari,Móttakari,,,2,1,1,0
+USB stick wizard,USB stauta stjóri,USB stauta stjóri,,,2,1,1,0
+Uncommitted DiSEqC command,,Uncommitted DiSEqC stýring,,,1,1,0,0
+Unicable,,'',,,1,0,0,1
+Unicable LNB,,'',,,1,0,0,1
+Upgrade finished.,Uppfærslu lokið.,Uppfærslu lokið.,,Uppfærslu lokið.,3,1,2,0
+Upgrading,Uppfæri,Uppfæri,,Uppfæri,3,1,2,0
+Username,Notandanafn,Notandanafn,,Notandanafn,3,1,2,0
+View Movies...,,Skoða bíómyndir...,,Skoða bíómyndir...,2,1,1,0
+View Video CD...,,Skoða Video CD...,,Skoða Video CD...,2,1,1,0
+"Welcome.\n\nIf you want to connect your %s %s to the Internet, this wizard will guide you through the basic network setup of your %s %s.\n\nPress OK to start configuring your network",Velkomin (n).\n\nEf þú vilt tengja %s %sið við veraldarvefinn þá getur þessi ráðgjafi hjálpað þér að setja upp grunnstillingar til þess.\n\nÝttu á OK til að byrja stillingar á netkortinu,Velkomin (n).\n\nEf þú vilt tengja %s %sið við veraldarvefinn þá getur þessi ráðgjafi hjálpað þér að setja upp grunnstillingar til þess.\n\nÝttu á OK til að byrja stillingar á netkortinu,,Velkomin (n).\n\nEf þú vilt tengja %s %sið við veraldarvefinn þá getur þessi ráðgjafi hjálpað þér að setja upp grunnstillingar til þess.\n\nÝttu á OK til að byrja stillingar á netkortinu,3,1,2,0
+What do you want to scan?,Að hverju viltu leita?,Að hverju viltu leita?,,Að hverju viltu leita?,3,1,2,0
+Where do you want to backup your settings?,Hvar viltu vista afritið?,Hvar viltu vista afritið?,,Hvar viltu vista afritið?,3,1,2,0
+"Yes, backup my settings!","Já, taka afrit að stilinunum!","Já, taka afrit að stilinunum!",,"Já, taka afrit að stilinunum!",3,1,2,0
+"Yes, do a manual scan now","Já, leita handvirkt núna","Já, leita handvirkt núna",,"Já, leita handvirkt núna",3,1,2,0
+"Yes, do an automatic scan now","Já, leita sjálfvirkt núna","Já, leita sjálfvirkt núna",,"Já, leita sjálfvirkt núna",3,1,2,0
+"Yes, do another manual scan now","Já, leitaðu aftur handvirkt núna","Já, leitaðu aftur handvirkt núna",,"Já, leitaðu aftur handvirkt núna",3,1,2,0
+"Yes, restore the settings now","Já, settu inn afritið núna","Já, settu inn afritið núna",,"Já, settu inn afritið núna",3,1,2,0
+"Yes, shut down now.","Já, slökkva núna","Já, slökkva núna",,"Já, slökkva núna",3,1,2,0
+You have chosen to backup your settings. Please press OK to start the backup now.,Þú hefur valið að taka afrit af stillingum þínum. Ýttu á OK til að byrja að taka afrit núna.,Þú hefur valið að taka afrit af stillingum þínum. Ýttu á OK til að byrja að taka afrit núna.,,Þú hefur valið að taka afrit af stillingum þínum. Ýttu á OK til að byrja að taka afrit núna.,3,1,2,0
+You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased.,Þú hefur valið að búa til nýjan keyranlegan .NFI USB staut. Þetta veldur því að öllum gögnum af USB stautum verður eytt.,Þú hefur valið að búa til nýjan keyranlegan .NFI USB staut. Þetta veldur því að öllum gögnum af USB stautum verður eytt.,,,2,1,1,0
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,Þú hefur valið að setja inn eldra afrit. Enigma2 mun endurræsa eftir innsetningu. Ýttu á OK til að byrja að setja inn afritið núna.,Þú hefur valið að setja inn eldra afrit. Enigma2 mun endurræsa eftir innsetningu. Ýttu á OK til að byrja að setja inn afritið núna.,,Þú hefur valið að setja inn eldra afrit. Enigma2 mun endurræsa eftir innsetningu. Ýttu á OK til að byrja að setja inn afritið núna.,3,1,2,0
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.hdfreaks.cc.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,Þú þarft að hafa tölvu tengda við %s %sið. Ef þú þarft nánari upplýsingar þá skoðaðu síðuna http://www.hdfreaks.cc.\n%s %sið verður núna stoppað. Eftir að þú hefur uppfært samkvæmt leiðbeinungunum á síðunni þá mun nýja stýrikerfið biðja þig um að setja aftur inn afritið.,,,1,1,0,0
+Your %s %s is now ready to use.\n\nYour internet connection is working now.\n\nPlease press OK to continue.,%s %sið þitt er tilbúið til notkunar.\n\nVeraldarvefs tengingu er komið á.\n\nÝttu á OK til að halda áfram.,%s %sið þitt er tilbúið til notkunar.\n\nVeraldarvefs tengingu er komið á.\n\nÝttu á OK til að halda áfram.,,,2,1,1,0
+Your %s %s is shutting down. Please wait...,%s %sið er að slökkva á sér. Vinsamlega bíðið...,%s %sið er að slökkva á sér. Vinsamlega bíðið...,,%s %sið er að slökkva á sér. Vinsamlega bíðið...,3,1,2,0
+Your backup succeeded. We will now continue to explain the further upgrade process.,Það tókst að taka afrit. Nú höldum við áfram með uppfærsluna.,Það tókst að taka afrit. Nú höldum við áfram með uppfærsluna.,,Það tókst að taka afrit. Nú höldum við áfram með uppfærsluna.,3,1,2,0
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,Það þarf að uppfæra heila í framtölvu.\nÝtið á OK til að byrja uppfærslu.,Það þarf að uppfæra heila í framtölvu.\nÝtið á OK til að byrja uppfærslu.,,Það þarf að uppfæra heila í framtölvu.\nÝtið á OK til að byrja uppfærslu.,3,1,2,0
+Zap back to service before tuner setup?,Fara aftur á rás fyrir stillingu móttakara?,Fara aftur á rás fyrir stillingu móttakara?,,,2,1,1,0
+abort alternatives edit,hætta við að breyta valkostum,hætta við að breyta valkostum,,,2,1,1,0
+abort bouquet edit,hætta við að breyta fléttu,hætta við að breyta fléttu,,,2,1,1,0
+abort favourites edit,hætta við að breyta eftirlætis lista,hætta við að breyta eftirlætis lista,,,2,1,1,0
+add alternatives,bæta við valkosti,bæta við valkosti,,,2,1,1,0
+add bookmark,bæta við bókamerki,bæta við bókamerki,,bæta við bókamerki,3,1,2,0
+add bouquet,bæta rásavendi við,bæta rásavendi við,,,2,1,1,0
+add marker,bæta við merki,bæta við merki,,,2,1,1,0
+add service to bouquet,bæta rás við fléttu,bæta rás við fléttu,,,2,1,1,0
+add service to favourites,bæta rás við eftirlætis lista,bæta rás við eftirlætis lista,,,2,1,1,0
+add to parental protection,bæta við foreldra lás,bæta við foreldra lás,,,2,1,1,0
+at beginning,að byrjun,að byrjun,,að byrjun,3,1,2,0
+at end,að enda,að enda,,að enda,3,1,2,0
+complex,,flókinn,,,1,1,0,0
+continue,halda áfram,halda áfram,,,2,1,1,0
+copy to bouquets,afrita til rásavanda,afrita til rásavanda,,,2,1,1,0
+create directory,búa til möppu,búa til möppu,,búa til möppu,3,1,2,0
+currently installed image: %s,núverandi stýrikerfi: %s,núverandi stýrikerfi: %s,,,2,1,1,0
+disable move mode,hætta í færslu stöðu,hætta í færslu stöðu,,,2,1,1,0
+edit alternatives,breyta valkosti,breyta valkosti,,,2,1,1,0
+enable bouquet edit,byrja féttu breytingu,byrja féttu breytingu,,,2,1,1,0
+enable favourite edit,virkja breytingu eftirlætis lista,virkja breytingu eftirlætis lista,,,2,1,1,0
+enable move mode,virkja færlsu stöðu,virkja færlsu stöðu,,,2,1,1,0
+end alternatives edit,hætta breytingum valkosta,hætta breytingum valkosta,,,2,1,1,0
+end bouquet edit,hætta að breyta fléttu,hætta að breyta fléttu,,,2,1,1,0
+end favourites edit,hætta breytingum eftirlætis lista,hætta breytingum eftirlætis lista,,,2,1,1,0
+equal to,jafnt og,jafnt og,,,2,1,1,0
+fine-tune your display,,fínstilla sjónvarpið,,,1,1,0,0
+free diskspace,laust diskpláss,laust diskpláss,,laust diskpláss,3,1,2,0
+loopthrough to,tengt saman við,tengt saman við,,,2,1,1,0
+not used,ekki notað,ekki notað,,,2,1,1,0
+remove all alternatives,taka út alla valkosti,taka út alla valkosti,,,2,1,1,0
+remove all new found flags,eyða öllum merkingum um nýfundna rás,eyða öllum merkingum um nýfundna rás,,,2,1,1,0
+remove bookmark,eyða bókamerki,eyða bókamerki,,eyða bókamerki,3,1,2,0
+remove directory,eyða möppu,eyða möppu,,eyða möppu,3,1,2,0
+remove entry,taka út,taka út,,,2,1,1,0
+remove from parental protection,taka foreldralæsingu af,taka foreldralæsingu af,,,2,1,1,0
+remove new found flag,eyða merkingu um nýfundna rás,eyða merkingu um nýfundna rás,,,2,1,1,0
+remove selected satellite,eyða völdum gervihnetti,eyða völdum gervihnetti,,,2,1,1,0
+repeat playlist,endurtaka spilunarlista,endurtaka spilunarlista,,endurtaka spilunarlista,3,1,2,0
+save last directory on exit,vista síðustu möppu þegar hætt er,vista síðustu möppu þegar hætt er,,vista síðustu möppu þegar hætt er,3,1,2,0
+save playlist on exit,vista spilunarlista þegar hætt er,vista spilunarlista þegar hætt er,,vista spilunarlista þegar hætt er,3,1,2,0
+second cable of motorized LNB,annar kapall frá mótorstýrðu LNB,annar kapall frá mótorstýrðu LNB,,,2,1,1,0
+select,veldu,veldu,,veldu,3,1,2,0
+service PIN,rása PIN,rása PIN,,,2,1,1,0
+setup PIN,,valmynda PIN,,,1,1,0,0
+show alternatives,súna valkosti,súna valkosti,,,2,1,1,0
+show transponder info,sýna upplýsingar um sendi,sýna upplýsingar um sendi,,,2,1,1,0
+skip backward (enter time),stökkva til baka (slá inn tíma),stökkva til baka (slá inn tíma),,stökkva til baka (slá inn tíma),3,1,2,0
+skip forward (enter time),stökkva áfram (slá inn tíma),stökkva áfram (slá inn tíma),,stökkva áfram (slá inn tíma),3,1,2,0
+special characters,,sérstafir,,,1,1,0,0
+start directory,byrjunar mappa,byrjunar mappa,,byrjunar mappa,3,1,2,0
+switch to bookmarks,fara á bókamerki,fara á bókamerki,,fara á bókamerki,3,1,2,0
+switch to filelist,skipta í skráarlista,skipta í skráarlista,,skipta í skráarlista,3,1,2,0
+tuner is not supported,,móttakari er ekki studdur,,,1,1,0,0
+view extensions...,skoða íforrit...,skoða íforrit...,,,2,1,1,0
+whitelist,,hvíti listi,,,1,1,0,0
+working,er að vinna,er að vinna,,er að vinna,3,1,2,0
+KA-SAT,,,,KA-SAT (9°E),1,1,0,0
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.dm7025.de.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,,,Þú þarft að hafa tölvu tengda við %s %sið. Ef þú þarft nánari upplýsingar þá skoðaðu síðuna http://www.dm7025.de.\n%s %sið verður núna stoppað. Eftir að þú hefur uppfært samkvæmt leiðbeinungunum á síðunni þá mun nýja stýrikerfið biðja þig um að setja aftur inn afritið.,1,1,0,0

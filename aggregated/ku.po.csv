@@ -1,0 +1,2219 @@
+msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+"\nAfter pressing OK, please wait!",\nPay Ok bine bisekin!,\nPay Ok bine bisekin!,\nPay Ok bine bisekin!,\nPay Ok bine bisekin!,4,1,3,0
+\nPress OK on your remote control to continue.,\nJi Kumanda pay Ok  bisekin.,\nJi Kumanda pay Ok  bisekin.,\nJi Kumanda pay OK bisekin.,\nJi Kumanda pay Ok  bisekin.,4,2,2,0
+ (PiP),,'','',,2,0,0,2
+ (Radio),,'','',,2,0,0,2
+ (TV),,'','',,2,0,0,2
+ extensions.,,,Diréji,,1,1,0,0
+ ms,,,'',,1,0,0,1
+ packages selected.,,, paket binirxine,,1,1,0,0
+ updates available.,,, updates tuneye,,1,1,0,0
+%2d:%02d,,'','',,2,0,0,2
+%2d:%02d:%02d,,'','',,2,0,0,2
+%A %d %B,,,'',,1,0,0,1
+%A %e %B,,'','',,2,0,0,2
+%A %e %B %Y,,'','',,2,0,0,2
+%H:%M,,'','','',3,0,0,3
+%a %e/%m,,'','',,2,0,0,2
+%a %e/%m  %-H:%M,,'','',,2,0,0,2
+%d min,%d deqa,%d deqa,%d deqa,%d deqa,4,1,3,0
+%d minutes,%d deqan,%d deqan,%d deqan,%d deqan,4,1,3,0
+%d-%m,,,'',,1,0,0,1
+%d.%B %Y,,'','',,2,0,0,2
+%k:%M %e/%m,,'','',,2,0,0,2
+%s %s free disk space,,,%s %s nav diké da vekiri,,1,1,0,0
+%s (%s)\n,,'','','',3,0,0,3
+%s is no longer used. Should it be deleted?,,'','','',3,0,0,3
+%s/%s: %s,,'','','',3,0,0,3
+(ZAP),,(KANAL B)IGERI,(KANAL B)IGERI,(KANAL B)IGERI,3,1,2,0
+(empty),(vala),(vala),(vala),(vala),4,1,3,0
+(show optional DVD audio menu),(show optional DVD dengé menu),(show optional DVD dengé menu),(show optional DVD dengé menu),(show optional DVD dengé menu),4,1,3,0
+* Only available if more than one interface is active.,,'','','',3,0,0,3
+0,,,'',,1,0,0,1
+1,,,'',,1,0,0,1
+1.0,,'','','',3,0,0,3
+1.1,,'','','',3,0,0,3
+1.2,,'','','',3,0,0,3
+12V output,12V derve,12V derve,12V derve,12V derve,4,1,3,0
+13 V,,'','','',3,0,0,3
+16:10,,'','','',3,0,0,3
+16:10 Letterbox,,'','','',3,0,0,3
+16:10 PanScan,,'','','',3,0,0,3
+16:9,,'','','',3,0,0,3
+16:9 Letterbox,,'','','',3,0,0,3
+16:9 always,16:9 daim,16:9 daim,16:9 daim,16:9 daim,4,1,3,0
+18 V,,'','','',3,0,0,3
+2,,,'',,1,0,0,1
+3,,,'',,1,0,0,1
+3d mode,,'','',,2,0,0,2
+4,,,'',,1,0,0,1
+4:3,,'','','',3,0,0,3
+4:3 Letterbox,,'','','',3,0,0,3
+4:3 PanScan,,'','','',3,0,0,3
+5,,,'',,1,0,0,1
+6,,,'',,1,0,0,1
+7,,,'',,1,0,0,1
+8,,,'',,1,0,0,1
+9,,,'',,1,0,0,1
+<Current movielist location>,<konuma listekén filma>,<konuma listekén filma>,<konuma listekén filma>,<konuma listekén filma>,4,1,3,0
+<Default movie location>,<Default Nava Filma>,<Default Nava Filma>,<Default Nava Filma>,<Default Nava Filma>,4,1,3,0
+<Last timer location>,,'','','',3,0,0,3
+<unknown>,,'','','',3,0,0,3
+??,,'','','',3,0,0,3
+A,,'','','',3,0,0,3
+A configuration file (%s) has been modified since it was installed.\nDo you want to keep your modifications?,,'','','',3,0,0,3
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,,'','','',3,0,0,3
+A finished record timer wants to set your\nreceiver to standby. Do that now?,,,'',,1,0,0,1
+A finished record timer wants to shut down\nyour receiver. Shutdown now?,,,'',,1,0,0,1
+A record has been started:\n%s,,,'',,1,0,0,1
+A recording is currently running.\nWhat do you want to do?,,'','',,2,0,0,2
+A recording is currently running. Please stop the recording before trying to scan.,,'','','',3,0,0,3
+A required tool (%s) was not found.,,'','','',3,0,0,3
+A search for available updates is currently in progress.,,'','','',3,0,0,3
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,,'','','',3,0,0,3
+A sleep timer wants to set your\nreceiver to standby. Do that now?,,,'',,1,0,0,1
+A sleep timer wants to shut down\nyour receiver. Shutdown now?,,,'',,1,0,0,1
+A small overview of the available icon states and actions.,,'','','',3,0,0,3
+A timer failed to record!\nDisable TV and try again?\n,,'','','',3,0,0,3
+A/V settings,,A/V Çékirin,A/V Çékirin,,2,1,1,0
+AC3 downmix,,,'',,1,0,0,1
+Abort,Bettal Bike,Bettal Bike,Bettal Bike,Bettal Bike,4,1,3,0
+Abort alternatives edit,,,'',,1,0,0,1
+Abort bouquet edit,,,'',,1,0,0,1
+Abort favourites edit,,,'',,1,0,0,1
+About,Heqé wi,Heqé wi,Heqé wi,Heqé wi,4,1,3,0
+Accesspoint:,Bigehize (Access Point):,Bigehize (Access Point):,Bigehize (Access Point):,Bigehize (Access Point):,4,1,3,0
+Activate Picture in Picture,Aktif bike resm o resm,Aktif bike resm o resm,Aktif bike resm o resm,Aktif bike resm o resm,4,1,3,0
+Activate current configuration,Ti dixwazi aktif biki,Ti dixwazi aktif biki,Ti dixwazi aktif biki,Ti dixwazi aktif biki,4,1,3,0
+Activate network settings,Eyare Networké Aktif bike,Eyare Networké Aktif bike,Eyare Networké Aktif bike,Eyare Networké Aktif bike,4,1,3,0
+Activate the configured network settings.,Actif bike eyaré networké..,Actif bike eyaré networké..,Actif bike eyaré networké..,Actif bike eyaré networké..,4,1,3,0
+Adapter settings,Adaptör Çéki,Adaptör Çéki,Adaptör Çéki,Adaptör Çéki,4,1,3,0
+Add,Çéki lé giréde,Çéki lé giréde,Çéki lé giréde,Çéki lé giréde,4,1,3,0
+Add a mark,İşareté léki,İşareté léki,İşareté léki,İşareté léki,4,1,3,0
+Add a nameserver entry,Yek Navé nu léke,Yek Navé nu léke,Yek Navé nu léke,Yek Navé nu léke,4,1,3,0
+Add a new title,Navé Seroki,Navé Seroki,Navé Seroki,Navé Seroki,4,1,3,0
+Add alternatives,,,'',,1,0,0,1
+Add bookmark,Léke bookmark,Léke bookmark,Léke bookmark,Léke bookmark,4,1,3,0
+Add bouquet,,,'',,1,0,0,1
+Add directory to playlist,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,4,1,3,0
+Add file to playlist,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,4,1,3,0
+Add files to playlist,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,Listeya Xebatéra dosya léke,4,1,3,0
+Add marker,,,'',,1,0,0,1
+Add provider,,'','','',3,0,0,3
+Add recording (enter recording duration),,'','','',3,0,0,3
+Add recording (enter recording endtime),,'','','',3,0,0,3
+Add recording (indefinitely),,'','','',3,0,0,3
+Add recording (stop after current event),,'','','',3,0,0,3
+Add service,Hizmeté Nu girédi,Hizmeté Nu girédi,Hizmeté Nu girédi,Hizmeté Nu girédi,4,1,3,0
+Add service to bouquet,,,'',,1,0,0,1
+Add service to favourites,,,'',,1,0,0,1
+Add timer,,'','','',3,0,0,3
+Add title,,'','','',3,0,0,3
+Add to bouquet,,bouqueta nu girédi,bouqueta nu girédi,bouqueta nu girédi,3,1,2,0
+Add to favourites,,Favoriye Nu Girédi,Favoriye Nu Girédi,Favoriye Nu Girédi,3,1,2,0
+Add to parental protection,,,'',,1,0,0,1
+Adjust 3D settings,,'','',,2,0,0,2
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.",,'','','',3,0,0,3
+Advanced options,Seçeneké Zéde,Seçeneké Zéde,Seçeneké Zéde,Seçeneké Zéde,4,1,3,0
+Advanced options and settings.,,,Ayaré Zéde ,,1,1,0,0
+Advanced restore,,'','','',3,0,0,3
+Advanced software,Firmwaré Zéde,Firmwaré Zéde,Firmwaré Zéde,Firmwaré Zéde,4,1,3,0
+Advanced software plugin,Firmwaré Zéde Girédin,Firmwaré Zéde Girédin,Firmwaré Zéde Girédin,Firmwaré Zéde Girédin,4,1,3,0
+Advanced video enhancement setup,Video Eyaré zéde çékin,Video Eyaré zéde çékin,Video Eyaré zéde çékin,Video Eyaré zéde çékin,4,1,3,0
+Advanced video setup,,Zéde Video Eyar bikin,Zéde Video Eyar bikin,,2,1,1,0
+After event,,'','','',3,0,0,3
+Album,,'','','',3,0,0,3
+All,Temami,Temami,Temami,Temami,4,1,3,0
+All ages,Hemu Kes,Hemu Kes,Hemu Kes,Hemu Kes,4,1,3,0
+Allocate,Biqetinin,Biqetinin,Biqetinin,Biqetinin,4,1,3,0
+Allocate unused memory index,,'','','',3,0,0,3
+Allow subtitle language to equal audio language,,'','','',3,0,0,3
+Allow subtitles for hearing impaired,,'','','',3,0,0,3
+Alpha,,'','','',3,0,0,3
+Alternative,Evé din,Evé din,Evé din,Evé din,4,1,3,0
+Alternative numbering mode,Evé din numara,Evé din numara,Evé din numara,Evé din numara,4,1,3,0
+Alternative services tuner priority,,'','','',3,0,0,3
+Always ask,,'','','',3,0,0,3
+An empty filename is illegal.,,'','','',3,0,0,3
+An error occurred while downloading the packetlist. Please try again.,,'','','',3,0,0,3
+An unknown error occurred!,,'','','',3,0,0,3
+Any activity,,'','','',3,0,0,3
+Arabic,Arabi,Arabi,Arabi,Arabi,4,1,3,0
+Are you sure you want to activate this network configuration?\n\n,,'','','',3,0,0,3
+Are you sure you want to delete\nthe following backup:\n,,'','','',3,0,0,3
+Are you sure you want to exit this wizard?,,'','','',3,0,0,3
+Are you sure you want to restart your network interfaces?\n\n,,'','','',3,0,0,3
+Are you sure you want to restore\nthe following backup:\n%s\nYour receiver will restart after the backup has been restored!,,'','','',3,0,0,3
+Are you sure you want to restore the backup?\nYour receiver will restart after the backup has been restored!,,'','','',3,0,0,3
+Artist,,'','','',3,0,0,3
+Arts/Culture,Sanat u Kultur,Sanat u Kultur,Sanat u Kultur,Sanat u Kultur,4,1,3,0
+Ask user,Xebatkar Pirski,Xebatkar Pirski,Xebatkar Pirski,Xebatkar Pirski,4,1,3,0
+Aspect ratio,,'','','',3,0,0,3
+Assigned CAIds:,,'','','',3,0,0,3
+Assigned services/provider:,,'','','',3,0,0,3
+At beginning,,,'',,1,0,0,1
+At end,,,'',,1,0,0,1
+Audio,,,Deng,,1,1,0,0
+Audio PID,Deng PID,Deng PID,Deng PID,Deng PID,4,1,3,0
+Audio language selection 1,Dengé ziman  1,Dengé ziman  1,Dengé ziman  1,Dengé ziman  1,4,1,3,0
+Audio language selection 2,Dengé ziman 2,Dengé ziman 2,Dengé ziman 2,Dengé ziman 2,4,1,3,0
+Audio language selection 3,Dengé ziman 3,Dengé ziman 3,Dengé ziman 3,Dengé ziman 3,4,1,3,0
+Audio language selection 4,Dengé ziman 4,Dengé ziman 4,Dengé ziman 4,Dengé ziman 4,4,1,3,0
+Audio options...,Eyaré deng...,Eyaré deng...,Eyaré deng...,Eyaré deng...,4,1,3,0
+Audio track (%s) format,,Deng track (%s) format,Deng track (%s) format,Deng track (%s) format,3,1,2,0
+Audio track (%s) language,,Deng track (%s) language,Deng track (%s) language,Deng track (%s) language,3,1,2,0
+Author: ,Niviskar: ,Niviskar: ,Niviskar: ,Niviskar: ,4,1,3,0
+Authoring mode,modé Nivisi,modé Nivisi,modé Nivisi,modé Nivisi,4,1,3,0
+Auto,,'','','',3,0,0,3
+Auto chapter split every ? minutes (0=never),,'','','',3,0,0,3
+Auto flesh,,'','','',3,0,0,3
+Auto focus,,'','','',3,0,0,3
+Auto focus commencing ...,Auto netkirin ...,Auto netkirin ...,Auto netkirin ...,Auto netkirin ...,4,1,3,0
+Auto language selection,Auto Ziman Çékirin,Auto Ziman Çékirin,Auto Ziman Çékirin,,3,1,2,0
+Auto scart switching,,'','','',3,0,0,3
+Automatic,Serbuxwe,Serbuxwe,Serbuxwe,Serbuxwe,4,1,3,0
+Automatic scan,Automatic Légerin,Automatic Légerin,Automatic Légerin,Automatic Légerin,4,1,3,0
+Available format variables,,'','','',3,0,0,3
+B,,'','','',3,0,0,3
+BER,,,'',,1,0,0,1
+BER:,,,'',,1,0,0,1
+Back,Paş,Paş,Paş,Paş,4,1,3,0
+Background,Paş Reng,Paş Reng,Paş Reng,Paş Reng,4,1,3,0
+Background color,Rengé Paşi,Rengé Paşi,Rengé Paşi,Rengé Paşi,4,1,3,0
+Background delete option,Rengé paşi paqişki,Rengé paşi paqişki,Rengé paşi paqişki,Rengé paşi paqişki,4,1,3,0
+Background delete speed,Zu paqişki,Zu paqişki,Zu paqişki,Zu paqişki,4,1,3,0
+Backup completed.,Temami Backup ,Temami Backup ,Temami Backup ,Temami Backup ,4,1,3,0
+Backup failed.,,'','','',3,0,0,3
+Backup is running...,Backup bixebtine,Backup bixebtine,Backup bixebtine,Backup bixebtine,4,1,3,0
+Backup system settings,Eyari Backup system,Eyari Backup system,Eyari Backup system,Eyari Backup system,4,1,3,0
+Backup your receiver settings.,,,yedeka bigre...,,1,1,0,0
+Band,,'','','',3,0,0,3
+Bandwidth,Frehiya Band,Frehiya Band,Frehiya Band,Frehiya Band,4,1,3,0
+Basque,,'','','',3,0,0,3
+Begin time,zeman dest pédike,zeman dest pédike,zeman dest pédike,zeman dest pédike,4,1,3,0
+Behavior of '0' button in PiP mode,,,'',,1,0,0,1
+Behavior when a movie is started,,'','','',3,0,0,3
+Behavior when a movie is stopped,,'','','',3,0,0,3
+Behavior when a movie reaches the end,,'','','',3,0,0,3
+Bitrate:,Zu leziya Bit:,Zu leziya Bit:,Zu leziya Bit:,Zu leziya Bit:,4,1,3,0
+Black screen,Ekrana Reş,Ekrana Reş,Ekrana Reş,Ekrana Reş,4,1,3,0
+Black screen till locked,Ekrana reş kilitke,Ekrana reş kilitke,Ekrana reş kilitke,Ekrana reş kilitke,4,1,3,0
+Block noise reduction,Dengé zéde kémke,Dengé zéde kémke,Dengé zéde kémke,Dengé zéde kémke,4,1,3,0
+Bookmarks,,'','','',3,0,0,3
+Brightness,Ronahi,Ronahi,Ronahi,Ronahi,4,1,3,0
+Bulgarian,Bulgari,Bulgari,Bulgari,Bulgari,4,1,3,0
+Burn DVD,Bişewiti DVD,Bişewiti DVD,Bişewiti DVD,Bişewiti DVD,4,1,3,0
+Burn audio track (%s),,bişewiti deng temaşe (%s),bişewiti deng temaşe (%s),bişewiti deng temaşe (%s),3,1,2,0
+Burn existing image to DVD,,'','','',3,0,0,3
+Burn to DVD,,'','','',3,0,0,3
+Bus: ,,'','','',3,0,0,3
+"By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead.",,,'',,1,0,0,1
+C,,,'',,1,0,0,1
+C-Band,,'','','',3,0,0,3
+CI assignment,,'','','',3,0,0,3
+CVBS,,'','','',3,0,0,3
+Cable,Qablo,Qablo,Qablo,Qablo,4,1,3,0
+Cable Scan,Cable Légerin,Cable Légerin,Cable Légerin,Cable Légerin,4,1,3,0
+Cache thumbnails,Aqilé piçuk,Aqilé piçuk,Aqilé piçuk,Aqilé piçuk,4,1,3,0
+Calculate,hesab bike,hesab bike,hesab bike,hesab bike,4,1,3,0
+Calculate all positions,Her daim hesab bike,Her daim hesab bike,Her daim hesab bike,Her daim hesab bike,4,1,3,0
+Calculation complete,Temami Hesapki,Temami Hesapki,Temami Hesapki,Temami Hesapki,4,1,3,0
+Calibrate,Eyari bike,Eyari bike,Eyari bike,Eyari bike,4,1,3,0
+Cancel,Berdi,Berdi,Berdi,Berdi,4,1,3,0
+Cannot determine,Tişt çé nebu,Tişt çé nebu,Tişt çé nebu,Tişt çé nebu,4,1,3,0
+"Cannot find any signal ..., aborting !",Heta Neha min Sinyal Nedi... Bettal ki!,Heta Neha min Sinyal Nedi... Bettal ki!,Heta Neha min Sinyal Nedi... Bettal ki!,Heta Neha min Sinyal Nedi... Bettal ki!,4,1,3,0
+Cannot move files on a different disk or system to the trash can,,,Kutuya Çöp ti nikani valaki,,1,1,0,0
+Cannot move to trash can,,'','',,2,0,0,2
+Capacity: ,,'','','',3,0,0,3
+Card,,,'',,1,0,0,1
+Center DVB subtitles,,'','','',3,0,0,3
+Change bouquets in quickzap,Zu Buketa çédki,Zu Buketa çédki,Zu Buketa çédki,Zu Buketa çédki,4,1,3,0
+Change recording (duration),Qeydi bedilni,Qeydi bedilni,Qeydi bedilni,Qeydi bedilni,4,1,3,0
+Change recording (endtime),,'','',,2,0,0,2
+Change repeat and delay settings?,,'','','',3,0,0,3
+Change step size,,'','','',3,0,0,3
+Channel,Qanal,Qanal,Qanal,Qanal,4,1,3,0
+Channel list type,Qanal Liste ,Qanal Liste ,Qanal Liste ,Qanal Liste ,4,1,3,0
+Channel not in services list,,'','','',3,0,0,3
+Channel selection,,'','','',3,0,0,3
+Channel:,Qenal:,Qenal:,Qenal:,Qenal:,4,1,3,0
+Channellist menu,,,Menu Qenal Liste,,1,1,0,0
+Chap.,Mirov,Mirov,Mirov,Mirov,4,1,3,0
+Chapter,,'','','',3,0,0,3
+Chapter:,,'','','',3,0,0,3
+Check,Qontrol,Qontrol,Qontrol,Qontrol,4,1,3,0
+Check the internet connection,Girédayiya İnterneté Qonrol Bike,Girédayiya İnterneté Qonrol Bike,Girédayiya İnterneté Qonrol Bike,Girédayiya İnterneté Qonrol Bike,4,1,3,0
+Check the internet connection again,Disa Qontrola İnternet Bikin,Disa Qontrola İnternet Bikin,Disa Qontrola İnternet Bikin,Disa Qontrola İnternet Bikin,4,1,3,0
+Checking filesystem...,Sistema dosya binéri,Sistema dosya binéri,Sistema dosya binéri,Sistema dosya binéri,4,1,3,0
+Checking the internet connection,Qontrola İnternet,Qontrola İnternet,Qontrola İnternet,Qontrola İnternet,4,1,3,0
+Children/Youth,Zaruk/Xort,Zaruk/Xort,Zaruk/Xort,Zaruk/Xort,4,1,3,0
+Choose which tuner to configure.,Çékirina Tuner Binirxine,Çékirina Tuner Binirxine,Çékirina Tuner Binirxine,Çékirina Tuner Binirxine,4,1,3,0
+Circular left,Çepa daira,Çepa daira,Çepa daira,Çepa daira,4,1,3,0
+Circular right,Raştiya daira,Raştiya daira,Raştiya daira,Raştiya daira,4,1,3,0
+Cleanup,Paqişi,Paqişi,Paqişi,Paqişi,4,1,3,0
+Clear,Paqiş,Paqiş,Paqiş,Paqiş,4,1,3,0
+Clear before scan,Paqişi paş légerin,Paqişi paş légerin,Paqişi paş légerin,Paqişi paş légerin,4,1,3,0
+Clear fixed,,'','','',3,0,0,3
+Clear log,,'','','',3,0,0,3
+Clear playlist,,'','','',3,0,0,3
+Close,Veqeti,Veqeti,Veqeti,Veqeti,4,1,3,0
+Close title selection,,'','','',3,0,0,3
+Code rate HP,,'','','',3,0,0,3
+Code rate LP,,'','','',3,0,0,3
+Collection name,Nav Koleksiyon,Nav Koleksiyon,Nav Koleksiyon,Nav Koleksiyon,4,1,3,0
+Collection settings,Eyara Kolleksiyon,Eyara Kolleksiyon,Eyara Kolleksiyon,Eyara Kolleksiyon,4,1,3,0
+Color format,Formata Renga,Formata Renga,Formata Renga,Formata Renga,4,1,3,0
+Command execution...,,,'',,1,0,0,1
+Command order,,'','','',3,0,0,3
+Common Interface,Qerta Ortax,Qerta Ortax,Qerta Ortax,Qerta Ortax,4,1,3,0
+Common Interface assignment,,'','',,2,0,0,2
+Communication,Hevra Girédayi,Hevra Girédayi,Hevra Girédayi,Hevra Girédayi,4,1,3,0
+Compact flash,,,'',,1,0,0,1
+Complete,Temami,Temami,Temami,Temami,4,1,3,0
+Complex (allows mixing audio tracks and aspects),,'','','',3,0,0,3
+Composition of the recording filenames,,'','','',3,0,0,3
+Configuration,,,Çékirin,,1,1,0,0
+Configuration mode,Çékirina Ru,Çékirina Ru,Çékirina Ru,Çékirina Ru,4,1,3,0
+Configuration mode: %s,,'','','',3,0,0,3
+Configure for how long the infobar will remain visible after activation.,,,'',,1,0,0,1
+"Configure for how many minutes finished events should remain visible in the EPG. Useful when you need information about an event which has just finished, or has been delayed.",,'','','',3,0,0,3
+Configure how recording filenames are constructed.,,'','','',3,0,0,3
+Configure interface,,'','','',3,0,0,3
+Configure nameservers,,'','','',3,0,0,3
+Configure on which devices the background delete option should be used.,,'','','',3,0,0,3
+Configure remote control type,,'','',,2,0,0,2
+Configure the DiSEqC mode for this LNB.,,'','','',3,0,0,3
+Configure the IP address.,,'','','',3,0,0,3
+Configure the aspect ratio of the screen.,,,'',,1,0,0,1
+Configure the behavior when movie playback is manually stopped.,,'','','',3,0,0,3
+Configure the behavior when movie playback is started.,,'','','',3,0,0,3
+"Configure the behavior when reaching the end of a movie, during movie playback.",,'','','',3,0,0,3
+Configure the border width of the subtitles. The dark border makes the subtitles easier to read on a light background.,,'','','',3,0,0,3
+Configure the brightness level of the front panel display during standby.,,,'',,1,0,0,1
+Configure the brightness level of the front panel display.,,,'',,1,0,0,1
+Configure the color of the teletext subtitles.,,'','','',3,0,0,3
+Configure the contrast level of the front panel display.,,'','','',3,0,0,3
+Configure the first audio language (highest priority).,,'','','',3,0,0,3
+Configure the first subtitle language (highest priority).,,'','','',3,0,0,3
+Configure the font size of the subtitles.,,'','','',3,0,0,3
+Configure the fourth audio language.,,'','','',3,0,0,3
+Configure the fourth subtitle language.,,'','','',3,0,0,3
+Configure the function of the '0' button when Picture in Picture is active.,,,'',,1,0,0,1
+Configure the gateway.,,'','','',3,0,0,3
+Configure the general audio delay of Dolby Digital sound tracks.,,,'',,1,0,0,1
+Configure the general audio delay of stereo sound tracks.,,,'',,1,0,0,1
+Configure the hard disk drive to go to standby after the specified idle time.,,,'',,1,0,0,1
+Configure the horizontal alignment of the subtitles.,,'','','',3,0,0,3
+"Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed.",,'','','',3,0,0,3
+"Configure the initial rewind speed. When you press the rewind button, winding will start at this speed.",,,'',,1,0,0,1
+Configure the latitude of your location.,,'','','',3,0,0,3
+Configure the longitude of your location.,,'','','',3,0,0,3
+"Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can.",,'','','',3,0,0,3
+Configure the nameserver (DNS).,,'','','',3,0,0,3
+Configure the netmask.,,'','','',3,0,0,3
+Configure the number of days after which items are automaticaly removed from the trash can.,,,'',,1,0,0,1
+Configure the number of days old timers are kept before they are automatically removed from the timer list.,,'','','',3,0,0,3
+Configure the offline decoding delay in milliseconds. The configured delay is observed at each control word parity change.,,,'',,1,0,0,1
+Configure the possible fast forward speeds.,,'','','',3,0,0,3
+Configure the possible rewind speeds.,,'','','',3,0,0,3
+Configure the primary EPG language.,,'','','',3,0,0,3
+Configure the refresh rate of the screen.,,'','',,2,0,0,2
+Configure the screen resolution in PC output mode.,,,'',,1,0,0,1
+Configure the second audio language.,,'','','',3,0,0,3
+Configure the second subtitle language.,,'','','',3,0,0,3
+Configure the secondary EPG language.,,'','','',3,0,0,3
+Configure the sharpness of the video scaling.,,,'',,1,0,0,1
+Configure the skip time interval for the '1'/'3' buttons.,,,'',,1,0,0,1
+Configure the skip time interval for the '4'/'6' buttons.,,,'',,1,0,0,1
+Configure the skip time interval for the '7'/'9' buttons.,,,'',,1,0,0,1
+Configure the slow motion speeds.,,'','','',3,0,0,3
+Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance.,,'','','',3,0,0,3
+Configure the subtitle delay when timing information is not available.,,'','','',3,0,0,3
+Configure the third audio language.,,'','','',3,0,0,3
+Configure the third subtitle language.,,'','','',3,0,0,3
+Configure the transparency of the OSD.,,,'',,1,0,0,1
+Configure the transparency of the black background of graphical DVB subtitles.,,'','','',3,0,0,3
+Configure the tuner mode.,,'','','',3,0,0,3
+Configure the type of status indication icons shown in the movielist.,,,'',,1,0,0,1
+"Configure the vertical position of the subtitles, measured from the bottom of the screen.",,'','','',3,0,0,3
+Configure the video output mode (or resolution).,,,'',,1,0,0,1
+Configure the way in which the receiver changes channels.,,,'',,1,0,0,1
+Configure where completed timers show up in the timer list.,,,'',,1,0,0,1
+Configure whether (and for how long) a second infobar will be shown when OK is pressed twice. The second infobar contains additional information about the current channel.,,'','','',3,0,0,3
+Configure whether multi channel sound tracks should be downmixed to stereo.,,,'',,1,0,0,1
+Configure whether or not an icon should be shown when your motorized dish is moving.,,,'',,1,0,0,1
+Configure which access level to use for the configuration menu. Expert level gives access to all items.,,,'',,1,0,0,1
+Configure which color format should be used on the SCART output.,,'','','',3,0,0,3
+"Configure which tuner will be preferred, when more than one tuner is available. If set to 'auto' the system will give priority to the tuner having the lowest number of channels/satellites.",,'','','',3,0,0,3
+Configure your internal LAN,,'','','',3,0,0,3
+Configure your network again,,'','','',3,0,0,3
+Configure your wireless LAN again,,'','','',3,0,0,3
+Configures which video output connector will be used.,,'','','',3,0,0,3
+Configuring,,'','','',3,0,0,3
+Connect,Giréda,Giréda,Giréda,Giréda,4,1,3,0
+Connect to a wireless network,Girédibi wireless network,Girédibi wireless network,Girédibi wireless network,Girédibi wireless network,4,1,3,0
+Connected to,Girédi ,Girédi ,Girédi ,Girédi ,4,1,3,0
+Content does not fit on DVD!,,'','','',3,0,0,3
+Continue,Dowmke,Dowmke,Dowmke,Dowmke,4,1,3,0
+Continue playback,,'','','',3,0,0,3
+Continue playing,,'','','',3,0,0,3
+Continues play (loop),,'','','',3,0,0,3
+Contrast,,'','','',3,0,0,3
+Copy,,'','','',3,0,0,3
+Copy to bouquets,,,'',,1,0,0,1
+Could not find installed channel list.,,'','','',3,0,0,3
+Could not load medium! No disc inserted?,,'','','',3,0,0,3
+Could not open Picture in Picture,,'','',,2,0,0,2
+Could not record due to conflicting timer %s,,'','',,2,0,0,2
+Could not record due to invalid service %s,,'','',,2,0,0,2
+Create DVD-ISO,,'','','',3,0,0,3
+Create directory,,,'',,1,0,0,1
+Creating directory %s failed.,,'','','',3,0,0,3
+Creating filesystem,,'','',,2,0,0,2
+Creating partition,,'','',,2,0,0,2
+Croatian,Xitwat,Xitwat,Xitwat,Xitwat,4,1,3,0
+Current CEC address,,'','','',3,0,0,3
+Current device: ,,'','','',3,0,0,3
+Current event EPG,,,'',,1,0,0,1
+Current settings:,,'','','',3,0,0,3
+Current transponder,,'','','',3,0,0,3
+Current value: ,,'','','',3,0,0,3
+Custom skip time for '1'/'3' buttons,,,'',,1,0,0,1
+Custom skip time for '4'/'6' buttons,,'','','',3,0,0,3
+Custom skip time for '7'/'9' buttons,,'','','',3,0,0,3
+Customize,Weki Xwu Çéki,Weki Xwu Çéki,Weki Xwu Çéki,,3,1,2,0
+Cut,,'','','',3,0,0,3
+Cutlist editor...,,'','','',3,0,0,3
+Czech,,'','','',3,0,0,3
+D,,,'',,1,0,0,1
+DHCP,,'','','',3,0,0,3
+DMM advanced,,'','','',3,0,0,3
+DMM normal,,'','','',3,0,0,3
+DTS downmix,,,'',,1,0,0,1
+DUAL LAYER DVD,,'','','',3,0,0,3
+DVB subtitle black transparency,,'','','',3,0,0,3
+DVB-C,,'','','',3,0,0,3
+DVB-C ANNEX C,,'','','',3,0,0,3
+DVB-S,,'','','',3,0,0,3
+DVB-S2,,'','','',3,0,0,3
+DVB-T,,'','','',3,0,0,3
+DVB-T2,,'','','',3,0,0,3
+DVD data format,,'','','',3,0,0,3
+DVD file browser,,'','','',3,0,0,3
+DVD media toolbox,,'','','',3,0,0,3
+DVD player,,'','','',3,0,0,3
+DVD titlelist,,'','','',3,0,0,3
+Danish,,'','','',3,0,0,3
+Date,Dirok,Dirok,Dirok,Dirok,4,1,3,0
+Date/time input,,,'',,1,0,0,1
+Deep standby,,'','','',3,0,0,3
+Default,,'','','',3,0,0,3
+Default movie location,,'','','',3,0,0,3
+Default settings,,'','','',3,0,0,3
+Delay before key repeat starts:,,'','','',3,0,0,3
+Delete,Paqiş,Paqiş,Paqiş,Paqiş,4,1,3,0
+Delete entry,,'','','',3,0,0,3
+Delete failed!,,'','','',3,0,0,3
+Delete file,,'','','',3,0,0,3
+Delete playlist entry,,'','','',3,0,0,3
+Delete saved playlist,,'','','',3,0,0,3
+Deleted,Paqişi,Paqişi,Paqişi,Paqişi,4,1,3,0
+Deleted items,,'','','',3,0,0,3
+Depth,,'','','',3,0,0,3
+Description,,'','','',3,0,0,3
+Deselect,,'','','',3,0,0,3
+Details for plugin: ,,'','','',3,0,0,3
+Detected HDD:,,,'',,1,0,0,1
+Detected NIMs:,,'','',,2,0,0,2
+Devicename:,,'','','',3,0,0,3
+DiSEqC,,'','','',3,0,0,3
+DiSEqC A/B,,'','','',3,0,0,3
+DiSEqC A/B/C/D,,'','','',3,0,0,3
+DiSEqC mode,,'','','',3,0,0,3
+DiSEqC port %s: %s,,'','','',3,0,0,3
+DiSEqC-tester settings,,'','','',3,0,0,3
+Digital contour removal,,'','','',3,0,0,3
+Direct playback of linked titles without menu,,'','','',3,0,0,3
+Directory,,'','','',3,0,0,3
+Directory %s does not exist.,,'','','',3,0,0,3
+Directory browser,,'','','',3,0,0,3
+Disable,,'','','',3,0,0,3
+Disable Picture in Picture,,'','','',3,0,0,3
+Disable background scanning,,'','','',3,0,0,3
+Disable move mode,,,'',,1,0,0,1
+Disable timer,,,'',,1,0,0,1
+Disabled,,'','','',3,0,0,3
+Disk space to reserve for recordings (in GB),,'','','',3,0,0,3
+Display 16:9 content as,,'','','',3,0,0,3
+Display 4:3 content as,,'','','',3,0,0,3
+Display >16:9 content as,,'','','',3,0,0,3
+Display and userinterface,,,'',,1,0,0,1
+Display message before playing next movie,,'','','',3,0,0,3
+Display setup,,,Çékirina Roniya Ekran,,1,1,0,0
+Do not change,,'','','',3,0,0,3
+Do not record,,'','','',3,0,0,3
+Do nothing,,,'',,1,0,0,1
+Do you really want to check the filesystem?\nThis could take lots of time!,,,'',,1,0,0,1
+Do you really want to delete %s?,,'','','',3,0,0,3
+"Do you really want to download\nthe plugin \""%s\""?",,,'',,1,0,0,1
+Do you really want to exit?,,'','','',3,0,0,3
+Do you really want to initialize the device?\nAll data on the disk will be lost!,,'','',,2,0,0,2
+"Do you really want to remove\nthe plugin \""%s\""?",,,'',,1,0,0,1
+Do you really want to remove directory %s from the disk?,,'','','',3,0,0,3
+Do you really want to remove your bookmark of %s?,,'','','',3,0,0,3
+Do you want to burn this collection to DVD medium?,,'','','',3,0,0,3
+Do you want to install a channel list?,,,'',,1,0,0,1
+Do you want to install the package:\n,,'','','',3,0,0,3
+Do you want to play DVD in drive?,,'','','',3,0,0,3
+Do you want to preview this DVD before burning?,,'','','',3,0,0,3
+Do you want to reboot your receiver?,,'','','',3,0,0,3
+Do you want to remove the package:\n,,'','','',3,0,0,3
+Do you want to restore your settings?,,'','','',3,0,0,3
+Do you want to resume this playback?,,'','',,2,0,0,2
+Do you want to update the package:\n,,,'',,1,0,0,1
+Do you want to update your receiver to %s?,,,'',,1,0,0,1
+Do you want to update your receiver?,,,'',,1,0,0,1
+Don't stop current event but disable coming events,,'','',,2,0,0,2
+Download plugins,Dayni Girédayi,Dayni Girédayi,Dayni Girédayi,Dayni Girédayi,4,1,3,0
+Downloadable new plugins,,,Dayni Girédayiyé nu,,1,1,0,0
+Downloadable plugins,,,'',,1,0,0,1
+Downloading,Girédya,Girédya,Girédya,Girédya,4,1,3,0
+Downloading plugin information. Please wait...,Girédayi ti daxirstin...,Girédayi ti daxirstin...,Girédayi ti daxirstin...,Girédayi ti daxirstin...,4,1,3,0
+Drop unconfigured satellites,,,'',,1,0,0,1
+Dutch,Xolanda,Xolanda,Xolanda,Xolanda,4,1,3,0
+Dynamic contrast,,'','','',3,0,0,3
+E,,'','','',3,0,0,3
+EPG,,'','','',3,0,0,3
+EPG language selection 1,EPG ziman 1,EPG ziman 1,EPG ziman 1,EPG ziman 1,4,1,3,0
+EPG language selection 2,EPG ziman2,EPG ziman2,EPG ziman2,EPG ziman2,4,1,3,0
+EPG selection,,,'',,1,0,0,1
+EPG settings,EPG Çékirin,EPG Çékirin,EPG Çékirin,EPG Çékirin,4,1,3,0
+ERROR - failed to scan (%s)!,,'','','',3,0,0,3
+East,,'','','',3,0,0,3
+East limit set,,'','','',3,0,0,3
+Edit,,'','','',3,0,0,3
+Edit DNS,,'','','',3,0,0,3
+Edit alternatives,,,'',,1,0,0,1
+Edit chapters of current title,,'','','',3,0,0,3
+Edit settings,,'','','',3,0,0,3
+Edit the nameserver configuration of your receiver.\n,,,'',,1,0,0,1
+Edit the network configuration of your receiver.\n,,,'',,1,0,0,1
+Edit the update source address.,,,Update ra Eyaran Çékin,,1,1,0,0
+Edit title,,'','','',3,0,0,3
+Edit update source url,,,'',,1,0,0,1
+Education/Science/...,,'','',,2,0,0,2
+Electronic Program Guide,,'','','',3,0,0,3
+Enable,,'','','',3,0,0,3
+Enable 5V for active antenna,,'','','',3,0,0,3
+Enable EIT EPG,,'','','',3,0,0,3
+Enable MHW EPG,,'','','',3,0,0,3
+Enable Netmed EPG,,'','','',3,0,0,3
+Enable ViaSat EPG,,'','','',3,0,0,3
+Enable bouquet edit,,,'',,1,0,0,1
+Enable bouquet selection in multi-EPG,,,'',,1,0,0,1
+Enable favourites edit,,,'',,1,0,0,1
+Enable freesat EPG,,,'',,1,0,0,1
+Enable move mode,,,'',,1,0,0,1
+Enable multiple bouquets,,'','','',3,0,0,3
+Enable teletext caching,,'','','',3,0,0,3
+Enabled,,'','','',3,0,0,3
+Encrypted: ,,'','','',3,0,0,3
+Encryption,,'','','',3,0,0,3
+Encryption key,,'','','',3,0,0,3
+Encryption key type,,'','','',3,0,0,3
+Encryption:,,'','','',3,0,0,3
+End alternatives edit,,,'',,1,0,0,1
+End bouquet edit,,,'',,1,0,0,1
+End favourites edit,,,'',,1,0,0,1
+End time,Vext derbas bu,Vext derbas bu,Vext derbas bu,Vext derbas bu,4,1,3,0
+English,Engiliz,Engiliz,Engiliz,Engiliz,4,1,3,0
+Enter main menu...,,'','','',3,0,0,3
+Enter pin code,,'','','',3,0,0,3
+Enter the service pin,,'','','',3,0,0,3
+Error,,'','','',3,0,0,3
+Error code,,'','','',3,0,0,3
+Error: %s\nRetry?,,'','','',3,0,0,3
+Estonian,,'','','',3,0,0,3
+Ethernet network interface,,'','','',3,0,0,3
+Event font size (relative to skin size),,,'',,1,0,0,1
+Event view,,,'',,1,0,0,1
+Event view menu,,,'',,1,0,0,1
+Everywhere,,'','','',3,0,0,3
+Exceeds dual layer medium!,,'','','',3,0,0,3
+Execution finished!!,,'','','',3,0,0,3
+Execution progress:,,'','','',3,0,0,3
+Exif,,'','','',3,0,0,3
+Exit,,'','','',3,0,0,3
+Exit EPG,,'','','',3,0,0,3
+Exit editor,,'','','',3,0,0,3
+Exit input device selection.,,'','','',3,0,0,3
+Exit mediaplayer,,'','','',3,0,0,3
+Exit movie list,,'','','',3,0,0,3
+Exit movie player?,,'','','',3,0,0,3
+Exit nameserver configuration,,'','','',3,0,0,3
+Exit network interface list,,'','','',3,0,0,3
+Exit network wizard,,'','','',3,0,0,3
+Exit the wizard,,'','','',3,0,0,3
+Expert,,'','','',3,0,0,3
+Extended Software,,'','','',3,0,0,3
+Extended Software Plugin,,'','','',3,0,0,3
+Extended network setup plugin...,,'','','',3,0,0,3
+Extended setup...,,'','','',3,0,0,3
+Extensions,,'','','',3,0,0,3
+Extensions management,,'','','',3,0,0,3
+FEC,,'','','',3,0,0,3
+FTA,,,'',,1,0,0,1
+Factory reset,Reseta Fabrikayé ,Reseta Fabrikayé ,Reseta Fabrikayé ,Reseta Fabrikayé ,4,1,3,0
+Failed,,'','','',3,0,0,3
+Failed to write /tmp/positionersetup.log: ,,'','','',3,0,0,3
+Fan %d,,'','','',3,0,0,3
+Fan %d PWM,,,'',,1,0,0,1
+Fan %d voltage,,,'',,1,0,0,1
+Fast,,'','','',3,0,0,3
+Fast DiSEqC,,'','','',3,0,0,3
+Fast Scan,Lezi Légerin,Lezi Légerin,Lezi Légerin,Lezi Légerin,4,1,3,0
+Fast epoch,,'','','',3,0,0,3
+Fast forward speeds,,'','','',3,0,0,3
+Favourites,,'','','',3,0,0,3
+File appears to be busy.\n,,'','','',3,0,0,3
+Filesystem check,,'','','',3,0,0,3
+Final position at,,'','','',3,0,0,3
+Final position at index,,'','','',3,0,0,3
+Fine movement,,'','','',3,0,0,3
+Finetune,,'','','',3,0,0,3
+Finished,,'','','',3,0,0,3
+Finished configuring your network,,'','','',3,0,0,3
+Finished restarting your network,,'','',,2,0,0,2
+Finnish,,'','','',3,0,0,3
+Fixed,,'','','',3,0,0,3
+Following tasks will be done after you press OK!,,'','','',3,0,0,3
+Format,,'','','',3,0,0,3
+Forward volume keys,,'','','',3,0,0,3
+Frame size in full view,,'','','',3,0,0,3
+French,,'','','',3,0,0,3
+Frequency,,'','','',3,0,0,3
+Frequency bands,,'','','',3,0,0,3
+Frequency scan step size(khz),,'','','',3,0,0,3
+Frequency steps,,'','','',3,0,0,3
+Fri,,'','','',3,0,0,3
+Friday,İn,İn,İn,İn,4,1,3,0
+From:,,,'',,1,0,0,1
+Full transparency,,'','','',3,0,0,3
+Function of OK button,,,'',,1,0,0,1
+Gateway,,'','','',3,0,0,3
+General AC3 delay,,'','','',3,0,0,3
+General PCM delay,,'','','',3,0,0,3
+Genre,,'','','',3,0,0,3
+German,,'','','',3,0,0,3
+Getting plugin information. Please wait...,,'','','',3,0,0,3
+Go down the list,,'','','',3,0,0,3
+Go to first movie or last item,,'','','',3,0,0,3
+Go to first movie or top of list,,'','','',3,0,0,3
+Go to first service,,,'',,1,0,0,1
+Go to last service,,,'',,1,0,0,1
+Go to next event,,,'',,1,0,0,1
+Go to next page of service,,,'',,1,0,0,1
+Go to previous event,,,'',,1,0,0,1
+Go to previous page of service,,,'',,1,0,0,1
+Go up the list,,'','','',3,0,0,3
+Goto,,'','','',3,0,0,3
+Goto 0,,'','','',3,0,0,3
+Goto X,,'','','',3,0,0,3
+Goto index position,,'','','',3,0,0,3
+Goto next page of events,,,'',,1,0,0,1
+Goto position,,'','','',3,0,0,3
+Goto previous page of events,,,'',,1,0,0,1
+Goto:,,,'',,1,0,0,1
+GotoX calibration,,'','','',3,0,0,3
+GraphMultiEpg Settings,,,'',,1,0,0,1
+Graphical Multi EPG,,,'',,1,0,0,1
+Greek,,'','','',3,0,0,3
+Guard interval,,'','','',3,0,0,3
+HD list,,'','','',3,0,0,3
+Handle standby from TV,,'','','',3,0,0,3
+Handle wakeup from TV,,'','','',3,0,0,3
+Hard disk,,,'',,1,0,0,1
+Hard disk setup,,'','',,2,0,0,2
+Hard disk standby after,,'','','',3,0,0,3
+Harddisk,,,'',,1,0,0,1
+Hardware: ,,,'',,1,0,0,1
+Hebrew,,'','','',3,0,0,3
+Hidden network,,'','','',3,0,0,3
+Hide channel list in radio mode,,,'',,1,0,0,1
+Hide player,,'','','',3,0,0,3
+Hide zap errors,,'','','',3,0,0,3
+Hierarchy info,,'','','',3,0,0,3
+High bitrate support,,'','','',3,0,0,3
+Hold screen,,'','','',3,0,0,3
+Hold till locked,,'','','',3,0,0,3
+Home,,'','','',3,0,0,3
+Horizontal,,'','','',3,0,0,3
+Horizontal turning speed,,'','','',3,0,0,3
+How many minutes do you want to record?,,'','',,2,0,0,2
+Hue,,'','','',3,0,0,3
+Hungarian,,'','','',3,0,0,3
+IP address,,'','','',3,0,0,3
+ISO file is too large for this filesystem!,,'','','',3,0,0,3
+ISO path,,'','','',3,0,0,3
+Icons,,'','','',3,0,0,3
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,'','',,2,0,0,2
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,'','','',3,0,0,3
+Image: ,,,'',,1,0,0,1
+"In order to record a timer, the TV was switched to the recording service!\n",,'','','',3,0,0,3
+In progress,,'','','',3,0,0,3
+Include AIT in http streams,,'','','',3,0,0,3
+Include ECM in http streams,,'','','',3,0,0,3
+Include EIT in http streams,,'','','',3,0,0,3
+Increased voltage,,'','','',3,0,0,3
+Index,,,'',,1,0,0,1
+Index allocated:,,'','','',3,0,0,3
+Info,,'','','',3,0,0,3
+Info bar,,,'',,1,0,0,1
+Info bar timeout,,,'',,1,0,0,1
+Information,Hakké İmagéda,Hakké İmagéda,Hakké İmagéda,Hakké İmagéda,4,1,3,0
+Init,,'','','',3,0,0,3
+Initial fast forward speed,,'','','',3,0,0,3
+Initial location in new timers,,,'',,1,0,0,1
+Initial lock ratio,,'','','',3,0,0,3
+Initial rewind speed,,'','','',3,0,0,3
+Initial signal quality,,'','','',3,0,0,3
+Initial signal quality:,,'','','',3,0,0,3
+Initialization,,'','',,2,0,0,2
+Initialize,,'','','',3,0,0,3
+Initializing storage device...,,'','','',3,0,0,3
+Input,,'','','',3,0,0,3
+Input device setup,,'','',,2,0,0,2
+Input devices,device girédayi,device girédayi,device girédayi,device girédayi,4,1,3,0
+Install,,'','','',3,0,0,3
+Install channel list,,'','','',3,0,0,3
+Install local extension,,'','','',3,0,0,3
+Install picons on,,'','','',3,0,0,3
+Installation has completed.,,,'',,1,0,0,1
+Installation or removal has completed.,,,'',,1,0,0,1
+Installing,,'','','',3,0,0,3
+Installing software...,,,'',,1,0,0,1
+Instant recording location,,'','','',3,0,0,3
+Instant recording...,,'','','',3,0,0,3
+Interface: ,,'','','',3,0,0,3
+Internal flash,,'','','',3,0,0,3
+Internal hdd only,,'','','',3,0,0,3
+Interval between keys when repeating:,,'','','',3,0,0,3
+Invalid directory selected: %s,,'','','',3,0,0,3
+Invalid location,,'','','',3,0,0,3
+Inversion,,'','','',3,0,0,3
+Invert,,'','','',3,0,0,3
+Is this setting ok?,,'','','',3,0,0,3
+Is this video mode ok?,,'','','',3,0,0,3
+Italian,,'','','',3,0,0,3
+Items per page ,,,'',,1,0,0,1
+Items per page for list screen,,,'',,1,0,0,1
+Job overview,,,'',,1,0,0,1
+Jump to beginning of list,,'','','',3,0,0,3
+Jump to end of list,,'','','',3,0,0,3
+Jump to next marked position,,'','',,2,0,0,2
+Jump to previous marked position,,'','',,2,0,0,2
+Just scale,,'','','',3,0,0,3
+Kernel version: ,,,'',,1,0,0,1
+Keyboard,,'','','',3,0,0,3
+Keyboard map,,'','','',3,0,0,3
+Keyboard setup,,'','',,2,0,0,2
+LAN adapter,,'','','',3,0,0,3
+LAN connection,,'','','',3,0,0,3
+LNB,,'','','',3,0,0,3
+Language,Ziman,Ziman,Ziman,Ziman,4,1,3,0
+Language selection,,'','','',3,0,0,3
+Last config,,'','','',3,0,0,3
+Last speed,,'','','',3,0,0,3
+Last update: ,,,'',,1,0,0,1
+Latitude,,'','','',3,0,0,3
+Latvian,,'','','',3,0,0,3
+Leave DVD player?,,'','','',3,0,0,3
+Left,,'','','',3,0,0,3
+Leisure hobbies,,'','','',3,0,0,3
+Letterbox,,'','','',3,0,0,3
+Limit character set for recording filenames,,'','','',3,0,0,3
+Limit east,,'','','',3,0,0,3
+Limit the characters that can be used in recording filenames to (7 bit) ascii. This ensures compatibility with operating systems or file systems with limited character sets.,,'','','',3,0,0,3
+Limit west,,'','','',3,0,0,3
+Limits cancelled,,'','','',3,0,0,3
+Limits enabled,,'','','',3,0,0,3
+Limits off,,'','','',3,0,0,3
+Limits on,,'','','',3,0,0,3
+Link quality:,,'','','',3,0,0,3
+Link:,,'','','',3,0,0,3
+Linked titles with a DVD menu,,'','','',3,0,0,3
+List available networks,,'','','',3,0,0,3
+List mode,,,'',,1,0,0,1
+List of storage devices,,'','','',3,0,0,3
+List type,,,'',,1,0,0,1
+Listen to the radio...,,'','','',3,0,0,3
+Lithuanian,,'','','',3,0,0,3
+Load,,'','','',3,0,0,3
+Load length of movies in movie list,,,'',,1,0,0,1
+Load playlist,,'','','',3,0,0,3
+Local network,,'','','',3,0,0,3
+Location,,'','','',3,0,0,3
+Location for instant recordings,,,'',,1,0,0,1
+Lock ratio,,'','','',3,0,0,3
+Lock:,,,'',,1,0,0,1
+Long filenames,,'','','',3,0,0,3
+Long key press,,'','','',3,0,0,3
+Longitude,,'','','',3,0,0,3
+Luxembourgish,,'','','',3,0,0,3
+MMC card,,,'',,1,0,0,1
+MORE,,,'',,1,0,0,1
+Main menu,,'','','',3,0,0,3
+Maintain old EPG data for,,'','','',3,0,0,3
+Make this mark an 'in' point,,'','','',3,0,0,3
+Make this mark an 'out' point,,'','','',3,0,0,3
+Make this mark just a mark,,'','','',3,0,0,3
+Manage extensions,,'','','',3,0,0,3
+Manage extensions or plugins for your receiver.,,,'',,1,0,0,1
+Manage your receiver's software,,,'',,1,0,0,1
+Manual Scan,Bi dest Légerin,Bi dest Légerin,Bi dest Légerin,Bi dest Légerin,4,1,3,0
+Manual configuration,,'','','',3,0,0,3
+Manual scan,,'','','',3,0,0,3
+Manual transponder,,'','','',3,0,0,3
+Manufacturer,,'','','',3,0,0,3
+Margin after recording (minutes),,'','','',3,0,0,3
+Margin before recording (minutes),,'','','',3,0,0,3
+Max. bitrate: ,,'','','',3,0,0,3
+Media player,,'','','',3,0,0,3
+Media scanner,,'','','',3,0,0,3
+Medium is not a writeable DVD!,,'','','',3,0,0,3
+Medium is not empty!,,'','','',3,0,0,3
+Memory,,'','','',3,0,0,3
+Memory index,,'','','',3,0,0,3
+Menu,,'','','',3,0,0,3
+Message,,,'',,1,0,0,1
+Message...,,,'',,1,0,0,1
+Minimum age %d years,,'','','',3,0,0,3
+Missing ,,'','','',3,0,0,3
+Mode,,'','','',3,0,0,3
+Model: ,,'','','',3,0,0,3
+Modulation,,'','','',3,0,0,3
+Modulator,,'','','',3,0,0,3
+Mon,,'','','',3,0,0,3
+Mon-Fri,,'','','',3,0,0,3
+Monday,Yekşem,Yekşem,Yekşem,Yekşem,4,1,3,0
+Mosquito noise reduction,,'','','',3,0,0,3
+Mount,,'','',,2,0,0,2
+Move,,'','','',3,0,0,3
+Move PiP to main picture,,'','','',3,0,0,3
+Move Picture in Picture,,'','','',3,0,0,3
+Move east,,'','','',3,0,0,3
+Move to position X,,'','','',3,0,0,3
+Move west,,'','','',3,0,0,3
+Moved to position 0,,'','','',3,0,0,3
+Moved to position at index,,'','','',3,0,0,3
+Movement,,'','','',3,0,0,3
+Movie list configuration,,,'',,1,0,0,1
+Movie location,,'','','',3,0,0,3
+Movie selection,,'','','',3,0,0,3
+Movie/Drama,,'','','',3,0,0,3
+Movielist menu,,,'',,1,0,0,1
+Moving,,'','','',3,0,0,3
+Moving east ...,,'','','',3,0,0,3
+Moving to position,,'','','',3,0,0,3
+Moving west ...,,'','','',3,0,0,3
+Multi EPG,,'','','',3,0,0,3
+Multi-EPG bouquet selection,,,'',,1,0,0,1
+Multimedia,,'','','',3,0,0,3
+Multiple service support,,'','','',3,0,0,3
+Multisat,,'','','',3,0,0,3
+Music/Ballet/Dance,,'','','',3,0,0,3
+Mute,,,'',,1,0,0,1
+N/A,,'','','',3,0,0,3
+NEXT,,,'',,1,0,0,1
+NOW,,,'',,1,0,0,1
+NTSC,,'','','',3,0,0,3
+Name,,'','','',3,0,0,3
+Nameserver,,'','','',3,0,0,3
+Nameserver %d,,'','','',3,0,0,3
+Nameserver settings,,'','','',3,0,0,3
+Nameserver setup,,,'',,1,0,0,1
+Netmask,,'','','',3,0,0,3
+Network,Çékirina Network,Çékirina Network,Çékirina Network,Çékirina Network,4,1,3,0
+Network ID,,'','','',3,0,0,3
+Network configuration...,,,'',,1,0,0,1
+Network mount,,,'',,1,0,0,1
+Network mount %s,,,'',,1,0,0,1
+Network name (SSID),,'','','',3,0,0,3
+Network scan,,'','','',3,0,0,3
+Network setup,,'','',,2,0,0,2
+Network test,,'','','',3,0,0,3
+Network test...,,,'',,1,0,0,1
+Network test: ,,'','',,2,0,0,2
+Network wizard,,'','','',3,0,0,3
+Network:,,'','','',3,0,0,3
+New,,'','','',3,0,0,3
+News Current Affairs,,'','',,2,0,0,2
+Next,,'','','',3,0,0,3
+No,,'','','',3,0,0,3
+No (supported) DVDROM found!,,'','','',3,0,0,3
+No Connection,,'','','',3,0,0,3
+No HDD found or HDD not initialized!,,'','','',3,0,0,3
+No data on transponder!\n(Timeout reading PAT),,'','','',3,0,0,3
+No delay,,'','','',3,0,0,3
+No description available.,,'','','',3,0,0,3
+No displayable files on this medium found!,,'','','',3,0,0,3
+"No event info found, recording indefinitely.",,'','','',3,0,0,3
+No fast winding possible yet.. but you can use the number buttons to skip forward/backward!,,'','','',3,0,0,3
+No free index available,,'','','',3,0,0,3
+No free tuner!,,'','','',3,0,0,3
+No network connection available.,,'','','',3,0,0,3
+No networks found,,'','','',3,0,0,3
+No positioner capable frontend found.,,'','','',3,0,0,3
+No services/providers selected,,'','','',3,0,0,3
+No standby,,'','','',3,0,0,3
+No tags are set on these movies.,,'','','',3,0,0,3
+No timeout,,'','','',3,0,0,3
+No to all,,'','','',3,0,0,3
+No transparency,,'','','',3,0,0,3
+No tuner is configured for use with a diseqc positioner!,,'','','',3,0,0,3
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,,'','','',3,0,0,3
+No updates available,,,'',,1,0,0,1
+No updates available. Please try again later.,,'','',,2,0,0,2
+No wireless networks found! Searching...,,'','','',3,0,0,3
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,'','','',3,0,0,3
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,'','','',3,0,0,3
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,'','','',3,0,0,3
+"No, but restart from begin",,'','',,2,0,0,2
+"No, never",,'','','',3,0,0,3
+None,,'','','',3,0,0,3
+Nonlinear,,,'',,1,0,0,1
+Normal mode,,,'',,1,0,0,1
+North,,'','','',3,0,0,3
+Norwegian,,'','','',3,0,0,3
+Not associated,,'','','',3,0,0,3
+"Not enough disk space. Please free up some disk space and try again. (%d MB required, %d MB available)",,'','','',3,0,0,3
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,,'','','',3,0,0,3
+Now,,'','','',3,0,0,3
+Now playing,,,'',,1,0,0,1
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,,'',,1,0,0,1
+OK,,'','','',3,0,0,3
+ONID,,'','','',3,0,0,3
+OSD name request,,'','','',3,0,0,3
+OSD settings,,'','',,2,0,0,2
+OSD transparency,,,'',,1,0,0,1
+Off,,'','','',3,0,0,3
+Offline decode delay (ms),,'','','',3,0,0,3
+On,,'','','',3,0,0,3
+On end of movie,,'','','',3,0,0,3
+One,,'','','',3,0,0,3
+Online update of your receiver software.,,,Zindi Update bikin.,,1,1,0,0
+Only extensions.,,'','','',3,0,0,3
+Only free scan,,'','','',3,0,0,3
+Open service list,,'','',,2,0,0,2
+Open the movie list,,'','','',3,0,0,3
+Orbital position,,'','','',3,0,0,3
+Original,,'','','',3,0,0,3
+Other,,'','','',3,0,0,3
+Output,,'','','',3,0,0,3
+Overwrite configuration files during software update?,,,'',,1,0,0,1
+Overwrite configuration files?,,'','','',3,0,0,3
+PAL,,'','','',3,0,0,3
+PCR PID,,'','','',3,0,0,3
+PIN code needed,,,'',,1,0,0,1
+PMT PID,,'','','',3,0,0,3
+Package list update,,'','','',3,0,0,3
+Packet management,,'','','',3,0,0,3
+Packet manager,,'','','',3,0,0,3
+Pan&scan,,'','','',3,0,0,3
+Parent directory,,'','','',3,0,0,3
+Parental control,Kilita Gede,Kilita Gede,Kilita Gede,Kilita Gede,4,1,3,0
+Parental control services editor,,,'',,1,0,0,1
+Parental control setup,,'','',,2,0,0,2
+Pause,,'','','',3,0,0,3
+Pause movie at end,,'','','',3,0,0,3
+Pause playback,,'','','',3,0,0,3
+Percentage left,,'','','',3,0,0,3
+Percentage right,,'','','',3,0,0,3
+Permanently delete all recordings in the trash can?,,'','','',3,0,0,3
+Permanently remove all deleted items,,'','','',3,0,0,3
+Persian,,'','','',3,0,0,3
+PiP setup,,,'',,1,0,0,1
+Picon,,'','','',3,0,0,3
+Picture player,,'','','',3,0,0,3
+Pillarbox,,'','','',3,0,0,3
+Pilot,,'','','',3,0,0,3
+Play,,'','','',3,0,0,3
+Play DVD,,'','','',3,0,0,3
+Play as Picture in Picture,,,'',,1,0,0,1
+Play audio-CD...,,'','','',3,0,0,3
+Play back media files,,'','','',3,0,0,3
+Play entry,,'','','',3,0,0,3
+Play from next mark or playlist entry,,'','','',3,0,0,3
+Play from previous mark or playlist entry,,'','','',3,0,0,3
+Play in main window,,,'',,1,0,0,1
+Play music...,,'','','',3,0,0,3
+Play next,,'','','',3,0,0,3
+Play next (return to movie list),,'','','',3,0,0,3
+Play next (return to previous service),,'','','',3,0,0,3
+Play previous,,'','','',3,0,0,3
+Play recorded movies...,,'','','',3,0,0,3
+Please add titles to the compilation.,,'','','',3,0,0,3
+Please change recording endtime,,'','',,2,0,0,2
+Please choose an extension...,,'','','',3,0,0,3
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,'','','',3,0,0,3
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,'','','',3,0,0,3
+Please connect your receiver to the internet,,'','','',3,0,0,3
+Please do not change any values unless you know what you are doing!,,'','','',3,0,0,3
+Please enter a name for the new bouquet,,'','','',3,0,0,3
+Please enter a name for the new marker,,'','','',3,0,0,3
+Please enter a new filename,,'','','',3,0,0,3
+Please enter filename (empty = use current date),,'','','',3,0,0,3
+Please enter name of the new directory,,'','',,2,0,0,2
+Please enter the correct pin code,,'','','',3,0,0,3
+Please enter the old PIN code,,'','','',3,0,0,3
+Please follow the instructions on the TV,,'','','',3,0,0,3
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,,'','','',3,0,0,3
+Please press OK to continue.,,'','','',3,0,0,3
+Please select a playlist to delete...,,'','','',3,0,0,3
+Please select a playlist...,,'','','',3,0,0,3
+Please select a sub service...,,'','','',3,0,0,3
+Please select a subservice to record...,,'','','',3,0,0,3
+Please select a subservice...,,'','','',3,0,0,3
+Please select medium to be scanned,,'','','',3,0,0,3
+Please select medium to use as backup location,,'','','',3,0,0,3
+Please select tag to filter...,,'','',,2,0,0,2
+Please select the movie path...,,'','','',3,0,0,3
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,'','','',3,0,0,3
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,'','','',3,0,0,3
+Please set up tuner A,,'','','',3,0,0,3
+Please set up tuner B,,'','','',3,0,0,3
+Please set up tuner C,,'','','',3,0,0,3
+Please set up tuner D,,'','','',3,0,0,3
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,'','',,2,0,0,2
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,,'','',,2,0,0,2
+Please wait (downloading channel list),,'','','',3,0,0,3
+Please wait (updating packages),,'','','',3,0,0,3
+Please wait for activation of your network configuration...,,'','',,2,0,0,2
+Please wait while scanning is in progress...,,'','','',3,0,0,3
+Please wait while we configure your network...,,'','','',3,0,0,3
+Please wait while we prepare your network interfaces...,,'','','',3,0,0,3
+Please wait while we test your network...,,'','','',3,0,0,3
+Please wait while your network is restarting...,,'','',,2,0,0,2
+Please wait...,,'','','',3,0,0,3
+Please wait... Loading list...,,'','','',3,0,0,3
+Plugin browser,,,'',,1,0,0,1
+Plugin manager activity information,,'','','',3,0,0,3
+Plugin manager help,,'','','',3,0,0,3
+Plugins,Girédayi,Girédayi,Girédayi,Girédayi,4,1,3,0
+Polarisation,,'','','',3,0,0,3
+Polarization,,'','','',3,0,0,3
+Polish,,'','','',3,0,0,3
+Port A,,'','','',3,0,0,3
+Port B,,'','','',3,0,0,3
+Port C,,'','','',3,0,0,3
+Port D,,'','','',3,0,0,3
+Portuguese,,'','','',3,0,0,3
+Position of completed timers in timerlist,,,'',,1,0,0,1
+Position stored at index,,'','','',3,0,0,3
+Positioner,,'','','',3,0,0,3
+Positioner setup,Pozisyoner Çéki,Pozisyoner Çéki,Pozisyoner Çéki,Pozisyoner Çéki,4,1,3,0
+Power threshold in mA,,'','','',3,0,0,3
+Predefined transponder,,'','','',3,0,0,3
+Prefer AC3 track,,'','','',3,0,0,3
+Prefer audio track stored by service,,'','','',3,0,0,3
+Prefer graphical DVB subtitles,,'','','',3,0,0,3
+Prefer subtitles for hearing impaired,,'','','',3,0,0,3
+Prefer subtitles stored by service,,'','','',3,0,0,3
+Preferred tuner,,'','','',3,0,0,3
+Preparing... Please wait,,'','','',3,0,0,3
+Press INFO on your remote control for additional information.,,'','','',3,0,0,3
+Press MENU on your remote control for additional options.,,'','','',3,0,0,3
+Press OK on your remote control to continue.,,'','','',3,0,0,3
+Press OK to activate the settings.,,'','','',3,0,0,3
+Press OK to edit the settings.,,'','','',3,0,0,3
+Press OK to get further details for %s,,'','','',3,0,0,3
+Press OK to scan,,'','','',3,0,0,3
+Press OK to select a provider.,,'','','',3,0,0,3
+Press OK to select/deselect a CAId.,,'','','',3,0,0,3
+Press OK to toggle the selection.,,'','','',3,0,0,3
+Press yellow to set this interface as default interface.,,'','',,2,0,0,2
+Prev,,,'',,1,0,0,1
+Preview,,'','','',3,0,0,3
+Preview menu,,'','','',3,0,0,3
+Preview selected channel,,,'',,1,0,0,1
+Primary DNS,,'','','',3,0,0,3
+Priority,,'','','',3,0,0,3
+Process,,'','','',3,0,0,3
+Progress,,'','','',3,0,0,3
+Progress bar left,,'','','',3,0,0,3
+Progress bar right,,'','','',3,0,0,3
+Properties of current title,,'','','',3,0,0,3
+Protect services,,'','','',3,0,0,3
+Provider,,'','','',3,0,0,3
+Providers,,'','','',3,0,0,3
+Put TV in standby,,'','','',3,0,0,3
+Put receiver in standby,,,'',,1,0,0,1
+Python frontend for /tmp/mmi.socket,,'','','',3,0,0,3
+Quick,,'','','',3,0,0,3
+Quick zap,,'','','',3,0,0,3
+RF output,,'','',,2,0,0,2
+RGB,,'','','',3,0,0,3
+Radio,,,'',,1,0,0,1
+Ram disk,,,'',,1,0,0,1
+Random,,'','','',3,0,0,3
+Rating defined by broadcaster - %d,,'','','',3,0,0,3
+Rating undefined,,'','','',3,0,0,3
+Really close without saving settings?,,'','','',3,0,0,3
+Really delete done timers?,,'','',,2,0,0,2
+Really exit the subservices quickzap?,,'','','',3,0,0,3
+Really reboot now?,,'','','',3,0,0,3
+Really restart now?,,'','','',3,0,0,3
+Really shutdown now?,,'','','',3,0,0,3
+Really update the frontprocessor and reboot now?,,,'',,1,0,0,1
+Really update your settop box and reboot now?,,,'',,1,0,0,1
+Reboot,,'','','',3,0,0,3
+Rec,,,'',,1,0,0,1
+Reception settings,,,'',,1,0,0,1
+Record,Qeyd,Qeyd,Qeyd,Qeyd,4,1,3,0
+Record time limited due to conflicting timer %s,,'','','',3,0,0,3
+Recorded files...,,,'',,1,0,0,1
+Recording,,'','','',3,0,0,3
+Recording in progress,,'','','',3,0,0,3
+Recording paths,,,Réya Qeyda,,1,1,0,0
+Recording type,,'','','',3,0,0,3
+Recording(s) are in progress or coming up in few seconds!,,'','','',3,0,0,3
+Recordings,,'','','',3,0,0,3
+Recordings always have priority,,'','','',3,0,0,3
+Red button...,,'','','',3,0,0,3
+Refresh rate,,'','','',3,0,0,3
+Refresh rate selection.,,'','','',3,0,0,3
+Regard deep standby as standby,,'','','',3,0,0,3
+Relative,,'','','',3,0,0,3
+Reload,,'','','',3,0,0,3
+Reloading bouquets and services...,,'','','',3,0,0,3
+Remember service PIN,,'','','',3,0,0,3
+Remote control type,,'','','',3,0,0,3
+Removal has completed.,,,'',,1,0,0,1
+Remove,,'','','',3,0,0,3
+Remove a mark,,'','','',3,0,0,3
+Remove a nameserver entry,,'','','',3,0,0,3
+Remove all alternatives,,,'',,1,0,0,1
+Remove all new found flags,,,'',,1,0,0,1
+Remove bookmark,,'','','',3,0,0,3
+Remove completed timers after (days),,'','',,2,0,0,2
+Remove currently selected title,,'','','',3,0,0,3
+Remove directory,,,'',,1,0,0,1
+Remove entry,,,'',,1,0,0,1
+Remove from parental protection,,,'',,1,0,0,1
+Remove items from trash can after (days),,'','','',3,0,0,3
+Remove new found flag,,,'',,1,0,0,1
+Remove plugins,,'','','',3,0,0,3
+Remove selected satellite,,,'',,1,0,0,1
+Remove title,,'','','',3,0,0,3
+Removing,,'','','',3,0,0,3
+Removing directory %s failed. (Maybe not empty.),,'','','',3,0,0,3
+Removing partition table,,'','',,2,0,0,2
+Rename,,'','','',3,0,0,3
+Repeat playlist,,,'',,1,0,0,1
+Repeat type,,'','','',3,0,0,3
+Repeating event currently recording... What do you want to do?,,'','','',3,0,0,3
+Repeats,,'','','',3,0,0,3
+Required medium type:,,'','','',3,0,0,3
+Rereading partition table,,'','',,2,0,0,2
+Reserved,,'','','',3,0,0,3
+Reset,,'','','',3,0,0,3
+Reset and renumerate title names,,'','','',3,0,0,3
+Reset playback position,,'','','',3,0,0,3
+Reset video enhancement settings to system defaults?,,'','','',3,0,0,3
+Reset video enhancement settings to your last configuration?,,'','','',3,0,0,3
+Resolution,,'','','',3,0,0,3
+Restart,,'','','',3,0,0,3
+Restart GUI now?,,'','','',3,0,0,3
+Restart enigma,,'','',,2,0,0,2
+Restart network,,'','','',3,0,0,3
+Restart test,,'','','',3,0,0,3
+Restart your network connection and interfaces.\n,,'','','',3,0,0,3
+Restore,,'','','',3,0,0,3
+Restore backups,,'','','',3,0,0,3
+Restore system settings,,'','','',3,0,0,3
+Restore your backups by date.,,,backup xwu restore bikin,,1,1,0,0
+Restore your receiver settings.,,,Risiver restore bikin.,,1,1,0,0
+Restoring...,,'','','',3,0,0,3
+Resume from last position,,'','','',3,0,0,3
+Resume position at %s,,'','','',3,0,0,3
+Resuming playback,,'','','',3,0,0,3
+Return to movie list,,'','','',3,0,0,3
+Return to previous service,,'','','',3,0,0,3
+Rewind speeds,,'','','',3,0,0,3
+Right,,'','','',3,0,0,3
+Roll-off,,'','','',3,0,0,3
+Romanian,,'','','',3,0,0,3
+Root directory,,'','','',3,0,0,3
+Rotor step position:,,'','','',3,0,0,3
+Rotor turning speed,,'','','',3,0,0,3
+Round start time on,,,'',,1,0,0,1
+Russian,,'','','',3,0,0,3
+S-Video,,'','','',3,0,0,3
+SINGLE LAYER DVD,,'','','',3,0,0,3
+SNR,,,'',,1,0,0,1
+SNR:,,,'',,1,0,0,1
+SSID:,,'','','',3,0,0,3
+Sat,,'','','',3,0,0,3
+Satellite,,'','','',3,0,0,3
+Satellite dish setup,,'','',,2,0,0,2
+Satellite equipment,,'','','',3,0,0,3
+Satellite equipment setup,,'','','',3,0,0,3
+Satellite longitude:,,'','','',3,0,0,3
+Satellites,,'','','',3,0,0,3
+Sats,,'','','',3,0,0,3
+Saturation,,'','','',3,0,0,3
+Saturday,Sift,Sift,Sift,Sift,4,1,3,0
+Save,,'','','',3,0,0,3
+Save last directory on exit,,,'',,1,0,0,1
+Save playlist,,'','','',3,0,0,3
+Save playlist on exit,,,'',,1,0,0,1
+Scaler sharpness,,'','','',3,0,0,3
+Scaling mode,,'','','',3,0,0,3
+Scan ,,'','','',3,0,0,3
+Scan %s,,'','','',3,0,0,3
+Scan %s band,,'','','',3,0,0,3
+Scan additional SR,,'','','',3,0,0,3
+Scan files...,,'','','',3,0,0,3
+Scan for local extensions and install them.,,,Giradiye mehali bigeri.,,1,1,0,0
+Scan wireless networks,,'','','',3,0,0,3
+Scan your network for wireless access points and connect to them using your selected wireless device.\n,,'','','',3,0,0,3
+Scanning %s...,,'','','',3,0,0,3
+Scanning failed!,,'','','',3,0,0,3
+Scanning...,,'','','',3,0,0,3
+Scans default lamedbs sorted by satellite with a connected dish positioner,,'','','',3,0,0,3
+Search east,,'','','',3,0,0,3
+Search west,,'','','',3,0,0,3
+Searching,,'','','',3,0,0,3
+Searching east ...,,'','','',3,0,0,3
+Searching for available updates. Please wait...,,'','','',3,0,0,3
+Searching for new installed or removed packages. Please wait...,,'','','',3,0,0,3
+Searching west ...,,'','','',3,0,0,3
+Secondary DNS,,'','','',3,0,0,3
+Seek,,'','','',3,0,0,3
+Seek backward,,'','','',3,0,0,3
+Seek backward (enter time),,'','','',3,0,0,3
+Seek forward,,'','','',3,0,0,3
+Seek forward (enter time),,'','','',3,0,0,3
+Select,,'','','',3,0,0,3
+Select CAId,,'','','',3,0,0,3
+Select HDD,,,'',,1,0,0,1
+Select a bouquet,,,'',,1,0,0,1
+Select a movie,,,'',,1,0,0,1
+Select a network adapter,,,'',,1,0,0,1
+Select a tuner,,,'',,1,0,0,1
+Select a wireless network,,'','','',3,0,0,3
+Select audio track,,'','','',3,0,0,3
+Select backup files,,'','','',3,0,0,3
+Select backup location,,'','','',3,0,0,3
+Select channel to record from,,'','','',3,0,0,3
+Select copy destination for:,,'','','',3,0,0,3
+Select destination for:,,'','','',3,0,0,3
+Select files for backup.,,'','','',3,0,0,3
+Select files/folders to backup,,'','','',3,0,0,3
+Select input device,,'','',,2,0,0,2
+Select input device.,,'','','',3,0,0,3
+Select interface,,'','','',3,0,0,3
+Select movie,,'','','',3,0,0,3
+Select provider to add...,,'','','',3,0,0,3
+Select refresh rate,,'','','',3,0,0,3
+Select service to add...,,'','','',3,0,0,3
+Select target folder,,'','','',3,0,0,3
+Select the movie path,,'','','',3,0,0,3
+Select update source,,,'',,1,0,0,1
+Select update source to edit,,,'',,1,0,0,1
+Select video input with up/down buttons,,'','','',3,0,0,3
+Select video mode,,'','','',3,0,0,3
+Select wireless network,,'','','',3,0,0,3
+Select your backup device.\nCurrent device: ,,,'',,1,0,0,1
+"Select your provider, and press OK to start the scan",,'','','',3,0,0,3
+Send DiSEqC,,'','','',3,0,0,3
+Send DiSEqC only on satellite change,,'','','',3,0,0,3
+Separate titles with a main menu,,,'',,1,0,0,1
+Sequence repeat,,'','','',3,0,0,3
+Serbian,,'','','',3,0,0,3
+Service,Hizmeti,Hizmeti,Hizmeti,Hizmeti,4,1,3,0
+Service has been added to the favourites.,,'','',,2,0,0,2
+Service has been added to the selected bouquet.,,'','',,2,0,0,2
+Service info,,,'',,1,0,0,1
+Service invalid!\n(Timeout reading PMT),,'','','',3,0,0,3
+Service name,,,'',,1,0,0,1
+Service not found!\n(SID not found in PAT),,'','','',3,0,0,3
+Service reference,,'','','',3,0,0,3
+Service scan,,'','','',3,0,0,3
+Service title mode,,,'',,1,0,0,1
+Service unavailable!\nCheck tuner configuration!,,'','','',3,0,0,3
+Services,,'','','',3,0,0,3
+Set as startup service,,,'',,1,0,0,1
+Set end time,,,'',,1,0,0,1
+Set fixed,,'','','',3,0,0,3
+Set interface as default Interface,,'','',,2,0,0,2
+Set limits,,'','','',3,0,0,3
+Set the type of the progress indication in the channel selection screen.,,'','','',3,0,0,3
+Set time window to 1 hour,,,'',,1,0,0,1
+Set time window to 2 hours,,,'',,1,0,0,1
+Set time window to 3 hours,,,'',,1,0,0,1
+Set time window to 4 hours,,,'',,1,0,0,1
+Set time window to 5 hours,,,'',,1,0,0,1
+Set voltage and 22KHz,,'','','',3,0,0,3
+Settings,,'','','',3,0,0,3
+Setup,Çékirin,Çékirin,Çékirin,Çékirin,4,1,3,0
+Setup menu,,'','','',3,0,0,3
+Setup mode,,'','','',3,0,0,3
+Setup your positioner,,'','','',3,0,0,3
+Setup your satellite equipment,,'','','',3,0,0,3
+Sharpness,,'','','',3,0,0,3
+Short filenames,,'','','',3,0,0,3
+Show EIT now/next in infobar,,'','','',3,0,0,3
+Show EPG for current channel...,,'','',,2,0,0,2
+Show EPG...,,,'',,1,0,0,1
+Show Games show,,'','',,2,0,0,2
+Show SNR percentage instead of dB value,,,'',,1,0,0,1
+Show WLAN status,,'','','',3,0,0,3
+Show alternatives,,,'',,1,0,0,1
+Show animation while busy,,'','','',3,0,0,3
+Show background in radio mode,,,'',,1,0,0,1
+Show bouquet selection menu,,,'',,1,0,0,1
+Show busy indicator when the system is busy.,,,'',,1,0,0,1
+Show channel numbers in channel selection,,'','','',3,0,0,3
+Show crypto info in infobar,,'','','',3,0,0,3
+Show detailed event info,,'','','',3,0,0,3
+Show event details,,'','','',3,0,0,3
+Show event-progress in channel selection,,'','','',3,0,0,3
+Show extended description,,'','','',3,0,0,3
+Show extensions...,,'','','',3,0,0,3
+Show icon for new/unseen items,,'','','',3,0,0,3
+Show info,,'','','',3,0,0,3
+Show info line,,'','','',3,0,0,3
+Show infobar on channel change,,'','','',3,0,0,3
+Show infobar on event change,,'','','',3,0,0,3
+Show infobar on skip forward/backward,,'','','',3,0,0,3
+Show media player on main menu,,,'',,1,0,0,1
+Show message when recording starts,,'','','',3,0,0,3
+Show movie lengths in movielist,,'','',,2,0,0,2
+Show positioner movement,,'','','',3,0,0,3
+Show second infobar,,'','','',3,0,0,3
+Show status icons in movie list,,,'',,1,0,0,1
+Show status icons in movielist,,'','',,2,0,0,2
+Show the radio player...,,'','','',3,0,0,3
+Show the tv player...,,'','','',3,0,0,3
+Show transponder info,,,'',,1,0,0,1
+Shows the state of your wireless LAN connection.\n,,'','','',3,0,0,3
+Shuffle playlist,,'','','',3,0,0,3
+Shutdown,,'','',,2,0,0,2
+Side by side,,'','','',3,0,0,3
+"Signal OK, proceeding",,'','','',3,0,0,3
+Signal quality,,'','','',3,0,0,3
+Signal strength:,,'','','',3,0,0,3
+Signal: ,,'','','',3,0,0,3
+Similar,,'','','',3,0,0,3
+Similar broadcasts:,,'','','',3,0,0,3
+Simple,,'','','',3,0,0,3
+Simple titleset (compatibility for legacy players),,'','','',3,0,0,3
+Single,,'','','',3,0,0,3
+Single EPG,,'','','',3,0,0,3
+Single satellite,,'','','',3,0,0,3
+Single step (GOP),,'','','',3,0,0,3
+Site latitude,,'','','',3,0,0,3
+Site longitude,,'','','',3,0,0,3
+Skins,,'','','',3,0,0,3
+Skip empty services,,'','','',3,0,0,3
+Skip internet connection check (disables automatic package installation),,'','','',3,0,0,3
+Sleep timer,,,'',,1,0,0,1
+Slide picture in loop,,'','','',3,0,0,3
+Slide show interval (sec.),,'','','',3,0,0,3
+Slot %d,,'','','',3,0,0,3
+Slovak,,'','','',3,0,0,3
+Slovenian,,'','','',3,0,0,3
+Slow,,'','','',3,0,0,3
+Slow motion speeds,,'','','',3,0,0,3
+Small progress,,'','','',3,0,0,3
+Social/Political/Economics,,'','','',3,0,0,3
+SoftCam / CI,,'','',,2,0,0,2
+Software,,'','','',3,0,0,3
+Software management,,'','','',3,0,0,3
+Software manager setup,,'','','',3,0,0,3
+Software update,Nisisiya İmage Bine,Nisisiya İmage Bine,Nisisiya İmage Bine,Nisisiya İmage Bine,4,1,3,0
+Softwaremanager information,,'','','',3,0,0,3
+Some plugins are not available:\n,,'','','',3,0,0,3
+"Sorry, %s has not been installed!",,'','','',3,0,0,3
+"Sorry, deleting directories can (for now) only be done through the trash can.",,,'',,1,0,0,1
+"Sorry, no backups found!",,'','','',3,0,0,3
+"Sorry, no details available!",,'','','',3,0,0,3
+"Sorry, your backup destination is not writeable.\nPlease select a different one.",,'','','',3,0,0,3
+Sort,,'','','',3,0,0,3
+Sort A-Z,,,'',,1,0,0,1
+Sort time,,,'',,1,0,0,1
+Sorting of playlists,,,'',,1,0,0,1
+Sound,,'','','',3,0,0,3
+Sound carrier,,'','','',3,0,0,3
+Source request,,'','','',3,0,0,3
+South,,'','','',3,0,0,3
+Spanish,,'','','',3,0,0,3
+Split preview mode,,'','','',3,0,0,3
+Sports,,'','','',3,0,0,3
+Standard,,'','','',3,0,0,3
+Standby,,'','','',3,0,0,3
+Standby / restart,Bigiri / Nu Vegeri,Bigiri / Nu Vegeri,Bigiri / Nu Vegeri,Bigiri / Nu Vegeri,4,1,3,0
+Standby fan %d PWM,,,'',,1,0,0,1
+Standby fan %d voltage,,,'',,1,0,0,1
+Start directory,,,'',,1,0,0,1
+Start from the beginning,,'','','',3,0,0,3
+Start offline decode,,'','','',3,0,0,3
+Start recording?,,'','','',3,0,0,3
+Start test,,'','','',3,0,0,3
+Start time,,'','','',3,0,0,3
+Start timeshift,,'','','',3,0,0,3
+Start with list screen,,,'',,1,0,0,1
+Starting on,,'','','',3,0,0,3
+Step east,,'','','',3,0,0,3
+Step west,,'','','',3,0,0,3
+Stepped east,,'','','',3,0,0,3
+Stepped west,,'','','',3,0,0,3
+Stop,,'','','',3,0,0,3
+Stop PiP,,'','','',3,0,0,3
+Stop current event and disable coming events,,'','',,2,0,0,2
+Stop current event but not coming events,,'','',,2,0,0,2
+Stop entry,,'','','',3,0,0,3
+Stop playing this movie?,,'','','',3,0,0,3
+Stop recording,,'','','',3,0,0,3
+Stop recording and delete,,'','','',3,0,0,3
+Stop test,,'','','',3,0,0,3
+Stop testing plane after # failed transponders,,'','','',3,0,0,3
+Stop testing plane after # successful transponders,,'','','',3,0,0,3
+Stop timeshift,,'','','',3,0,0,3
+Stop timeshift?,,,'',,1,0,0,1
+Stop using as startup service,,,'',,1,0,0,1
+Stopped,,'','','',3,0,0,3
+Store at index,,'','','',3,0,0,3
+Store position,,'','','',3,0,0,3
+Stored position,,'','','',3,0,0,3
+Stream,,'','','',3,0,0,3
+Stream request,,'','','',3,0,0,3
+Strongest position,,'','','',3,0,0,3
+Subservice list...,,,'',,1,0,0,1
+Subservices,,'','','',3,0,0,3
+Subtitle alignment,,'','','',3,0,0,3
+Subtitle border width,,'','','',3,0,0,3
+Subtitle delay when timing lacks,,'','','',3,0,0,3
+Subtitle font size,,'','','',3,0,0,3
+Subtitle language selection 1,,'','','',3,0,0,3
+Subtitle language selection 2,,'','','',3,0,0,3
+Subtitle language selection 3,,'','','',3,0,0,3
+Subtitle language selection 4,,'','','',3,0,0,3
+Subtitle position,,'','','',3,0,0,3
+Subtitle selection,,'','','',3,0,0,3
+Subtitle selection...,,'','','',3,0,0,3
+Subtitle settings,Çékirina Bin nivisi,Çékirina Bin nivisi,Çékirina Bin nivisi,,3,1,2,0
+Subtitles,,'','','',3,0,0,3
+Sun,,'','','',3,0,0,3
+Sunday,Bazaar,Bazaar,Bazaar,Bazaar,4,1,3,0
+Swap PiP and main picture,,'','','',3,0,0,3
+Swap services,,'','','',3,0,0,3
+Swedish,,'','','',3,0,0,3
+Switch TV to correct input,,'','','',3,0,0,3
+Switch between normal mode and list mode,,,'',,1,0,0,1
+Switch to bookmarks,,,'',,1,0,0,1
+Switch to filelist,,'','','',3,0,0,3
+Switch to next channel in history,,'','',,2,0,0,2
+Switch to next sub service,,'','','',3,0,0,3
+Switch to playlist,,'','','',3,0,0,3
+Switch to previous channel,,'','',,2,0,0,2
+Switch to previous channel in history,,'','',,2,0,0,2
+Switch to previous sub service,,'','','',3,0,0,3
+Symbol rate,,'','','',3,0,0,3
+Sync failure moving back to origin !,,'','','',3,0,0,3
+System,Systemé wi,Systemé wi,Systemé wi,Systemé wi,4,1,3,0
+TRANSLATOR_INFO,,'','','',3,0,0,3
+TS file is too large for ISO9660 level 1!,,'','','',3,0,0,3
+TSID,,'','','',3,0,0,3
+TV physical address report,,'','','',3,0,0,3
+TXT PID,,'','','',3,0,0,3
+Table of contents for collection,,'','','',3,0,0,3
+Tags,,'','','',3,0,0,3
+Teletext subtitle color,,'','','',3,0,0,3
+Temperature and fan control,,,'',,1,0,0,1
+Terrestrial,,'','','',3,0,0,3
+Test DiSEqC settings,,'','','',3,0,0,3
+Test mode,,'','','',3,0,0,3
+Test the network configuration of your receiver.\n,,,'',,1,0,0,1
+Test type,,'','','',3,0,0,3
+Text color,,'','','',3,0,0,3
+Thai,,'','','',3,0,0,3
+Thank you for using the wizard.\nPlease press OK to continue.,,'','','',3,0,0,3
+Thank you for using the wizard. Your receiver is now ready for use.\nPress OK to start using your receiver.,,,'',,1,0,0,1
+The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to create a special format data DVD (which will not play in stand-alone DVD players) instead?,,,'',,1,0,0,1
+The PIN code has been changed successfully.,,'','','',3,0,0,3
+The PIN codes you entered are different.,,'','','',3,0,0,3
+The directory %s is not writable.\nMake sure you select a writable directory instead.,,'','','',3,0,0,3
+The following files were found...,,'','','',3,0,0,3
+The network wizard extension is not installed!\nPlease install it.,,'','','',3,0,0,3
+The path %s already exists.,,'','','',3,0,0,3
+The pin code you entered is wrong.,,'','','',3,0,0,3
+The sleep timer has been activated.,,,'',,1,0,0,1
+The sleep timer has been disabled.,,,'',,1,0,0,1
+The software management extension is not installed!\nPlease install it.,,'','','',3,0,0,3
+The timer file (timers.xml) is corrupt and could not be loaded.,,'','','',3,0,0,3
+The user interface of your receiver is restarting,,,'',,1,0,0,1
+The user interface of your receiver is restarting\ndue to an error in mytest.py,,,'',,1,0,0,1
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,'','','',3,0,0,3
+The wireless LAN plugin is not installed!\nPlease install it.,,'','','',3,0,0,3
+There are at least ,,'','','',3,0,0,3
+There are at least %s updates available.,,'','','',3,0,0,3
+There are currently no outstanding actions.,,'','','',3,0,0,3
+There are no updates available.,,'','','',3,0,0,3
+There is no signal to lock on !,,'','','',3,0,0,3
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,,'',,1,0,0,1
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,,'','','',3,0,0,3
+This plugin is installed.,,'','','',3,0,0,3
+This plugin is not installed.,,'','','',3,0,0,3
+This plugin will be installed.,,'','','',3,0,0,3
+This plugin will be removed.,,'','','',3,0,0,3
+This receiver cannot decode %s streams!,,,'',,1,0,0,1
+"This test checks for configured nameservers.\nIf you get a \""unconfirmed\"" message:\n- please check your DHCP, cabling and adapter setup\n- if you configured your nameservers manually please verify your entries in the \""Nameserver\"" configuration",,'','',,2,0,0,2
+"This test checks whether a network cable is connected to your LAN adapter.\nIf you get a \""disconnected\"" message:\n- verify that a network cable is attached\n- verify that the cable is not broken",,'','',,2,0,0,2
+"This test checks whether a valid IP address is found for your LAN adapter.\nIf you get a \""unconfirmed\"" message:\n- no valid IP address was found\n- please check your DHCP, cabling and adapter setup",,'','',,2,0,0,2
+This test detects your configured LAN adapter.,,'','',,2,0,0,2
+This will (re-)calculate all positions of your rotor and may remove previously memorised positions and fine-tuning!\nAre you sure?,,'','','',3,0,0,3
+Three,,'','','',3,0,0,3
+Threshold,,'','','',3,0,0,3
+Thu,,'','','',3,0,0,3
+Thumbnails,,'','','',3,0,0,3
+Thursday,Péncşem,Péncşem,Péncşem,Péncşem,4,1,3,0
+Time,,'','','',3,0,0,3
+Time scale,,'','','',3,0,0,3
+Timer,,,Vext,,1,1,0,0
+Timer edit,,,'',,1,0,0,1
+Timer entry,,'','',,2,0,0,2
+Timer log,,'','',,2,0,0,2
+Timer overlap in timers.xml detected!\nPlease recheck it!,,'','','',3,0,0,3
+Timer overview,,'','',,2,0,0,2
+Timer recording location,,'','','',3,0,0,3
+Timer sanity error,,'','',,2,0,0,2
+Timer selection,,'','','',3,0,0,3
+Timer type,,'','','',3,0,0,3
+Timeshift,,'','','',3,0,0,3
+Timeshift location,,'','','',3,0,0,3
+Timeshift not possible!,,'','','',3,0,0,3
+Timezone,,Wextu Zeman,Wextu Zeman,,2,1,1,0
+Title,,'','','',3,0,0,3
+Title properties,,'','','',3,0,0,3
+Titleset mode,,'','','',3,0,0,3
+To audio selection,,,'',,1,0,0,1
+To subtitle selection,,,'',,1,0,0,1
+Today,,'','','',3,0,0,3
+Toggle a cut mark at the current position,,'','','',3,0,0,3
+Tone amplitude,,'','','',3,0,0,3
+Tone mode,,'','','',3,0,0,3
+Toneburst,,'','','',3,0,0,3
+Toneburst A/B,,'','','',3,0,0,3
+Top and bottom,,'','',,2,0,0,2
+Track,,'','','',3,0,0,3
+Translation,,,'',,1,0,0,1
+Translation:,,,'',,1,0,0,1
+Transmission mode,,'','','',3,0,0,3
+Transponder,,'','','',3,0,0,3
+Trash can,,,'',,1,0,0,1
+Tries left:,,'','','',3,0,0,3
+Try to find used transponders in cable network.. please wait...,,'','','',3,0,0,3
+Trying to download a new packetlist. Please wait...,,'','','',3,0,0,3
+Tue,,'','','',3,0,0,3
+Tuesday,Duşem,Duşem,Duşem,Duşem,4,1,3,0
+Tune,,'','','',3,0,0,3
+Tune and focus,,'','','',3,0,0,3
+Tune failed!,,'','','',3,0,0,3
+Tuner,,'','','',3,0,0,3
+Tuner configuration,Çékirina Tuner ,Çékirina Tuner ,Çékirina Tuner ,,3,1,2,0
+Tuner slot,,'','','',3,0,0,3
+Tuner type,,'','','',3,0,0,3
+Turkish,,'','','',3,0,0,3
+Two,,'','','',3,0,0,3
+Type,,'','','',3,0,0,3
+Type of scan,,'','','',3,0,0,3
+USALS,,'','','',3,0,0,3
+USALS calibration,,'','',,2,0,0,2
+USB stick,,,'',,1,0,0,1
+Unattended update in progress\nPlease wait until your receiver reboots\nThis may take a few minutes,,,'',,1,0,0,1
+Undo install,,'','','',3,0,0,3
+Undo uninstall,,'','','',3,0,0,3
+Unencrypted,,'','','',3,0,0,3
+UnhandledKey,,,'',,1,0,0,1
+Uninstall,,'','','',3,0,0,3
+Universal LNB,,'','','',3,0,0,3
+Unknown,,'','','',3,0,0,3
+Unmount,,'','',,2,0,0,2
+Unsupported,,'','','',3,0,0,3
+Update,,'','','',3,0,0,3
+Update and ask to reboot,,,'',,1,0,0,1
+Update and reboot (recommended),,,'',,1,0,0,1
+Update channel list only,,'','','',3,0,0,3
+Update completed. Do you want to reboot your receiver?,,,'',,1,0,0,1
+Update failed. Your receiver does not have a working internet connection.,,,'',,1,0,0,1
+Update has completed.,,,'',,1,0,0,1
+Updatefeed not available.,,'','','',3,0,0,3
+Updating,,,'',,1,0,0,1
+Updating software catalog,,'','','',3,0,0,3
+Use,,'','','',3,0,0,3
+Use DHCP,,'','','',3,0,0,3
+Use EIT EPG information when it is available.,,'','','',3,0,0,3
+Use FreeSat EPG information when it is available.,,'','','',3,0,0,3
+Use MHW EPG information when it is available.,,'','','',3,0,0,3
+Use Netmed EPG information when it is available.,,'','','',3,0,0,3
+Use TV remote control,,'','','',3,0,0,3
+Use USALS for this sat,,'','','',3,0,0,3
+Use ViaSat EPG information when it is available.,,'','','',3,0,0,3
+Use a gateway,,'','','',3,0,0,3
+Use fastscan channel names,,'','','',3,0,0,3
+Use fastscan channel numbering,,'','','',3,0,0,3
+Use interface,,'','','',3,0,0,3
+Use official channel numbering,,'','','',3,0,0,3
+Use original DVB subtitle position,,'','','',3,0,0,3
+Use original teletext position,,'','','',3,0,0,3
+Use power measurement,,'','','',3,0,0,3
+Use the network wizard to configure selected network adapter,,'','','',3,0,0,3
+Use the network wizard to configure your network\n,,,'',,1,0,0,1
+"Use the up/down keys on your remote control to select an option. After that, press OK.",,'','','',3,0,0,3
+Use the wizard to set up basic features,,'','','',3,0,0,3
+Use these input device settings?,,'','','',3,0,0,3
+Use these settings?,,'','','',3,0,0,3
+Use this video enhancement settings?,,'','','',3,0,0,3
+Use trash can in movielist,,'','',,2,0,0,2
+Used service scan type,,'','','',3,0,0,3
+User - bouquets,,'','','',3,0,0,3
+User defined,,'','','',3,0,0,3
+User interface,,Çékirina te,Çékirina te,Çékirina te,3,1,2,0
+Using LNB %d,,'','','',3,0,0,3
+Using fixed address,,'','','',3,0,0,3
+Using tuner %s,,'','','',3,0,0,3
+"Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used.",,'','','',3,0,0,3
+VCR scart,,'','','',3,0,0,3
+VMGM (intro trailer),,'','','',3,0,0,3
+Vertical,,'','','',3,0,0,3
+Vertical turning speed,,'','','',3,0,0,3
+Video PID,,'','','',3,0,0,3
+Video enhancement preview,,'','','',3,0,0,3
+Video enhancement settings,,,'',,1,0,0,1
+Video enhancement setup,,'','','',3,0,0,3
+Video input selection\n\nPlease press OK if you can see this page on your TV (or select a different input port).\n\nThe next input port will be automatically probed in 20 seconds.,,'','',,2,0,0,2
+Video mode selection.,,'','','',3,0,0,3
+Video output,,'','','',3,0,0,3
+Video setup,,'','',,2,0,0,2
+Video wizard,,'','',,2,0,0,2
+View Rass interactive...,,'','','',3,0,0,3
+View details,,'','','',3,0,0,3
+View list of available ,,'','','',3,0,0,3
+View list of available CommonInterface extensions,,'','','',3,0,0,3
+View list of available EPG extensions.,,'','','',3,0,0,3
+View list of available Satellite equipment extensions.,,'','','',3,0,0,3
+View list of available communication extensions.,,'','','',3,0,0,3
+View list of available default settings,,'','','',3,0,0,3
+View list of available display and userinterface extensions.,,'','','',3,0,0,3
+View list of available multimedia extensions.,,'','','',3,0,0,3
+View list of available networking extensions,,'','','',3,0,0,3
+View list of available recording extensions,,'','','',3,0,0,3
+View list of available skins,,'','','',3,0,0,3
+View list of available software extensions,,'','','',3,0,0,3
+View list of available system extensions,,'','','',3,0,0,3
+View photos...,,'','','',3,0,0,3
+View teletext...,,'','','',3,0,0,3
+View video CD...,,'','','',3,0,0,3
+"View, install and remove available or installed packages.",,,'',,1,0,0,1
+Virtual keyboard,,,'',,1,0,0,1
+Voltage mode,,'','','',3,0,0,3
+Volume,,,'',,1,0,0,1
+W,,'','','',3,0,0,3
+WEP,,'','','',3,0,0,3
+WLAN connection,,'','','',3,0,0,3
+WPA,,'','','',3,0,0,3
+WPA or WPA2,,'','','',3,0,0,3
+WPA2,,'','','',3,0,0,3
+WSS on 4:3,,'','','',3,0,0,3
+Waiting,,'','','',3,0,0,3
+Waiting for mount,,'','',,2,0,0,2
+Waiting for partition,,'','',,2,0,0,2
+Wakeup,,'','','',3,0,0,3
+Wakeup TV from standby,,'','','',3,0,0,3
+Wakeup receiver from standby,,,'',,1,0,0,1
+Wakeup signal from TV,,'','','',3,0,0,3
+Warning: no LNB; using factory defaults.,,'','','',3,0,0,3
+Watch movies...,,'','','',3,0,0,3
+Watch recordings...,,'','','',3,0,0,3
+Wed,,'','','',3,0,0,3
+Wednesday,Çarşem,Çarşem,Çarşem,Çarşem,4,1,3,0
+Weekday,,'','','',3,0,0,3
+Weighted position,,'','','',3,0,0,3
+"Welcome to the cutlist editor.\n\nSeek to the start of the stuff you want to cut away. Press OK, select 'start cut'.\n\nThen seek to the end, press OK, select 'end cut'. That's it.",,'','','',3,0,0,3
+"Welcome.\n\nIf you want to connect your receiver to the Internet, this wizard will guide you through the basic network setup of your receiver.\n\nPress OK to start configuring your network",,,'',,1,0,0,1
+Welcome.\n\nThis start wizard will guide you through the basic setup of your receiver.\nPress the OK button on your remote control to move to the next step.,,,'',,1,0,0,1
+Welcome...,,,'',,1,0,0,1
+West,,'','','',3,0,0,3
+West limit set,,'','','',3,0,0,3
+"When enabled, AIT data will be included in http streams. This allows a client receiver to use HbbTV.",,'','','',3,0,0,3
+"When enabled, ECM data will be included in http streams. This allows a client receiver to do the descrambling.",,,'',,1,0,0,1
+"When enabled, EIT data will be included in http streams. This allows a client receiver to show EPG.",,'','','',3,0,0,3
+"When enabled, a popup message will be shown when a movie has finished and the next one will start.",,'','','',3,0,0,3
+"When enabled, a popup message will be shown when a recording starts.",,'','','',3,0,0,3
+"When enabled, a radio background image will be visible while listening to a radio channel.",,,'',,1,0,0,1
+"When enabled, a recording is allowed to interrupt live tv, when there are no free tuners.",,,'',,1,0,0,1
+"When enabled, channel numbering will start at '1' for each bouquet.",,,'',,1,0,0,1
+"When enabled, content with an aspect ratio of 4:3 will be stretched to fit the screen.",,'','','',3,0,0,3
+"When enabled, continue to the next bouquet when the last channel of the current bouquet is reached while changing channels.",,,'',,1,0,0,1
+"When enabled, deleted recordings are moved to the trash can, instead of being deleted immediately.",,'','','',3,0,0,3
+"When enabled, display the EIT now/next eventdata in infobar. When disabled, display now/next eventdata from the EPG cache instead.",,,'',,1,0,0,1
+"When enabled, encryption info will be shown in the infobar (when supported by the skin).",,,'',,1,0,0,1
+"When enabled, error messages related to zapping will not be shown.",,,'',,1,0,0,1
+"When enabled, graphical DVB subtitles are preferred over teletext subtitles, when both types are available.",,'','','',3,0,0,3
+"When enabled, graphical DVB subtitles will be centered horizontally.",,'','',,2,0,0,2
+"When enabled, graphical DVB subtitles will be displayed at their original position.",,'','','',3,0,0,3
+"When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color.",,'','','',3,0,0,3
+"When enabled, measure power consumption to detect when the rotor stops turning (when supported by the tuner).",,'','','',3,0,0,3
+"When enabled, services may be grouped in multiple bouquets.",,,'',,1,0,0,1
+"When enabled, show channel numbers in the channel selection screen.",,'','','',3,0,0,3
+"When enabled, subtitles for the hearing impaired can be used.",,'','','',3,0,0,3
+"When enabled, subtitles for the hearing impaired will be preferred over normal subtitles, when both types are available.",,'','','',3,0,0,3
+"When enabled, teletext pages will be cached, allowing faster access.",,'','','',3,0,0,3
+"When enabled, teletext subtitles will be displayed at their original position.",,'','','',3,0,0,3
+"When enabled, the channel selection list will be hidden while listening to a radio channel",,,'',,1,0,0,1
+"When enabled, the infobar will be displayed when a new event starts.",,,'',,1,0,0,1
+"When enabled, the infobar will be displayed when changing channels.",,,'',,1,0,0,1
+"When enabled, the infobar will be displayed when skipping forwards/backwards during media playback.",,,'',,1,0,0,1
+"When enabled, the lenght of each recording will be shown in the movielist (this might cause some additional loading time).",,,'',,1,0,0,1
+"When enabled, the receiver will automatically use the audio track which you selected before.",,'','','',3,0,0,3
+"When enabled, the receiver will automatically use the subtitles which you selected before.",,'','','',3,0,0,3
+"When enabled, the receiver will no longer monitor the tuned transponder for possible changes. Do not use this option unless you know what you are doing.",,,'',,1,0,0,1
+"When enabled, the receiver will select an AC3 track (when available).",,'','','',3,0,0,3
+"When enabled, use DHCP for the IP configuration.",,'','','',3,0,0,3
+"When nonzero, a recording will start earlier than the starting time indicated by the EPG.",,'','','',3,0,0,3
+"When nonzero, a recording will stop later than the ending time indicated by the EPG.",,'','','',3,0,0,3
+"When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture.",,'','','',3,0,0,3
+"When the content has an aspect ratio of 4:3, choose whether to scale/stretch the picture.",,'','','',3,0,0,3
+Where to save temporary timeshift recordings?,,'','','',3,0,0,3
+Wireless LAN,,'','','',3,0,0,3
+Wireless network,,'','','',3,0,0,3
+Wireless network configuration...,,'','','',3,0,0,3
+Wireless network connection setup,,'','','',3,0,0,3
+Wireless network connection setup.,,'','','',3,0,0,3
+Wireless network state,,'','','',3,0,0,3
+Write error while recording. Disk full?\n,,'','','',3,0,0,3
+Write failed!,,'','','',3,0,0,3
+YPbPr,,'','','',3,0,0,3
+Year,,'','','',3,0,0,3
+Yellow DVB subtitles,,'','','',3,0,0,3
+Yes,,'','','',3,0,0,3
+Yes to all,,'','','',3,0,0,3
+"Yes, always",,'','','',3,0,0,3
+"Yes, and delete this movie",,'','','',3,0,0,3
+"Yes, returning to movie list",,'','',,2,0,0,2
+Yesterday,,'','','',3,0,0,3
+"You already have a channel list installed,\nwould you like to remove\n\""%s\""?",,'','','',3,0,0,3
+You can cancel the installation.,,'','','',3,0,0,3
+You can cancel the removal.,,'','','',3,0,0,3
+You can continue watching TV etc. while this is running.,,'','',,2,0,0,2
+You can install this plugin.,,'','','',3,0,0,3
+You can only burn receiver recordings!,,,'',,1,0,0,1
+You can remove this plugin.,,'','','',3,0,0,3
+You cannot delete this!,,'','','',3,0,0,3
+You didn't select a channel to record from.,,'','','',3,0,0,3
+You have to wait %s!,,'','','',3,0,0,3
+"Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!",,'','','',3,0,0,3
+Your current collection will get lost!,,'','','',3,0,0,3
+Your frontprocessor will be updated\nPlease wait until your receiver reboots\nThis may take a few minutes,,,'',,1,0,0,1
+Your internet connection is not working!\nPlease choose what you want to do next.,,'','','',3,0,0,3
+Your internet connection is working (ip: %s),,'','','',3,0,0,3
+Your network configuration has been activated.,,'','','',3,0,0,3
+Your receiver does not have an internet connection,,'','','',3,0,0,3
+Your receiver is now ready to be used.\n\nYour internet connection is working.\n\n,,,'',,1,0,0,1
+Your receiver is now ready to use.\n\nYour internet connection is working now.\n\nPlease press OK to continue.,,,'',,1,0,0,1
+Your receiver is rebooting,,,'',,1,0,0,1
+Your receiver is shutting down,,,'',,1,0,0,1
+Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your receiver.,,,'',,1,0,0,1
+Your receiver will restart after pressing OK on your remote control.,,,'',,1,0,0,1
+Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,,'','','',3,0,0,3
+Zap,,'','','',3,0,0,3
+Zap back to previously tuned service?,,'','','',3,0,0,3
+Zap back to service before positioner setup?,,'','','',3,0,0,3
+Zap focus to Picture in Picture,,'','','',3,0,0,3
+Zap focus to main screen,,'','','',3,0,0,3
+Zap mode,,'','','',3,0,0,3
+Zap to selected channel,,,'',,1,0,0,1
+"Zap to selected channel, or show detailed event info (depends on configuration)",,,'',,1,0,0,1
+[alternative edit],,'','','',3,0,0,3
+[bouquet edit],,'','','',3,0,0,3
+[favourite edit],,'','','',3,0,0,3
+[move mode],,'','','',3,0,0,3
+a gui to assign services/providers to common interface modules,,'','','',3,0,0,3
+a gui to assign services/providers/caids to common interface modules,,'','','',3,0,0,3
+about to start,,'','','',3,0,0,3
+activate network adapter configuration,,'','',,2,0,0,2
+adult movie/drama,,'','','',3,0,0,3
+advanced,,'','','',3,0,0,3
+adventure/western/war,,'','','',3,0,0,3
+advertisement/shopping,,'','','',3,0,0,3
+alphabetic,,'','','',3,0,0,3
+alphabetic reverse,,'','','',3,0,0,3
+"arts/culture (without music, general)",,'','','',3,0,0,3
+arts/culture magazine,,'','','',3,0,0,3
+athletics,,'','','',3,0,0,3
+audio tracks,,'','','',3,0,0,3
+auto,,'','','',3,0,0,3
+automatic,,'','','',3,0,0,3
+back,,'','','',3,0,0,3
+background image,,'','','',3,0,0,3
+ballet,,'','','',3,0,0,3
+bc%s,,'','',,2,0,0,2
+better,,'','','',3,0,0,3
+black,,'','','',3,0,0,3
+black & white,,'','','',3,0,0,3
+blacklist,,'','','',3,0,0,3
+blue,,'','','',3,0,0,3
+broadcasting/press,,'','','',3,0,0,3
+by date,,'','','',3,0,0,3
+cartoon/puppets,,'','','',3,0,0,3
+center,,'','','',3,0,0,3
+chapters,,'','','',3,0,0,3
+childrens's/youth program (general),,'','',,2,0,0,2
+circular left,,'','','',3,0,0,3
+circular right,,'','','',3,0,0,3
+comedy,,'','','',3,0,0,3
+config menu,,,'',,1,0,0,1
+confirmed,,'','','',3,0,0,3
+connected,,'','','',3,0,0,3
+cooking,,'','','',3,0,0,3
+daily,,'','','',3,0,0,3
+day,,'','','',3,0,0,3
+default,,,'',,1,0,0,1
+delete cut,,'','','',3,0,0,3
+descramble and record ecm,,'','','',3,0,0,3
+detective/thriller,,'','','',3,0,0,3
+disable,,'','','',3,0,0,3
+disabled,,'','','',3,0,0,3
+disconnected,,'','','',3,0,0,3
+discussion/interview/debate,,'','','',3,0,0,3
+do nothing,,'','','',3,0,0,3
+documentary,,'','','',3,0,0,3
+"don't descramble, record ecm",,'','','',3,0,0,3
+done!,,'','','',3,0,0,3
+east,,'','','',3,0,0,3
+economics/social advisory,,'','','',3,0,0,3
+education/science/factual topics (general),,'','','',3,0,0,3
+empty,,'','','',3,0,0,3
+enable,,'','','',3,0,0,3
+enabled,,'','','',3,0,0,3
+end cut here,,'','','',3,0,0,3
+entertainment (10-16 year old),,'','','',3,0,0,3
+entertainment (6-14 year old),,'','','',3,0,0,3
+equestrian,,'','','',3,0,0,3
+exit DVD player or return to file browser,,'','','',3,0,0,3
+exit network adapter configuration,,'','',,2,0,0,2
+exit networkadapter setup menu,,'','',,2,0,0,2
+experimental film/video,,'','','',3,0,0,3
+false,,'','','',3,0,0,3
+fashion,,'','','',3,0,0,3
+"fileformats (BMP, PNG, JPG, GIF)",,'','','',3,0,0,3
+filename,,'','','',3,0,0,3
+film/cinema,,'','','',3,0,0,3
+fine arts,,'','','',3,0,0,3
+fitness & health,,'','','',3,0,0,3
+flat alphabetic,,'','','',3,0,0,3
+flat alphabetic reverse,,'','','',3,0,0,3
+folk/traditional music,,'','','',3,0,0,3
+football/soccer,,'','','',3,0,0,3
+foreign countries/expeditions,,'','','',3,0,0,3
+forward to the next chapter,,'','','',3,0,0,3
+free,,'','','',3,0,0,3
+further education,,'','','',3,0,0,3
+game show/quiz/contest,,'','','',3,0,0,3
+gardening,,'','','',3,0,0,3
+go to deep standby,,'','','',3,0,0,3
+go to standby,,'','','',3,0,0,3
+grab this frame as bitmap,,'','','',3,0,0,3
+green,,'','','',3,0,0,3
+handicraft,,'','','',3,0,0,3
+height,,'','','',3,0,0,3
+help...,,,'',,1,0,0,1
+horizontal,,'','','',3,0,0,3
+information/education/school program,,'','','',3,0,0,3
+init module,,'','','',3,0,0,3
+init modules,,'','',,2,0,0,2
+insert mark here,,'','','',3,0,0,3
+invalid type,,'','','',3,0,0,3
+jazz,,'','','',3,0,0,3
+jump back to the previous title,,'','','',3,0,0,3
+jump forward to the next title,,'','','',3,0,0,3
+languages,,'','','',3,0,0,3
+leave movie player...,,'','',,2,0,0,2
+left,,'','','',3,0,0,3
+leisure hobbies (general),,'','','',3,0,0,3
+length,,'','','',3,0,0,3
+"limit ..., aborting !",,'','','',3,0,0,3
+list style compact,,,'',,1,0,0,1
+list style compact with description,,,'',,1,0,0,1
+list style default,,,'',,1,0,0,1
+list style single line,,,'',,1,0,0,1
+literature,,'','','',3,0,0,3
+live broadcast,,'','','',3,0,0,3
+locked,,'','','',3,0,0,3
+magazines/reports/documentary,,'','','',3,0,0,3
+manual,,'','','',3,0,0,3
+martial sports,,'','','',3,0,0,3
+medicine/physiology/psychology,,'','','',3,0,0,3
+menu,,'','','',3,0,0,3
+mins,,'','','',3,0,0,3
+minutes,,'','','',3,0,0,3
+month,,'','','',3,0,0,3
+motor sport,,'','','',3,0,0,3
+motoring,,'','','',3,0,0,3
+move down to last entry,,'','',,2,0,0,2
+move down to next entry,,'','',,2,0,0,2
+move up to first entry,,'','',,2,0,0,2
+move up to previous entry,,'','',,2,0,0,2
+movie/drama (general),,'','','',3,0,0,3
+multinorm,,'','','',3,0,0,3
+music/ballet/dance (general),,'','','',3,0,0,3
+musical/opera,,'','','',3,0,0,3
+nature/animals/environment,,'','','',3,0,0,3
+never,,'','','',3,0,0,3
+new media,,'','','',3,0,0,3
+news magazine,,'','','',3,0,0,3
+news/current affairs (general),,'','','',3,0,0,3
+news/weather report,,'','','',3,0,0,3
+no,,'','','',3,0,0,3
+no CAId selected,,'','','',3,0,0,3
+no CI slots found,,'','','',3,0,0,3
+no module found,,'','','',3,0,0,3
+no storage devices found,,'','','',3,0,0,3
+none,,'','','',3,0,0,3
+normal,,'','','',3,0,0,3
+not configured,,'','','',3,0,0,3
+not locked,,'','','',3,0,0,3
+not supported,,'','','',3,0,0,3
+nothing connected,,'','','',3,0,0,3
+of a DUAL layer medium used.,,'','','',3,0,0,3
+of a SINGLE layer medium used.,,'','','',3,0,0,3
+off,,'','','',3,0,0,3
+offset is,,'','','',3,0,0,3
+on,,'','','',3,0,0,3
+on READ ONLY medium.,,'','','',3,0,0,3
+once,,'','','',3,0,0,3
+open nameserver configuration,,'','',,2,0,0,2
+original,,'','','',3,0,0,3
+original language,,'','','',3,0,0,3
+pass,,'','','',3,0,0,3
+performing arts,,'','','',3,0,0,3
+please press OK when ready,,'','',,2,0,0,2
+"please wait, loading picture...",,'','','',3,0,0,3
+popular culture/traditional arts,,'','','',3,0,0,3
+pre-school children's program,,'','','',3,0,0,3
+receiver software because updates are available.,,,'',,1,0,0,1
+record,,'','','',3,0,0,3
+recording...,,'','','',3,0,0,3
+red,,'','','',3,0,0,3
+religion,,'','','',3,0,0,3
+remarkable people,,'','','',3,0,0,3
+remove after this position,,'','','',3,0,0,3
+remove before this position,,'','','',3,0,0,3
+remove this mark,,'','','',3,0,0,3
+repeated,,'','','',3,0,0,3
+reverse by date,,'','','',3,0,0,3
+rewind to the previous chapter,,'','','',3,0,0,3
+right,,'','','',3,0,0,3
+rock/pop,,'','','',3,0,0,3
+romance,,'','','',3,0,0,3
+scan state,,'','','',3,0,0,3
+science fiction/fantasy/horror,,'','','',3,0,0,3
+seconds,,'','','',3,0,0,3
+select CAId's,,'','','',3,0,0,3
+select menu entry,,'','',,2,0,0,2
+serious music/classic music,,'','','',3,0,0,3
+serious/classical/religious/historical movie/drama,,'','','',3,0,0,3
+show DVD main menu,,'','','',3,0,0,3
+show all tags,,'','','',3,0,0,3
+show event details,,'','','',3,0,0,3
+show softwaremanager in setup menu,,,'',,1,0,0,1
+show softwaremanager on blue button,,'','','',3,0,0,3
+show/game show (general),,'','','',3,0,0,3
+shuffle,,'','','',3,0,0,3
+shut down,,'','','',3,0,0,3
+simple,,'','','',3,0,0,3
+skip backward,,'','','',3,0,0,3
+skip forward,,'','','',3,0,0,3
+soap/melodram/folkloric,,'','',,2,0,0,2
+social/political issues/economics (general),,'','','',3,0,0,3
+social/spiritual science,,'','','',3,0,0,3
+special events,,'','','',3,0,0,3
+special format data DVD (HDTV compatible),,,'',,1,0,0,1
+sports (general),,'','','',3,0,0,3
+sports magazine,,'','','',3,0,0,3
+standard,,'','',,2,0,0,2
+start cut here,,'','','',3,0,0,3
+stepsize,,'','','',3,0,0,3
+stereo,,'','','',3,0,0,3
+switch to the next angle,,'','','',3,0,0,3
+switch to the next audio track,,'','','',3,0,0,3
+switch to the next subtitle language,,'','','',3,0,0,3
+talk show,,'','','',3,0,0,3
+team sports,,'','','',3,0,0,3
+technology/natural science,,'','','',3,0,0,3
+template file,,'','','',3,0,0,3
+tennis/squash,,'','','',3,0,0,3
+testing,,,'',,1,0,0,1
+this recording,,'','','',3,0,0,3
+this service is protected by a parental control pin,,'','','',3,0,0,3
+"toggle time, chapter, audio, subtitle info",,'','','',3,0,0,3
+top,,'','','',3,0,0,3
+tourism/travel,,'','','',3,0,0,3
+true,,'','','',3,0,0,3
+unavailable,,'','','',3,0,0,3
+unconfirmed,,'','','',3,0,0,3
+undefined,,,'',,1,0,0,1
+unknown,,'','','',3,0,0,3
+unknown service,,'','','',3,0,0,3
+unpublished,,'','','',3,0,0,3
+until standby/restart,,'','','',3,0,0,3
+user defined,,'','','',3,0,0,3
+variety show,,'','','',3,0,0,3
+vertical,,'','','',3,0,0,3
+wait for ci...,,'','','',3,0,0,3
+wait for mmi...,,'','','',3,0,0,3
+waiting,,'','','',3,0,0,3
+water sport,,'','','',3,0,0,3
+weekly,,'','','',3,0,0,3
+west,,'','','',3,0,0,3
+white,,'','','',3,0,0,3
+width,,'','','',3,0,0,3
+winter sport,,'','','',3,0,0,3
+wireless network interface,,'','','',3,0,0,3
+yellow,,'','','',3,0,0,3
+yes,,'','','',3,0,0,3
+yes (keep feeds),,'','','',3,0,0,3
+zap,,'','','',3,0,0,3
+zapped,,'','','',3,0,0,3
+\nAdvanced options and settings.,\nAyaré Zéde ,\nAyaré Zéde ,,\nAyaré Zéde ,3,1,2,0
+\nEdit the upgrade source address.,\nUpgrate ra Eyaran Çékin,\nUpgrate ra Eyaran Çékin,,\nUpgrate ra Eyaran Çékin,3,1,2,0
+\nRestore your backups by date.,\nbackup xwu restore bikin,\nbackup xwu restore bikin,,\nbackup xwu restore bikin,3,1,2,0
+\nScan for local extensions and install them.,\nGiradiye mehali bigeri ,\nGiradiye mehali bigeri ,,\nGiradiye mehali bigeri ,3,1,2,0
+\nSelect your backup device.\nCurrent device: ,,'',,'',2,0,0,2
+"\nView, install and remove available or installed packages.",,'',,'',2,0,0,2
+A recording is currently running. Please stop the recording before trying to configure the positioner.,,'',,,1,0,0,1
+A recording is currently running. Please stop the recording before trying to start the satfinder.,,'',,,1,0,0,1
+AA,,'',,,1,0,0,1
+AB,,'',,,1,0,0,1
+About...,Heqé wi...,Heqé wi...,,,2,1,1,0
+Activate PiP,,Aktif bike,,,1,1,0,0
+All satellites,,Hemu satellites,,,1,1,0,0
+BA,,'',,,1,0,0,1
+BB,,'',,,1,0,0,1
+Behavior of 'pause' when paused,,'',,'',2,0,0,2
+Behavior of 0 key in PiP-mode,,'',,'',2,0,0,2
+Change pin code,Kodé pin bedilni,Kodé pin bedilni,,,2,1,1,0
+Change service PIN,,Kodé Hizmeté PIN,,,1,1,0,0
+Change service PINs,,Kodé Hizmeté PIN,,,1,1,0,0
+Change setup PIN,,Kodé Hizmeté PIN,,,1,1,0,0
+Changelog,Tewirna,Tewirna,,,2,1,1,0
+Checking tuner %d\nDiSEqC port %s for %s,,'',,,1,0,0,1
+Coderate HP,,'',,,1,0,0,1
+Coderate LP,,'',,,1,0,0,1
+Committed DiSEqC command,,Qomuta Disegi,,,1,1,0,0
+Configure the behavior of the 'pause' key when movie playback is already paused.,,'',,'',2,0,0,2
+"Configure which tuner type will be preferred, when the same service is available on different types of tuners.",,'',,'',2,0,0,2
+"Configure your network settings, and press OK to start the scan",,'',,'',2,0,0,2
+Conflicting timer,,'',,'',2,0,0,2
+Connected!,,Girédya!,,,1,1,0,0
+Constellation,,'',,,1,0,0,1
+Convert ext3 filesystem to ext4,,'',,,1,0,0,1
+Convert ext3 to ext4,,'',,,1,0,0,1
+Converting ext3 to ext4...,,'',,'',2,0,0,2
+Create more detailed crash log,,'',,,1,0,0,1
+Current version:,,'',,'',2,0,0,2
+Currently installed image,,'',,,1,0,0,1
+Delete...,,Paqiş....,,,1,1,0,0
+Descramble http streams,,'',,,1,0,0,1
+DiSEqC repeats,,'',,,1,0,0,1
+Dialing:,,'',,,1,0,0,1
+Disconnect,,Veqetya,,,1,1,0,0
+Display and user interface,,'',,'',2,0,0,2
+Do you really want to check the filesystem?\nThis could take a long time!,,'',,'',2,0,0,2
+Do you really want to convert the filesystem?\nYou cannot go back!,,'',,,1,0,0,1
+Do you want to do a service scan?,,'',,'',2,0,0,2
+Do you want to do another manual service scan?,,'',,'',2,0,0,2
+Do you want to download the image to %s ?,,'',,,1,0,0,1
+Do you want to upgrade the package:\n,,'',,'',2,0,0,2
+Download,Dayni,Dayni,,,2,1,1,0
+Download %s from server,,'',,,1,0,0,1
+Download .NFI-files for USB-flasher,,'',,,1,0,0,1
+Edit bouquets list,,'',,,1,0,0,1
+Edit services list,,'',,,1,0,0,1
+Edit upgrade source url.,,'',,'',2,0,0,2
+Enable parental control,,'',,,1,0,0,1
+Enigma2 skin selector,,'',,,1,0,0,1
+Error executing plugin,,'',,'',2,0,0,2
+Flash,,'',,,1,0,0,1
+Flashing failed,,'',,,1,0,0,1
+From :,,'',,'',2,0,0,2
+Frontprocessor version: %d,,'',,,1,0,0,1
+GUI needs a restart to apply a new skin\nDo you want to restart the GUI now?,,'',,,1,0,0,1
+Get latest experimental image,,'',,,1,0,0,1
+Get latest release image,,'',,,1,0,0,1
+Goto :,,'',,'',2,0,0,2
+Goto specific data/time,,'',,,1,0,0,1
+Hide CI messages,,'',,'',2,0,0,2
+Hierarchy information,,'',,,1,0,0,1
+Immediate shutdown,,'',,'',2,0,0,2
+Install a new image with a USB stick,,'',,'',2,0,0,2
+Install a new image with your web browser,,'',,'',2,0,0,2
+Install extensions.,,'',,'',2,0,0,2
+Intermediate,,'',,'',2,0,0,2
+Ipkg,,'',,'',2,0,0,2
+List EPG functions...,,'',,'',2,0,0,2
+Log results to harddisk,,'',,'',2,0,0,2
+Move to other directory,,'',,,1,0,0,1
+Multiplex,,'',,,1,0,0,1
+NFI image flashing,,'',,,1,0,0,1
+NFI image flashing completed. Press Yellow to Reboot!,,'',,,1,0,0,1
+NIM,,'',,,1,0,0,1
+Namespace,,'',,'',2,0,0,2
+New PIN,,'',,,1,0,0,1
+New version:,,'',,'',2,0,0,2
+No backup needed,,'',,'',2,0,0,2
+No cable tuner found!,,'',,,1,0,0,1
+No details for this image file,,'',,,1,0,0,1
+No valid service PIN found!\nDo you like to change the service PIN now?\nWhen you say 'No' here the service protection stay disabled!,,'',,,1,0,0,1
+No valid setup PIN found!\nDo you like to change the setup PIN now?\nWhen you say 'No' here the setup protection stay disabled!,,'',,,1,0,0,1
+"No, do nothing.",,'',,'',2,0,0,2
+"OK, guide me through the upgrade process",,'',,'',2,0,0,2
+Open service list and select next channel,,'',,,1,0,0,1
+Open service list and select previous channel,,'',,,1,0,0,1
+Overwrite configuration files during software upgrade?,,'',,'',2,0,0,2
+PIDs,,'',,,1,0,0,1
+Parental control type,,'',,,1,0,0,1
+Password,,'',,'',2,0,0,2
+Phone number,,'',,,1,0,0,1
+Play audio in background,,'',,'',2,0,0,2
+Please check your network settings!,,'',,,1,0,0,1
+Please select a default EPG type...,,'',,,1,0,0,1
+Please select an NFI file and press green key to flash!,,'',,,1,0,0,1
+Prepare another USB stick for image flashing,,'',,,1,0,0,1
+Press '0' to toggle internal/external PiP.,,'',,,1,0,0,1
+Press OK to activate the selected skin.,,'',,,1,0,0,1
+Press OK to start the scan,,'',,,1,0,0,1
+Protect setup,,'',,,1,0,0,1
+Provider to scan,,'',,,1,0,0,1
+Really upgrade the frontprocessor and reboot now?,,'',,'',2,0,0,2
+Reenter new PIN,,'',,,1,0,0,1
+Reload black-/white lists,,'',,,1,0,0,1
+Remove timer,,'',,'',2,0,0,2
+Restore is running...,,'',,,1,0,0,1
+Rewrap teletext subtitles,,'',,,1,0,0,1
+SID,,'',,,1,0,0,1
+Satfinder,Sat (Uydu) Bine,Sat (Uydu) Bine,,,2,1,1,0
+Select an image to be downloaded,,'',,,1,0,0,1
+Select default EPG type...,,'',,,1,0,0,1
+Select desired image from feed list,,'',,,1,0,0,1
+Select location,,'',,'',2,0,0,2
+Select upgrade source,,'',,'',2,0,0,2
+Select upgrade source to edit.,,'',,'',2,0,0,2
+Service searching,,Çékirina Anten,,,1,1,0,0
+Shall the USB stick wizard proceed and program the image file %s into flash memory?,,'',,,1,0,0,1
+Show services beginning with,,'',,,1,0,0,1
+Show shutdown menu,,'',,'',2,0,0,2
+Show tag menu,,'',,,1,0,0,1
+Single transponder,,'',,,1,0,0,1
+Software restore,,'',,'',2,0,0,2
+Switch next channel,,'',,,1,0,0,1
+Switchable tuner types:,,'',,,1,0,0,1
+Terrestrial provider,,'',,,1,0,0,1
+The USB stick was prepared to be bootable.\nNow you can download an NFI image file!,,'',,,1,0,0,1
+The backup failed. Please choose a different backup location.,,'',,'',2,0,0,2
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,'',,,1,0,0,1
+"The md5sum validation failed, the file may be corrupted!",,'',,,1,0,0,1
+The results have been written to %s.,,'',,'',2,0,0,2
+The wizard can backup your current settings. Do you want to do a backup now?,,'',,'',2,0,0,2
+The wizard found a configuration backup. Do you want to restore your old settings from %s?,,'',,,1,0,0,1
+The wizard is finished now.,,'',,'',2,0,0,2
+There might not be enough space on the selected partition..\nDo you really want to continue?,,'',,'',2,0,0,2
+Transponder type,,'',,,1,0,0,1
+Tuner status,,'',,,1,0,0,1
+Tuning step size,,'',,,1,0,0,1
+USB stick wizard,,'',,,1,0,0,1
+Uncommitted DiSEqC command,,'',,,1,0,0,1
+Unicable,,'',,,1,0,0,1
+Unicable LNB,,'',,,1,0,0,1
+Upgrading,,'',,'',2,0,0,2
+Username,,'',,'',2,0,0,2
+Video fine tuning,,Eyaré Video Tenik,,,1,1,0,0
+Videocodec,,'',,,1,0,0,1
+Videoformat,,'',,,1,0,0,1
+Videosize,,'',,,1,0,0,1
+What do you want to scan?,,'',,'',2,0,0,2
+"When enabled, the original line breaks will be removed from the teletext subtitles.",,'',,,1,0,0,1
+Where do you want to backup your settings?,,'',,'',2,0,0,2
+"Yes, backup my settings!",,'',,'',2,0,0,2
+"Yes, do a manual scan now",,'',,'',2,0,0,2
+"Yes, do an automatic scan now",,'',,'',2,0,0,2
+"Yes, do another manual scan now",,'',,'',2,0,0,2
+"Yes, restore the settings now",,'',,'',2,0,0,2
+"Yes, shut down now.",,'',,'',2,0,0,2
+You have chosen to backup your settings. Please press OK to start the backup now.,,'',,'',2,0,0,2
+You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased.,,'',,,1,0,0,1
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,'',,'',2,0,0,2
+You system does not support ext4,,'',,,1,0,0,1
+Your backup succeeded. We will now continue to explain the further upgrade process.,,'',,'',2,0,0,2
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,,'',,'',2,0,0,2
+Zap back to service before tuner setup?,,'',,,1,0,0,1
+abort alternatives edit,,'',,,1,0,0,1
+abort bouquet edit,,'',,,1,0,0,1
+abort favourites edit,,'',,,1,0,0,1
+add alternatives,,'',,,1,0,0,1
+add bookmark,,'',,'',2,0,0,2
+add bouquet,,'',,,1,0,0,1
+add marker,,'',,,1,0,0,1
+add service to bouquet,,'',,,1,0,0,1
+add service to favourites,,'',,,1,0,0,1
+add to parental protection,,'',,,1,0,0,1
+complex,,'',,,1,0,0,1
+continue,,'',,,1,0,0,1
+copy to bouquets,,'',,,1,0,0,1
+create directory,,'',,'',2,0,0,2
+currently installed image: %s,,'',,,1,0,0,1
+disable move mode,,'',,,1,0,0,1
+edit alternatives,,'',,,1,0,0,1
+enable bouquet edit,,'',,,1,0,0,1
+enable favourite edit,,'',,,1,0,0,1
+enable move mode,,'',,,1,0,0,1
+end alternatives edit,,'',,,1,0,0,1
+end bouquet edit,,'',,,1,0,0,1
+end favourites edit,,'',,,1,0,0,1
+equal to,,'',,,1,0,0,1
+fine-tune your display,,'',,,1,0,0,1
+loopthrough to,,'',,,1,0,0,1
+not used,,'',,,1,0,0,1
+play as picture in picture,,'',,,1,0,0,1
+play in mainwindow,,'',,,1,0,0,1
+remove all alternatives,,'',,,1,0,0,1
+remove all new found flags,,'',,,1,0,0,1
+remove bookmark,,'',,'',2,0,0,2
+remove directory,,'',,'',2,0,0,2
+remove entry,,'',,,1,0,0,1
+remove from parental protection,,'',,,1,0,0,1
+remove new found flag,,'',,,1,0,0,1
+remove selected satellite,,'',,,1,0,0,1
+repeat playlist,,'',,'',2,0,0,2
+save last directory on exit,,'',,'',2,0,0,2
+save playlist on exit,,'',,'',2,0,0,2
+second cable of motorized LNB,,'',,,1,0,0,1
+select,,'',,'',2,0,0,2
+service PIN,,'',,,1,0,0,1
+set as startup service,,'',,,1,0,0,1
+setup PIN,,'',,,1,0,0,1
+show alternatives,,'',,,1,0,0,1
+show mediaplayer on mainmenu,,'',,'',2,0,0,2
+show transponder info,,'',,,1,0,0,1
+sorting of playlists,,'',,'',2,0,0,2
+special characters,,'',,,1,0,0,1
+start directory,,'',,'',2,0,0,2
+stop using as startup service,,'',,,1,0,0,1
+switch to bookmarks,,'',,'',2,0,0,2
+switch to filelist,,'',,'',2,0,0,2
+tuner is not supported,,'',,,1,0,0,1
+whitelist,,'',,,1,0,0,1
+working,,'',,'',2,0,0,2
+KA-SAT,,,,KA-SAT (9°E),1,1,0,0

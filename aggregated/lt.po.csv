@@ -1,0 +1,1203 @@
+msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+\nAdvanced options and settings.,,\nOpzioni e le impostazioni avanzate.,,\nIšplėstiniai pasirinkimai ir nustatymai.,2,2,0,0
+"\nAfter pressing OK, please wait!",,\nAttendere dopo aver premuto OK!,,"\nPaspaudus OK, prašome laukti!",2,2,0,0
+\nEdit the upgrade source address.,,\nModificare l'indirizzo di origine di aggiornamento.,,\nRedaguoti atnaujinimo šaltinio adresus.,2,2,0,0
+\nPress OK on your remote control to continue.,,\nPremi OK per continuare.,,"\nSpauskite OK ant jūsų distancinio valdymo pulto, kad tęsti.",2,2,0,0
+\nRestore your backups by date.,,\nRipristina i tuoi backups per data.,,\nAtkurti jūsų atsarginę kopiją pagal datą.,2,2,0,0
+\nScan for local extensions and install them.,,\nRicerca tra le estensioni locali ed installa.,,\nSkanuoti vietinius paketus ir įdiegti juos.,2,2,0,0
+\nSeleziona la periferica di backup.\nPeriferica corrente: ,,'',,,1,0,0,1
+"\nView, install and remove available or installed packages.",,"\nVedi, nstalla e rimuovi pacchetti disponibili o installati.",,"\nPeržiūrėkite, įdiekite ir pašalinkite esamus arba įdiegtus paketus.",2,2,0,0
+ (PiP),, (PiP) ,,,1,1,0,0
+ (Radio),, (Radio) ,,,1,1,0,0
+ (TV),, (TV) ,,,1,1,0,0
+ and,, e ,,,1,1,0,0
+%02d.%02d - %02d.%02d (%s%d min),,'',,,1,0,0,1
+%2d:%02d,,'',,,1,0,0,1
+%2d:%02d:%02d,,'',,,1,0,0,1
+%A %d %B,,'',,,1,0,0,1
+%A %e %B,,'',,,1,0,0,1
+%A %e %B %Y,,'',,,1,0,0,1
+%H:%M,,'',,'',2,0,0,2
+%a %e %B %Y,,'',,,1,0,0,1
+%a %e/%m,,'',,,1,0,0,1
+%a %e/%m  %-H:%M,,'',,,1,0,0,1
+%d GB,,'',,,1,0,0,1
+%d KB,,'',,,1,0,0,1
+%d MB,,'',,,1,0,0,1
+%d jobs are running in the background!,,%d i lavori sono in esecuzione in background!,,%d darbas yra veikiantis fone!,2,2,0,0
+%d kB,,'',,,1,0,0,1
+%d min,,'',,'',2,0,0,2
+%d minutes,,%d minuti,,,1,1,0,0
+%d-%m,,'',,,1,0,0,1
+%d.%B %Y,,'',,,1,0,0,1
+%k:%M %e/%m,,'',,,1,0,0,1
+%s %s advanced remote control (native),,%s %s telecomando avanzato (nativo),,,1,1,0,0
+%s %s front panel,,%s %s pannello frontale,,,1,1,0,0
+%s %s ir mouse,,%s %s mouse infrarosso,,,1,1,0,0
+%s (%s)\n,,'',,'',2,0,0,2
+%s is no longer used. Should it be deleted?,,%s non usato da molto. Dovrebbe esssere eliminato?,,,1,1,0,0
+%s/%s: %s,,'',,,1,0,0,1
+'%s' contains %d file(s) and %d sub-directories.\n,,%s' contiene %d file(s) e %d sotto-cartelle.\n,,,1,1,0,0
+( All readers),,( Tutti i readers),,,1,1,0,0
+(Show only reader:,,(mostra solo reader:,,,1,1,0,0
+(ZAP),,(ZAPI),,(JUNGTI),2,2,0,0
+(empty),,(vuoto),,(laisva),2,2,0,0
+(show optional DVD audio menu),,(mostra menu opzionale DVD),,(rodyti pasirenkamą DVD garso meniu),2,2,0,0
+* = Restart Required,,* = Riavvio Richiesto,,,1,1,0,0
+* Only available if more than one interface is active.,,* Disponibile solo se attiva più di una interfaccia.,,"*Pasiekiamas tiktai, jei daugiau kaip viena sąsaja yra aktyvi.",2,2,0,0
+/s,,'',,,1,0,0,1
+1.0,,'',,'',2,0,0,2
+1.1,,'',,'',2,0,0,2
+1.2,,'',,'',2,0,0,2
+12V output,,12V uscita,,12V išėjimas,2,2,0,0
+13 V,,'',,'',2,0,0,2
+16:10,,'',,'',2,0,0,2
+16:10 Letterbox,,'',,'',2,0,0,2
+16:10 PanScan,,'',,'',2,0,0,2
+16:9,,'',,'',2,0,0,2
+16:9 Letterbox,,'',,'',2,0,0,2
+16:9 always,,sempre 16:9 ,,16:9 visada,2,2,0,0
+18 V,,'',,'',2,0,0,2
+1X,,'',,,1,0,0,1
+1st Infobar timeout,,Timeout prima infobar,,,1,1,0,0
+23.976,,'',,,1,0,0,1
+29.97,,'',,,1,0,0,1
+2X,,'',,,1,0,0,1
+3D Mode,,Modalità 3D,,,1,1,0,0
+3D setup,,Configurazione 3D,,,1,1,0,0
+3X,,'',,,1,0,0,1
+3d mode,,Modalità 3D,,,1,1,0,0
+4:3,,'',,'',2,0,0,2
+4:3 Letterbox,,'',,'',2,0,0,2
+4:3 PanScan,,'',,'',2,0,0,2
+4X,,'',,,1,0,0,1
+<Posizione corrente lista film>,,'',,,1,0,0,1
+<Default movie location>,,<Posizione di default film>,,<Numatyta filmų vieta>,2,2,0,0
+<Last timer location>,,<Posizione ultimo timer>,,<Paskutinio laikmačio vieta>,2,2,0,0
+<unknown>,,<sconosciuto>,,<nežinomas>,2,2,0,0
+??,,'',,'',2,0,0,2
+A,,'',,'',2,0,0,2
+"A background update check is in progress, please wait a few minutes and try again.",,"Controllo aggiornamento in background in corso, attendere qualche minuto e ritentare",,,1,1,0,0
+A configuration file (%s) has been modified since it was installed.\nDo you want to keep your modifications?,,Un file di configurazione (% s) è stato modificato da quando è stato installato.\nVuoi mantenere le modifiche?,,,1,1,0,0
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,,Konfigūracijos failas (%s) bus pakeistas pradedant nuo įdiegimo.\nAr norite išsaugoti savo versiją?,,Konfigūracijos failas (%s) bus pakeistas pradedant nuo įdiegimo.\nAr norite išsaugoti savo versiją?,2,1,1,0
+A graphical EPG for all services of an specific bouquet,,Grafinis EPG visiems kanalams iš specifinio paketo,,,1,1,0,0
+A recording is currently running.\nWhat do you want to do?,,Vyksta įrašymas.\nKą Jūs norite padaryti?,,,1,1,0,0
+A recording is currently running. Please stop the recording before trying to configure the positioner.,,Vyksta įrašymas. Prašome sustabdyti įrašymą prieš pozicionieriaus konfigūravimą.,,,1,1,0,0
+A recording is currently running. Please stop the recording before trying to start the satfinder.,,Vyksta įrašymas. Prašome sustabdyti įrašymą prieš pozicionieriaus konfigūravimą.,,,1,1,0,0
+A required tool (%s) was not found.,,Reikalingas įrankis (%s) nebuvo surastas.,,Reikalingas įrankis (%s) nebuvo surastas.,2,1,1,0
+A search for available updates is currently in progress.,,Vyksta dabar pasiekiamų atnaujinimų paieška.,,Vyksta dabar pasiekiamų atnaujinimų paieška.,2,1,1,0
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,,Rasta antra sukonfigūruotas sąsaja.\n\nJūs norite išjungti antrą tinklo sąsają?,,Rasta antra sukonfigūruotas sąsaja.\n\nJūs norite išjungti antrą tinklo sąsają?,2,1,1,0
+A small overview of the available icon states and actions.,,Čia yra maža turimų ikonų peržiūra.,,Čia yra maža turimų ikonų peržiūra.,2,1,1,0
+A timer failed to record!\nDisable TV and try again?\n,,Laikmatis nutraukė įrašymą!\nIšjungti TV ir pakartoti iš pradžių?\n,,Laikmatis nutraukė įrašymą!\nIšjungti TV ir pakartoti iš pradžių?\n,2,1,1,0
+AA,,'',,,1,0,0,1
+AB,,'',,,1,0,0,1
+Abort,,Nutraukti,,Nutraukti,2,1,1,0
+About,,Apie,,Apie,2,1,1,0
+About...,,Apie...,,,1,1,0,0
+Accesspoint:,,Prieigos taškas:,,Prieigos taškas:,2,1,1,0
+Activate Picture in Picture,,Aktyvuoti paveikslėlį paveikslėlyje,,Aktyvuoti paveikslėlį paveikslėlyje,2,1,1,0
+Activate network settings,,Aktyvuoti tinklo nustatymus,,Aktyvuoti tinklo nustatymus,2,1,1,0
+Adapter settings,,Tinklo nustatymai,,Tinklo nustatymai,2,1,1,0
+Add,,Pridėti,,Pridėti,2,1,1,0
+Add a mark,,Pridėti žymeklį,,Pridėti žymeklį,2,1,1,0
+Add a new title,,Pridėkite naują pavadinimą,,Pridėkite naują pavadinimą,2,1,1,0
+Add timer,,Laikmatis,,Laikmatis,2,1,1,0
+Add title,,Pavadinimas,,Pavadinimas,2,1,1,0
+Add to bouquet,,Pridėti į paketą,,Pridėti į paketą,2,1,1,0
+Add to favourites,,Pridėti į mėgstamiausius,,Pridėti į mėgstamiausius,2,1,1,0
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.",,"Sureguliuokite spalvas taip, kad visos spalvos ir atspalviai būtų atskiriami, bet atrodytų taip prisotinti, kiek galima. Jei jūs esate patenkinti rezultatu, spauskite OK, kad uždarytumėte vaizdo tikslų suderinimą, ar pasinaudokite skaičių mygtukais, kad išrinktumėte kitus bandomuosius ekranus.",,"Sureguliuokite spalvas taip, kad visos spalvos ir atspalviai būtų atskiriami, bet atrodytų taip prisotinti, kiek galima. Jei jūs esate patenkinti rezultatu, spauskite OK, kad uždarytumėte vaizdo tikslų suderinimą, ar pasinaudokite skaičių mygtukais, kad išrinktumėte kitus bandomuosius ekranus.",2,1,1,0
+Advanced restore,,Išplėstinis atkūrimas,,Išplėstinis atkūrimas,2,1,1,0
+After event,,Po įvykio,,Po įvykio,2,1,1,0
+Album,,Albumas,,Albumas,2,1,1,0
+All,,Visi,,Visi,2,1,1,0
+Alpha,,Permatoma,,Permatoma,2,1,1,0
+Alternative services tuner priority,,Kitų kanalų imtuvo pirmenybė,,Kitų kanalų imtuvo pirmenybė,2,1,1,0
+Always ask,,Visada klausti,,Visada klausti,2,1,1,0
+An empty filename is illegal.,,Tuščias failo pavadinimas negalimas,,Tuščias failo pavadinimas negalimas,2,1,1,0
+Arabic,,Arabų,,Arabų,2,1,1,0
+Are you sure you want to activate this network configuration?\n\n,,"Jūs esate įsitikinęs, kad jūs norite aktyvuoti šią tinklo konfigūraciją?\n\n",,"Jūs esate įsitikinęs, kad jūs norite aktyvuoti šią tinklo konfigūraciją?\n\n",2,1,1,0
+Are you sure you want to exit this wizard?,,"Jūs esate įsitikinęs, kad norite išjungti šį vedlį?",,"Jūs esate įsitikinęs, kad norite išjungti šį vedlį?",2,1,1,0
+Are you sure you want to restart your network interfaces?\n\n,,"Jūs esate įsitikinęs, kad norite iš naujo paleisti savo tinklo sąsajas? \n\n",,"Jūs esate įsitikinęs, kad norite iš naujo paleisti savo tinklo sąsajas? \n\n",2,1,1,0
+Artist,,Atlikėjas,,Atlikėjas,2,1,1,0
+Ask user,,Klausti vartotojo,,Klausti vartotojo,2,1,1,0
+Audio PID,,Garso PID,,Garso PID,2,1,1,0
+Author: ,,Autorius:,,Autorius:,2,1,1,0
+Authoring mode,,Būdo kūrimas,,Būdo kūrimas,2,1,1,0
+Auto,,Automatinis,,Automatinis,2,1,1,0
+Auto chapter split every ? minutes (0=never),,Automatinis skyriaus perskėlimas kiekvieną? minutę (0=niekada),,Automatinis skyriaus perskėlimas kiekvieną? minutę (0=niekada),2,1,1,0
+Auto flesh,,Auto minkštinimas,,Auto minkštinimas,2,1,1,0
+Auto scart switching,,Automatinis skarto perjungimas,,Automatinis skarto perjungimas,2,1,1,0
+Automatic,,Automatinis,,Automatinis,2,1,1,0
+Automatic Scan,,Automatinė paieška,,Automatinė paieška,2,1,1,0
+Available format variables,,Galimi formatai,,Galimi formatai,2,1,1,0
+B,,'',,'',2,0,0,2
+BA,,'',,,1,0,0,1
+BB,,'',,,1,0,0,1
+Back,,Atgal,,Atgal,2,1,1,0
+Background,,Fonas,,Fonas,2,1,1,0
+Backup failed.,,Atsarginė kopija nepavyko.,,Atsarginė kopija nepavyko.,2,1,1,0
+Backup is running...,,Daroma atsarginė kopija...,,Daroma atsarginė kopija...,2,1,1,0
+Backup system settings,,Atsarginė sisteminių nustatymų kopija,,Atsarginė sisteminių nustatymų kopija,2,1,1,0
+Band,,Juosta,,Juosta,2,1,1,0
+Bandwidth,,Juostos plotis,,Juostos plotis,2,1,1,0
+Begin time,,Pradžios laikas,,Pradžios laikas,2,1,1,0
+Behavior of 'pause' when paused,,"Pauzės elgsena, kai daroma pauzė",,"Pauzės elgsena, kai daroma pauzė",2,1,1,0
+Behavior of 0 key in PiP-mode,,0 mygtuko padėtis PiP režime,,0 mygtuko padėtis PiP režime,2,1,1,0
+Behavior when a movie is started,,"Elgsena, kai filmas prasidėjęs",,"Elgsena, kai filmas prasidėjęs",2,1,1,0
+Behavior when a movie is stopped,,"Elgsena, kai filmas sustabdytas",,"Elgsena, kai filmas sustabdytas",2,1,1,0
+Behavior when a movie reaches the end,,"Elgsena, kai filmas pasiekia pabaigą",,"Elgsena, kai filmas pasiekia pabaigą",2,1,1,0
+Bitrate:,,Sparta bitais:,,Sparta bitais:,2,1,1,0
+Block noise reduction,,Blokuoti triukšmo mažėjimą,,Blokuoti triukšmo mažėjimą,2,1,1,0
+Bookmarks,,Žymės,,Žymės,2,1,1,0
+Brightness,,Šviesumas,,Šviesumas,2,1,1,0
+Burn DVD,,Įrašyti DVD,,Įrašyti DVD,2,1,1,0
+Burn existing image to DVD,,Įrašyti esamą atvaizdą į DVD,,Įrašyti esamą atvaizdą į DVD,2,1,1,0
+Burn to DVD,,Įrašyti į DVD,,Įrašyti į DVD,2,1,1,0
+Bus: ,,'',,'',2,0,0,2
+C-Band,,C-juosta,,C-juosta,2,1,1,0
+CI assignment,,CI nustatymas,,CI nustatymas,2,1,1,0
+CVBS,,'',,'',2,0,0,2
+Cable,,Kabelinė,,Kabelinė,2,1,1,0
+Cancel,,Atšaukti,,Atšaukti,2,1,1,0
+Capacity: ,,Talpa: ,,Talpa: ,2,1,1,0
+Change bouquets in quickzap,,Keisti paketus greitai perjungiant,,Keisti paketus greitai perjungiant,2,1,1,0
+Change pin code,,Keisti PIN kodą,,,1,1,0,0
+Change service PIN,,Keisti kanalo PIN kodą,,,1,1,0,0
+Change service PINs,,Keisti kanalų PIN kodus,,,1,1,0,0
+Change setup PIN,,Keisti valdymo PIN kodą,,,1,1,0,0
+Change step size,,Keisti žingsnio dydį,,Keisti žingsnio dydį,2,1,1,0
+Changelog,,Pakeitimų sąrašas,,,1,1,0,0
+Channel,,Kanalas,,Kanalas,2,1,1,0
+Channel not in services list,,Kanalo nėra kanalų sąraše,,Kanalo nėra kanalų sąraše,2,1,1,0
+Channel:,,Kanalas:,,Kanalas:,2,1,1,0
+Chap.,,Skyr.,,Skyr.,2,1,1,0
+Chapter,,Skyrius,,Skyrius,2,1,1,0
+Chapter:,,Skyrius:,,Skyrius:,2,1,1,0
+Check,,Tikrinti,,Tikrinti,2,1,1,0
+Circular left,,Apskritiminė kairė,,Apskritiminė kairė,2,1,1,0
+Circular right,,Apskritiminė dešinė,,Apskritiminė dešinė,2,1,1,0
+Cleanup,,Išvalyti,,Išvalyti,2,1,1,0
+Clear before scan,,Išvalyti prieš skanavimą,,Išvalyti prieš skanavimą,2,1,1,0
+Clear log,,Išvalyti log,,Išvalyti log,2,1,1,0
+Close,,Uždaryti,,Uždaryti,2,1,1,0
+Close title selection,,Uždaryti pavadinimo pasirinkimą,,Uždaryti pavadinimo pasirinkimą,2,1,1,0
+Code rate HP,,Kodinė norma HP,,Kodinė norma HP,2,1,1,0
+Code rate LP,,Kodinė norma LP,,Kodinė norma LP,2,1,1,0
+Coderate HP,,Kodavimo greitis HP,,,1,1,0,0
+Coderate LP,,Kodavimo greitis LP,,,1,1,0,0
+Collection name,,Kolekcijos pavadinimas,,Kolekcijos pavadinimas,2,1,1,0
+Collection settings,,Kolekcijos nustatymai,,Kolekcijos nustatymai,2,1,1,0
+Command order,,Komandų seka,,Komandų seka,2,1,1,0
+Committed DiSEqC command,,DiSEqC perjungimo komanda,,,1,1,0,0
+Common Interface,,Įstatomi moduliai,,Įstatomi moduliai,2,1,1,0
+Common Interface Assignment,,Įstatomo modulio priskyrimas,,,1,1,0,0
+Communication,,Komunikacija,,Komunikacija,2,1,1,0
+Complete,,Įvykdyta,,Įvykdyta,2,1,1,0
+Complex (allows mixing audio tracks and aspects),,"Kompleksas (leidžia sumaišyti garso takelius ir aspektus),",,"Kompleksas (leidžia sumaišyti garso takelius ir aspektus),",2,1,1,0
+Composition of the recording filenames,,Įrašo failų sudėtis,,Įrašo failų sudėtis,2,1,1,0
+Configure interface,,Konfigūruokite sąsają,,Konfigūruokite sąsają,2,1,1,0
+Configure nameservers,,Konfigūruokite serverių pavadinimus,,Konfigūruokite serverių pavadinimus,2,1,1,0
+Configure your internal LAN,,Konfigūruokite savo vidinį tinklą,,Konfigūruokite savo vidinį tinklą,2,1,1,0
+Configure your network again,,Konfigūruokite savo tinklą dar kartą,,Konfigūruokite savo tinklą dar kartą,2,1,1,0
+Configure your wireless LAN again,,Konfigūruokite savo belaidį tinklą dar kartą,,Konfigūruokite savo belaidį tinklą dar kartą,2,1,1,0
+Configuring,,Konfigūruojama,,Konfigūruojama,2,1,1,0
+Conflicting timer,,Laikmačio nesuderinamumas,,Laikmačio nesuderinamumas,2,1,1,0
+Connect,,Jungtis,,Jungtis,2,1,1,0
+Connected to,,Prisijungta prie,,Prisijungta prie,2,1,1,0
+Connected!,,Prisijungta!,,,1,1,0,0
+Constellation,,Žvaigždynas,,,1,1,0,0
+Content does not fit on DVD!,,Turinys netinka dėl DVD!,,Turinys netinka dėl DVD!,2,1,1,0
+Continue,,Tęsti,,Tęsti,2,1,1,0
+Continue playing,,Tęsti žiūrėjimą,,Tęsti žiūrėjimą,2,1,1,0
+Contrast,,Kontrastas,,Kontrastas,2,1,1,0
+Could not open Picture in Picture,,Negalima atidaryti paveikslėlio paveikslėlyje,,,1,1,0,0
+Create DVD-ISO,,Sukurkite DVD-ISO,,Sukurkite DVD-ISO,2,1,1,0
+Creating directory %s failed.,,Direktorijos sukurti %s nepavyko.,,Direktorijos sukurti %s nepavyko.,2,1,1,0
+Croatian,,Kroatų,,Kroatų,2,1,1,0
+Current device: ,,Dabartinis prietaisas:,,Dabartinis prietaisas:,2,1,1,0
+Current settings:,,Dabartiniai nustatymai:,,Dabartiniai nustatymai:,2,1,1,0
+Current value: ,,Einamoji reikšmė: ,,Einamoji reikšmė: ,2,1,1,0
+Current version:,,Dabartinė versija:,,Dabartinė versija:,2,1,1,0
+Currently installed image,,Šiuo metu įdiegtas atvaizdas,,,1,1,0,0
+Customize,,Vartotojo pasirinkimai,,,1,1,0,0
+Cut,,Iškirpti,,Iškirpti,2,1,1,0
+Cutlist editor...,,Iškirpimo redaktorius...,,Iškirpimo redaktorius...,2,1,1,0
+Czech,,Čekų,,Čekų,2,1,1,0
+DHCP,,'',,'',2,0,0,2
+DUAL LAYER DVD,,DVIGUBAS DVD,,DVIGUBAS DVD,2,1,1,0
+DVB-S,,'',,'',2,0,0,2
+DVB-S2,,'',,'',2,0,0,2
+DVD media toolbox,,DVD priemonių komplektas,,DVD priemonių komplektas,2,1,1,0
+Danish,,Danų,,Danų,2,1,1,0
+Date,,Data,,Data,2,1,1,0
+Deep Standby,,Visiškai išjungti,,Visiškai išjungti,2,1,1,0
+Default,,Numatyta,,Numatyta,2,1,1,0
+Default movie location,,Numatyta filmų vieta,,Numatyta filmų vieta,2,1,1,0
+Delete,,Trinti,,Trinti,2,1,1,0
+Delete entry,,Trinti užduotį,,Trinti užduotį,2,1,1,0
+Delete failed!,,Ištrinti nepavyko!,,Ištrinti nepavyko!,2,1,1,0
+Description,,Aprašymas,,Aprašymas,2,1,1,0
+Deselect,,Nepasirinkti,,Nepasirinkti,2,1,1,0
+Details for plugin: ,,Informacija apie priedą:,,Informacija apie priedą:,2,1,1,0
+Detected NIMs:,,Rasti imtuvai:,,,1,1,0,0
+DiSEqC,,'',,'',2,0,0,2
+DiSEqC A/B,,'',,'',2,0,0,2
+DiSEqC A/B/C/D,,'',,'',2,0,0,2
+DiSEqC mode,,DiSEqC būdas,,DiSEqC būdas,2,1,1,0
+DiSEqC repeats,,DiSEqC pakartojimai,,,1,1,0,0
+Dialing:,,Telefono numerio surinkimas:,,,1,1,0,0
+Digital contour removal,,Skaitmeninis kontūro pašalinimas,,Skaitmeninis kontūro pašalinimas,2,1,1,0
+Direct playback of linked titles without menu,,Tiesioginis atkūrimas sujungtų pavadinimų be meniu,,Tiesioginis atkūrimas sujungtų pavadinimų be meniu,2,1,1,0
+Directory browser,,Direktorijų naršyklė,,Direktorijų naršyklė,2,1,1,0
+Disable,,Išjungti,,Išjungti,2,1,1,0
+Disable Picture in Picture,,Išjungti paveikslėlį paveikslėlyje,,Išjungti paveikslėlį paveikslėlyje,2,1,1,0
+Disable background scanning,,Išjungti foninį skanavimą,,Išjungti foninį skanavimą,2,1,1,0
+Disabled,,Išjungtas,,Išjungtas,2,1,1,0
+Disconnect,,Atsijungti,,,1,1,0,0
+Disk space to reserve for recordings (in GB),,Disko talpa įrašų rezervavimui (GB),,Disko talpa įrašų rezervavimui (GB),2,1,1,0
+Display 16:9 content as,,Rodyti kaip 16:9,,Rodyti kaip 16:9,2,1,1,0
+Display 4:3 content as,,Rodyti kaip 4:3 ,,Rodyti kaip 4:3 ,2,1,1,0
+Display >16:9 content as,,Monitorius >16:9 turinys kaip,,Monitorius >16:9 turinys kaip,2,1,1,0
+Do you really want to check the filesystem?\nThis could take lots of time!,,Tikrai norite atlikti failų sistemos tikrinimą?\nTai gali trukti ilgą laiką!,,,1,1,0,0
+Do you really want to delete %s?,,Jūs tikrai norite pašalinti %s?,,Jūs tikrai norite pašalinti %s?,2,1,1,0
+"Do you really want to download the plugin \""%s\""?",,"Jūs iš tikrųjų norite parsisiųsti papildomą programą \""%s \""?",,"Jūs iš tikrųjų norite parsisiųsti papildomą programą \""%s \""?",2,1,1,0
+Do you really want to exit?,,Jūs tikrai norite išeiti?,,Jūs tikrai norite išeiti?,2,1,1,0
+Do you really want to initialize the device?\nAll data on the disk will be lost!,,Tikrai norite atlikti įrenginio inicializavimą?\nVisi duomenys bus prarasti!,,,1,1,0,0
+Do you really want to remove directory %s from the disk?,,Jūs iš tikrųjų norite pašalinti direktoriją %s iš disko?,,Jūs iš tikrųjų norite pašalinti direktoriją %s iš disko?,2,1,1,0
+"Do you really want to remove the plugin \""%s\""?",,"Jūs iš tikrųjų norite į PAŠALINTI papildomą programą \""%s \""?",,"Jūs iš tikrųjų norite į PAŠALINTI papildomą programą \""%s \""?",2,1,1,0
+Do you really want to remove your bookmark of %s?,,Jūs iš tikrųjų norite pašalinti savo %s žymę?,,Jūs iš tikrųjų norite pašalinti savo %s žymę?,2,1,1,0
+Do you want to burn this collection to DVD medium?,,Jūs norite įrašyti šią kolekciją į DVD?,,Jūs norite įrašyti šią kolekciją į DVD?,2,1,1,0
+Do you want to do a service scan?,,Jūs norite skanuoti palydovą?,,Jūs norite skanuoti palydovą?,2,1,1,0
+Do you want to do another manual service scan?,,Jūs norite atlikti rankinį kanalų skanavimą?,,Jūs norite atlikti rankinį kanalų skanavimą?,2,1,1,0
+Do you want to download the image to %s ?,,Jūs norite parsisiųsti atvaizdą į %s ?,,,1,1,0,0
+Do you want to install the package:\n,,Jūs norite įdiegti paketą:\n,,Jūs norite įdiegti paketą:\n,2,1,1,0
+Do you want to play DVD in drive?,,Jūs norite paleisti DVD?,,Jūs norite paleisti DVD?,2,1,1,0
+Do you want to preview this DVD before burning?,,Jūs norite peržiūrėti šį DVD prieš įrašymą?,,Jūs norite peržiūrėti šį DVD prieš įrašymą?,2,1,1,0
+Do you want to remove the package:\n,,Jūs norite pašalinti paketą:\n,,Jūs norite pašalinti paketą:\n,2,1,1,0
+Do you want to restore your settings?,,Jūs norite atkurti nustatymus?,,Jūs norite atkurti nustatymus?,2,1,1,0
+Do you want to resume this playback?,,Jūs norite tęsti šį atkūrimą?,,,1,1,0,0
+Do you want to upgrade the package:\n,,Jūs norite atnaujinti paketą:\n,,Jūs norite atnaujinti paketą:\n,2,1,1,0
+Don't stop current event but disable coming events,,"Nestabdyti dabartinės užduoties, o išjungti sekančią užduotį",,,1,1,0,0
+Download,,Parsisiuntimas,,,1,1,0,0
+Downloading,,Parsisiunčiama,,Parsisiunčiama,2,1,1,0
+Downloading plugin information. Please wait...,,Parsiunčiama informacija apie papildomas programas. Prašome palaukti...,,Parsiunčiama informacija apie papildomas programas. Prašome palaukti...,2,1,1,0
+Dutch,,Olandų,,Olandų,2,1,1,0
+Dynamic contrast,,Dinamiškas kontrastas,,Dinamiškas kontrastas,2,1,1,0
+E,,'',,'',2,0,0,2
+ERROR - failed to scan (%s)!,,KLAIDA - nenuskanuota (%s)!,,KLAIDA - nenuskanuota (%s)!,2,1,1,0
+East,,Rytai,,Rytai,2,1,1,0
+Edit,,Redaguoti,,Redaguoti,2,1,1,0
+Edit DNS,,Redaguoti DNS,,Redaguoti DNS,2,1,1,0
+Edit bouquets list,,Redaguoti paketų sąrašą,,,1,1,0,0
+Edit chapters of current title,,Redaguokite dabartinio pavadinimo skyrius,,Redaguokite dabartinio pavadinimo skyrius,2,1,1,0
+Edit services list,,Redaguoti kanalų sąrašą,,,1,1,0,0
+Edit settings,,Redaguoti nustatymus,,Redaguoti nustatymus,2,1,1,0
+Edit title,,Redaguoti,,Redaguoti,2,1,1,0
+Edit upgrade source url.,,Suredaguokite atnaujinimo šaltinio url.,,Suredaguokite atnaujinimo šaltinio url.,2,1,1,0
+Electronic Program Guide,,Elektroninis programų gidas,,Elektroninis programų gidas,2,1,1,0
+Enable,,Įjungti,,Įjungti,2,1,1,0
+Enable 5V for active antenna,,Įjungti 5V aktyviai antenai,,Įjungti 5V aktyviai antenai,2,1,1,0
+Enable EIT EPG,,Įjungti EIT EPG,,Įjungti EIT EPG,2,1,1,0
+Enable MHW EPG,,Įjungti MHW EPG,,Įjungti MHW EPG,2,1,1,0
+Enable ViaSat EPG,,Įjungti ViaSat EPG,,Įjungti ViaSat EPG,2,1,1,0
+Enable freesat EPG,,Įjungti freesat EPG,,,1,1,0,0
+Enable multiple bouquets,,Įjungti daugiau paketų,,Įjungti daugiau paketų,2,1,1,0
+Enable parental control,,Įjungti tėvų kontrolę,,,1,1,0,0
+Enable teletext caching,,Įjungti teleteksto kaupimą,,Įjungti teleteksto kaupimą,2,1,1,0
+Enabled,,Įjungta,,Įjungta,2,1,1,0
+Encrypted: ,,Užšifruota:,,Užšifruota:,2,1,1,0
+Encryption,,Užšifravimas,,Užšifravimas,2,1,1,0
+Encryption:,,Užšifravimas:,,Užšifravimas:,2,1,1,0
+End time,,Pabaigos laikas,,Pabaigos laikas,2,1,1,0
+English,,Anglų,,Anglų,2,1,1,0
+Enter main menu...,,Eiti į pagrindinį meniu...,,Eiti į pagrindinį meniu...,2,1,1,0
+Enter pin code,,Įrašykite pin kodą,,Įrašykite pin kodą,2,1,1,0
+Enter the service pin,,Įrašykite kanalo PIN,,Įrašykite kanalo PIN,2,1,1,0
+Error,,Klaida,,Klaida,2,1,1,0
+Error executing plugin,,Klaida paleidžiant papildomą programą,,Klaida paleidžiant papildomą programą,2,1,1,0
+Error: %s\nRetry?,,Klaida: %s\nKartoti?,,Klaida: %s\nKartoti?,2,1,1,0
+Estonian,,Estų,,Estų,2,1,1,0
+Ethernet network interface,,Ethernet tinklo sąsaja,,Ethernet tinklo sąsaja,2,1,1,0
+Exceeds dual layer medium!,,Viršyja dvejų sluoksnių laikmeną!,,Viršyja dvejų sluoksnių laikmeną!,2,1,1,0
+Execution finished!!,,Vykdymas baigtas!!,,Vykdymas baigtas!!,2,1,1,0
+Exif,,'',,'',2,0,0,2
+Exit,,Išeiti,,Išeiti,2,1,1,0
+Exit editor,,Išeiti iš redaktoriaus,,Išeiti iš redaktoriaus,2,1,1,0
+Exit input device selection.,,Išeiti iš įvesto prietaiso pasirinkimo.,,Išeiti iš įvesto prietaiso pasirinkimo.,2,1,1,0
+Exit network wizard,,Išeiti iš tinklo vedlio,,Išeiti iš tinklo vedlio,2,1,1,0
+Exit the wizard,,Išeiti iš nustatymų vedlio,,Išeiti iš nustatymų vedlio,2,1,1,0
+Expert,,Išplėstinis,,Išplėstinis,2,1,1,0
+Extended Networksetup Plugin...,,Išplėsta tinklo nustatymų papildoma programa...,,Išplėsta tinklo nustatymų papildoma programa...,2,1,1,0
+Extended Setup...,,Išplėstiniai nustatymai...,,Išplėstiniai nustatymai...,2,1,1,0
+Extended Software,,Išplėsta programinė įranga,,Išplėsta programinė įranga,2,1,1,0
+Extended Software Plugin,,Išplėsta programinės įrangos papildoma programa...,,Išplėsta programinės įrangos papildoma programa...,2,1,1,0
+Extensions,,Išplėtimai,,Išplėtimai,2,1,1,0
+Extensions management,,Išplėtimų valdymas,,Išplėtimų valdymas,2,1,1,0
+FEC,,'',,'',2,0,0,2
+Factory reset,,Gamykliniai nustatymai,,Gamykliniai nustatymai,2,1,1,0
+Failed,,Klaidingas,,Klaidingas,2,1,1,0
+Fan %d,,Aušintuvas %d,,Aušintuvas %d,2,1,1,0
+Fast,,Greitas,,Greitas,2,1,1,0
+Fast DiSEqC,,Greitas DiSEqC,,Greitas DiSEqC,2,1,1,0
+Fast epoch,,Greita epocha,,Greita epocha,2,1,1,0
+Favourites,,Geriausi,,Geriausi,2,1,1,0
+Filesystem Check,,Failų sistemos tikrinimas,,Failų sistemos tikrinimas,2,1,1,0
+Finetune,,Tiksliau,,Tiksliau,2,1,1,0
+Finished,,Baigtas,,Baigtas,2,1,1,0
+Finished configuring your network,,Baigtas jūsų tinklo konfigūravimas,,Baigtas jūsų tinklo konfigūravimas,2,1,1,0
+Finished restarting your network,,Baigtas jūsų tinklo paleidimas iš naujo,,,1,1,0,0
+Finnish,,Suomių,,Suomių,2,1,1,0
+Flash,,Vidinė atmintis,,,1,1,0,0
+Flashing failed,,Diegimas klaidingas,,,1,1,0,0
+Following tasks will be done after you press OK!,,"Kitos užduotys bus atliktos po to, kai jūs paspausite OK!",,"Kitos užduotys bus atliktos po to, kai jūs paspausite OK!",2,1,1,0
+Format,,Formatas,,Formatas,2,1,1,0
+Frame size in full view,,Kadro dydis pilname vaizde,,Kadro dydis pilname vaizde,2,1,1,0
+French,,Prancūzų,,Prancūzų,2,1,1,0
+Frequency,,Dažnis,,Dažnis,2,1,1,0
+Frequency bands,,Dažnio juostos,,Dažnio juostos,2,1,1,0
+Frequency scan step size(khz),,Skanavimo dažnio žingsnio dydis(khz),,Skanavimo dažnio žingsnio dydis(khz),2,1,1,0
+Frequency steps,,Dažnio žingsniai,,Dažnio žingsniai,2,1,1,0
+Fri,,Pen,,Pen,2,1,1,0
+Friday,,Penktadienis,,Penktadienis,2,1,1,0
+Frontprocessor version: %d,,Priekinio procesoriaus versija: %d,,,1,1,0,0
+Gateway,,Šliuzas,,Šliuzas,2,1,1,0
+Genre,,Žanras,,Žanras,2,1,1,0
+German,,Vokiečių,,Vokiečių,2,1,1,0
+Get latest experimental image,,Gaukite paskutinį bandomąjį atvaizdą,,,1,1,0,0
+Get latest release image,,Gaukite paskutinį atvaizdą,,,1,1,0,0
+Getting plugin information. Please wait...,,Gaunama informacija apie papildomas programas. Prašome palaukti...,,Gaunama informacija apie papildomas programas. Prašome palaukti...,2,1,1,0
+Goto 0,,Eiti į 0,,Eiti į 0,2,1,1,0
+Goto position,,Eiti į poziciją,,Eiti į poziciją,2,1,1,0
+Graphical Multi EPG,,Grafinis kelių kanalų EPG,,,1,1,0,0
+Greek,,Graikų,,Graikų,2,1,1,0
+Guard interval,,Apsaugos intervalas,,Apsaugos intervalas,2,1,1,0
+Hidden network,,Paslėptas tinklas,,Paslėptas tinklas,2,1,1,0
+Hide CI messages,,Slėpti CI pranešimus,,Slėpti CI pranešimus,2,1,1,0
+Hide zap errors,,Slėpti perjungimo klaidas,,Slėpti perjungimo klaidas,2,1,1,0
+Hierarchy info,,Hierarchijos informacija,,Hierarchijos informacija,2,1,1,0
+High bitrate support,,Aukštos bitų spartos palaikymas,,Aukštos bitų spartos palaikymas,2,1,1,0
+Horizontal,,Horizontalus,,Horizontalus,2,1,1,0
+How many minutes do you want to record?,,Kiek minučių norite daryti įrašą?,,,1,1,0,0
+Hue,,Atspalvis,,Atspalvis,2,1,1,0
+Hungarian,,Vengrų,,Vengrų,2,1,1,0
+ISO file is too large for this filesystem!,,ISO failas yra per didelis šiai failų sistemai!,,ISO failas yra per didelis šiai failų sistemai!,2,1,1,0
+ISO path,,ISO kelias,,ISO kelias,2,1,1,0
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,"Jeigu Jūs tai skaitote, kažkas negerai su\njūsų skarto pajungimu. Spauskite OK norint grįžti.",,,1,1,0,0
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,"Jeigu jūsų televizorius turi šviesumo arba kontrasto padidinimą, patvirtinkite tai. Jeigu yra kažkas pavadinta kaip \""dinaminis \"", tai nustatykite tai, kaip standartą. Nustatykite šviesumo lygį, kuris yra jums tinkamiausias. Nustatykite kontrastą savo televizoriui tiek, kiek tai įmanoma.\nTada nustatykite šviesumą tiek mažai kiek tai įmanoma, bet įsitikinkite kad du patys žemiausi pilki atspalviai yra atskirti. \nDabar nebesirūpinkite šviesiais atspalviais . Jie bus nustatyti sekančiame žingsnyje.\nJeigu Jūs patenkinti gautu rezultatu, spauskite OK.",,"Jeigu jūsų televizorius turi šviesumo arba kontrasto padidinimą, patvirtinkite tai. Jeigu yra kažkas pavadinta kaip \""dinaminis \"", tai nustatykite tai, kaip standartą. Nustatykite šviesumo lygį, kuris yra jums tinkamiausias. Nustatykite kontrastą savo televizoriui tiek, kiek tai įmanoma.\nTada nustatykite šviesumą tiek mažai kiek tai įmanoma, bet įsitikinkite kad du patys žemiausi pilki atspalviai yra atskirti. \nDabar nebesirūpinkite šviesiais atspalviais . Jie bus nustatyti sekančiame žingsnyje.\nJeigu Jūs patenkinti gautu rezultatu, spauskite OK.",2,1,1,0
+"In order to record a timer, the TV was switched to the recording service!\n",,"Pradėjus rašyti pagal pasirinktą laikmatį, TV bus perjungtas į įrašomą kanalą!\n",,"Pradėjus rašyti pagal pasirinktą laikmatį, TV bus perjungtas į įrašomą kanalą!\n",2,1,1,0
+Increased voltage,,Padidinta įtampa,,Padidinta įtampa,2,1,1,0
+Info,,Informacija,,Informacija,2,1,1,0
+Information,,Informacija,,Informacija,2,1,1,0
+Init,,Inicializacija,,Inicializacija,2,1,1,0
+Initialization,,Inicializavimas,,,1,1,0,0
+Initialize,,Inicializuoti,,Inicializuoti,2,1,1,0
+Initializing storage device...,,Įrenginio inicializavimas...,,Įrenginio inicializavimas...,2,1,1,0
+Input,,Įėjimas,,Įėjimas,2,1,1,0
+Input device setup,,Prietaiso įvesties valdymas,,,1,1,0,0
+Install,,Įdiegti,,Įdiegti,2,1,1,0
+Install a new image with a USB stick,,Įdiekite naują atvaizdą su USB raktu,,Įdiekite naują atvaizdą su USB raktu,2,1,1,0
+Install a new image with your web browser,,Įdiekite naują atvaizdą su savo tinklo naršykle,,Įdiekite naują atvaizdą su savo tinklo naršykle,2,1,1,0
+Install extensions.,,Įdiekite išplėtimus.,,Įdiekite išplėtimus.,2,1,1,0
+Install local extension,,Įdiekite vietinį išplėtimą,,Įdiekite vietinį išplėtimą,2,1,1,0
+Install or remove finished.,,Įdiegimas arba pašalinimas baigtas.,,Įdiegimas arba pašalinimas baigtas.,2,1,1,0
+Installation finished.,,Įdiegimas baigtas.,,Įdiegimas baigtas.,2,1,1,0
+Installing,,Įdiegiama,,Įdiegiama,2,1,1,0
+Instant record location,,Greito įrašo vieta,,Greito įrašo vieta,2,1,1,0
+Interface: ,,Sąsaja:,,Sąsaja:,2,1,1,0
+Intermediate,,Normalus,,Normalus,2,1,1,0
+Invalid directory selected: %s,,Negaliojanti pasirinkta direktorija: %s,,Negaliojanti pasirinkta direktorija: %s,2,1,1,0
+Inversion,,Pervertimas,,Pervertimas,2,1,1,0
+Ipkg,,'',,'',2,0,0,2
+Italian,,Italų,,Italų,2,1,1,0
+Job View,,Darbo vaizdas,,Darbo vaizdas,2,1,1,0
+Keyboard,,Klaviatūra,,Klaviatūra,2,1,1,0
+LAN connection,,LAN prisijungimas,,LAN prisijungimas,2,1,1,0
+LNB,,LNB konverteris,,LNB konverteris,2,1,1,0
+Language,,Kalba,,Kalba,2,1,1,0
+Language selection,,Kalbos pasirinkimas,,Kalbos pasirinkimas,2,1,1,0
+Last config,,Paskutinis config,,Paskutinis config,2,1,1,0
+Last speed,,Paskutinis greitis,,Paskutinis greitis,2,1,1,0
+Latitude,,Platuma,,Platuma,2,1,1,0
+Latvian,,Latvių,,Latvių,2,1,1,0
+Left,,Kairė,,Kairė,2,1,1,0
+Letterbox,,'',,'',2,0,0,2
+Limit east,,Rytų riba,,Rytų riba,2,1,1,0
+Limit west,,Vakarų riba,,Vakarų riba,2,1,1,0
+Limits off,,Ribos išjungtos,,Ribos išjungtos,2,1,1,0
+Limits on,,Ribos įjungtos,,Ribos įjungtos,2,1,1,0
+Link Quality:,,Sąsajos Kokybė:,,,1,1,0,0
+Link:,,Sąsaja:,,Sąsaja:,2,1,1,0
+Linked titles with a DVD menu,,Sujungti pavadinimai su DVD meniu,,Sujungti pavadinimai su DVD meniu,2,1,1,0
+List available networks,,Galimų tinklų sąrašas,,Galimų tinklų sąrašas,2,1,1,0
+Lithuanian,,Lietuvių,,Lietuvių,2,1,1,0
+Load,,Užkraunama,,Užkraunama,2,1,1,0
+Location,,Vieta,,Vieta,2,1,1,0
+Log results to harddisk,,Log rezultatus į kietą diską,,Log rezultatus į kietą diską,2,1,1,0
+Long filenames,,Ilgi failų pavadinimai,,Ilgi failų pavadinimai,2,1,1,0
+Longitude,,Ilguma,,Ilguma,2,1,1,0
+Main menu,,Pagrindinis meniu,,Pagrindinis meniu,2,1,1,0
+Mainmenu,,Pagrindinis meniu,,Pagrindinis meniu,2,1,1,0
+Make this mark an 'in' point,,Padarykite šį žymeklį 'įėjimo' taške,,Padarykite šį žymeklį 'įėjimo' taške,2,1,1,0
+Make this mark an 'out' point,,Padarykite šį žymeklį 'išėjimo' taške,,Padarykite šį žymeklį 'išėjimo' taške,2,1,1,0
+Make this mark just a mark,,Padarykite šį žymeklį kaip žymekliu,,Padarykite šį žymeklį kaip žymekliu,2,1,1,0
+Manage extensions,,Išplėtimų valdymas,,Išplėtimų valdymas,2,1,1,0
+Manual Scan,,Rankinė paieška,,Rankinė paieška,2,1,1,0
+Manual configuration,,Rankinė konfigūracija,,Rankinė konfigūracija,2,1,1,0
+Manual transponder,,Rankinis transponderis,,Rankinis transponderis,2,1,1,0
+Manufacturer,,Gamintojas,,Gamintojas,2,1,1,0
+Media player,,Media grotuvas,,Media grotuvas,2,1,1,0
+Medium is not a writeable DVD!,,Tai ne įrašomas DVD!,,Tai ne įrašomas DVD!,2,1,1,0
+Medium is not empty!,,Ne tuščias!,,Ne tuščias!,2,1,1,0
+Menu,,Meniu,,Meniu,2,1,1,0
+Model: ,,Modelis:,,Modelis:,2,1,1,0
+Modulation,,Paaukštėjimas,,Paaukštėjimas,2,1,1,0
+Modulator,,Moduliatorius,,Moduliatorius,2,1,1,0
+Mon,,Pir,,Pir,2,1,1,0
+Mon-Fri,,Pir-Pen,,Pir-Pen,2,1,1,0
+Monday,,Pirmadienis,,Pirmadienis,2,1,1,0
+Mosquito noise reduction,,Uodo triukšmo sumažėjimas,,Uodo triukšmo sumažėjimas,2,1,1,0
+Move Picture in Picture,,Perkelti paveikslėlį į paveikslėlį,,Perkelti paveikslėlį į paveikslėlį,2,1,1,0
+Move east,,Sukti į rytus,,Sukti į rytus,2,1,1,0
+Move west,,Sukti į vakarus,,Sukti į vakarus,2,1,1,0
+Movie location,,Filmo vieta,,Filmo vieta,2,1,1,0
+Multi EPG,,Kanalų EPG,,Kanalų EPG,2,1,1,0
+Multimedia,,Multimedija,,Multimedija,2,1,1,0
+Multiple service support,,Kelių kanalų palaikymas,,Kelių kanalų palaikymas,2,1,1,0
+Multiplex,,Sudėtingas,,,1,1,0,0
+Multisat,,Daug palydovų,,Daug palydovų,2,1,1,0
+N/A,,'',,'',2,0,0,2
+NFI image flashing completed. Press Yellow to Reboot!,,"NFI atvaizdo diegimas baigtas. Spauskite geltoną mygtuką, kad paleisti iš naujo!",,,1,1,0,0
+NIM,,'',,,1,0,0,1
+NTSC,,'',,'',2,0,0,2
+Name,,Pavadinimas,,Pavadinimas,2,1,1,0
+Nameserver,,Serverio pavadinimas,,Serverio pavadinimas,2,1,1,0
+Nameserver %d,,Serverio pavadinimas %d,,Serverio pavadinimas %d,2,1,1,0
+Nameserver settings,,Serverio pavadinimas,,Serverio pavadinimas,2,1,1,0
+Namespace,,Pavadinimnų erdvė,,Pavadinimnų erdvė,2,1,1,0
+Netmask,,Potinklio kaukė,,Potinklio kaukė,2,1,1,0
+Network,,Tinklas,,Tinklas,2,1,1,0
+Network Setup,,Tinklo nustatymas,,Tinklo nustatymas,2,1,1,0
+Network scan,,Tinklo skanavimas,,Tinklo skanavimas,2,1,1,0
+Network setup,,Tinklo nustatymas,,,1,1,0,0
+Network test,,Tinklo testavimas,,Tinklo testavimas,2,1,1,0
+Network test: ,,Tinklo bandymas:,,,1,1,0,0
+Network:,,Tinklas:,,Tinklas:,2,1,1,0
+New,,Naujas,,Naujas,2,1,1,0
+New PIN,,Naujas PIN,,,1,1,0,0
+New version:,,Nauja versija:,,Nauja versija:,2,1,1,0
+No,,Ne,,Ne,2,1,1,0
+No (supported) DVDROM found!,,Palaikomas DVDROM nesurastas!,,Palaikomas DVDROM nesurastas!,2,1,1,0
+No Connection,,Nėra prisijungimo,,Nėra prisijungimo,2,1,1,0
+No HDD found or HDD not initialized!,,Kietas diskas nerastas arba neinicializuotas!,,Kietas diskas nerastas arba neinicializuotas!,2,1,1,0
+No backup needed,,Atsarginės kopijos nereikia,,Atsarginės kopijos nereikia,2,1,1,0
+No data on transponder!\n(Timeout reading PAT),,Nėra duomenų iš transponderio!\n(Skaitymo pertrauka PAT),,Nėra duomenų iš transponderio!\n(Skaitymo pertrauka PAT),2,1,1,0
+No description available.,,Joks apibūdinimas nepasiekiamas.,,Joks apibūdinimas nepasiekiamas.,2,1,1,0
+No details for this image file,,Nėra informacijos apie šį atvaizdą,,,1,1,0,0
+No displayable files on this medium found!,,Jokių failų čia nerasta!,,Jokių failų čia nerasta!,2,1,1,0
+"No event info found, recording indefinitely.",,"Informacija apie įvykius nerasta, tęsiamas įrašymas.",,"Informacija apie įvykius nerasta, tęsiamas įrašymas.",2,1,1,0
+No fast winding possible yet.. but you can use the number buttons to skip forward/backward!,,"Joks greitas vingiavimas, galimas dar.. bet jūs galite panaudoti skaičių mygtukus, kad praleistumėte pirmyn/atgal!",,"Joks greitas vingiavimas, galimas dar.. bet jūs galite panaudoti skaičių mygtukus, kad praleistumėte pirmyn/atgal!",2,1,1,0
+No free tuner!,,Nėra laisvo imtuvo!,,Nėra laisvo imtuvo!,2,1,1,0
+No network connection available.,,Joks tinklo ryšys nepasiekiamas.,,Joks tinklo ryšys nepasiekiamas.,2,1,1,0
+No networks found,,Jokie tinklai nesurasti,,Jokie tinklai nesurasti,2,1,1,0
+No positioner capable frontend found.,,"Nėra pozicionieriaus, kuris rastų priekinį kraštą.",,"Nėra pozicionieriaus, kuris rastų priekinį kraštą.",2,1,1,0
+No satellite frontend found!!,,Nerastas palydovas!!,,,1,1,0,0
+No tags are set on these movies.,,Jokios kortelės su užrašu nėra nustatytos šiems kino filmams,,Jokios kortelės su užrašu nėra nustatytos šiems kino filmams,2,1,1,0
+No to all,,Ne į visus,,Ne į visus,2,1,1,0
+No tuner is configured for use with a diseqc positioner!,,"Nėra imtuvo, suderinto naudotis su diseqc pozicionieriumi!",,"Nėra imtuvo, suderinto naudotis su diseqc pozicionieriumi!",2,1,1,0
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,,"Imtuvas neįjungtas!\nPrašome nustatyti Jūsų imtuvą, prieš pradedant ieškoti kanalų.",,"Imtuvas neįjungtas!\nPrašome nustatyti Jūsų imtuvą, prieš pradedant ieškoti kanalų.",2,1,1,0
+No valid service PIN found!\nDo you like to change the service PIN now?\nWhen you say 'No' here the service protection stay disabled!,,"Teisingas kanalo PIN nerastas!\nJūs norite pakeisti kanalo PIN dabar?\nJeigu jūs atsakysite 'NE', tai kanalo apsauga \nnebus įjungta!",,,1,1,0,0
+No valid setup PIN found!\nDo you like to change the setup PIN now?\nWhen you say 'No' here the setup protection stay disabled!,,"Teisingas nustatymų PIN nerastas!\nJūs norite pakeisti nustatymų PIN dabar?\nJeigu jūs atsakysite 'NE', tai kanalo apsauga \nnebus įjungta!",,,1,1,0,0
+No wireless networks found! Searching...,,Belaidžių tinklų nerasta! Vyksta paieška ...,,Belaidžių tinklų nerasta! Vyksta paieška ...,2,1,1,0
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,"Joks veikiantis vietinio tinklo adapteris, nerastas.\nPrašome patikrinti, ar jūs prijungėte tinklo kabelį, ir ar jūsų tinklas yra sukonfigūruotas teisingai.",,"Joks veikiantis vietinio tinklo adapteris, nerastas.\nPrašome patikrinti, ar jūs prijungėte tinklo kabelį, ir ar jūsų tinklas yra sukonfigūruotas teisingai.",2,1,1,0
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,"Joks veikiantis belaidžio tinklo adapteris nerastas.\nPrašome patikrinti, ar jūs pridėjote suderinamą WLAN prietaisą, ir ar jūsų tinklas yra sukonfigūruotas teisingai.",,"Joks veikiantis belaidžio tinklo adapteris nerastas.\nPrašome patikrinti, ar jūs pridėjote suderinamą WLAN prietaisą, ir ar jūsų tinklas yra sukonfigūruotas teisingai.",2,1,1,0
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,"Jokia veikianti belaidžio tinklo sąsaja nerasta.\nPrašome patikrinti, kad jūs pridėjote suderinamą WLAN prietaisą ar įjungėte jūsų vietinio tinklo sąsają.",,"Jokia veikianti belaidžio tinklo sąsaja nerasta.\nPrašome patikrinti, kad jūs pridėjote suderinamą WLAN prietaisą ar įjungėte jūsų vietinio tinklo sąsają.",2,1,1,0
+"No, but restart from begin",,"Ne, paleisti nuo pradžių",,,1,1,0,0
+"No, do nothing.",,"Ne, nereikia",,"Ne, nereikia",2,1,1,0
+"No, just start my %s %s",,"Ne, įjungti mano imtuvą",,"Ne, įjungti mano imtuvą",2,1,1,0
+"No, never",,"Ne, niekada",,"Ne, niekada",2,1,1,0
+"No, scan later manually",,"Ne, skanuoti vėliau rankiniu būdu",,"Ne, skanuoti vėliau rankiniu būdu",2,1,1,0
+None,,Joks,,Joks,2,1,1,0
+North,,Šiaurė,,Šiaurė,2,1,1,0
+Norwegian,,Norvegų,,Norvegų,2,1,1,0
+Not-Associated,,Ne-Asocijuotas,,Ne-Asocijuotas,2,1,1,0
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,,"Nėra ko ieškoti!\nPrašome, suderinkite savo imtuvą prieš paleidžiant kanalų skanavimą.",,"Nėra ko ieškoti!\nPrašome, suderinkite savo imtuvą prieš paleidžiant kanalų skanavimą.",2,1,1,0
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,"Dabar, atlikite kontrasto nustatymą, kad padidinti fono šviesumą tiek kiek įmanoma, bet įsitikinkite, kad jūs galite vis dar pamatyti skirtumą tarp dviejų ryškiausių atspalvių lygmenų. Jei jūs baigėte,tai spauskite OK.",,,1,1,0,0
+OK,,Gerai,,Gerai,2,1,1,0
+"OK, guide me through the upgrade process",,"Gerai, informuoti mane apie atnaujinimo eigą",,"Gerai, informuoti mane apie atnaujinimo eigą",2,1,1,0
+ONID,,'',,'',2,0,0,2
+Off,,Išjungta,,Išjungta,2,1,1,0
+On,,Įjungta,,Įjungta,2,1,1,0
+One,,Vienas,,Vienas,2,1,1,0
+Only extensions.,,Tik išplėtimus.,,Tik išplėtimus.,2,1,1,0
+Orbital position,,Pozicija orbitoje,,Pozicija orbitoje,2,1,1,0
+Overwrite configuration files during software upgrade?,,Perrašyti konfigūracijos failus per programinės įrangos atnaujinimą?,,Perrašyti konfigūracijos failus per programinės įrangos atnaujinimą?,2,1,1,0
+PAL,,'',,'',2,0,0,2
+PCR PID,,'',,'',2,0,0,2
+PIDs,,'',,,1,0,0,1
+PMT PID,,'',,'',2,0,0,2
+Package list update,,Paketo sąrašo atnaujinimas,,Paketo sąrašo atnaujinimas,2,1,1,0
+Packet management,,Paketų valdymas,,Paketų valdymas,2,1,1,0
+Packet manager,,Paketo valdytojas,,Paketo valdytojas,2,1,1,0
+Parental control,,Tėvų kontrolė,,Tėvų kontrolė,2,1,1,0
+Parental control setup,,Tėvų kontrolės nustatymai,,,1,1,0,0
+Parental control type,,Tėvų kontrolės rūšis,,,1,1,0,0
+Password,,Slaptažodis,,Slaptažodis,2,1,1,0
+Pause movie at end,,Filmo pauzė pabaigoje,,Filmo pauzė pabaigoje,2,1,1,0
+Persian,,Persų,,Persų,2,1,1,0
+Phone number,,Telefono numeris,,,1,1,0,0
+Pillarbox,,'',,'',2,0,0,2
+Pilot,,'',,'',2,0,0,2
+Play,,Leisti,,Leisti,2,1,1,0
+Play Audio-CD...,,Paleisti Garso-CD...,,Paleisti Garso-CD...,2,1,1,0
+Play DVD,,Leisti DVD,,Leisti DVD,2,1,1,0
+Play Music...,,Groti muziką...,,Groti muziką...,2,1,1,0
+Play recorded movies...,,Leisti įrašytus filmus...,,Leisti įrašytus filmus...,2,1,1,0
+Please add titles to the compilation.,,Prašome pridėti pavadinimus į kompiliaciją.,,Prašome pridėti pavadinimus į kompiliaciją.,2,1,1,0
+Please change recording endtime,,Prašome pakeisti įrašymo pabaigos laiką,,,1,1,0,0
+Please check your network settings!,,Prašome tikrinti savo tinklo nustatymus!,,,1,1,0,0
+Please choose an extension...,,Prašome išsirinkti papildymus...,,Prašome išsirinkti papildymus...,2,1,1,0
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,"Prašome sukonfigūruoti savo serverių pavadinimus, užpildydami būtinas reikšmes. \nKai jūs esate pasiruošęs, prašome spausti OK, kad tęsti.",,"Prašome sukonfigūruoti savo serverių pavadinimus, užpildydami būtinas reikšmes. \nKai jūs esate pasiruošęs, prašome spausti OK, kad tęsti.",2,1,1,0
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,"Prašome sukonfigūruoti savo interneto ryšį, užpildydami būtinas reikšmes. \nKai jūs esate pasiruošęs, prašome spausti OK, kad tęsti.",,"Prašome sukonfigūruoti savo interneto ryšį, užpildydami būtinas reikšmes. \nKai jūs esate pasiruošęs, prašome spausti OK, kad tęsti.",2,1,1,0
+Please do not change any values unless you know what you are doing!,,"Prašome nekeisti reikšmių, jeigu Jūs nežinote ką darote! ",,"Prašome nekeisti reikšmių, jeigu Jūs nežinote ką darote! ",2,1,1,0
+Please enter a name for the new bouquet,,Prašome įrašyti naujo paketo pavadinimą,,Prašome įrašyti naujo paketo pavadinimą,2,1,1,0
+Please enter a name for the new marker,,Prašome įrašyti naujo žymeklio pavadinimą,,Prašome įrašyti naujo žymeklio pavadinimą,2,1,1,0
+Please enter a new filename,,Prašome įrašyti naują failo pavadinimą,,Prašome įrašyti naują failo pavadinimą,2,1,1,0
+Please enter filename (empty = use current date),,Prašome įrašyti failo pavadinimą (tuščias = dabartiniai duomenys),,Prašome įrašyti failo pavadinimą (tuščias = dabartiniai duomenys),2,1,1,0
+Please enter name of the new directory,,Prašome įrašyti naujos direktorijos pavadinimą,,,1,1,0,0
+Please enter the correct pin code,,Prašome įrašyti teisingą PIN kodą,,Prašome įrašyti teisingą PIN kodą,2,1,1,0
+Please enter the old PIN code,,Prašome įrašyti seną PIN kodą,,Prašome įrašyti seną PIN kodą,2,1,1,0
+Please follow the instructions on the TV,,Prašome sekti instrukcijas televizoriuje,,Prašome sekti instrukcijas televizoriuje,2,1,1,0
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,,"Prašome žinoti, kad prie anksčiau išsirinktos medios negalėjote gauti prieigos, ir todėl numatyta direktorija yra naudojama vietoj tos.",,"Prašome žinoti, kad prie anksčiau išsirinktos medios negalėjote gauti prieigos, ir todėl numatyta direktorija yra naudojama vietoj tos.",2,1,1,0
+Please press OK to continue.,,"Prašome spausti OK, kad tęsti.",,"Prašome spausti OK, kad tęsti.",2,1,1,0
+Please select a playlist to delete...,,Prašome išsirinkti ką norite trinti iš grojaraščio...,,Prašome išsirinkti ką norite trinti iš grojaraščio...,2,1,1,0
+Please select a playlist...,,Prašome išsirinkti grojaraštį,,Prašome išsirinkti grojaraštį,2,1,1,0
+Please select a subservice to record...,,Prašome išsirinkti subkanalą dėl įrašymo...,,Prašome išsirinkti subkanalą dėl įrašymo...,2,1,1,0
+Please select a subservice...,,Prašome išsirinkti subkanalą...,,Prašome išsirinkti subkanalą...,2,1,1,0
+Please select an NFI file and press green key to flash!,,Prašome išsirinkti NFI failą ir spauskite žalią mygtuką atvaizdo užkrovumui!,,,1,1,0,0
+Please select medium to use as backup location,,"Prašome išsirinkti tai, kaip atsarginės kopijos vietą",,"Prašome išsirinkti tai, kaip atsarginės kopijos vietą",2,1,1,0
+Please select tag to filter...,,Prašome išsirinkti kortelę filtravimui...,,,1,1,0,0
+Please select the movie path...,,Prašome išsirinkti filmo kelią...,,Prašome išsirinkti filmo kelią...,2,1,1,0
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,"Prašome išsirinkti tinklo sąsają, kurią jūs norite panaudoti jūsų interneto ryšiui.\n\nPrašome spausti OK, kad tęsti.",,"Prašome išsirinkti tinklo sąsają, kurią jūs norite panaudoti jūsų interneto ryšiui.\n\nPrašome spausti OK, kad tęsti.",2,1,1,0
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,"Prašome išsirinkti belaidį tinklą, prie kurio norite prisijungti.\n\nPrašome spausti OK, kad tęsti.",,"Prašome išsirinkti belaidį tinklą, prie kurio norite prisijungti.\n\nPrašome spausti OK, kad tęsti.",2,1,1,0
+Please set up tuner B,,Prašome nustatyti imtuvą B,,Prašome nustatyti imtuvą B,2,1,1,0
+Please set up tuner C,,Prašome nustatyti imtuvą C,,Prašome nustatyti imtuvą C,2,1,1,0
+Please set up tuner D,,Prašome nustatyti imtuvą D,,Prašome nustatyti imtuvą D,2,1,1,0
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,"Prašome, naudoti valdymo mygtukus dėl PiP lango perkėlimo.\nSpauskite Bouquet +/- dėl lango dydžio pakeitimo.\nSpauskite OK  norint grįžti į TV arba EXIT norint nutraukti judėjimą.",,,1,1,0,0
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,,"Prašome naudoti AUKŠTYN IR ŽEMYN mygtukus, kad išsirinktumėte savo kalbą. Po to spauskite OK mygtuką.",,,1,1,0,0
+Please wait for activation of your network configuration...,,Prašome laukti jūsų tinklo konfigūracijos aktyvavimo...,,,1,1,0,0
+Please wait while scanning is in progress...,,Prašome laukti kol vyksta skanavimas...,,Prašome laukti kol vyksta skanavimas...,2,1,1,0
+Please wait while we configure your network...,,Prašome laukti kol konfigūruojamas jūsų tinklas...,,Prašome laukti kol konfigūruojamas jūsų tinklas...,2,1,1,0
+Please wait while we prepare your network interfaces...,,Prašome laukti kol ruošiame jūsų tinklo sąsajas...,,Prašome laukti kol ruošiame jūsų tinklo sąsajas...,2,1,1,0
+Please wait while we test your network...,,Prašome laukti kol testuojamas jūsų tinklas...,,Prašome laukti kol testuojamas jūsų tinklas...,2,1,1,0
+Please wait while your network is restarting...,,Prašome laukti kol paleidžiamas iš naujo jūsų tinklas...,,,1,1,0,0
+Please wait...,,Prašome laukti...,,Prašome laukti...,2,1,1,0
+Please wait... Loading list...,,Prašome laukti... Užkraunamas sąrašas...,,Prašome laukti... Užkraunamas sąrašas...,2,1,1,0
+Plugin manager activity information,,Papildomų programų aktyvumo informacija,,Papildomų programų aktyvumo informacija,2,1,1,0
+Plugin manager help,,Papildomų programų valdymo pagalba,,Papildomų programų valdymo pagalba,2,1,1,0
+Plugins,,Papildomos programos,,Papildomos programos,2,1,1,0
+Polarization,,Poliarizacija,,Poliarizacija,2,1,1,0
+Polish,,Lenkų,,Lenkų,2,1,1,0
+Port A,,Jungtis A,,Jungtis A,2,1,1,0
+Port B,,Jungtis B,,Jungtis B,2,1,1,0
+Port C,,Jungtis C,,Jungtis C,2,1,1,0
+Port D,,Jungtis D,,Jungtis D,2,1,1,0
+Portuguese,,Portugalų,,Portugalų,2,1,1,0
+Position of finished Timers in Timerlist,,Baigtų laikmačių padėtis laikmačio sąraše,,,1,1,0,0
+Positioner,,Pozicionierius,,Pozicionierius,2,1,1,0
+Positioner setup,,Pozicionieriaus nustatymas,,Pozicionieriaus nustatymas,2,1,1,0
+Power threshold in mA,,Įtampos galia mA,,Įtampos galia mA,2,1,1,0
+Predefined transponder,,Nustatytas transponderis,,Nustatytas transponderis,2,1,1,0
+Preferred tuner,,Imtuvo pirmenybė,,Imtuvo pirmenybė,2,1,1,0
+Prepare another USB stick for image flashing,,Paruoškite kitą USB laikmeną atvaizdo užkrovimui,,,1,1,0,0
+Preparing... Please wait,,Pasiruošiama... Prašome laukti,,Pasiruošiama... Prašome laukti,2,1,1,0
+Press INFO on your remote control for additional information.,,Spauskite INFO ant savo distancinio valdymo pulto dėl papildomos informacijos.,,Spauskite INFO ant savo distancinio valdymo pulto dėl papildomos informacijos.,2,1,1,0
+Press MENU on your remote control for additional options.,,Spauskite MENU ant savo distancinio valdymo pulto papildomam pasirinkimui.,,Spauskite MENU ant savo distancinio valdymo pulto papildomam pasirinkimui.,2,1,1,0
+Press OK on your remote control to continue.,,Spauskite OK savo valdymo pulte ir tęskite.,,Spauskite OK savo valdymo pulte ir tęskite.,2,1,1,0
+Press OK to activate the selected skin.,,"Spauskite OK, kad aktyvuoti pasirinktą temą.",,,1,1,0,0
+Press OK to activate the settings.,,Spauskite OK norėdami aktyvuoti nustatymus,,Spauskite OK norėdami aktyvuoti nustatymus,2,1,1,0
+Press OK to edit the settings.,,Spauskite OK ir redaguokite nustatymus.,,Spauskite OK ir redaguokite nustatymus.,2,1,1,0
+Press OK to get further details for %s,,"Spauskite OK, kad gautumėte tolimesnes detales dėl %s",,"Spauskite OK, kad gautumėte tolimesnes detales dėl %s",2,1,1,0
+Press OK to scan,,Spauskite OK paieškai.,,Spauskite OK paieškai.,2,1,1,0
+Press OK to select/deselect a CAId.,,"Spauskite OK, kad pasirinkti/nepasirinkti CAId.",,"Spauskite OK, kad pasirinkti/nepasirinkti CAId.",2,1,1,0
+Press OK to start the scan,,Spauskite OK norėdami pradėti paiešką.,,,1,1,0,0
+Press OK to toggle the selection.,,Spauskite OK dėl pasirinkimo.,,Spauskite OK dėl pasirinkimo.,2,1,1,0
+Press yellow to set this interface as default interface.,,"Spauskite geltoną, kad nustatyti šią sąsają kaip numatytąją.",,,1,1,0,0
+Preview,,Peržiūra,,Peržiūra,2,1,1,0
+Preview menu,,Peržiūros meniu,,Peržiūros meniu,2,1,1,0
+Primary DNS,,Pirminis DNS,,Pirminis DNS,2,1,1,0
+Priority,,Pirmenybė,,Pirmenybė,2,1,1,0
+Process,,Procesas,,Procesas,2,1,1,0
+Properties of current title,,Dabartinio pavadinimo ypatybės,,Dabartinio pavadinimo ypatybės,2,1,1,0
+Protect services,,Apsaugoti kanalus,,Apsaugoti kanalus,2,1,1,0
+Protect setup,,Apsaugoti nustatymus,,,1,1,0,0
+Provider,,Tiekėjas,,Tiekėjas,2,1,1,0
+Provider to scan,,"Tiekėjas, kurį norite skanuoti",,,1,1,0,0
+Providers,,Tiekėjai,,Tiekėjai,2,1,1,0
+Python frontend for /tmp/mmi.socket,,Python pradinė fazė dėl /tmp/mmi.socket,,Python pradinė fazė dėl /tmp/mmi.socket,2,1,1,0
+Quick,,Greitas,,Greitas,2,1,1,0
+RF output,,RF išėjimas,,,1,1,0,0
+RGB,,'',,'',2,0,0,2
+Random,,Atsitiktinis,,Atsitiktinis,2,1,1,0
+Really close without saving settings?,,Tikrai uždaryti be nustatymų išsaugojimo ?,,Tikrai uždaryti be nustatymų išsaugojimo ?,2,1,1,0
+Really delete done timers?,,Tikrai pašalinti baigtus laikmačius?,,,1,1,0,0
+Really exit the subservices quickzap?,,Tikrai išeiti iš subkanalų greito perjungimo?,,Tikrai išeiti iš subkanalų greito perjungimo?,2,1,1,0
+Really reboot now?,,Tikrai perjungti dabar?,,Tikrai perjungti dabar?,2,1,1,0
+Really restart now?,,Tikrai paleisti iš naujo dabar?,,Tikrai paleisti iš naujo dabar?,2,1,1,0
+Really shutdown now?,,Tikrai išjungti dabar?,,Tikrai išjungti dabar?,2,1,1,0
+Reboot,,Paleisti iš naujo,,Paleisti iš naujo,2,1,1,0
+Record,,Įrašas,,Įrašas,2,1,1,0
+Record time limited due to conflicting timer %s,,Įrašo laikas apribotas dėl prieštaringo laikmačio %s,,Įrašo laikas apribotas dėl prieštaringo laikmačio %s,2,1,1,0
+Recording,,Įrašymas,,Įrašymas,2,1,1,0
+Recording(s) are in progress or coming up in few seconds!,,Įrašas (ai) yra vykdymas arba bus prieinamas po kelių sekundžių!,,Įrašas (ai) yra vykdymas arba bus prieinamas po kelių sekundžių!,2,1,1,0
+Recordings,,Įrašai,,Įrašai,2,1,1,0
+Recordings always have priority,,Įrašai visada turi pirmenybę,,Įrašai visada turi pirmenybę,2,1,1,0
+Reenter new PIN,,Iš naujo įrašykite naują PIN,,,1,1,0,0
+Refresh rate selection.,,Atnaujinkite normos pasirinkimą,,Atnaujinkite normos pasirinkimą,2,1,1,0
+Reload,,Užkrauti,,Užkrauti,2,1,1,0
+Remember service PIN,,Atsiminti kanalo PIN,,Atsiminti kanalo PIN,2,1,1,0
+Remove,,Pašalinti,,Pašalinti,2,1,1,0
+Remove a mark,,Pašalinti žymeklį,,Pašalinti žymeklį,2,1,1,0
+Remove currently selected title,,Pašalinti dabartinį pasirinktą pavadinimą,,Pašalinti dabartinį pasirinktą pavadinimą,2,1,1,0
+Remove finished.,,Pašalinimas baigtas.,,Pašalinimas baigtas.,2,1,1,0
+Remove plugins,,Pašalinti papildomas programas,,Pašalinti papildomas programas,2,1,1,0
+Remove timer,,Pašalinti laikmatį,,Pašalinti laikmatį,2,1,1,0
+Remove title,,Pašalinti ,,Pašalinti ,2,1,1,0
+Removing,,Pašalinimas,,Pašalinimas,2,1,1,0
+Removing directory %s failed. (Maybe not empty.),,Direktorijos pašalinimas %s klaidingas. (Galbūt ne tuščia.),,Direktorijos pašalinimas %s klaidingas. (Galbūt ne tuščia.),2,1,1,0
+Rename,,Pervardinti,,Pervardinti,2,1,1,0
+Repeating event currently recording... What do you want to do?,,Kartojama užduotis dabar įrašinėjama... Jūs norite tai padaryti?,,Kartojama užduotis dabar įrašinėjama... Jūs norite tai padaryti?,2,1,1,0
+Repeats,,Pakartojimai,,Pakartojimai,2,1,1,0
+Required medium type:,,Reikalingas laikmenos tipas:,,Reikalingas laikmenos tipas:,2,1,1,0
+Reset,,Perjungti,,Perjungti,2,1,1,0
+Reset and renumerate title names,,Perjungti ir pernumeruoti antraštės pavadinimus,,Perjungti ir pernumeruoti antraštės pavadinimus,2,1,1,0
+Reset video enhancement settings to system defaults?,,Perjungti vaizdo stiprinimo nustatymus į sisteminius numatytus?,,Perjungti vaizdo stiprinimo nustatymus į sisteminius numatytus?,2,1,1,0
+Reset video enhancement settings to your last configuration?,,Perjungti vaizdo stiprinimo nustatymus į jūsų paskutinę vaizdo konfigūraciją?,,Perjungti vaizdo stiprinimo nustatymus į jūsų paskutinę vaizdo konfigūraciją?,2,1,1,0
+Resolution,,Rezoliucija,,Rezoliucija,2,1,1,0
+Restart,,Paleisti iš naujo,,Paleisti iš naujo,2,1,1,0
+Restart GUI now?,,Paleisti iš naujo GUI dabar?,,Paleisti iš naujo GUI dabar?,2,1,1,0
+Restart enigma,,Paleisti iš naujo Enigma2,,,1,1,0,0
+Restart network,,Paleisti iš naujo tinklą,,Paleisti iš naujo tinklą,2,1,1,0
+Restart test,,Paleisti iš naujo testą,,Paleisti iš naujo testą,2,1,1,0
+Restart your network connection and interfaces.\n,,Iš naujo paleiskite savo tinklo ryšį ir sąsajas. \n,,Iš naujo paleiskite savo tinklo ryšį ir sąsajas. \n,2,1,1,0
+Restore,,Atkurti,,Atkurti,2,1,1,0
+Restore backups,,Atkurti atsargines kopijas,,Atkurti atsargines kopijas,2,1,1,0
+Restore is running...,,Vyksta atkūrimas...,,,1,1,0,0
+Restore system settings,,Atkurkite sisteminius nustatymus,,Atkurkite sisteminius nustatymus,2,1,1,0
+Resume from last position,,Tęsti nuo paskutinės pozicijos,,Tęsti nuo paskutinės pozicijos,2,1,1,0
+Resume position at %s,,Tęsti poziciją% s,,Tęsti poziciją% s,2,1,1,0
+Resuming playback,,Tęsti leidimą,,Tęsti leidimą,2,1,1,0
+Return to movie list,,Grįžti į filmų sąrašą,,Grįžti į filmų sąrašą,2,1,1,0
+Return to previous service,,Grįžkite į buvusį kanalą,,Grįžkite į buvusį kanalą,2,1,1,0
+Rewind speeds,,Persukimo greitis,,Persukimo greitis,2,1,1,0
+Right,,Dešinys,,Dešinys,2,1,1,0
+Roll-off,,'',,'',2,0,0,2
+Rotor turning speed,,Pozicionieriaus sukimosi greitis,,Pozicionieriaus sukimosi greitis,2,1,1,0
+Russian,,Rusų,,Rusų,2,1,1,0
+S-Video,,'',,'',2,0,0,2
+SID,,'',,,1,0,0,1
+SINGLE LAYER DVD,,VIENO SLUOKSNIO DVD,,VIENO SLUOKSNIO DVD,2,1,1,0
+SSID:,,'',,'',2,0,0,2
+Sat,,Šeš,,Šeš,2,1,1,0
+Satellite,,Palydovas,,Palydovas,2,1,1,0
+Satellite equipment,,Palydovinė įranga,,Palydovinė įranga,2,1,1,0
+Satellites,,Palydovai,,Palydovai,2,1,1,0
+Satfinder,,Palydovų paieška,,,1,1,0,0
+Sats,,Palydovai,,Palydovai,2,1,1,0
+Saturation,,Prisotinimas,,Prisotinimas,2,1,1,0
+Saturday,,Šeštadienis,,Šeštadienis,2,1,1,0
+Save,,Saugoti,,Saugoti,2,1,1,0
+Scaler sharpness,,Skalės aštrumas,,Skalės aštrumas,2,1,1,0
+Scan ,,Skanuoti,,Skanuoti,2,1,1,0
+Scan additional SR,,Papildomai skanuoti SR,,Papildomai skanuoti SR,2,1,1,0
+Scan your network for wireless access points and connect to them using your selected wireless device.\n,,Peržiūrėkite savo tinklą belaidžiams prieigos taškams ir junkitės prie jų naudojant jūsų išsirinktą belaidžio tinklo įrenginį.\n,,Peržiūrėkite savo tinklą belaidžiams prieigos taškams ir junkitės prie jų naudojant jūsų išsirinktą belaidžio tinklo įrenginį.\n,2,1,1,0
+Scans default lamedbs sorted by satellite with a connected dish positioner,,"Skanuokite numatytą lamedbs, surūšiuotą pagal palydovą su prijungta prie pozicionieriaus antena",,"Skanuokite numatytą lamedbs, surūšiuotą pagal palydovą su prijungta prie pozicionieriaus antena",2,1,1,0
+Search east,,Ieškokite rytų,,Ieškokite rytų,2,1,1,0
+Search west,,Ieškokite vakarų,,Ieškokite vakarų,2,1,1,0
+Searching for available updates. Please wait...,,Ieškoma pasiekiamų atnaujinimų. Prašome laukti...,,Ieškoma pasiekiamų atnaujinimų. Prašome laukti...,2,1,1,0
+Searching for new installed or removed packages. Please wait...,,Naujai įdiegtų ar pašalintų paketų paieška. Prašome laukti...,,Naujai įdiegtų ar pašalintų paketų paieška. Prašome laukti...,2,1,1,0
+Secondary DNS,,Antrinis DNS,,Antrinis DNS,2,1,1,0
+Seek,,Ieškoti,,Ieškoti,2,1,1,0
+Select,,Išsirinkite,,Išsirinkite,2,1,1,0
+Select audio track,,Išsirinkite garso takelį,,Išsirinkite garso takelį,2,1,1,0
+Select channel to record from,,Išsirinkite kanalą įrašymui,,Išsirinkite kanalą įrašymui,2,1,1,0
+Select desired image from feed list,,Išsirinkite pageidaujamą atvaizdą iš perdavimo sąrašo,,,1,1,0,0
+Select files for backup.,,Pasirinkite failus atsarginei kopijai.,,Pasirinkite failus atsarginei kopijai.,2,1,1,0
+Select files/folders to backup,,Išsirinkite failus/aplankus dėl atsarginės kopijos,,Išsirinkite failus/aplankus dėl atsarginės kopijos,2,1,1,0
+Select input device,,Išsirinkite įvesties prietaisą,,,1,1,0,0
+Select input device.,,Išsirinkite įvesties prietaisą.,,Išsirinkite įvesties prietaisą.,2,1,1,0
+Select interface,,Išsrinkite sąsają,,Išsrinkite sąsają,2,1,1,0
+Select provider to add...,,"Išsirinkite tiekėją, kurį norite pridėti...",,"Išsirinkite tiekėją, kurį norite pridėti...",2,1,1,0
+Select refresh rate,,Išsirinkite atnujinimo normą,,Išsirinkite atnujinimo normą,2,1,1,0
+Select service to add...,,"Išsirinkite kanalą, kurį norite pridėti...",,"Išsirinkite kanalą, kurį norite pridėti...",2,1,1,0
+Select upgrade source to edit.,,Išsirinkite atnaujinimo šaltinį dėl redagavimo.,,Išsirinkite atnaujinimo šaltinį dėl redagavimo.,2,1,1,0
+Select video input with up/down buttons,,Išsirinkite vaizdo įėjimą su mygtukais aukštyn/žemyn,,Išsirinkite vaizdo įėjimą su mygtukais aukštyn/žemyn,2,1,1,0
+Select video mode,,Išsirinkite vaizdo būdą,,Išsirinkite vaizdo būdą,2,1,1,0
+Select wireless network,,Išsirinkite bevielį tinklą,,Išsirinkite bevielį tinklą,2,1,1,0
+Send DiSEqC,,Siųskite DiSEqC,,Siųskite DiSEqC,2,1,1,0
+Send DiSEqC only on satellite change,,Siųskite DiSEqC tik palydovo pakeitimui,,Siųskite DiSEqC tik palydovo pakeitimui,2,1,1,0
+Seperate titles with a main menu,,Pavadinimai su pagrindiniu meniu,,Pavadinimai su pagrindiniu meniu,2,1,1,0
+Sequence repeat,,Sekos pakartojimas,,Sekos pakartojimas,2,1,1,0
+Serbian,,Serbų,,Serbų,2,1,1,0
+Service,,Apie kanalą,,Apie kanalą,2,1,1,0
+Service has been added to the favourites.,,Kanalas buvo įtrauktas į mėgstamiausius.,,,1,1,0,0
+Service has been added to the selected bouquet.,,Kanalas buvo įtrauktas į pasirinktą paketą.,,,1,1,0,0
+Service invalid!\n(Timeout reading PMT),,Kanalo nėra!\n(Skaitymo pertrauka PMT),,Kanalo nėra!\n(Skaitymo pertrauka PMT),2,1,1,0
+Service not found!\n(SID not found in PAT),,Kanalas nerastas!\n(SID nėra  PAT),,Kanalas nerastas!\n(SID nėra  PAT),2,1,1,0
+Service reference,,Kanalo nuoroda,,Kanalo nuoroda,2,1,1,0
+Service scan,,Kanalo skanavimas,,Kanalo skanavimas,2,1,1,0
+Service unavailable!\nCheck tuner configuration!,,Kanalas nepasiekiamas!\nPatikrinkite imtuvo nustatymus!,,Kanalas nepasiekiamas!\nPatikrinkite imtuvo nustatymus!,2,1,1,0
+Services,,Kanalai,,Kanalai,2,1,1,0
+Set interface as default Interface,,"Nustatykite sąsają, kaip numatytą sąsają",,,1,1,0,0
+Settings,,Nustatymai,,Nustatymai,2,1,1,0
+Setup,,Nustatymai,,Nustatymai,2,1,1,0
+Shall the USB stick wizard proceed and program the image file %s into flash memory?,,"Ar USB atmintinės vedliui vykdyti programos atvaizdo failą %s į \""vidinę\"" atmintį?",,,1,1,0,0
+Sharpness,,Aštrumas,,Aštrumas,2,1,1,0
+Short filenames,,Trumpi failų pavadinimai,,Trumpi failų pavadinimai,2,1,1,0
+Show EIT now/next in infobar,,Rodyti EIT dabar/kitas infojuostoje,,Rodyti EIT dabar/kitas infojuostoje,2,1,1,0
+Show animation while busy,,"Rodyti animaciją tuo metu, kai užimta",,"Rodyti animaciją tuo metu, kai užimta",2,1,1,0
+Show crypto info in infobar,,Rodyti kodavimo informaciją infojuostoje,,Rodyti kodavimo informaciją infojuostoje,2,1,1,0
+Show event-progress in channel selection,,Rodyti atvejo eigą kanalo pasirinkime,,Rodyti atvejo eigą kanalo pasirinkime,2,1,1,0
+Show infobar on channel change,,Rodyti infojuostą perjungiant kanalą,,Rodyti infojuostą perjungiant kanalą,2,1,1,0
+Show infobar on event change,,Rodyti infojuostą pasikeičiant užduočiai,,Rodyti infojuostą pasikeičiant užduočiai,2,1,1,0
+Show infobar on skip forward/backward,,Rodyti infojuostą praleidžiant į priekį/atgal,,Rodyti infojuostą praleidžiant į priekį/atgal,2,1,1,0
+Show positioner movement,,Rodyti pozicionieriaus judėjimą,,Rodyti pozicionieriaus judėjimą,2,1,1,0
+Show services beginning with,,"Rodyti kanalus, prasidedančius su",,,1,1,0,0
+Show the radio player...,,Rodyti radijo grotuvą...,,Rodyti radijo grotuvą...,2,1,1,0
+Show the tv player...,,Rodyti TV grotuvą ...,,Rodyti TV grotuvą ...,2,1,1,0
+Shows the state of your wireless LAN connection.\n,,Rodyti jūsų belaidžio tinklo prisijungimo ribas.\n,,Rodyti jūsų belaidžio tinklo prisijungimo ribas.\n,2,1,1,0
+Shutdown,,Išjungti,,,1,1,0,0
+Signal Strength:,,Signalo stiprumas:,,,1,1,0,0
+Signal: ,,Signalas:,,Signalas:,2,1,1,0
+Similar,,Kartojama,,Kartojama,2,1,1,0
+Similar broadcasts:,,Kartojamos laidos:,,Kartojamos laidos:,2,1,1,0
+Simple,,Paprastas,,Paprastas,2,1,1,0
+Simple titleset (compatibility for legacy players),,Paprastas pavadinimo nustatymas (suderinamas žaidėjams),,Paprastas pavadinimo nustatymas (suderinamas žaidėjams),2,1,1,0
+Single,,Vienintelis,,Vienintelis,2,1,1,0
+Single EPG,,Kanalo EPG,,Kanalo EPG,2,1,1,0
+Single satellite,,Vienintelis palydovas,,Vienintelis palydovas,2,1,1,0
+Single transponder,,Vienintelis transponderis,,,1,1,0,0
+Skins,,Temos,,Temos,2,1,1,0
+Slot %d,,Modulis %d,,Modulis %d,2,1,1,0
+Slovenian,,Slovėnų,,Slovėnų,2,1,1,0
+Slow,,Lėtas,,Lėtas,2,1,1,0
+SoftCam / CI,,EMU / Įstatomi moduliai,,,1,1,0,0
+Software,,Programinė įranga,,Programinė įranga,2,1,1,0
+Software management,,Programinės įrangos valdymas,,Programinės įrangos valdymas,2,1,1,0
+Software manager setup,,Programinės įrangos valdymo nustatymas,,Programinės įrangos valdymo nustatymas,2,1,1,0
+Software restore,,Programinės įrangos atkūrimas,,Programinės įrangos atkūrimas,2,1,1,0
+Software update,,Programinės įrangos atnaujinimas,,Programinės įrangos atnaujinimas,2,1,1,0
+Softwaremanager information,,Programinės įrangos valdymo informacija,,Programinės įrangos valdymo informacija,2,1,1,0
+Some plugins are not available:\n,,Kai kurių papildomų programų nėra:\n,,Kai kurių papildomų programų nėra:\n,2,1,1,0
+Sound,,Garsas,,Garsas,2,1,1,0
+South,,Pietūs,,Pietūs,2,1,1,0
+Spanish,,Ispanų,,Ispanų,2,1,1,0
+Split preview mode,,Skilimo peržiūros būdas,,Skilimo peržiūros būdas,2,1,1,0
+Standby,,Budėjimas,,Budėjimas,2,1,1,0
+Standby / Restart,,Budėti / Perkrauti,,,1,1,0,0
+Start from the beginning,,Pradžia nuo pradžios,,Pradžia nuo pradžios,2,1,1,0
+Start test,,Pradėti testą,,Pradėti testą,2,1,1,0
+Starting on,,Paleidimas įjungtas,,Paleidimas įjungtas,2,1,1,0
+Step east,,Žingsnis į rytus,,Žingsnis į rytus,2,1,1,0
+Step west,,Žingsnis į vakarus,,Žingsnis į vakarus,2,1,1,0
+Stop,,Stabdyti,,Stabdyti,2,1,1,0
+Stop current event and disable coming events,,Sustabdyti dabartinę užduotį ir išjungti sekančią užduotį,,,1,1,0,0
+Stop current event but not coming events,,"Sustabdyti dabartinę užduotį, nevykdant sekančių užduočių",,,1,1,0,0
+Stop playing this movie?,,Sustabdyti šio filmo žiūrėjimą ?,,Sustabdyti šio filmo žiūrėjimą ?,2,1,1,0
+Stop test,,Stabdyti testavimą,,Stabdyti testavimą,2,1,1,0
+Stop testing plane after # failed transponders,,Stabdykite testavimą po to kai # klaidingi transponderiai,,Stabdykite testavimą po to kai # klaidingi transponderiai,2,1,1,0
+Stop testing plane after # successful transponders,,Stabdykite testavimą po to kai # pavykę transponderiai,,Stabdykite testavimą po to kai # pavykę transponderiai,2,1,1,0
+Store position,,Išsaugoti padėtį,,Išsaugoti padėtį,2,1,1,0
+Stored position,,Išsaugota padėtis,,Išsaugota padėtis,2,1,1,0
+Subservices,,Subkanalai,,Subkanalai,2,1,1,0
+Subtitle selection,,Subtitrų pasirinkimas,,Subtitrų pasirinkimas,2,1,1,0
+Subtitles,,Subtitrai,,Subtitrai,2,1,1,0
+Sun,,Sek,,Sek,2,1,1,0
+Sunday,,Sekmadienis,,Sekmadienis,2,1,1,0
+Swedish,,Švedų,,Švedų,2,1,1,0
+Switchable tuner types:,,Perjungiamų imtuvą tipai:,,,1,1,0,0
+Symbol rate,,Simbolių greitis,,Simbolių greitis,2,1,1,0
+System,,Sistema,,Sistema,2,1,1,0
+TRANSLATOR_INFO,,"Audronis Grincevičius (ADGA) Pasvalys, Lietuva",,"Audronis Grincevičius (ADGA) Pasvalys, Lietuva",2,1,1,0
+TS file is too large for ISO9660 level 1!,,TS failas yra per didelis ISO9660 lygmeniui 1!,,TS failas yra per didelis ISO9660 lygmeniui 1!,2,1,1,0
+TSID,,'',,'',2,0,0,2
+TXT PID,,'',,'',2,0,0,2
+Tags,,Kortelės,,Kortelės,2,1,1,0
+Terrestrial,,Antžeminė,,Antžeminė,2,1,1,0
+Terrestrial provider,,Antžeminis tiekėjas,,,1,1,0,0
+Test DiSEqC settings,,Testuoti DiSEqC nustatymus,,Testuoti DiSEqC nustatymus,2,1,1,0
+Test mode,,Testuoti,,Testuoti,2,1,1,0
+Thank you for using the wizard.\nPlease press OK to continue.,,"Ačiū, kad naudojatės nustatymų vedliu.\nPrašome spausti OK, kad tęsti.",,"Ačiū, kad naudojatės nustatymų vedliu.\nPrašome spausti OK, kad tęsti.",2,1,1,0
+The PIN code has been changed successfully.,,PIN kodas buvo pakeistas sėkmingai.,,PIN kodas buvo pakeistas sėkmingai.,2,1,1,0
+The PIN codes you entered are different.,,Jūsų įvesti PIN kodai yra skirtingi.,,Jūsų įvesti PIN kodai yra skirtingi.,2,1,1,0
+The USB stick was prepared to be bootable.\nNow you can download an NFI image file!,,"USB laikmena buvo paruošta paleidimui.\nDabar, jūs galite parsisiųsti NFI atvaizdo failą!",,,1,1,0,0
+The backup failed. Please choose a different backup location.,,Išsaugoti nepavyko. Pasirinkite kitą vietą išsaugojimui. ,,Išsaugoti nepavyko. Pasirinkite kitą vietą išsaugojimui. ,2,1,1,0
+The directory %s is not writable.\nMake sure you select a writable directory instead.,,"Direktorija % s nėra įrašoma.\nĮsitikinkite, kad pasirinkote rašymui tinkamą katalogą.",,"Direktorija % s nėra įrašoma.\nĮsitikinkite, kad pasirinkote rašymui tinkamą katalogą.",2,1,1,0
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,Surastas įrenginys:\n\n%s\n\nJūs norite įrašyti USB diegėją į šį raktelį?,,,1,1,0,0
+The following files were found...,,Kiti failai buvo surasti...,,Kiti failai buvo surasti...,2,1,1,0
+"The md5sum validation failed, the file may be corrupted!",,"Md5sum patvirtinimas nepasisekė, failas gali būti sugadintas!",,,1,1,0,0
+The path %s already exists.,,Kelias %s jau egzistuoja.,,Kelias %s jau egzistuoja.,2,1,1,0
+The pin code you entered is wrong.,,Surinktas PIN kodas neteisingas.,,Surinktas PIN kodas neteisingas.,2,1,1,0
+The results have been written to %s.,,Rezultatai buvo įrašyti į %s.,,Rezultatai buvo įrašyti į %s.,2,1,1,0
+The timer file (timers.xml) is corrupt and could not be loaded.,,Laikmačio failas (timers.xml) yra sugadintas ir nebuvo užkrautas.,,Laikmačio failas (timers.xml) yra sugadintas ir nebuvo užkrautas.,2,1,1,0
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,Belaidžio tinklo programa neįdiegta!\nPrašome įdiegti tai ir pasirinkite ką jūs norite daryti vėliau.,,Belaidžio tinklo programa neįdiegta!\nPrašome įdiegti tai ir pasirinkite ką jūs norite daryti vėliau.,2,1,1,0
+The wireless LAN plugin is not installed!\nPlease install it.,,Belaidžio tinklo programa neįdiegta!\nPrašome įdiegti tai.,,Belaidžio tinklo programa neįdiegta!\nPrašome įdiegti tai.,2,1,1,0
+The wizard can backup your current settings. Do you want to do a backup now?,,Nustatymų vedlys gali išsaugoti Jūsų dabartinius nustatymus. Jūs norite tai padaryti dabar?,,Nustatymų vedlys gali išsaugoti Jūsų dabartinius nustatymus. Jūs norite tai padaryti dabar?,2,1,1,0
+The wizard found a configuration backup. Do you want to restore your old settings from %s?,,Vedlys surado konfigūracijos atsarginę kopiją. Jūs norite atkurti savo senus nustatymus iš %s?,,,1,1,0,0
+The wizard is finished now.,,Nustatymų vedlys baigė darbą.,,Nustatymų vedlys baigė darbą.,2,1,1,0
+There are at least ,,Bent jau yra,,Bent jau yra,2,1,1,0
+There are currently no outstanding actions.,,Nėra šiuo metu jokių neatliktų veiksmų.,,Nėra šiuo metu jokių neatliktų veiksmų.,2,1,1,0
+There are no updates available.,,Nėra jokių pasiekiamų atnaujinimų.,,Nėra jokių pasiekiamų atnaujinimų.,2,1,1,0
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,Gali trukti laisvos vietos pasirinktame skaidinyje.\nAr norite tęsti?,,,1,1,0,0
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,,"Šis DVD RW diskas jau yra suformatuotas - formatavimas iš naujo, ištrins visą disko turinį.",,"Šis DVD RW diskas jau yra suformatuotas - formatavimas iš naujo, ištrins visą disko turinį.",2,1,1,0
+This plugin is installed.,,Ši papildoma programa yra įdiegta.,,Ši papildoma programa yra įdiegta.,2,1,1,0
+This plugin is not installed.,,Ši papildoma programa nėra įdiegta.,,Ši papildoma programa nėra įdiegta.,2,1,1,0
+This plugin will be installed.,,Ši papildoma programa bus įdiegta.,,Ši papildoma programa bus įdiegta.,2,1,1,0
+This plugin will be removed.,,Ši papildoma programa jau pašalinta.,,Ši papildoma programa jau pašalinta.,2,1,1,0
+Three,,Trys,,Trys,2,1,1,0
+Threshold,,Heterodinas,,Heterodinas,2,1,1,0
+Thu,,Ket,,Ket,2,1,1,0
+Thumbnails,,Miniatiūros,,Miniatiūros,2,1,1,0
+Thursday,,Ketvirtadienis,,Ketvirtadienis,2,1,1,0
+Time,,Laikas,,Laikas,2,1,1,0
+Timer entry,,Laikmačio užduotis,,,1,1,0,0
+Timer log,,Laikmačio log,,,1,1,0,0
+Timer overlap in timers.xml detected!\nPlease recheck it!,,Aptiktas laikmačio timers.xml sutapimas! \n prašome iš naujo tikrinti tai!,,Aptiktas laikmačio timers.xml sutapimas! \n prašome iš naujo tikrinti tai!,2,1,1,0
+Timer record location,,Laikmačio įrašo vieta,,Laikmačio įrašo vieta,2,1,1,0
+Timer sanity error,,Laikmačio padėties klaida,,,1,1,0,0
+Timer selection,,Laikmačio pasirinkimas,,Laikmačio pasirinkimas,2,1,1,0
+Timeshift,,Laiko poslinkis,,Laiko poslinkis,2,1,1,0
+Timeshift location,,Laiko poslinkio vieta,,Laiko poslinkio vieta,2,1,1,0
+Timeshift not possible!,,Laiko poslinkis negalimas!,,Laiko poslinkis negalimas!,2,1,1,0
+Timezone,,Laiko juosta,,,1,1,0,0
+Title,,Antraštė,,Antraštė,2,1,1,0
+Title properties,,Ypatybės,,Ypatybės,2,1,1,0
+Titleset mode,,Pavadinimo nustatymo būdas,,Pavadinimo nustatymo būdas,2,1,1,0
+Today,,Šiandien,,Šiandien,2,1,1,0
+Tone mode,,Tonas,,Tonas,2,1,1,0
+Toneburst,,Tono signalas,,Tono signalas,2,1,1,0
+Toneburst A/B,,Tono signalas A/B,,Tono signalas A/B,2,1,1,0
+Track,,Takelis,,Takelis,2,1,1,0
+Transmission mode,,Perdavimo būdas,,Perdavimo būdas,2,1,1,0
+Transponder,,Transponderis,,Transponderis,2,1,1,0
+Tries left:,,Bandymo kartų:,,Bandymo kartų:,2,1,1,0
+Try to find used transponders in cable network.. please wait...,,Bandoma surasti Transponderius kabeliniuose tinkluose.. prašome laukti...,,Bandoma surasti Transponderius kabeliniuose tinkluose.. prašome laukti...,2,1,1,0
+Trying to download a new packetlist. Please wait...,,Bandoma parsisiųsti naują paketo sąrašą. Prašome laukti...,,Bandoma parsisiųsti naują paketo sąrašą. Prašome laukti...,2,1,1,0
+Tue,,Ant,,Ant,2,1,1,0
+Tuesday,,Antradienis,,Antradienis,2,1,1,0
+Tune,,Suderinti,,Suderinti,2,1,1,0
+Tune failed!,,Suderinimas nepavyko!,,Suderinimas nepavyko!,2,1,1,0
+Tuner,,Imtuvas,,Imtuvas,2,1,1,0
+Tuner configuration,,Imtuvo konfigūravimas,,,1,1,0,0
+Tuner status,,Imtuvo būsena  ,,,1,1,0,0
+Tuner type,,Imtuvo tipas,,Imtuvo tipas,2,1,1,0
+Turkish,,Turkų,,Turkų,2,1,1,0
+Two,,Du,,Du,2,1,1,0
+Type,,Tipas,,Tipas,2,1,1,0
+Type of scan,,Skanavimo būdas,,Skanavimo būdas,2,1,1,0
+USALS,,'',,'',2,0,0,2
+USB stick wizard,,USB rakto vedlys,,,1,1,0,0
+Uncommitted DiSEqC command,,Perjungimo komanda DiSEqC,,,1,1,0,0
+Undo install,,Atšaukti įdiegimą,,Atšaukti įdiegimą,2,1,1,0
+Undo uninstall,,Atšaukti šalinimą,,Atšaukti šalinimą,2,1,1,0
+Unencrypted,,Nešifruota,,Nešifruota,2,1,1,0
+Unicable,,'',,,1,0,0,1
+Unicable LNB,,'',,,1,0,0,1
+Uninstall,,Šalinti,,Šalinti,2,1,1,0
+Universal LNB,,Universali LNB,,Universali LNB,2,1,1,0
+Unknown,,Nežinoma,,Nežinoma,2,1,1,0
+Unsupported,,Nepalaikoma,,Nepalaikoma,2,1,1,0
+Update,,Atnaujinimas,,Atnaujinimas,2,1,1,0
+Updatefeed not available.,,Atnaujinimo perdavimas nepasiekiamas.,,Atnaujinimo perdavimas nepasiekiamas.,2,1,1,0
+Updating software catalog,,Programinės įrangos katalogo atnaujinimas,,Programinės įrangos katalogo atnaujinimas,2,1,1,0
+Upgrade finished.,,Atnaujinimas baigtas.,,Atnaujinimas baigtas.,2,1,1,0
+Upgrading,,Atnaujinama,,Atnaujinama,2,1,1,0
+Use,,Naudoti,,Naudoti,2,1,1,0
+Use DHCP,,Naudoti DHCP,,Naudoti DHCP,2,1,1,0
+Use a gateway,,Naudoti šliuzą,,Naudoti šliuzą,2,1,1,0
+Use power measurement,,Naudoti įtampos išmatavimus,,Naudoti įtampos išmatavimus,2,1,1,0
+"Use the up/down keys on your remote control to select an option. After that, press OK.",,"Naudokitės mygtukais aukštyn/žemyn valdymo pulte, nustatymų pasirinkimui. Po to spauskite OK.",,"Naudokitės mygtukais aukštyn/žemyn valdymo pulte, nustatymų pasirinkimui. Po to spauskite OK.",2,1,1,0
+Use this video enhancement settings?,,Naudoti šiuos vaizdo stiprinimo nustatymus?,,Naudoti šiuos vaizdo stiprinimo nustatymus?,2,1,1,0
+Used service scan type,,Naudojamas kanalo skanavimo būdas,,Naudojamas kanalo skanavimo būdas,2,1,1,0
+User defined,,Vartotojo pasirinktas,,Vartotojo pasirinktas,2,1,1,0
+Username,,Vartotojas,,Vartotojas,2,1,1,0
+VCR scart,,Vaizdo grotuvas,,Vaizdo grotuvas,2,1,1,0
+VMGM (intro trailer),,VMGM (įvadas),,VMGM (įvadas),2,1,1,0
+Vertical,,Vertikalus,,Vertikalus,2,1,1,0
+Video PID,,Vaizdo PID,,Vaizdo PID,2,1,1,0
+Video enhancement preview,,Vaizdo pakėlimo peržiūra,,Vaizdo pakėlimo peržiūra,2,1,1,0
+Video enhancement setup,,Vaizdo pakėlimo valdymas,,Vaizdo pakėlimo valdymas,2,1,1,0
+Video mode selection.,,Vaizdo būdo pasirinkimas.,,Vaizdo būdo pasirinkimas.,2,1,1,0
+View Movies...,,Žiūrėti kino filmus...,,Žiūrėti kino filmus...,2,1,1,0
+View Rass interactive...,,Žiūrėti Rass interaktyviai...,,Žiūrėti Rass interaktyviai...,2,1,1,0
+View Video CD...,,Žiūrėti vaizdo CD...,,Žiūrėti vaizdo CD...,2,1,1,0
+View details,,Smulkiau,,Smulkiau,2,1,1,0
+View list of available ,,Peržiūrėti sąrašą pasiekiamų,,Peržiūrėti sąrašą pasiekiamų,2,1,1,0
+View list of available CommonInterface extensions,,Peržiūrėti sąrašą galimam Įstatomų modulių papildymui,,Peržiūrėti sąrašą galimam Įstatomų modulių papildymui,2,1,1,0
+View list of available EPG extensions.,,Peržiūrėti sąrašą galimam EPG papildymui.,,Peržiūrėti sąrašą galimam EPG papildymui.,2,1,1,0
+View list of available Satellite equipment extensions.,,Peržiūrėti sąrašą galimam palydovinės įrangos papildymui.,,Peržiūrėti sąrašą galimam palydovinės įrangos papildymui.,2,1,1,0
+View list of available communication extensions.,,Peržiūrėti sąrašą galimam komunikacijos papildymui.,,Peržiūrėti sąrašą galimam komunikacijos papildymui.,2,1,1,0
+View list of available default settings,,Peržiūrėti sąrašą galimų numatytų nustatymų,,Peržiūrėti sąrašą galimų numatytų nustatymų,2,1,1,0
+View list of available multimedia extensions.,,Peržiūrėti sąrašą galimam multimedijos papildymui.,,Peržiūrėti sąrašą galimam multimedijos papildymui.,2,1,1,0
+View list of available networking extensions,,Peržiūrėti sąrašą galimam tinklo papildymui.,,Peržiūrėti sąrašą galimam tinklo papildymui.,2,1,1,0
+View list of available recording extensions,,Peržiūrėti sąrašą galimam įrašų papildymui.,,Peržiūrėti sąrašą galimam įrašų papildymui.,2,1,1,0
+View list of available skins,,Peržiūrėti sąrašą galimų temų,,Peržiūrėti sąrašą galimų temų,2,1,1,0
+View list of available software extensions,,Peržiūrėti sąrašą galimos programinės įrangos papildymui.,,Peržiūrėti sąrašą galimos programinės įrangos papildymui.,2,1,1,0
+View list of available system extensions,,Peržiūrėti sąrašą galimam sistemos papildymui.,,Peržiūrėti sąrašą galimam sistemos papildymui.,2,1,1,0
+View teletext...,,Peržiūrėti teletekstą...,,Peržiūrėti teletekstą...,2,1,1,0
+Voltage mode,,Įtampa,,Įtampa,2,1,1,0
+W,,'',,'',2,0,0,2
+WEP,,'',,'',2,0,0,2
+WLAN connection,,Ryšys su WLAN tinklu,,Ryšys su WLAN tinklu,2,1,1,0
+WPA,,'',,'',2,0,0,2
+WPA or WPA2,,WPA arba WPA2,,WPA arba WPA2,2,1,1,0
+WPA2,,'',,'',2,0,0,2
+WSS on 4:3,,WSS į 4:3,,WSS į 4:3,2,1,1,0
+Waiting,,Laukite,,Laukite,2,1,1,0
+Wed,,Tre,,Tre,2,1,1,0
+Wednesday,,Trečiadienis,,Trečiadienis,2,1,1,0
+Weekday,,Savaitės diena,,Savaitės diena,2,1,1,0
+"Welcome.\n\nIf you want to connect your %s %s to the Internet, this wizard will guide you through the basic network setup of your %s %s.\n\nPress OK to start configuring your network",,"Sveiki atvykę.\n\nJei jūs norėsite prijungti savo imtuvą prie interneto, šis vedlys ves jus per pagrindinę tinklo sąranką jūsų imtuve.\n\nSpauskite OK mygtuką, kad pradėti tinklo konfigūravimą.",,"Sveiki atvykę.\n\nJei jūs norėsite prijungti savo imtuvą prie interneto, šis vedlys ves jus per pagrindinę tinklo sąranką jūsų imtuve.\n\nSpauskite OK mygtuką, kad pradėti tinklo konfigūravimą.",2,1,1,0
+West,,Vakarai,,Vakarai,2,1,1,0
+What do you want to scan?,,Ką Jūs norite skanuoti?,,Ką Jūs norite skanuoti?,2,1,1,0
+Where do you want to backup your settings?,,Kur Jūs norite išsaugoti nustatymų atsarginę kopiją?,,Kur Jūs norite išsaugoti nustatymų atsarginę kopiją?,2,1,1,0
+Where to save temporary timeshift recordings?,,Kur saugoti laikinus laiko poslinkio įrašus?,,Kur saugoti laikinus laiko poslinkio įrašus?,2,1,1,0
+Wireless LAN,,Belaidis LAN,,Belaidis LAN,2,1,1,0
+Wireless network connection setup,,Belaidžio tinklo prisijungimo nustatymas,,Belaidžio tinklo prisijungimo nustatymas,2,1,1,0
+Wireless network connection setup.,,Belaidžio tinklo prisijungimo nustatymas.,,Belaidžio tinklo prisijungimo nustatymas.,2,1,1,0
+Wireless network state,,Belaidžio tinklo būklė,,Belaidžio tinklo būklė,2,1,1,0
+Write error while recording. Disk full?\n,,Įrašymo klaida. Diskas pilnas?\n,,Įrašymo klaida. Diskas pilnas?\n,2,1,1,0
+Write failed!,,Įrašymas klaidingas!,,Įrašymas klaidingas!,2,1,1,0
+YPbPr,,'',,'',2,0,0,2
+Year,,Metai,,Metai,2,1,1,0
+Yes,,Taip,,Taip,2,1,1,0
+Yes to all,,Taip į visus,,Taip į visus,2,1,1,0
+"Yes, always",,"Taip, visada",,"Taip, visada",2,1,1,0
+"Yes, and delete this movie",,"Taip, ir trinti šį filmą",,"Taip, ir trinti šį filmą",2,1,1,0
+"Yes, backup my settings!",,"Taip, padarykite atsarginę kopiją mano nustatymų!",,"Taip, padarykite atsarginę kopiją mano nustatymų!",2,1,1,0
+"Yes, do a manual scan now",,"Taip, atlikti rankinę paiešką",,"Taip, atlikti rankinę paiešką",2,1,1,0
+"Yes, do an automatic scan now",,"Taip, atlikti automatinę paiešką",,"Taip, atlikti automatinę paiešką",2,1,1,0
+"Yes, do another manual scan now",,"Taip, atlikti dar kitą rankinę paiešką",,"Taip, atlikti dar kitą rankinę paiešką",2,1,1,0
+"Yes, perform a shutdown now.",,"Taip, atlikti išjungimą dabar.",,,1,1,0,0
+"Yes, restore the settings now",,"Taip, atkurti nustatymus dabar",,"Taip, atkurti nustatymus dabar",2,1,1,0
+"Yes, returning to movie list",,"Taip, grįžti į filmų sąrašą",,,1,1,0,0
+You can cancel the installation.,,Jūs galite panaikinti įdiegimą.,,Jūs galite panaikinti įdiegimą.,2,1,1,0
+You can cancel the removal.,,Jūs galite panaikinti pašalinimą.,,Jūs galite panaikinti pašalinimą.,2,1,1,0
+You can install this plugin.,,Jūs galite įdiegti šią papildomą programą.,,Jūs galite įdiegti šią papildomą programą.,2,1,1,0
+You can remove this plugin.,,Jūs galite pašalinti šią papildomą programą.,,Jūs galite pašalinti šią papildomą programą.,2,1,1,0
+You cannot delete this!,,Jūs negalite to ištrinti!,,Jūs negalite to ištrinti!,2,1,1,0
+You didn't select a channel to record from.,,"Jūs nepasirinkote kanalo, kad įrašyti.",,"Jūs nepasirinkote kanalo, kad įrašyti.",2,1,1,0
+You have chosen to backup your settings. Please press OK to start the backup now.,,"Jūs nusprendėte padaryti atsarginę kopiją savo nustatymų. Prašome spausti OK, kad pradėtumėte atsarginę kopiją dabar.",,"Jūs nusprendėte padaryti atsarginę kopiją savo nustatymų. Prašome spausti OK, kad pradėtumėte atsarginę kopiją dabar.",2,1,1,0
+You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased.,,Jūs nusprendėte sukurti naują .NFI diegėją USB rakte. Tada bus perdalintas USB raktas ir visi duomenys jame bus ištrinti.,,,1,1,0,0
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,"Jūs nusprendėte atkurti savo nustatymus. Enigma2 iš naujo pasileis po atkūrimo. Prašome spausti OK, kad pradėtumėte atkūrimą dabar.",,"Jūs nusprendėte atkurti savo nustatymus. Enigma2 iš naujo pasileis po atkūrimo. Prašome spausti OK, kad pradėtumėte atkūrimą dabar.",2,1,1,0
+You have to wait %s!,,Jūs turite laukti %s!,,Jūs turite laukti %s!,2,1,1,0
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.hdfreaks.cc.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,"Jums reikės kompiuterio, prijungto prie imtuvo. Jeigu Jums reikės papildomos instrukcijos, prašome aplankyti tinklapį http://www.hdfreaks.cc.\nJūsų imtuvas turi būti sustabdytas. Po atnaujinimo nauja PĮ paprašys atkurti Jūsų nustatymus. ",,,1,1,0,0
+Your %s %s is now ready to use.\n\nYour internet connection is working now.\n\nPlease press OK to continue.,,"Jūsų imtuvas paruoštas naudojimui.\n\nJūsų belaidžio interneto prisijungimas dabar veikia.\n\nPrašome spausti OK, kad tęsti.",,,1,1,0,0
+Your %s %s is shutting down. Please stand by...,,Jūsų imtuvas išsijungia. Būkite šalia...,,,1,1,0,0
+Your backup succeeded. We will now continue to explain the further upgrade process.,,Atsarginė kopija sukurta. Dabar mes tęsime atnaujinimą. ,,Atsarginė kopija sukurta. Dabar mes tęsime atnaujinimą. ,2,1,1,0
+"Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!",,"Jūsų kolekcija viršyja vieno sluoksnio DVD disko dydį, jums reikės tuščio dvigubo sluoksnio DVD!",,"Jūsų kolekcija viršyja vieno sluoksnio DVD disko dydį, jums reikės tuščio dvigubo sluoksnio DVD!",2,1,1,0
+Your current collection will get lost!,,Jūsų dabartinė kolekcija bus prarasta!,,Jūsų dabartinė kolekcija bus prarasta!,2,1,1,0
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,,"Reikalingas priekinio procesoriaus atnaujinimas.\nSpauskite OK, kad pradėti atnaujinimą.",,"Reikalingas priekinio procesoriaus atnaujinimas.\nSpauskite OK, kad pradėti atnaujinimą.",2,1,1,0
+Your internet connection is not working!\nPlease choose what you want to do next.,,"Jūsų interneto prisijungimas neveikia!\nPrašome pasirinkti tai, ką jūs norite padaryti vėliau.",,"Jūsų interneto prisijungimas neveikia!\nPrašome pasirinkti tai, ką jūs norite padaryti vėliau.",2,1,1,0
+Your network configuration has been activated.,,Jūsų tinklo konfigūracija aktyvuota.,,Jūsų tinklo konfigūracija aktyvuota.,2,1,1,0
+Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,,"Jūsų belaidžio LAN interneto prisijungimas neveikia!\nJūs prijungėte savo USB WLAN įrenginį?\n\nPrašome pasirinkti tai, ką jūs norite daryti vėliau.",,"Jūsų belaidžio LAN interneto prisijungimas neveikia!\nJūs prijungėte savo USB WLAN įrenginį?\n\nPrašome pasirinkti tai, ką jūs norite daryti vėliau.",2,1,1,0
+Zap back to previously tuned service?,,Perjungti į ankstesnį suderintą kanalą?,,Perjungti į ankstesnį suderintą kanalą?,2,1,1,0
+Zap back to service before positioner setup?,,Perjungti atgal į kanalą po pozicionieriaus nustatymo?,,Perjungti atgal į kanalą po pozicionieriaus nustatymo?,2,1,1,0
+Zap back to service before satfinder?,,Perjungti atgal į kanalą po palydovo paieškos?,,,1,1,0,0
+Zap back to service before tuner setup?,,Perjungti atgal į kanalą po imtuvo nustatymo?,,,1,1,0,0
+[alternative edit],,[kitų redagavimas],,[kitų redagavimas],2,1,1,0
+[bouquet edit],,[paketo redagavimas],,[paketo redagavimas],2,1,1,0
+[favourite edit],,[mėgstamiausių redagavimas],,[mėgstamiausių redagavimas],2,1,1,0
+[move mode],,[perkėlimas],,[perkėlimas],2,1,1,0
+a gui to assign services/providers to common interface modules,,kad paskirtų kanalus/tiekėjus bendriems įstatomiems moduliams,,kad paskirtų kanalus/tiekėjus bendriems įstatomiems moduliams,2,1,1,0
+a gui to assign services/providers/caids to common interface modules,,kad paskirtų kanalus/tiekėjus/caids bendriems įstatomiems moduliams,,kad paskirtų kanalus/tiekėjus/caids bendriems įstatomiems moduliams,2,1,1,0
+abort alternatives edit,,nutraukti kitų redagavimą,,,1,1,0,0
+abort bouquet edit,,nutraukti paketo redagavimą,,,1,1,0,0
+abort favourites edit,,nutraukti mėgstamiausių redagavimą,,,1,1,0,0
+about to start,,apie pradžią,,apie pradžią,2,1,1,0
+activate network adapter configuration,,aktyvuokite tinklo plokštės konfigūraciją,,,1,1,0,0
+add alternatives,,pridėti kitus,,,1,1,0,0
+add bookmark,,pridėti žymę,,pridėti žymę,2,1,1,0
+add bouquet,,pridėti paketą,,,1,1,0,0
+add marker,,pridėti žymeklį,,,1,1,0,0
+add service to bouquet,,pridėti kanalą į paketą,,,1,1,0,0
+add service to favourites,,pridėti kanalą į mėgstamiausi,,,1,1,0,0
+add to parental protection,,pridėti į tėvų kontrolę,,,1,1,0,0
+advanced,,Išplėstas,,Išplėstas,2,1,1,0
+at beginning,,pradžioje,,pradžioje,2,1,1,0
+at end,,pabaigoje,,pabaigoje,2,1,1,0
+audio tracks,,garso takeliai,,garso takeliai,2,1,1,0
+auto,,'',,'',2,0,0,2
+back,,atgal,,atgal,2,1,1,0
+background image,,foninis atvaizdas,,foninis atvaizdas,2,1,1,0
+better,,geriau,,geriau,2,1,1,0
+black,,juodas,,juodas,2,1,1,0
+blacklist,,juodas sąrašas,,juodas sąrašas,2,1,1,0
+blue,,mėlynas,,mėlynas,2,1,1,0
+chapters,,skyriai,,skyriai,2,1,1,0
+circular left,,apskritiminė kairė,,apskritiminė kairė,2,1,1,0
+circular right,,apskritiminė dešinė,,apskritiminė dešinė,2,1,1,0
+complex,,sudėtinis,,,1,1,0,0
+confirmed,,patvirtinta,,patvirtinta,2,1,1,0
+connected,,prisijungta,,prisijungta,2,1,1,0
+continue,,tęsti,,,1,1,0,0
+copy to bouquets,,kopijuoti į paketus,,,1,1,0,0
+create directory,,kurti direktoriją,,kurti direktoriją,2,1,1,0
+currently installed image: %s,,šiuo metu įdiegtas atvaizdas: %s,,,1,1,0,0
+daily,,kasdien,,kasdien,2,1,1,0
+day,,diena,,diena,2,1,1,0
+delete cut,,trinti iškirpimą,,trinti iškirpimą,2,1,1,0
+disable,,išjungti,,išjungti,2,1,1,0
+disable move mode,,išjungti perkėlimą,,,1,1,0,0
+disabled,,išjungtas,,išjungtas,2,1,1,0
+disconnected,,atsijungta,,atsijungta,2,1,1,0
+do nothing,,nieko nedaryti,,nieko nedaryti,2,1,1,0
+done!,,baigta!,,baigta!,2,1,1,0
+edit alternatives,,redaguoti kitus,,,1,1,0,0
+empty,,tuščias,,tuščias,2,1,1,0
+enable,,įjungti,,įjungti,2,1,1,0
+enable bouquet edit,,įjungti paketo redagavimą,,,1,1,0,0
+enable favourite edit,,įjungti mėgstamiausių redagavimą,,,1,1,0,0
+enable move mode,,įjungti perkėlimą,,,1,1,0,0
+enabled,,įjungtas,,įjungtas,2,1,1,0
+end alternatives edit,,baigti kitų redagavimą,,,1,1,0,0
+end bouquet edit,,baigti paketo redagavimą,,,1,1,0,0
+end cut here,,kirpimo pabaiga čia,,kirpimo pabaiga čia,2,1,1,0
+end favourites edit,,baigti mėgstamiausių redagavimą,,,1,1,0,0
+equal to,,lygus į,,,1,1,0,0
+exit DVD player or return to file browser,,išeiti iš DVD grotuvo arba sugrįžti į failų naršyklę,,išeiti iš DVD grotuvo arba sugrįžti į failų naršyklę,2,1,1,0
+exit network adapter configuration,,išeiti iš tinklo adapterio konfigūracijos,,,1,1,0,0
+exit networkadapter setup menu,,išeiti iš tinklo adapterio nustatymų meniu,,,1,1,0,0
+"fileformats (BMP, PNG, JPG, GIF)",,"failų formatai (BMP, PNG, JPG, GIF)",,"failų formatai (BMP, PNG, JPG, GIF)",2,1,1,0
+filename,,failo pavadinimas,,failo pavadinimas,2,1,1,0
+fine-tune your display,,tikslus jūsų ekrano suderinimas,,,1,1,0,0
+forward to the next chapter,,persukti į kitą skyrių,,persukti į kitą skyrių,2,1,1,0
+free,,laisvi,,laisvi,2,1,1,0
+free diskspace,,laisvos vietos diske,,laisvos vietos diske,2,1,1,0
+go to deep standby,,eiti į visišką išjungimą,,eiti į visišką išjungimą,2,1,1,0
+go to standby,,eiti į išjungimą,,eiti į išjungimą,2,1,1,0
+grab this frame as bitmap,,užgriebti šį rėmą kaip taškinę grafiką,,užgriebti šį rėmą kaip taškinę grafiką,2,1,1,0
+green,,žalias,,žalias,2,1,1,0
+horizontal,,horizontali,,horizontali,2,1,1,0
+init module,,aptinkamas modulis,,aptinkamas modulis,2,1,1,0
+init modules,,aptinkami moduliai,,,1,1,0,0
+insert mark here,,įterpkite žymeklį čia,,įterpkite žymeklį čia,2,1,1,0
+jump back to the previous title,,šuolis atgal į ankstesnį pavadinimą,,šuolis atgal į ankstesnį pavadinimą,2,1,1,0
+jump forward to the next title,,šuolis priekin į kitą pavadinimą,,šuolis priekin į kitą pavadinimą,2,1,1,0
+leave movie player...,,palikti grotuvą...,,,1,1,0,0
+left,,kairys,,kairys,2,1,1,0
+length,,ilgis,,ilgis,2,1,1,0
+locked,,užrakinta,,užrakinta,2,1,1,0
+loopthrough to,,šiurkštus į,,,1,1,0,0
+manual,,rankinis,,rankinis,2,1,1,0
+menu,,meniu,,meniu,2,1,1,0
+mins,,min (ių),,min (ių),2,1,1,0
+minutes,,minučių,,minučių,2,1,1,0
+month,,mėnuo,,mėnuo,2,1,1,0
+move down to last entry,,perkelti žemyn prie paskutinio įėjimo,,,1,1,0,0
+move down to next entry,,perkelti žemyn prie kito įėjimo,,,1,1,0,0
+move up to first entry,,perkelti aukštyn prie pirmo įėjimo,,,1,1,0,0
+move up to previous entry,,perkelti aukštyn prie ankstesnio įėjimo,,,1,1,0,0
+multinorm,,multinorma,,multinorma,2,1,1,0
+never,,niekada,,niekada,2,1,1,0
+no,,ne,,ne,2,1,1,0
+no CAId selected,,joks CAId neišsirinktas,,joks CAId neišsirinktas,2,1,1,0
+no CI slots found,,jokie CI skaitytuvai nesurasti,,jokie CI skaitytuvai nesurasti,2,1,1,0
+no module found,,modulis nerastas,,modulis nerastas,2,1,1,0
+none,,jokio,,jokio,2,1,1,0
+not configured,,nesukonfigūruotas,,nesukonfigūruotas,2,1,1,0
+not locked,,neužrakintas,,neužrakintas,2,1,1,0
+not supported,,nepalaikomas,,nepalaikomas,2,1,1,0
+not used,,nenaudojamas,,,1,1,0,0
+nothing connected,,niekas nepajungta,,niekas nepajungta,2,1,1,0
+of a DUAL layer medium used.,,iš DVIEJŲ sluoksnių naudojama.,,iš DVIEJŲ sluoksnių naudojama.,2,1,1,0
+of a SINGLE layer medium used.,,iš VIENO sluoksnio naudojama.,,iš VIENO sluoksnio naudojama.,2,1,1,0
+off,,išjungta,,išjungta,2,1,1,0
+on,,įjungta,,įjungta,2,1,1,0
+on READ ONLY medium.,,diskas TIK SKAITYMUI.,,diskas TIK SKAITYMUI.,2,1,1,0
+once,,vieną kartą,,vieną kartą,2,1,1,0
+open nameserver configuration,,atidaryti serverio pavadinimo konfigūraciją,,,1,1,0,0
+pass,,perduoti,,perduoti,2,1,1,0
+play as picture in picture,,rodyti paveikslėlį paveikslėlyje,,,1,1,0,0
+please press OK when ready,,"prašome paspausti OK, kai būsite pasiruošę",,,1,1,0,0
+"please wait, loading picture...",,laukite...užkraunamas paveikslėlis,,laukite...užkraunamas paveikslėlis,2,1,1,0
+record,,įrašas,,įrašas,2,1,1,0
+recording...,,įrašoma...,,įrašoma...,2,1,1,0
+red,,raudonas,,raudonas,2,1,1,0
+remove after this position,,pašalinti po šios vietos,,pašalinti po šios vietos,2,1,1,0
+remove all alternatives,,pašalinti visus kitus,,,1,1,0,0
+remove all new found flags,,šalinti visus žymeklius 'naujas',,,1,1,0,0
+remove before this position,,pašalinti po šios vietos,,pašalinti po šios vietos,2,1,1,0
+remove bookmark,,pašalinti žymę,,pašalinti žymę,2,1,1,0
+remove directory,,pašalinti direktoriją,,pašalinti direktoriją,2,1,1,0
+remove entry,,pašalinti,,,1,1,0,0
+remove from parental protection,,panaikinti tėvų kontrolę,,,1,1,0,0
+remove new found flag,,šalinti žymeklį 'naujas',,,1,1,0,0
+remove selected satellite,,pašalinti pasirinktą palydovą,,,1,1,0,0
+remove this mark,,šalinti šį žymeklį,,šalinti šį žymeklį,2,1,1,0
+repeat playlist,,pakartoti grojaraštį,,pakartoti grojaraštį,2,1,1,0
+repeated,,pakartotinis,,pakartotinis,2,1,1,0
+rewind to the previous chapter,,atsukti į ankstesnį skyrių,,atsukti į ankstesnį skyrių,2,1,1,0
+right,,dešinys,,dešinys,2,1,1,0
+save last directory on exit,,išsaugoti paskutinę direktoriją išeinant,,išsaugoti paskutinę direktoriją išeinant,2,1,1,0
+save playlist on exit,,išsaugoti grojaraštį išeinant,,išsaugoti grojaraštį išeinant,2,1,1,0
+scan state,,paieškos eiga,,paieškos eiga,2,1,1,0
+second cable of motorized LNB,,antras kabelis nuo poliarizuotos LNB,,,1,1,0,0
+seconds,,sekundžių,,sekundžių,2,1,1,0
+select,,pasirinkti,,pasirinkti,2,1,1,0
+select CAId's,,išsirinkite CAId's,,išsirinkite CAId's,2,1,1,0
+select menu entry,,išsirinkite meniu įėjimą,,,1,1,0,0
+service PIN,,kanalo PIN,,,1,1,0,0
+set as startup service,,nustatyti kaip paleidimo kanalą,,,1,1,0,0
+setup PIN,,valdymo PIN,,,1,1,0,0
+show DVD main menu,,rodyti DVD pagrindinį meniu,,rodyti DVD pagrindinį meniu,2,1,1,0
+show alternatives,,rodyti kitus,,,1,1,0,0
+show event details,,rodyti užduočių detales,,rodyti užduočių detales,2,1,1,0
+show transponder info,,transponderio informacija,,,1,1,0,0
+shut down,,išjungti,,išjungti,2,1,1,0
+simple,,paprastas,,paprastas,2,1,1,0
+skip backward,,praleisti sukimą atgal,,praleisti sukimą atgal,2,1,1,0
+skip backward (enter time),,praleisti atgal (įrašykite laiką),,praleisti atgal (įrašykite laiką),2,1,1,0
+skip forward,,praleisti sukimą į priekį,,praleisti sukimą į priekį,2,1,1,0
+skip forward (enter time),,praleisti pirmyn (įrašykite laiką),,praleisti pirmyn (įrašykite laiką),2,1,1,0
+special characters,,ypatingi požymiai,,,1,1,0,0
+standard,,standartinis,,,1,1,0,0
+start cut here,,pradėti iškirpimą čia,,pradėti iškirpimą čia,2,1,1,0
+start directory,,pradėti direktoriją,,pradėti direktoriją,2,1,1,0
+stereo,,'',,'',2,0,0,2
+switch to bookmarks,,perjungti į žymes,,perjungti į žymes,2,1,1,0
+switch to filelist,,perjungti į failų sąrašą,,perjungti į failų sąrašą,2,1,1,0
+switch to the next angle,,perjunkite į kitą kampą,,perjunkite į kitą kampą,2,1,1,0
+switch to the next audio track,,perjungti į kitą garso takelį,,perjungti į kitą garso takelį,2,1,1,0
+switch to the next subtitle language,,perjungti į kitą subtitrų kalbą,,perjungti į kitą subtitrų kalbą,2,1,1,0
+template file,,šablono failas,,šablono failas,2,1,1,0
+this recording,,tai įrašyta,,tai įrašyta,2,1,1,0
+this service is protected by a parental control pin,,šis kanalas apsaugotas tėvų kontrolės PIN kodu,,šis kanalas apsaugotas tėvų kontrolės PIN kodu,2,1,1,0
+"toggle time, chapter, audio, subtitle info",,"laikas, skyrius, garsas, subtitrų informacija",,"laikas, skyrius, garsas, subtitrų informacija",2,1,1,0
+tuner is not supported,,imtuvas nepalaikomas,,,1,1,0,0
+unknown,,nežinoma,,nežinoma,2,1,1,0
+unknown service,,nežinomas kanalas,,nežinomas kanalas,2,1,1,0
+until standby/restart,,iki budėjimo/paleisti iš naujo,,iki budėjimo/paleisti iš naujo,2,1,1,0
+user defined,,vartotojo nustatytas,,vartotojo nustatytas,2,1,1,0
+vertical,,vertikali,,vertikali,2,1,1,0
+view extensions...,,žiūrėti papildymus,,,1,1,0,0
+wait for ci...,,laukite atsakymo iš CI...,,laukite atsakymo iš CI...,2,1,1,0
+wait for mmi...,,laukite atsakymo iš mmi...,,laukite atsakymo iš mmi...,2,1,1,0
+waiting,,laukimas,,laukimas,2,1,1,0
+weekly,,kas savaitę,,kas savaitę,2,1,1,0
+white,,baltas,,baltas,2,1,1,0
+whitelist,,baltas sąrašas,,,1,1,0,0
+wireless network interface,,bevielio tinklo sąsaja,,bevielio tinklo sąsaja,2,1,1,0
+working,,dirba,,dirba,2,1,1,0
+yellow,,geltonas,,geltonas,2,1,1,0
+yes,,taip,,taip,2,1,1,0
+yes (keep feeds),,taip (saugoti feeds),,taip (saugoti feeds),2,1,1,0
+zap,,jungti,,jungti,2,1,1,0
+zapped,,įjungta,,įjungta,2,1,1,0
+\nSelect your backup device.\nCurrent device: ,,,,\nPasirinkite jūsų atsarginės kopijos įrenginį.\nDabartinis įrenginys: ,1,1,0,0
+<Current movielist location>,,,,<Dabartinė filmų sąrašo vieta>,1,1,0,0
+Do you really want to check the filesystem?\nThis could take a long time!,,,,Tikrai norite atlikti failų sistemos tikrinimą?\nTai gali trukti ilgą laiką!,1,1,0,0
+KA-SAT,,,,KA-SAT (9°E),1,1,0,0
+There might not be enough space on the selected partition..\nDo you really want to continue?,,,,Gali trukti laisvos vietos pasirinktame skaidinyje.\nAr norite tęsti?,1,1,0,0
+"Yes, shut down now.",,,,"Taip, atlikti išjungimą dabar.",1,1,0,0
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.dm7025.de.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,,,"Jums reikės kompiuterio, prijungto prie imtuvo. Jeigu Jums reikės papildomos instrukcijos, prašome aplankyti tinklapį http://www.dm7025.de.\nJūsų imtuvas turi būti sustabdytas. Po atnaujinimo nauja PĮ paprašys atkurti Jūsų nustatymus. ",1,1,0,0
+Your %s %s is shutting down. Please wait...,,,,Jūsų imtuvas išsijungia. Būkite šalia...,1,1,0,0

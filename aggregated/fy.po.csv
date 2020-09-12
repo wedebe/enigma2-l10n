@@ -1,0 +1,889 @@
+msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+%H:%M,,'','','',3,0,0,3
+%d min,,'','','',3,0,0,3
+%d.%B %Y,,'','',,2,0,0,2
+%s (%s)\n,,'','','',3,0,0,3
+(ZAP),,'','','',3,0,0,3
+(empty),(leech),(leech),(leech),(leech),4,1,3,0
+(show optional DVD audio menu),(opsje DVD lûd menu sjen litte),(opsje DVD lûd menu sjen litte),(opsje DVD lûd menu sjen litte),(opsje DVD lûd menu sjen litte),4,1,3,0
+* Only available if more than one interface is active.,* Allinne beskikber by meer dan ien aktieve ynterfaces,* Allinne beskikber by meer dan ien aktieve ynterfaces,* Allinne beskikber by meer dan ien aktieve ynterfaces,* Allinne beskikber by meer dan ien aktieve ynterfaces,4,1,3,0
+0,,,'',,1,0,0,1
+1,,,'',,1,0,0,1
+1.0,,'','','',3,0,0,3
+1.1,,'','','',3,0,0,3
+1.2,,'','','',3,0,0,3
+12V output,12V útgong,12V útgong,12V útgong,12V útgong,4,1,3,0
+13 V,,'','','',3,0,0,3
+16:10,,'','','',3,0,0,3
+16:10 Letterbox,,'','','',3,0,0,3
+16:10 PanScan,,'','','',3,0,0,3
+16:9,,'','','',3,0,0,3
+16:9 Letterbox,,'','','',3,0,0,3
+16:9 always,altiid 16:9,altiid 16:9,altiid 16:9,altiid 16:9,4,1,3,0
+18 V,,'','','',3,0,0,3
+2,,,'',,1,0,0,1
+3,,,'',,1,0,0,1
+4,,,'',,1,0,0,1
+4:3,,'','','',3,0,0,3
+4:3 Letterbox,,'','','',3,0,0,3
+4:3 PanScan,,'','','',3,0,0,3
+5,,,'',,1,0,0,1
+6,,,'',,1,0,0,1
+7,,,'',,1,0,0,1
+8,,,'',,1,0,0,1
+9,,,'',,1,0,0,1
+<unknown>,<net bekend>,<net bekend>,<net bekend>,<net bekend>,4,1,3,0
+??,,'','','',3,0,0,3
+A,,'','','',3,0,0,3
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,In konfiguraasje triem (%s) wie feroare nei ynstalaasje.\nWolle jo jo ferzje hâlde ?,In konfiguraasje triem (%s) wie feroare nei ynstalaasje.\nWolle jo jo ferzje hâlde ?,In konfiguraasje triem (%s) wie feroare nei ynstalaasje.\nWolle jo jo ferzje hâlde ?,In konfiguraasje triem (%s) wie feroare nei ynstalaasje.\nWolle jo jo ferzje hâlde ?,4,1,3,0
+A record has been started:\n%s,,,In opnimmen is start:\n%s,,1,1,0,0
+A recording is currently running.\nWhat do you want to do?,In opnimmen is dwaande.\nWat wolle jo dwaan ?,In opnimmen is dwaande.\nWat wolle jo dwaan ?,In opnimmen is dwaande.\nWat wolle jo dwaan ?,,3,1,2,0
+A required tool (%s) was not found.,In benedicht programma (%s) wie net fûn,In benedicht programma (%s) wie net fûn,In benedicht programma (%s) wie net fûn,In benedicht programma (%s) wie net fûn,4,1,3,0
+A timer failed to record!\nDisable TV and try again?\n,In tiidsbarren koe net opnimme!\nTV utskeakelje en opnei besykje ?\n,In tiidsbarren koe net opnimme!\nTV utskeakelje en opnei besykje ?\n,In tiidsbarren koe net opnimme!\nTV utskeakelje en opnei besykje ?\n,In tiidsbarren koe net opnimme!\nTV utskeakelje en opnei besykje ?\n,4,1,3,0
+Abort alternatives edit,,,Alternatieven bewurkjen ôfbrekke,,1,1,0,0
+Abort bouquet edit,,,Boeket bewurkjen ôfbrekke,,1,1,0,0
+Abort favourites edit,,,Favoriet bewurkje ôfbrekke,,1,1,0,0
+About,Oer,Oer,Oer,Oer,4,1,3,0
+Activate Picture in Picture,PIP ynskeakelje,PIP ynskeakelje,PiP ynskeakelje,PIP ynskeakelje,4,2,2,0
+Activate network settings,Netwurk ynstellingen aktief meitsje,Netwurk ynstellingen aktief meitsje,Netwurk ynstellingen aktief meitsje,Netwurk ynstellingen aktief meitsje,4,1,3,0
+Adapter settings,Adapter ynstellingen,Adapter ynstellingen,Adapter ynstellingen,Adapter ynstellingen,4,1,3,0
+Add,Tafoegje,Tafoegje,Tafoegje,Tafoegje,4,1,3,0
+Add a mark,In merker tafoegje,In merker tafoegje,In merker tafoegje,In merker tafoegje,4,1,3,0
+Add a new title,In nije titel tafoegje,In nije titel tafoegje,In nije titel tafoegje,In nije titel tafoegje,4,1,3,0
+Add alternatives,,,Alernatief tafoegje,,1,1,0,0
+Add bouquet,,,Boeket tafoegje,,1,1,0,0
+Add marker,,,Marker tafoegje,,1,1,0,0
+Add service to bouquet,,,Kanaal tafoegje oan bouquet,,1,1,0,0
+Add service to favourites,,,Kanaal tafoegje oan favorieten,,1,1,0,0
+Add timer,In tiidsbarren tafoegje,In tiidsbarren tafoegje,In tiidsbarren tafoegje,In tiidsbarren tafoegje,4,1,3,0
+Add title,In titel tafoegje,In titel tafoegje,In titel tafoegje,In titel tafoegje,4,1,3,0
+Add to bouquet,,Oan in boeket tafoegje,Oan in boeket tafoegje,Oan in boeket tafoegje,3,1,2,0
+Add to favourites,,Oan favorieten tafoegje,Oan favorieten tafoegje,Oan favorieten tafoegje,3,1,2,0
+Add to parental protection,,,Âlderlik tasjoch tafoegje ,,1,1,0,0
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.","Feroarje de ynstellingen sa, da't alle skaad fan 'e kleur fuort is, mar wol fol fan kleur binne. Ot jo lokkig binne mei it einresultaat, druk OK om fideo ôfstellen ôf te slúten, of brûk de nûmmer toetsen foar in oar test skerm.","Feroarje de ynstellingen sa, da't alle skaad fan 'e kleur fuort is, mar wol fol fan kleur binne. Ot jo lokkig binne mei it einresultaat, druk OK om fideo ôfstellen ôf te slúten, of brûk de nûmmer toetsen foar in oar test skerm.","Feroarje de ynstellingen sa, da't alle skaad fan 'e kleur fuort is, mar wol fol fan kleur binne. Ot jo lokkig binne mei it einresultaat, druk OK om fideo ôfstellen ôf te slúten, of brûk de nûmmer toetsen foar in oar test skerm.","Feroarje de ynstellingen sa, da't alle skaad fan 'e kleur fuort is, mar wol fol fan kleur binne. Ot jo lokkig binne mei it einresultaat, druk OK om fideo ôfstellen ôf te slúten, of brûk de nûmmer toetsen foar in oar test skerm.",4,1,3,0
+After event,Nei it barren,Nei it barren,Nei it barren,Nei it barren,4,1,3,0
+Album,,'','','',3,0,0,3
+All,Alles,Alles,Alles,Alles,4,1,3,0
+Alpha,,'','','',3,0,0,3
+Alternative services tuner priority,Alternatief kanaal tuner prioriteit,Alternatief kanaal tuner prioriteit,Alternatief kanaal tuner prioriteit,Alternatief kanaal tuner prioriteit,4,1,3,0
+An empty filename is illegal.,Gjin triemnamme is net tastien,Gjin triemnamme is net tastien,Gjin triemnamme is net tastien,Gjin triemnamme is net tastien,4,1,3,0
+An unknown error occurred!,,,In unbekende flater !,,1,1,0,0
+Arabic,Arabysk,Arabysk,Arabysk,Arabysk,4,1,3,0
+Are you sure you want to activate this network configuration?\n\n,Wolle jo wier dizze netwurk konfiguraasje aktief meitsje ?\n\n,Wolle jo wier dizze netwurk konfiguraasje aktief meitsje ?\n\n,Wolle jo wier dizze netwurk konfiguraasje aktief meitsje ?\n\n,Wolle jo wier dizze netwurk konfiguraasje aktief meitsje ?\n\n,4,1,3,0
+Are you sure you want to restart your network interfaces?\n\n,Wolle jo de netwurk interfaces nij starte?\n\n,Wolle jo de netwurk interfaces nij starte?\n\n,Wolle jo de netwurk interfaces nij starte?\n\n,Wolle jo de netwurk interfaces nij starte?\n\n,4,1,3,0
+Artist,Artyst,Artyst,Artyst,Artyst,4,1,3,0
+Ask user,freechje gebrûker,freechje gebrûker,freechje gebrûker,freechje gebrûker,4,1,3,0
+Audio,,,Lûd,,1,1,0,0
+Authoring mode,Authentikaasje troch,Authentikaasje troch,Authentikaasje troch,Authentikaasje troch,4,1,3,0
+Auto,,'','','',3,0,0,3
+Auto chapter split every ? minutes (0=never),Haadstik automatysk eltse ? minuten splitse (0=nea),Haadstik automatysk eltse ? minuten splitse (0=nea),Haadstik automatysk eltse ? minuten splitse (0=nea),Haadstik automatysk eltse ? minuten splitse (0=nea),4,1,3,0
+Auto scart switching,Auto scart skeakelje,Auto scart skeakelje,Auto scart skeakelje,Auto scart skeakelje,4,1,3,0
+Automatic,Automatysk,Automatysk,Automatysk,Automatysk,4,1,3,0
+Available format variables,Beskikbere variabele formaten,Beskikbere variabele formaten,Beskikbere variabele formaten,Beskikbere variabele formaten,4,1,3,0
+B,,'','','',3,0,0,3
+BER,,,'',,1,0,0,1
+BER:,,,'',,1,0,0,1
+Back,Werom,Werom,Werom,Werom,4,1,3,0
+Background,Eftergrûn,Eftergrûn,Eftergrûn,Eftergrûn,4,1,3,0
+Band,Bân,Bân,Bân,Bân,4,1,3,0
+Bandwidth,Bânbridte,Bânbridte,Bânbridte,Bânbridte,4,1,3,0
+Begin time,Begjin tiid,Begjin tiid,Begjin tiid,Begjin tiid,4,1,3,0
+Behavior of '0' button in PiP mode,,,Gedrach fan 0 toets yn PiP mode,,1,1,0,0
+Behavior when a movie is started,Gedrach wannear in film start is,Gedrach wannear in film start is,Gedrach wannear in film start is,Gedrach wannear in film start is,4,1,3,0
+Behavior when a movie is stopped,Gedrach wannear in film stoppe is,Gedrach wannear in film stoppe is,Gedrach wannear in film stoppe is,Gedrach wannear in film stoppe is,4,1,3,0
+Behavior when a movie reaches the end,Gedrach wannear in film bijna op syn ein is.,Gedrach wannear in film bijna op syn ein is.,Gedrach wannear in film bijna op syn ein is.,Gedrach wannear in film bijna op syn ein is.,4,1,3,0
+Bookmarks,Boekmerkers,Boekmerkers,Boekmerkers,Boekmerkers,4,1,3,0
+Brightness,Helderens,Helderens,Helderens,Helderens,4,1,3,0
+Burn DVD,In DVD brâne,In DVD brâne,In DVD brâne,In DVD brâne,4,1,3,0
+Burn existing image to DVD,,Besteand Image op DVD skiif brâne,Besteand Image op DVD skiif brâne,Besteand Image op DVD skiif brâne,3,1,2,0
+Bus: ,,'','','',3,0,0,3
+C,,,'',,1,0,0,1
+C-Band,C-Bân,C-Bân,C-Bân,C-Bân,4,1,3,0
+CVBS,,'','','',3,0,0,3
+Cable,Kabel,Kabel,Kabel,Kabel,4,1,3,0
+Cancel,Ôfbrekke,Ôfbrekke,Ôfbrekke,Ôfbrekke,4,1,3,0
+Capacity: ,Skiif-grutte:,Skiif-grutte:,Skiif-grutte:,Skiif-grutte:,4,1,3,0
+Card,,,Kaart,,1,1,0,0
+Change bouquets in quickzap,Feroarje fan boeket yn quickzap,Feroarje fan boeket yn quickzap,Feroarje fan boeket yn quickzap,Feroarje fan boeket yn quickzap,4,1,3,0
+Channel,Kanaal,Kanaal,Kanaal,Kanaal,4,1,3,0
+Channel:,Kanaal:,Kanaal:,Kanaal:,Kanaal:,4,1,3,0
+Channellist menu,,,Kanaal-lyst menu,,1,1,0,0
+Chap.,Haads.,Haads.,Haads.,Haads.,4,1,3,0
+Chapter,Haadstik,Haadstik,Haadstik,Haadstik,4,1,3,0
+Chapter:,Haadstik:,Haadstik:,Haadstik:,Haadstik:,4,1,3,0
+Check,Neisjen,Neisjen,Neisjen,Neisjen,4,1,3,0
+Cleanup,Opskjinje,Opskjinje,Opskjinje,Opskjinje,4,1,3,0
+Clear before scan,Wiskje foar sykjen ?,Wiskje foar sykjen ?,Wiskje foar sykjen ?,Wiskje foar sykjen ?,4,1,3,0
+Clear log,Log wiskje,Log wiskje,Log wiskje,Log wiskje,4,1,3,0
+Close,Slúte,Slúte,Slúte,Slúte,4,1,3,0
+Collection name,Kolleksje namme,Kolleksje namme,Kolleksje namme,Kolleksje namme,4,1,3,0
+Collection settings,Kolleksje ynstellingen,Kolleksje ynstellingen,Kolleksje ynstellingen,Kolleksje ynstellingen,4,1,3,0
+Command execution...,,,Kommando útfiere,,1,1,0,0
+Command order,Kommando folgoarde,Kommando folgoarde,Kommando folgoarde,Kommando folgoarde,4,1,3,0
+Common Interface,,'','','',3,0,0,3
+Complete,Kompleet,Kompleet,Kompleet,Kompleet,4,1,3,0
+Complex (allows mixing audio tracks and aspects),Komplex(lud spoor & aspekt mixen tastien),Komplex(lud spoor & aspekt mixen tastien),Komplex(lud spoor & aspekt mixen tastien),Komplex(lud spoor & aspekt mixen tastien),4,1,3,0
+Configuring,Oan it ynstellen,Oan it ynstellen,Oan it ynstellen,Oan it ynstellen,4,1,3,0
+Connected to,Ferbûn mei,Ferbûn mei,Ferbûn mei,Ferbûn mei,4,1,3,0
+Content does not fit on DVD!,Ynhald past net op in DVD !,Ynhald past net op in DVD !,Ynhald past net op in DVD !,Ynhald past net op in DVD !,4,1,3,0
+Continue playing,Kontinu spielje,Kontinu spielje,Kontinu spielje,Kontinu spielje,4,1,3,0
+Contrast,Kontrast,Kontrast,Kontrast,Kontrast,4,1,3,0
+Copy to bouquets,,,Kopieer nei boeketten,,1,1,0,0
+Create DVD-ISO,Meitsje DVD-ISO,Meitsje DVD-ISO,Meitsje DVD-ISO,Meitsje DVD-ISO,4,1,3,0
+Create directory,,,Map meitsje,,1,1,0,0
+Creating directory %s failed.,Meitjse fan map %s is mislearre,Meitjse fan map %s is mislearre,Meitjse fan map %s is mislearre,Meitjse fan map %s is mislearre,4,1,3,0
+Croatian,Kroatysk,Kroatysk,Kroatysk,Kroatysk,4,1,3,0
+Current settings:,Hjoeddeiske ynstellingen:,Hjoeddeiske ynstellingen:,Hjoeddeiske ynstellingen:,Hjoeddeiske ynstellingen:,4,1,3,0
+Customize,Oanpasse,Oanpasse,Oanpasse,,3,1,2,0
+Cut,Knip,Knip,Knip,Knip,4,1,3,0
+Cutlist editor...,Kniplyst bewurker...,Kniplyst bewurker...,Kniplyst bewurker...,Kniplyst bewurker...,4,1,3,0
+Czech,Tsjechysk,Tsjechysk,Tsjechysk,Tsjechysk,4,1,3,0
+D,,,'',,1,0,0,1
+DHCP,,'','','',3,0,0,3
+DVB-S,,'','','',3,0,0,3
+DVB-S2,,'','','',3,0,0,3
+DVD media toolbox,,DVD media arkbak,DVD media arkbak,DVD media arkbak,3,1,2,0
+Danish,Deensk,Deensk,Deensk,Deensk,4,1,3,0
+Date,Datum,Datum,Datum,Datum,4,1,3,0
+Delete,Ferwiderje,Ferwiderje,Ferwiderje,Ferwiderje,4,1,3,0
+Delete entry,Ferwiderje ynfier,Ferwiderje ynfier,Ferwiderje ynfier,Ferwiderje ynfier,4,1,3,0
+Delete failed!,Ferwiderjen mislearre!,Ferwiderjen mislearre!,Ferwiderjen mislearre!,Ferwiderjen mislearre!,4,1,3,0
+Description,Beskriuwing,Beskriuwing,Beskriuwing,Beskriuwing,4,1,3,0
+Detected HDD:,,,Fûne hurde skiif:,,1,1,0,0
+Detected NIMs:,Fûne Tuners:,Fûne Tuners:,Fûne Tuners:,,3,1,2,0
+DiSEqC,,'','','',3,0,0,3
+DiSEqC A/B,,'','','',3,0,0,3
+DiSEqC A/B/C/D,,'','','',3,0,0,3
+DiSEqC mode,DiSEqC-Mode,DiSEqC-Mode,DiSEqC-Mode,DiSEqC-Mode,4,1,3,0
+Direct playback of linked titles without menu,Direkt ôfspielje fan keppele titels sûnder menu,Direkt ôfspielje fan keppele titels sûnder menu,Direkt ôfspielje fan keppele titels sûnder menu,Direkt ôfspielje fan keppele titels sûnder menu,4,1,3,0
+Disable,Utskeakelje,Utskeakelje,Utskeakelje,Utskeakelje,4,1,3,0
+Disable Picture in Picture,PIP utskeakelje,PIP utskeakelje,PiP utskeakelje,PIP utskeakelje,4,2,2,0
+Disable move mode,,,Ferpleats modus útskeakelje,,1,1,0,0
+Disabled,Utskeakele,Utskeakele,Utskeakele,Utskeakele,4,1,3,0
+Display 16:9 content as,16:9 ynhâld sjen litte as,16:9 ynhâld sjen litte as,16:9 ynhâld sjen litte as,16:9 ynhâld sjen litte as,4,1,3,0
+Display 4:3 content as,4:3 ynhâld sjen litte as,4:3 ynhâld sjen litte as,4:3 ynhâld sjen litte as,4:3 ynhâld sjen litte as,4,1,3,0
+Do you really want to check the filesystem?\nThis could take lots of time!,,,Wolle jo echt it bestânsysteem neisjen ?<br> Dit kin lang duorje !,,1,1,0,0
+Do you really want to delete %s?,Wolle jo wier %s ferwiderje?,Wolle jo wier %s ferwiderje?,Wolle jo wier %s ferwiderje?,Wolle jo wier %s ferwiderje?,4,1,3,0
+"Do you really want to download\nthe plugin \""%s\""?",,,"Wolle jo wier de plugin \""%s\"" binnenhelje ?",,1,1,0,0
+Do you really want to remove directory %s from the disk?,Wolle jo echt map %s ferwiderje van skiif ?,Wolle jo echt map %s ferwiderje van skiif ?,Wolle jo echt map %s ferwiderje van skiif ?,Wolle jo echt map %s ferwiderje van skiif ?,4,1,3,0
+Do you really want to remove your bookmark of %s?,Wolle jo echt boekmerk fan %s ferwiderje ?,Wolle jo echt boekmerk fan %s ferwiderje ?,Wolle jo echt boekmerk fan %s ferwiderje ?,Wolle jo echt boekmerk fan %s ferwiderje ?,4,1,3,0
+Do you want to burn this collection to DVD medium?,Wolle jo dizze kolleksje nei DVD brâne ?,Wolle jo dizze kolleksje nei DVD brâne ?,Wolle jo dizze kolleksje nei DVD brâne ?,Wolle jo dizze kolleksje nei DVD brâne ?,4,1,3,0
+Do you want to play DVD in drive?,Wolle jo de DVD ôfspielje ?,Wolle jo de DVD ôfspielje ?,Wolle jo de DVD ôfspielje ?,Wolle jo de DVD ôfspielje ?,4,1,3,0
+Do you want to preview this DVD before burning?,Wolle jo de DVD besjen foar it brânen ?,Wolle jo de DVD besjen foar it brânen ?,Wolle jo de DVD besjen foar it brânen ?,Wolle jo de DVD besjen foar it brânen ?,4,1,3,0
+Do you want to restore your settings?,Wolle jo jo ynstellingen wêrom sette ?,Wolle jo jo ynstellingen wêrom sette ?,Wolle jo jo ynstellingen wêrom sette ?,Wolle jo jo ynstellingen wêrom sette ?,4,1,3,0
+Do you want to resume this playback?,Wolle jo dit opnimmen fjierder ôfspielje ?,Wolle jo dit opnimmen fjierder ôfspielje ?,Wolle jo dit opnimmen fjierder ôfspielje ?,,3,1,2,0
+Don't stop current event but disable coming events,"Dit barren net stopje, maar oankommende barren útskeakelje","Dit barren net stopje, maar oankommende barren útskeakelje","Dit barren net stopje, maar oankommende barren útskeakelje",,3,1,2,0
+Downloadable new plugins,,,Binnen te heljen nije ynstekkers,,1,1,0,0
+Downloadable plugins,,,Binnen te heljen ynstekkers,,1,1,0,0
+Downloading,Binnenheljen fan,Binnenheljen fan,Binnenheljen fan,Binnenheljen fan,4,1,3,0
+Downloading plugin information. Please wait...,Binnenheljen fan ynstekker ynformaasje...,Binnenheljen fan ynstekker ynformaasje...,Binnenheljen fan ynstekker ynformaasje...,Binnenheljen fan ynstekker ynformaasje...,4,1,3,0
+Dutch,Nederlansk,Nederlansk,Nederlansk,Nederlansk,4,1,3,0
+E,,'','','',3,0,0,3
+ERROR - failed to scan (%s)!,Flater - Sykjen mislearre (%s)!,Flater - Sykjen mislearre (%s)!,Flater - Sykjen mislearre (%s)!,Flater - Sykjen mislearre (%s)!,4,1,3,0
+East,,'','','',3,0,0,3
+Edit,Bewurkje,Bewurkje,Bewurkje,Bewurkje,4,1,3,0
+Edit DNS,,Wyzigje de DNS,Wyzigje de DNS,Wyzigje de DNS,3,1,2,0
+Edit alternatives,,,Bewurkje alternatief,,1,1,0,0
+Edit chapters of current title,Bewurkje haadstik fan dizze titel,Bewurkje haadstik fan dizze titel,Bewurkje haadstik fan dizze titel,Bewurkje haadstik fan dizze titel,4,1,3,0
+Edit settings,Wyzigje ynstellingen,Wyzigje ynstellingen,Wyzigje ynstellingen,Wyzigje ynstellingen,4,1,3,0
+Edit title,Bewukje titel,Bewukje titel,Bewukje titel,Bewukje titel,4,1,3,0
+Electronic Program Guide,Elektroniske Programma Gids,Elektroniske Programma Gids,Elektroniske Programma Gids,Elektroniske Programma Gids,4,1,3,0
+Enable,Ynskeakelje,Ynskeakelje,Ynskeakelje,Ynskeakelje,4,1,3,0
+Enable 5V for active antenna,5V ynskeakelje foar hjoeddeiske antenne,5V ynskeakelje foar hjoeddeiske antenne,5V ynskeakelje foar hjoeddeiske antenne,5V ynskeakelje foar hjoeddeiske antenne,4,1,3,0
+Enable bouquet edit,,,Bewurkjen boeket oan,,1,1,0,0
+Enable favourites edit,,,Bewurkjen favorieten oan,,1,1,0,0
+Enable move mode,,,Ferpleatsen mode oan,,1,1,0,0
+Enable multiple bouquets,Mear boeketten sjen litte,Mear boeketten sjen litte,Mear boeketten sjen litte,Mear boeketten sjen litte,4,1,3,0
+Enabled,Ynskeakele,Ynskeakele,Ynskeakele,Ynskeakele,4,1,3,0
+Encryption,,'','','',3,0,0,3
+End alternatives edit,,,Bewurkjen alternatief út,,1,1,0,0
+End bouquet edit,,,Bewurkjen boeket út,,1,1,0,0
+End favourites edit,,,Bewurkjen favoriet út,,1,1,0,0
+End time,Eintiid,Eintiid,Eintiid,Eintiid,4,1,3,0
+English,Engelsk,Engelsk,Engelsk,Engelsk,4,1,3,0
+Enter main menu...,Nei it haadmenu...,Nei it haadmenu...,Nei it haadmenu...,Nei it haadmenu...,4,1,3,0
+Enter the service pin,Fier de service pin yn,Fier de service pin yn,Fier de service pin yn,Fier de service pin yn,4,1,3,0
+Error,Flater,Flater,Flater,Flater,4,1,3,0
+Error: %s\nRetry?,Flater: %s\nOpnei ?,Flater: %s\nOpnei ?,Flater: %s\nOpnei ?,Flater: %s\nOpnei ?,4,1,3,0
+Execution finished!!,Utfiering klear..,Utfiering klear..,Utfiering klear..,Utfiering klear..,4,1,3,0
+Exif,,'','','',3,0,0,3
+Exit,ofslúte,ofslúte,ofslúte,ofslúte,4,1,3,0
+Exit editor,Bewurker ofslúte,Bewurker ofslúte,Bewurker ofslúte,Bewurker ofslúte,4,1,3,0
+Exit the wizard,De gucheler ofslúte,De gucheler ofslúte,De gucheler ofslúte,De gucheler ofslúte,4,1,3,0
+Expert,Avansearre,Avansearre,Avansearre,Avansearre,4,1,3,0
+Extensions,Utwreidingen,Utwreidingen,Utwreidingen,Utwreidingen,4,1,3,0
+FEC,,'','','',3,0,0,3
+Factory reset,Fabryks ynstellingen,Fabryks ynstellingen,Fabryks ynstellingen,Fabryks ynstellingen,4,1,3,0
+Failed,mislearre,mislearre,mislearre,mislearre,4,1,3,0
+Fast,Rap,Rap,Rap,Rap,4,1,3,0
+Fast DiSEqC,Rappe DiSEqC,Rappe DiSEqC,Rappe DiSEqC,Rappe DiSEqC,4,1,3,0
+Fast epoch,Snelle epoch,Snelle epoch,Snelle epoch,Snelle epoch,4,1,3,0
+Favourites,Favoryten,Favoryten,Favoryten,Favoryten,4,1,3,0
+Finetune,Fyn ôfstemme,Fyn ôfstemme,Fyn ôfstemme,Fyn ôfstemme,4,1,3,0
+Finished,Ofrûn,Ofrûn,Ofrûn,Ofrûn,4,1,3,0
+Finished configuring your network,Klear mei ynstellen fan it netwurk,Klear mei ynstellen fan it netwurk,Klear mei ynstellen fan it netwurk,Klear mei ynstellen fan it netwurk,4,1,3,0
+Finished restarting your network,Klear mei it opnei starten fan it netwurk,Klear mei it opnei starten fan it netwurk,Klear mei it opnei starten fan it netwurk,,3,1,2,0
+Finnish,Finsk,Finsk,Finsk,Finsk,4,1,3,0
+Format,Formaat,Formaat,Formaat,Formaat,4,1,3,0
+Frame size in full view,gedielte yn folslein skerm,gedielte yn folslein skerm,gedielte yn folslein skerm,gedielte yn folslein skerm,4,1,3,0
+French,Frans,Frans,Frans,Frans,4,1,3,0
+Frequency,Frekwinsje,Frekwinsje,Frekwinsje,Frekwinsje,4,1,3,0
+Frequency bands,Frekwinsje bânnen,Frekwinsje bânnen,Frekwinsje bânnen,Frekwinsje bânnen,4,1,3,0
+Frequency scan step size(khz),Frekwinsje sykjen stap grutte(kHz),Frekwinsje sykjen stap grutte(kHz),Frekwinsje sykjen stap grutte(kHz),Frekwinsje sykjen stap grutte(kHz),4,1,3,0
+Frequency steps,Oantal Frekwinsje stappen,Oantal Frekwinsje stappen,Oantal Frekwinsje stappen,Oantal Frekwinsje stappen,4,1,3,0
+Fri,Fre,Fre,Fre,Fre,4,1,3,0
+Friday,Freed,Freed,Freed,Freed,4,1,3,0
+Gateway,,'','','',3,0,0,3
+Genre,Sjenre,Sjenre,Sjenre,Sjenre,4,1,3,0
+German,Dúts,Dúts,Dúts,Dúts,4,1,3,0
+Getting plugin information. Please wait...,Binnenhelje fan ynstekker ynformaasje....,Binnenhelje fan ynstekker ynformaasje....,Binnenhelje fan ynstekker ynformaasje....,Binnenhelje fan ynstekker ynformaasje....,4,1,3,0
+Goto 0,Gjin nei 0,Gjin nei 0,Gjin nei 0,Gjin nei 0,4,1,3,0
+Goto position,Gjin nei posysje,Gjin nei posysje,Gjin nei posysje,Gjin nei posysje,4,1,3,0
+Graphical Multi EPG,,,Grafyske Multi EPG,,1,1,0,0
+Greek,Gryks,Gryks,Gryks,Gryks,4,1,3,0
+Harddisk,,,Hurde skiif,,1,1,0,0
+How many minutes do you want to record?,Hoe folle minuten wolle jo opnimme?,Hoe folle minuten wolle jo opnimme?,Hoe folle minuten wolle jo opnimme?,,3,1,2,0
+Hungarian,Hongaarsk,Hongaarsk,Hongaarsk,Hongaarsk,4,1,3,0
+ISO file is too large for this filesystem!,ISO triem is te grut foar dit bestânsysteem!,ISO triem is te grut foar dit bestânsysteem!,ISO triem is te grut foar dit bestânsysteem!,ISO triem is te grut foar dit bestânsysteem!,4,1,3,0
+ISO path,ISO paad,ISO paad,ISO paad,ISO paad,4,1,3,0
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.","Ot jo dit leze, is der iets raar skeef mei\njo skart oansluting. Druk OK om werom te gean.","Ot jo dit leze, is der iets raar skeef mei\njo skart oansluting. Druk OK om werom te gean.","Ot jo dit leze, is der iets raar skeef mei\njo skart oansluting. Druk OK om werom te gean.",,3,1,2,0
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.","Skeakelje in helderens of kontrast ferbettering op jo TV út. Is der iets mei de namme \""dynamysk\"", set it nei standert. Set it eftergrûn helderens nivo nei jo eigen smaak. Set it konstrast sa leech mooglik op jo TV.\nDan, set it helderens nivo sa leech as mooglik, mar soargje dat de twa leechste griistinten krek anwêzig bliuwe\nMeitsje jo net drok om de helderenstinten no. Die komme werom yn de folgende stap\nBinne jo tefreden mei it resultaat, druk OK","Skeakelje in helderens of kontrast ferbettering op jo TV út. Is der iets mei de namme \""dynamysk\"", set it nei standert. Set it eftergrûn helderens nivo nei jo eigen smaak. Set it konstrast sa leech mooglik op jo TV.\nDan, set it helderens nivo sa leech as mooglik, mar soargje dat de twa leechste griistinten krek anwêzig bliuwe\nMeitsje jo net drok om de helderenstinten no. Die komme werom yn de folgende stap\nBinne jo tefreden mei it resultaat, druk OK","Skeakelje in helderens of kontrast ferbettering op jo TV út. Is der iets mei de namme \""dynamysk\"", set it nei standert. Set it eftergrûn helderens nivo nei jo eigen smaak. Set it konstrast sa leech mooglik op jo TV.\nDan, set it helderens nivo sa leech as mooglik, mar soargje dat de twa leechste griistinten krek anwêzig bliuwe\nMeitsje jo net drok om de helderenstinten no. Die komme werom yn de folgende stap\nBinne jo tefreden mei it resultaat, druk OK","Skeakelje in helderens of kontrast ferbettering op jo TV út. Is der iets mei de namme \""dynamysk\"", set it nei standert. Set it eftergrûn helderens nivo nei jo eigen smaak. Set it konstrast sa leech mooglik op jo TV.\nDan, set it helderens nivo sa leech as mooglik, mar soargje dat de twa leechste griistinten krek anwêzig bliuwe\nMeitsje jo net drok om de helderenstinten no. Die komme werom yn de folgende stap\nBinne jo tefreden mei it resultaat, druk OK",4,1,3,0
+"In order to record a timer, the TV was switched to the recording service!\n",,"Op in barren op te nimmen, wurd de TV nei opnimmen skeakele!\n","Op in barren op te nimmen, wurd de TV nei opnimmen skeakele!\n","Op in barren op te nimmen, wurd de TV nei opnimmen skeakele!\n",3,1,2,0
+Increased voltage,Ferheeche spanning,Ferheeche spanning,Ferheeche spanning,Ferheeche spanning,4,1,3,0
+Index,,,Yndex,,1,1,0,0
+Information,Ynformaasje,Ynformaasje,Ynformaasje,Ynformaasje,4,1,3,0
+Init,Initialisearje,Initialisearje,Initialisearje,Initialisearje,4,1,3,0
+Initialize,Formattearje HDD,Formattearje HDD,Formattearje HDD,Formattearje HDD,4,1,3,0
+Input,Ynfier,Ynfier,Ynfier,Ynfier,4,1,3,0
+Installing,Oan it ynstallearjen,Oan it ynstallearjen,Oan it ynstallearjen,Oan it ynstallearjen,4,1,3,0
+Invalid directory selected: %s,Unjildige map selektearre: %s,Unjildige map selektearre: %s,Unjildige map selektearre: %s,Unjildige map selektearre: %s,4,1,3,0
+Inversion,Infertearring,Infertearring,Infertearring,Infertearring,4,1,3,0
+Italian,Italiaansk,Italiaansk,Italiaansk,Italiaansk,4,1,3,0
+LNB,,'','','',3,0,0,3
+Language,Taal,Taal,Taal,Taal,4,1,3,0
+Language selection,Taal Kieze,Taal Kieze,Taal Kieze,Taal Kieze,4,1,3,0
+Last speed,Lêste faasje,Lêste faasje,Lêste faasje,Lêste faasje,4,1,3,0
+Latitude,Bridtegraad,Bridtegraad,Bridtegraad,Bridtegraad,4,1,3,0
+Left,Links,Links,Links,Links,4,1,3,0
+Letterbox,,'','','',3,0,0,3
+Limit east,Limyt east,Limyt east,Limyt east,Limyt east,4,1,3,0
+Limit west,Limyt west,Limyt west,Limyt west,Limyt west,4,1,3,0
+Limits off,Limyten út,Limyten út,Limyten út,Limyten út,4,1,3,0
+Limits on,Limyt oan,Limyt oan,Limyt oan,Limyt oan,4,1,3,0
+Link:,,'','','',3,0,0,3
+Linked titles with a DVD menu,Keppele titels mei in DVD menu,Keppele titels mei in DVD menu,Keppele titels mei in DVD menu,Keppele titels mei in DVD menu,4,1,3,0
+Lithuanian,Lithuaniansk,Lithuaniansk,Lithuaniansk,Lithuaniansk,4,1,3,0
+Load,Laad,Laad,Laad,Laad,4,1,3,0
+Location,Doel,Doel,Doel,Doel,4,1,3,0
+Lock:,,,Slot:,,1,1,0,0
+Longitude,Lingtegraad,Lingtegraad,Lingtegraad,Lingtegraad,4,1,3,0
+MORE,,,MEER,,1,1,0,0
+Main menu,Haad menu,Haad menu,Haad menu,Haad menu,4,1,3,0
+Make this mark an 'in' point,Markeer dit as in 'yn' punt,Markeer dit as in 'yn' punt,Markeer dit as in 'yn' punt,Markeer dit as in 'yn' punt,4,1,3,0
+Make this mark an 'out' point,Markeer dit as in 'út' punt,Markeer dit as in 'út' punt,Markeer dit as in 'út' punt,Markeer dit as in 'út' punt,4,1,3,0
+Make this mark just a mark,Meitsje dit in gewoan markeer punt,Meitsje dit in gewoan markeer punt,Meitsje dit in gewoan markeer punt,Meitsje dit in gewoan markeer punt,4,1,3,0
+Manual Scan,Hanmatig sykje,Hanmatig sykje,Hanmatig sykje,Hanmatig sykje,4,1,3,0
+Manual transponder,Hanmatige transponder,Hanmatige transponder,Hanmatige transponder,Hanmatige transponder,4,1,3,0
+Media player,Media Spieler,Media Spieler,Media Spieler,Media Spieler,4,1,3,0
+Medium is not a writeable DVD!,Medium is net in skriuwbêre DVD!,Medium is net in skriuwbêre DVD!,Medium is net in skriuwbêre DVD!,Medium is net in skriuwbêre DVD!,4,1,3,0
+Medium is not empty!,Medium is net leech!,Medium is net leech!,Medium is net leech!,Medium is net leech!,4,1,3,0
+Menu,,'','','',3,0,0,3
+Message,,,Berjocht,,1,1,0,0
+Model: ,,'','','',3,0,0,3
+Modulation,Modulaasje,Modulaasje,Modulaasje,Modulaasje,4,1,3,0
+Modulator,,'','','',3,0,0,3
+Mon,Moan,Moan,Moan,Moan,4,1,3,0
+Mon-Fri,Moan - Fre,Moan - Fre,Moan - Fre,Moan - Fre,4,1,3,0
+Monday,Moandei,Moandei,Moandei,Moandei,4,1,3,0
+Move Picture in Picture,,Ferpleats Byld yn Byld,Ferpleats Byld yn Byld,Ferpleats Byld yn Byld,3,1,2,0
+Move east,Draai nei east,Draai nei east,Draai nei east,Draai nei east,4,1,3,0
+Move west,Draai nei west,Draai nei west,Draai nei west,Draai nei west,4,1,3,0
+Movielist menu,,,Filmlyst menu,,1,1,0,0
+Multi EPG,,'','','',3,0,0,3
+Multiple service support,Kin meardere utstjoeringen oan,Kin meardere utstjoeringen oan,Kin meardere utstjoeringen oan,Kin meardere utstjoeringen oan,4,1,3,0
+Multisat,,'','','',3,0,0,3
+Mute,,,'',,1,0,0,1
+N/A,Net oanwêzig,Net oanwêzig,Net oanwêzig,Net oanwêzig,4,1,3,0
+NEXT,,,Folgende,,1,1,0,0
+NOW,,,No,,1,1,0,0
+NTSC,,'','','',3,0,0,3
+Name,Namme,Namme,Namme,Namme,4,1,3,0
+Nameserver,Nammeserver,Nammeserver,Nammeserver,Nammeserver,4,1,3,0
+Nameserver %d,Nammeserver %d,Nammeserver %d,Nammeserver %d,Nammeserver %d,4,1,3,0
+Nameserver settings,Nammeserver ynstellingen,Nammeserver ynstellingen,Nammeserver ynstellingen,Nammeserver ynstellingen,4,1,3,0
+Netmask,Netmasker,Netmasker,Netmasker,Netmasker,4,1,3,0
+Network scan,Netwurk ôfsykje,Netwurk ôfsykje,Netwurk ôfsykje,Netwurk ôfsykje,4,1,3,0
+Network setup,Netwurk ynstellingen,Netwurk ynstellingen,Netwurk ynstellingen,,3,1,2,0
+Network test,Netwurk test,Netwurk test,Netwurk test,Netwurk test,4,1,3,0
+Network test...,,,Netwurk test...,,1,1,0,0
+Network:,Netwurk:,Netwurk:,Netwurk:,Netwurk:,4,1,3,0
+New,Nij,Nij,Nij,Nij,4,1,3,0
+No,Nee,Nee,Nee,Nee,4,1,3,0
+No (supported) DVDROM found!,Gjin (ondersteunde) DVDROM fûn!,Gjin (ondersteunde) DVDROM fûn!,Gjin (ondersteunde) DVDROM fûn!,Gjin (ondersteunde) DVDROM fûn!,4,1,3,0
+No HDD found or HDD not initialized!,Gjin hurde skiif fûn of HDD net formatearre!,Gjin hurde skiif fûn of HDD net formatearre!,Gjin hurde skiif fûn of HDD net formatearre!,Gjin hurde skiif fûn of HDD net formatearre!,4,1,3,0
+No data on transponder!\n(Timeout reading PAT),Gjin data op transponder\n(tiid fan lêzen PAT),Gjin data op transponder\n(tiid fan lêzen PAT),Gjin data op transponder\n(tiid fan lêzen PAT),Gjin data op transponder\n(tiid fan lêzen PAT),4,1,3,0
+"No event info found, recording indefinitely.","Gjin barren ynfo fûn, giit foar altiid troch mei opnimmen..","Gjin barren ynfo fûn, giit foar altiid troch mei opnimmen..","Gjin barren ynfo fûn, giit foar altiid troch mei opnimmen..","Gjin barren ynfo fûn, giit foar altiid troch mei opnimmen..",4,1,3,0
+No free tuner!,Gjin tuner oer,Gjin tuner oer,Gjin tuner oer,Gjin tuner oer,4,1,3,0
+No positioner capable frontend found.,Gjin posysjesyker foarein fûn.,Gjin posysjesyker foarein fûn.,Gjin posysjesyker foarein fûn.,Gjin posysjesyker foarein fûn.,4,1,3,0
+No tags are set on these movies.,Gjin merkers oanwêzig op dizze films,Gjin merkers oanwêzig op dizze films,Gjin merkers oanwêzig op dizze films,Gjin merkers oanwêzig op dizze films,4,1,3,0
+No tuner is configured for use with a diseqc positioner!,Der is gjin tuner ynsteld foar gebrûk mei in diseqc posysje syker!,Der is gjin tuner ynsteld foar gebrûk mei in diseqc posysje syker!,Der is gjin tuner ynsteld foar gebrûk mei in diseqc posysje syker!,Der is gjin tuner ynsteld foar gebrûk mei in diseqc posysje syker!,4,1,3,0
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,Gjin tuner aktief!\nStel dizze earst yn foar jo kanalen sykje kinne.,Gjin tuner aktief!\nStel dizze earst yn foar jo kanalen sykje kinne.,Gjin tuner aktief!\nStel dizze earst yn foar jo kanalen sykje kinne.,Gjin tuner aktief!\nStel dizze earst yn foar jo kanalen sykje kinne.,4,1,3,0
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,Gjin wurkende netwurk adatpter fûn.\nSjoch nei ot in kabel oanslúten is en it netwurk goed ynsteld is.,Gjin wurkende netwurk adatpter fûn.\nSjoch nei ot in kabel oanslúten is en it netwurk goed ynsteld is.,Gjin wurkende netwurk adatpter fûn.\nSjoch nei ot in kabel oanslúten is en it netwurk goed ynsteld is.,Gjin wurkende netwurk adatpter fûn.\nSjoch nei ot in kabel oanslúten is en it netwurk goed ynsteld is.,4,1,3,0
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,Gjin wurkende triidloaze netwurk adatpter fûn.\nSjoch nei ot in WLAN adapter oanslúten is en it netwurk goed ynsteld is.,Gjin wurkende triidloaze netwurk adatpter fûn.\nSjoch nei ot in WLAN adapter oanslúten is en it netwurk goed ynsteld is.,Gjin wurkende triidloaze netwurk adatpter fûn.\nSjoch nei ot in WLAN adapter oanslúten is en it netwurk goed ynsteld is.,Gjin wurkende triidloaze netwurk adatpter fûn.\nSjoch nei ot in WLAN adapter oanslúten is en it netwurk goed ynsteld is.,4,1,3,0
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,Gjin wurkende triidloaze netwurk adatpter fûn.\nSjoch nei ot in WLAN adapter oanslúten is of skeakelje de lokale netwurk ynterface yn.,Gjin wurkende triidloaze netwurk adatpter fûn.\nSjoch nei ot in WLAN adapter oanslúten is of skeakelje de lokale netwurk ynterface yn.,Gjin wurkende triidloaze netwurk adatpter fûn.\nSjoch nei ot in WLAN adapter oanslúten is of skeakelje de lokale netwurk ynterface yn.,Gjin wurkende triidloaze netwurk adatpter fûn.\nSjoch nei ot in WLAN adapter oanslúten is of skeakelje de lokale netwurk ynterface yn.,4,1,3,0
+"No, but restart from begin","Nee, mar start fanôf it begjin","Nee, mar start fanôf it begjin","Nee, mar start fanôf it begjin",,3,1,2,0
+None,Gjin,Gjin,Gjin,Gjin,4,1,3,0
+Nonlinear,,,Net lineair,,1,1,0,0
+North,Noard,Noard,Noard,Noard,4,1,3,0
+Norwegian,Noarsk,Noarsk,Noarsk,Noarsk,4,1,3,0
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,"Neat te sykjen\nEarst de tuner ynstellingen dwaan, foar jo senders sykje kinne.","Neat te sykjen\nEarst de tuner ynstellingen dwaan, foar jo senders sykje kinne.","Neat te sykjen\nEarst de tuner ynstellingen dwaan, foar jo senders sykje kinne.","Neat te sykjen\nEarst de tuner ynstellingen dwaan, foar jo senders sykje kinne.",4,1,3,0
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,,"No, feroare it helderens nivo en set it sa heech, mar wêz seker dat jo altiid nog it ferskil sjogge tusken de twa helderste skaadnivos.Binne jo klear, druk OK",,1,1,0,0
+OK,Ok,Ok,Ok,Ok,4,1,3,0
+Off,Ut,Ut,Ut,Ut,4,1,3,0
+On,Oan,Oan,Oan,Oan,4,1,3,0
+One,Ien,Ien,Ien,Ien,4,1,3,0
+PAL,,'','','',3,0,0,3
+Package list update,Bywurkje pakketlyst  ,Bywurkje pakketlyst  ,Bywurkje pakketlyst  ,Bywurkje pakketlyst  ,4,1,3,0
+Packet management,Pakket beheer,Pakket beheer,Pakket beheer,Pakket beheer,4,1,3,0
+Parental control,Alderlik tasjoch,Alderlik tasjoch,Alderlik tasjoch,Alderlik tasjoch,4,1,3,0
+Parental control setup,Alderlik tasjoch,Alderlik tasjoch,Alderlik tasjoch,,3,1,2,0
+Pause movie at end,Film op pause by ein,Film op pause by ein,Film op pause by ein,Film op pause by ein,4,1,3,0
+Pillarbox,Pillar %s %s,Pillar %s %s,Pillar box,Pillar %s %s,4,2,2,0
+Pilot,,'','','',3,0,0,3
+Play,,Ofspylje,Ofspylje,Ofspylje,3,1,2,0
+Play recorded movies...,Opname films ôfspielje...,Opname films ôfspielje...,Opname films ôfspielje...,Opname films ôfspielje...,4,1,3,0
+Please change recording endtime,Graach eintiid fan it opnimmen feroarje.,Graach eintiid fan it opnimmen feroarje.,Graach eintiid fan it opnimmen feroarje.,,3,1,2,0
+Please choose an extension...,Kies in uitbreiding...,Kies in uitbreiding...,Kies in uitbreiding...,Kies in uitbreiding...,4,1,3,0
+Please do not change any values unless you know what you are doing!,"Feroarje gjin waarden, wannear jo net witte wat jo dogge!","Feroarje gjin waarden, wannear jo net witte wat jo dogge!","Feroarje gjin waarden, wannear jo net witte wat jo dogge!","Feroarje gjin waarden, wannear jo net witte wat jo dogge!",4,1,3,0
+Please enter a name for the new bouquet,Namme ynjefte foar it nije bouquet,Namme ynjefte foar it nije bouquet,Namme ynjefte foar it nije bouquet,Namme ynjefte foar it nije bouquet,4,1,3,0
+Please enter a name for the new marker,Namme ynjefte foar in nije markering,Namme ynjefte foar in nije markering,Namme ynjefte foar in nije markering,Namme ynjefte foar in nije markering,4,1,3,0
+Please enter a new filename,Jou in nije bestânnamme yn,Jou in nije bestânnamme yn,Jou in nije bestânnamme yn,Jou in nije bestânnamme yn,4,1,3,0
+Please enter filename (empty = use current date),Jou in triemnamme yn (leech = datum fan hjoed),Jou in triemnamme yn (leech = datum fan hjoed),Jou in triemnamme yn (leech = datum fan hjoed),Jou in triemnamme yn (leech = datum fan hjoed),4,1,3,0
+Please enter name of the new directory,Jou in namme yn foar de nije map,Jou in namme yn foar de nije map,Jou in namme yn foar de nije map,,3,1,2,0
+Please enter the correct pin code,Graach de júste pinkode yn jaan,Graach de júste pinkode yn jaan,Graach de júste pinkode yn jaan,Graach de júste pinkode yn jaan,4,1,3,0
+Please follow the instructions on the TV,Folgje de ynstruksjes op TV,Folgje de ynstruksjes op TV,Folgje de ynstruksjes op TV,Folgje de ynstruksjes op TV,4,1,3,0
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,"Tink der om dat de foarige selektearre media net oansprutsen wurde koe, en dêrom de standert map brûkt wurd.","Tink der om dat de foarige selektearre media net oansprutsen wurde koe, en dêrom de standert map brûkt wurd.","Tink der om dat de foarige selektearre media net oansprutsen wurde koe, en dêrom de standert map brûkt wurd.","Tink der om dat de foarige selektearre media net oansprutsen wurde koe, en dêrom de standert map brûkt wurd.",4,1,3,0
+Please press OK to continue.,Druk OK om fierder te gean.,Druk OK om fierder te gean.,Druk OK om fierder te gean.,Druk OK om fierder te gean.,4,1,3,0
+Please select a playlist to delete...,Selektearje in ofspiellyst om te ferwiderjen...,Selektearje in ofspiellyst om te ferwiderjen...,Selektearje in ofspiellyst om te ferwiderjen...,Selektearje in ofspiellyst om te ferwiderjen...,4,1,3,0
+Please select a playlist...,Selektearje in ofspiellyst,Selektearje in ofspiellyst,Selektearje in ofspiellyst,Selektearje in ofspiellyst,4,1,3,0
+Please select a subservice to record...,"Jou in undersender op, om op te nimmen.","Jou in undersender op, om op te nimmen.","Jou in undersender op, om op te nimmen.","Jou in undersender op, om op te nimmen.",4,1,3,0
+Please select a subservice...,Selektearje in undersender...,Selektearje in undersender...,Selektearje in undersender...,Selektearje in undersender...,4,1,3,0
+Please select tag to filter...,Selektearje diel foar it filterjen...,Selektearje diel foar it filterjen...,Selektearje diel foar it filterjen...,,3,1,2,0
+Please select the movie path...,Selektearje it paad nei de film,Selektearje it paad nei de film,Selektearje it paad nei de film,Selektearje it paad nei de film,4,1,3,0
+Please set up tuner B,ynstelle fan tuner B,ynstelle fan tuner B,ynstelle fan tuner B,ynstelle fan tuner B,4,1,3,0
+Please set up tuner C,ynstelle fan tuner C,ynstelle fan tuner C,ynstelle fan tuner C,ynstelle fan tuner C,4,1,3,0
+Please set up tuner D,ynstelle fan tuner D,ynstelle fan tuner D,ynstelle fan tuner D,ynstelle fan tuner D,4,1,3,0
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,Pylkje knoppen om BIB finster te ferskowen.\nDruk Bouquet +/- om finstergrutte te feroarjen,Pylkje knoppen om BIB finster te ferskowen.\nDruk Bouquet +/- om finstergrutte te feroarjen,Pylkje knoppen om BIB finster te ferskowen.\nDruk Bouquet +/- om finstergrutte te feroarjen,,3,1,2,0
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,Brúk de op en del toets om jo taal te kiezen. Dernei druk op OK,Brúk de op en del toets om jo taal te kiezen. Dernei druk op OK,Brúk de op en del toets om jo taal te kiezen. Dernei druk op OK,,3,1,2,0
+Please wait for activation of your network configuration...,Wachtsje op it aktief wurden fan de netwurk konfiguraasje,Wachtsje op it aktief wurden fan de netwurk konfiguraasje,Wachtsje op it aktief wurden fan de netwurk konfiguraasje,,3,1,2,0
+Please wait while we configure your network...,Wachtsje oant it netwurk ynstelt wurden is...,Wachtsje oant it netwurk ynstelt wurden is...,Wachtsje oant it netwurk ynstelt wurden is...,Wachtsje oant it netwurk ynstelt wurden is...,4,1,3,0
+Please wait while your network is restarting...,Wachtsje oant it netwurk opnei start is...,Wachtsje oant it netwurk opnei start is...,Wachtsje oant it netwurk opnei start is...,,3,1,2,0
+Please wait...,Graach eefkes wachtsje..,Graach eefkes wachtsje..,Graach eefkes wachtsje..,Graach eefkes wachtsje..,4,1,3,0
+Please wait... Loading list...,Lyst wurd laden...,Lyst wurd laden...,Lyst wurd laden...,Lyst wurd laden...,4,1,3,0
+Plugin browser,,,Ynstekker browser,,1,1,0,0
+Plugins,Ynstekkers,Ynstekkers,Ynstekkers,Ynstekkers,4,1,3,0
+Polarization,Polarisaasje,Polarisaasje,Polarisaasje,Polarisaasje,4,1,3,0
+Polish,Poolsk,Poolsk,Poolsk,Poolsk,4,1,3,0
+Port A,Poort A,Poort A,Poort A,Poort A,4,1,3,0
+Port B,Poort B,Poort B,Poort B,Poort B,4,1,3,0
+Port C,Poort C,Poort C,Poort C,Poort C,4,1,3,0
+Port D,Poort D,Poort D,Poort D,Poort D,4,1,3,0
+Portuguese,Portugeesk,Portugeesk,Portugeesk,Portugeesk,4,1,3,0
+Positioner,Rotor,Rotor,Rotor,Rotor,4,1,3,0
+Positioner setup,Rotor ynstellingen,Rotor ynstellingen,Rotor ynstellingen,Rotor ynstellingen,4,1,3,0
+Power threshold in mA,Stroom nivo yn mA,Stroom nivo yn mA,Stroom nivo yn mA,Stroom nivo yn mA,4,1,3,0
+Predefined transponder,Foarôf ynstelde transponder,Foarôf ynstelde transponder,Foarôf ynstelde transponder,Foarôf ynstelde transponder,4,1,3,0
+Preparing... Please wait,Foarbereide fan... Eefkes wachtsje,Foarbereide fan... Eefkes wachtsje,Foarbereide fan... Eefkes wachtsje,Foarbereide fan... Eefkes wachtsje,4,1,3,0
+Press OK on your remote control to continue.,Druk OK op of ôfstandsbestjinning om fierder te gean.,Druk OK op of ôfstandsbestjinning om fierder te gean.,Druk OK op of ôfstandsbestjinning om fierder te gean.,Druk OK op of ôfstandsbestjinning om fierder te gean.,4,1,3,0
+Press OK to activate the settings.,Druk Ok om ynstellingen aktief te meitsjen.,Druk Ok om ynstellingen aktief te meitsjen.,Druk Ok om ynstellingen aktief te meitsjen.,Druk Ok om ynstellingen aktief te meitsjen.,4,1,3,0
+Press OK to edit the settings.,Druk OK om dizze ynstellingen te bewurkjen,Druk OK om dizze ynstellingen te bewurkjen,Druk OK om dizze ynstellingen te bewurkjen,Druk OK om dizze ynstellingen te bewurkjen,4,1,3,0
+Press OK to scan,Druk Ok om te sykjen,Druk Ok om te sykjen,Druk Ok om te sykjen,Druk Ok om te sykjen,4,1,3,0
+Preview,Foar-oanskouwing,Foar-oanskouwing,Foar-oanskouwing,Foar-oanskouwing,4,1,3,0
+Preview menu,Foarige menu,Foarige menu,Foarige menu,Foarige menu,4,1,3,0
+Primary DNS,Eerste DNS,Eerste DNS,Eerste DNS,Eerste DNS,4,1,3,0
+Properties of current title,Eigenskippen fan dizze titel,Eigenskippen fan dizze titel,Eigenskippen fan dizze titel,Eigenskippen fan dizze titel,4,1,3,0
+Protect services,Befeilich kanalen,Befeilich kanalen,Befeilich kanalen,Befeilich kanalen,4,1,3,0
+Provider,Leveransier,Leveransier,Leveransier,Leveransier,4,1,3,0
+Providers,,'','','',3,0,0,3
+RF output,RF Ynstellingen,RF Ynstellingen,RF Ynstellingen,,3,1,2,0
+RGB,,'','','',3,0,0,3
+Radio,,,'',,1,0,0,1
+Really close without saving settings?,Slúte sunder op te slaan ?,Slúte sunder op te slaan ?,Slúte sunder op te slaan ?,Slúte sunder op te slaan ?,4,1,3,0
+Really delete done timers?,Ferwiderje diene tiidsbarren?,Ferwiderje diene tiidsbarren?,Ferwiderje diene tiidsbarren?,,3,1,2,0
+Really exit the subservices quickzap?,De undersender rapzap ôfslúte?,De undersender rapzap ôfslúte?,De undersender rapzap ôfslúte?,De undersender rapzap ôfslúte?,4,1,3,0
+Really reboot now?,Wier no kompleet opnei starte ?,Wier no kompleet opnei starte ?,Wier no kompleet opnei starte ?,Wier no kompleet opnei starte ?,4,1,3,0
+Really restart now?,Wier no nei starte ?,Wier no nei starte ?,Wier no nei starte ?,Wier no nei starte ?,4,1,3,0
+Really shutdown now?,Wier no kompleet útskeakelje ?,Wier no kompleet útskeakelje ?,Wier no kompleet útskeakelje ?,Wier no kompleet útskeakelje ?,4,1,3,0
+Reboot,kompleet nei starte,kompleet nei starte,kompleet nei starte,kompleet nei starte,4,1,3,0
+Record,Opnimme,Opnimme,Opnimme,Opnimme,4,1,3,0
+Recorded files...,,,Opnâme bestannen...,,1,1,0,0
+Recording,An it opnimmen,An it opnimmen,An it opnimmen,An it opnimmen,4,1,3,0
+Recording(s) are in progress or coming up in few seconds!,In Opnimmen is dwaande of start binnen in pear sekonden!,In Opnimmen is dwaande of start binnen in pear sekonden!,In Opnimmen is dwaande of start binnen in pear sekonden!,In Opnimmen is dwaande of start binnen in pear sekonden!,4,1,3,0
+Recordings always have priority,Opnimmen hat altiid foarrang,Opnimmen hat altiid foarrang,Opnimmen hat altiid foarrang,Opnimmen hat altiid foarrang,4,1,3,0
+Refresh rate selection.,Fernij faasje seleksje,Fernij faasje seleksje,Fernij faasje seleksje,Fernij faasje seleksje,4,1,3,0
+Remove a mark,Ferwiderje in Markeerder,Ferwiderje in Markeerder,Ferwiderje in Markeerder,Ferwiderje in Markeerder,4,1,3,0
+Remove all alternatives,,,Ferwiderje alle alternatieven,,1,1,0,0
+Remove all new found flags,,,Ferwiderje nij fûn flaggen,,1,1,0,0
+Remove currently selected title,Ferwiderje it selektearre bestan,Ferwiderje it selektearre bestan,Ferwiderje it selektearre bestan,Ferwiderje it selektearre bestan,4,1,3,0
+Remove directory,,,Map ferwiderje,,1,1,0,0
+Remove entry,,,Ferwiderje yngong,,1,1,0,0
+Remove from parental protection,,,Ferwiderje út alderlik tasjoch,,1,1,0,0
+Remove new found flag,,,Ferwiderje nij fun flagge,,1,1,0,0
+Remove plugins,Ferwiderje ynstekker,Ferwiderje ynstekker,Ferwiderje ynstekker,Ferwiderje ynstekker,4,1,3,0
+Remove selected satellite,,,Selektearre sat ferwiderje,,1,1,0,0
+Remove title,Ferwiderje de titel,Ferwiderje de titel,Ferwiderje de titel,Ferwiderje de titel,4,1,3,0
+Removing directory %s failed. (Maybe not empty.),Ferwiderje fan map %s mislearre ( miskien is der net leech ),Ferwiderje fan map %s mislearre ( miskien is der net leech ),Ferwiderje fan map %s mislearre ( miskien is der net leech ),Ferwiderje fan map %s mislearre ( miskien is der net leech ),4,1,3,0
+Rename,Omneame,Omneame,Omneame,Omneame,4,1,3,0
+Repeat playlist,,,ôfspyllyst opnei spylje,,1,1,0,0
+Repeating event currently recording... What do you want to do?,Herhelle barren an it opnimmen... Wat wolle jo dwaan ?,Herhelle barren an it opnimmen... Wat wolle jo dwaan ?,Herhelle barren an it opnimmen... Wat wolle jo dwaan ?,Herhelle barren an it opnimmen... Wat wolle jo dwaan ?,4,1,3,0
+Repeats,Herhellingen,Herhellingen,Herhellingen,Herhellingen,4,1,3,0
+Reset,,'','','',3,0,0,3
+Reset and renumerate title names,Titel nammen opnei oanmeitsje en nûmerje..,Titel nammen opnei oanmeitsje en nûmerje..,Titel nammen opnei oanmeitsje en nûmerje..,Titel nammen opnei oanmeitsje en nûmerje..,4,1,3,0
+Resolution,Skermresolusje,Skermresolusje,Skermresolusje,Skermresolusje,4,1,3,0
+Restart,Opnij starte,Opnij starte,Opnij starte,Opnij starte,4,1,3,0
+Restart GUI now?,GUI no opnij starte?,GUI no opnij starte?,GUI no opnij starte?,GUI no opnij starte?,4,1,3,0
+Restart network,Netwurk nij starte,Netwurk nij starte,Netwurk nij starte,Netwurk nij starte,4,1,3,0
+Restart test,Test nij starte,Test nij starte,Test nij starte,Test nij starte,4,1,3,0
+Restart your network connection and interfaces.\n,netwurk oanslúting en interfaces nij starte.\n,netwurk oanslúting en interfaces nij starte.\n,netwurk oanslúting en interfaces nij starte.\n,netwurk oanslúting en interfaces nij starte.\n,4,1,3,0
+Restore,Werom sette,Werom sette,Werom sette,Werom sette,4,1,3,0
+Resume from last position,Fierder gean fanôf lêste posysje,Fierder gean fanôf lêste posysje,Fierder gean fanôf lêste posysje,Fierder gean fanôf lêste posysje,4,1,3,0
+Resuming playback,Fierder gean mei ôfspieljen,Fierder gean mei ôfspieljen,Fierder gean mei ôfspieljen,Fierder gean mei ôfspieljen,4,1,3,0
+Return to movie list,Werom nei de film lyst,Werom nei de film lyst,Werom nei de film lyst,Werom nei de film lyst,4,1,3,0
+Return to previous service,Werom nei foariche service,Werom nei foariche service,Werom nei foariche service,Werom nei foariche service,4,1,3,0
+Rewind speeds,Werom spiel faasje,Werom spiel faasje,Werom spiel faasje,Werom spiel faasje,4,1,3,0
+Right,Rjochts,Rjochts,Rjochts,Rjochts,4,1,3,0
+Rotor turning speed,Rotor rotaasje faasje,Rotor rotaasje faasje,Rotor rotaasje faasje,Rotor rotaasje faasje,4,1,3,0
+Russian,Russysk,Russysk,Russysk,Russysk,4,1,3,0
+S-Video,S Video,S Video,S Video,S Video,4,1,3,0
+SNR,,,'',,1,0,0,1
+SNR:,,,'',,1,0,0,1
+Sat,Sneon,Sneon,Sneon,Sneon,4,1,3,0
+Satellite,Satellyt,Satellyt,Satellyt,Satellyt,4,1,3,0
+Satellites,Satellyten,Satellyten,Satellyten,Satellyten,4,1,3,0
+Sats,,'','','',3,0,0,3
+Saturday,Sneon,Sneon,Sneon,Sneon,4,1,3,0
+Save,Opslaan,Opslaan,Opslaan,Opslaan,4,1,3,0
+Save last directory on exit,,,Lêste map opslaan by ôfsluten,,1,1,0,0
+Save playlist on exit,,,Ofspiellyst opslaan by ôfsluten,,1,1,0,0
+Scan ,Sykje,Sykje,Sykje,Sykje,4,1,3,0
+Scan additional SR,Sykje op in oanfullende SR,Sykje op in oanfullende SR,Sykje op in oanfullende SR,Sykje op in oanfullende SR,4,1,3,0
+Scans default lamedbs sorted by satellite with a connected dish positioner,"Sykje standert lame dbs, neffens de sattelyt mei in oanslúten panne ôfsteller","Sykje standert lame dbs, neffens de sattelyt mei in oanslúten panne ôfsteller","Sykje standert lame dbs, neffens de sattelyt mei in oanslúten panne ôfsteller","Sykje standert lame dbs, neffens de sattelyt mei in oanslúten panne ôfsteller",4,1,3,0
+Search east,Sykje east,Sykje east,Sykje east,Sykje east,4,1,3,0
+Search west,Sykje west,Sykje west,Sykje west,Sykje west,4,1,3,0
+Secondary DNS,Twadde DNS,Twadde DNS,Twadde DNS,Twadde DNS,4,1,3,0
+Seek,Sykje,Sykje,Sykje,Sykje,4,1,3,0
+Select HDD,,,Kies hurde skiif,,1,1,0,0
+Select a movie,,,Kies in film,,1,1,0,0
+Select audio track,Kies lûd spoor,Kies lûd spoor,Kies lûd spoor,Kies lûd spoor,4,1,3,0
+Select channel to record from,Kies kanaal om fan op te nimmen,Kies kanaal om fan op te nimmen,Kies kanaal om fan op te nimmen,Kies kanaal om fan op te nimmen,4,1,3,0
+Select refresh rate,Kies faasje fan fernije,Kies faasje fan fernije,Kies faasje fan fernije,Kies faasje fan fernije,4,1,3,0
+Select video mode,Kies fideo moadus,Kies fideo moadus,Kies fideo moadus,Kies fideo moadus,4,1,3,0
+Send DiSEqC,Stjoer DiSEqC,Stjoer DiSEqC,Stjoer DiSEqC,Stjoer DiSEqC,4,1,3,0
+Send DiSEqC only on satellite change,Stjoer DiSEqC alline by feroarjen fan satellyt,Stjoer DiSEqC alline by feroarjen fan satellyt,Stjoer DiSEqC alline by feroarjen fan satellyt,Stjoer DiSEqC alline by feroarjen fan satellyt,4,1,3,0
+Separate titles with a main menu,,,Aparte triemen mei in haad menu,,1,1,0,0
+Sequence repeat,folch oarde herhelling,folch oarde herhelling,folch oarde herhelling,folch oarde herhelling,4,1,3,0
+Service,Kanaal ynfo,Kanaal ynfo,Kanaal ynfo,Kanaal ynfo,4,1,3,0
+Service has been added to the favourites.,Kanaal is tafoege oan favorieten.,Kanaal is tafoege oan favorieten.,Kanaal is tafoege oan favorieten.,,3,1,2,0
+Service has been added to the selected bouquet.,Kanaal is tafoege oan selektearre bouquet.,Kanaal is tafoege oan selektearre bouquet.,Kanaal is tafoege oan selektearre bouquet.,,3,1,2,0
+Service invalid!\n(Timeout reading PMT),Kanaal net jildig!\n(Tiidsoerskriding lêzen fan PMT),Kanaal net jildig!\n(Tiidsoerskriding lêzen fan PMT),Kanaal net jildig!\n(Tiidsoerskriding lêzen fan PMT),Kanaal net jildig!\n(Tiidsoerskriding lêzen fan PMT),4,1,3,0
+Service not found!\n(SID not found in PAT),Service net fûn!\n(SID net fûn yn PAT),Service net fûn!\n(SID net fûn yn PAT),Service net fûn!\n(SID net fûn yn PAT),Service net fûn!\n(SID net fûn yn PAT),4,1,3,0
+Service scan,Kanaal sykje,Kanaal sykje,Kanaal sykje,Kanaal sykje,4,1,3,0
+Service unavailable!\nCheck tuner configuration!,Kanaal net beskikber!<br> Sjoch tuner ynstellingen nei.,Kanaal net beskikber!<br> Sjoch tuner ynstellingen nei.,Kanaal net beskikber!<br> Sjoch tuner ynstellingen nei.,Kanaal net beskikber!<br> Sjoch tuner ynstellingen nei.,4,1,3,0
+Services,Kanalen,Kanalen,Kanalen,Kanalen,4,1,3,0
+Set interface as default Interface,,Set ynterface as standerd ynterface,Set ynterface as standerd ynterface,,2,1,1,0
+Settings,Ynstellingen,Ynstellingen,Ynstellingen,Ynstellingen,4,1,3,0
+Setup,Ynstelle,Ynstelle,Ynstelle,Ynstelle,4,1,3,0
+Show alternatives,,,Alternatieven sjen litte,,1,1,0,0
+Show infobar on channel change,Ynfobalke sjen litte by kanaal wiksel,Ynfobalke sjen litte by kanaal wiksel,Ynfobalke sjen litte by kanaal wiksel,Ynfobalke sjen litte by kanaal wiksel,4,1,3,0
+Show infobar on event change,Ynfobalke sjen litte by barren wiksel,Ynfobalke sjen litte by barren wiksel,Ynfobalke sjen litte by barren wiksel,Ynfobalke sjen litte by barren wiksel,4,1,3,0
+Show infobar on skip forward/backward,Ynfobalke sjen by rap foarút / efterút,Ynfobalke sjen by rap foarút / efterút,Ynfobalke sjen by rap foarút / efterút,Ynfobalke sjen by rap foarút / efterút,4,1,3,0
+Show positioner movement,Rotor beweching sjen litte,Rotor beweching sjen litte,Rotor beweching sjen litte,Rotor beweching sjen litte,4,1,3,0
+Show the radio player...,Radio spieler sjen litte...,Radio spieler sjen litte...,Radio spieler sjen litte...,Radio spieler sjen litte...,4,1,3,0
+Show the tv player...,TV Spieler sjen litte...,TV Spieler sjen litte...,TV Spieler sjen litte...,TV Spieler sjen litte...,4,1,3,0
+Show transponder info,,,Transponder ynfo sjen litte,,1,1,0,0
+Shows the state of your wireless LAN connection.\n,Status fan WLAN sjen litte.\n,Status fan WLAN sjen litte.\n,Status fan WLAN sjen litte.\n,Status fan WLAN sjen litte.\n,4,1,3,0
+Similar,Gelykese,Gelykese,Gelykese,Gelykese,4,1,3,0
+Similar broadcasts:,Gelykese utsjoeringen,Gelykese utsjoeringen,Gelykese utsjoeringen,Gelykese utsjoeringen,4,1,3,0
+Simple,Simpel,Simpel,Simpel,Simpel,4,1,3,0
+Simple titleset (compatibility for legacy players),Simpele titelset (ek geskikt foar standaard spielers),Simpele titelset (ek geskikt foar standaard spielers),Simpele titelset (ek geskikt foar standaard spielers),Simpele titelset (ek geskikt foar standaard spielers),4,1,3,0
+Single,Inkel,Inkel,Inkel,Inkel,4,1,3,0
+Single EPG,Inkele EPG,Inkele EPG,Inkele EPG,Inkele EPG,4,1,3,0
+Single satellite,Ien satellyt,Ien satellyt,Ien satellyt,Ien satellyt,4,1,3,0
+Slot %d,,'','','',3,0,0,3
+Slow,Langsaam,Langsaam,Langsaam,Langsaam,4,1,3,0
+Some plugins are not available:\n,Inkele ynstekkers binne net anwêzig:\n,Inkele ynstekkers binne net anwêzig:\n,Inkele ynstekkers binne net anwêzig:\n,Inkele ynstekkers binne net anwêzig:\n,4,1,3,0
+Sort A-Z,,,Sorteer op A-Z,,1,1,0,0
+Sound,Lûd,Lûd,Lûd,Lûd,4,1,3,0
+South,Sud,Sud,Sud,Sud,4,1,3,0
+Spanish,Spaans,Spaans,Spaans,Spaans,4,1,3,0
+Standby,Paraatmode,Paraatmode,Paraatmode,Paraatmode,4,1,3,0
+Start directory,,,Start map,,1,1,0,0
+Start from the beginning,Start fanôf it begjin,Start fanôf it begjin,Start fanôf it begjin,Start fanôf it begjin,4,1,3,0
+Start recording?,,,Start opnimmen?,,1,1,0,0
+Start test,,'','','',3,0,0,3
+Starting on,Starte op,Starte op,Starte op,Starte op,4,1,3,0
+Step east,Stap nei east,Stap nei east,Stap nei east,Stap nei east,4,1,3,0
+Step west,Stap nei west,Stap nei west,Stap nei west,Stap nei west,4,1,3,0
+Stop,,'','','',3,0,0,3
+Stop current event and disable coming events,Stopje hjoeddeiske en ankommend barren,Stopje hjoeddeiske en ankommend barren,Stopje hjoeddeiske en ankommend barren,,3,1,2,0
+Stop current event but not coming events,Stopje hjoeddeiske mar net ankommend barren,Stopje hjoeddeiske mar net ankommend barren,Stopje hjoeddeiske mar net ankommend barren,,3,1,2,0
+Stop playing this movie?,Stopje ôfspieljen fan dizze film?,Stopje ôfspieljen fan dizze film?,Stopje ôfspieljen fan dizze film?,Stopje ôfspieljen fan dizze film?,4,1,3,0
+Stop test,,'','','',3,0,0,3
+Store position,Posysje opslaan,Posysje opslaan,Posysje opslaan,Posysje opslaan,4,1,3,0
+Stored position,Opsleine posysje,Opsleine posysje,Opsleine posysje,Opsleine posysje,4,1,3,0
+Subservice list...,,,UnderSender lyst...,,1,1,0,0
+Subservices,UnderSender,UnderSender,UnderSender,UnderSender,4,1,3,0
+Subtitle selection,Undertitel seleksje,Undertitel seleksje,Undertitel seleksje,Undertitel seleksje,4,1,3,0
+Subtitles,Undertitels,Undertitels,Undertitels,Undertitels,4,1,3,0
+Sun,Sne,Sne,Sne,Sne,4,1,3,0
+Sunday,Snein,Snein,Snein,Snein,4,1,3,0
+Swedish,Zweeds,Zweeds,Zweeds,Zweeds,4,1,3,0
+Switch to bookmarks,,,Skeakelje nei boekmerkers,,1,1,0,0
+System,Systeem,Systeem,Systeem,Systeem,4,1,3,0
+TRANSLATOR_INFO,Oersetter ynfo,Oersetter ynfo,Oersetter ynfo,Oersetter ynfo,4,1,3,0
+TS file is too large for ISO9660 level 1!,TS triem is te grut foar ISO 9660 level 1!,TS triem is te grut foar ISO 9660 level 1!,TS triem is te grut foar ISO 9660 level 1!,TS triem is te grut foar ISO 9660 level 1!,4,1,3,0
+Tags,Merkers,Merkers,Merkers,Merkers,4,1,3,0
+Terrestrial,Ether,Ether,Ether,Ether,4,1,3,0
+Test mode,Test moadus,Test moadus,Test moadus,Test moadus,4,1,3,0
+The path %s already exists.,It paad %s bestiit al.,It paad %s bestiit al.,It paad %s bestiit al.,It paad %s bestiit al.,4,1,3,0
+The pin code you entered is wrong.,De ynjûne pinkode is ferkeard.,De ynjûne pinkode is ferkeard.,De ynjûne pinkode is ferkeard.,De ynjûne pinkode is ferkeard.,4,1,3,0
+The sleep timer has been activated.,,,De sliep tiid klok is aktiveert.,,1,1,0,0
+The sleep timer has been disabled.,,,De sliep tiid klok is útskeakele,,1,1,0,0
+The timer file (timers.xml) is corrupt and could not be loaded.,De tiidsbarrenlyst is korrupt en koe net laden wurde.,De tiidsbarrenlyst is korrupt en koe net laden wurde.,De tiidsbarrenlyst is korrupt en koe net laden wurde.,De tiidsbarrenlyst is korrupt en koe net laden wurde.,4,1,3,0
+The wireless LAN plugin is not installed!\nPlease install it.,De WLAN ynstekker is net ynstallearre!\nYnstallearje dizze earst.,De WLAN ynstekker is net ynstallearre!\nYnstallearje dizze earst.,De WLAN ynstekker is net ynstallearre!\nYnstallearje dizze earst.,De WLAN ynstekker is net ynstallearre!\nYnstallearje dizze earst.,4,1,3,0
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,,Blikber is der net genôch rûmte op de koazen partysje.\nWolle jo trochgean ?,,1,1,0,0
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,Dit DVD RW medium is al formattearre. Wer opnei dwaan sil alle gegevens op disk wiskje.,Dit DVD RW medium is al formattearre. Wer opnei dwaan sil alle gegevens op disk wiskje.,Dit DVD RW medium is al formattearre. Wer opnei dwaan sil alle gegevens op disk wiskje.,Dit DVD RW medium is al formattearre. Wer opnei dwaan sil alle gegevens op disk wiskje.,4,1,3,0
+Three,Trije,Trije,Trije,Trije,4,1,3,0
+Threshold,Drompel,Drompel,Drompel,Drompel,4,1,3,0
+Thu,Tong,Tong,Tong,Tong,4,1,3,0
+Thumbnails,Tumkegrutte,Tumkegrutte,Tumkegrutte,Tumkegrutte,4,1,3,0
+Thursday,Tongersdei,Tongersdei,Tongersdei,Tongersdei,4,1,3,0
+Time,Tiid,Tiid,Tiid,Tiid,4,1,3,0
+Timer,,,Tiidssjtoering,,1,1,0,0
+Timer entry,Tiidsbarren item,Tiidsbarren item,Tiidsbarren item,,3,1,2,0
+Timer log,Tiidsbarren log,Tiidsbarren log,Tiidsbarren log,,3,1,2,0
+Timer overlap in timers.xml detected!\nPlease recheck it!,Tiidstjoerings conflicten fûn yn timers.xml\nGraach nei sjen en meitsje!,Tiidstjoerings conflicten fûn yn timers.xml\nGraach nei sjen en meitsje!,Tiidstjoerings conflicten fûn yn timers.xml\nGraach nei sjen en meitsje!,Tiidstjoerings conflicten fûn yn timers.xml\nGraach nei sjen en meitsje!,4,1,3,0
+Timer sanity error,Tiidsbarren kontrole flater,Tiidsbarren kontrole flater,Tiidsbarren kontrole flater,,3,1,2,0
+Timer selection,Tiidsbarren seleksje,Tiidsbarren seleksje,Tiidsbarren seleksje,Tiidsbarren seleksje,4,1,3,0
+Timeshift,Tiidsskowen,Tiidsskowen,Tiidsskowen,Tiidsskowen,4,1,3,0
+Timeshift not possible!,Tiidsskowen is net mooglik !,Tiidsskowen is net mooglik !,Tiidsskowen is net mooglik !,Tiidsskowen is net mooglik !,4,1,3,0
+Timezone,,Tiidszone,Tiidszone,,2,1,1,0
+Title,Titel,Titel,Titel,Titel,4,1,3,0
+Title properties,Titel eigenskippen,Titel eigenskippen,Titel eigenskippen,Titel eigenskippen,4,1,3,0
+Titleset mode,Titelset moadus,Titelset moadus,Titelset moadus,Titelset moadus,4,1,3,0
+Today,Hjoed,Hjoed,Hjoed,Hjoed,4,1,3,0
+Tone mode,Toan moadus,Toan moadus,Toan moadus,Toan moadus,4,1,3,0
+Toneburst,Toan piek,Toan piek,Toan piek,Toan piek,4,1,3,0
+Toneburst A/B,,'','','',3,0,0,3
+Track,Nummer,Nummer,Nummer,Nummer,4,1,3,0
+Translation,,,Oersetting,,1,1,0,0
+Translation:,,,Oersetting:,,1,1,0,0
+Transmission mode,Oerstjoeren type,Oerstjoeren type,Oerstjoeren type,Oerstjoeren type,4,1,3,0
+Transponder,,'','','',3,0,0,3
+Tries left:,Oantal kearen besykjen oer:,Oantal kearen besykjen oer:,Oantal kearen besykjen oer:,Oantal kearen besykjen oer:,4,1,3,0
+Try to find used transponders in cable network.. please wait...,Besykje brûkte transponders te finen yn kabel netwurk.. ,Besykje brûkte transponders te finen yn kabel netwurk.. ,Besykje brûkte transponders te finen yn kabel netwurk.. ,Besykje brûkte transponders te finen yn kabel netwurk.. ,4,1,3,0
+Tue,Tiis,Tiis,Tiis,Tiis,4,1,3,0
+Tuesday,Tiisdei,Tiisdei,Tiisdei,Tiisdei,4,1,3,0
+Tune,Ofstimme,Ofstimme,Ofstimme,Ofstimme,4,1,3,0
+Tune failed!,Ofstimme mislearre !,Ofstimme mislearre !,Ofstimme mislearre !,Ofstimme mislearre !,4,1,3,0
+Tuner,,'','','',3,0,0,3
+Tuner configuration,Tuner ynstellingen,Tuner ynstellingen,Tuner ynstellingen,,3,1,2,0
+Turkish,Turks,Turks,Turks,Turks,4,1,3,0
+Two,Twa,Twa,Twa,Twa,4,1,3,0
+Type of scan,Type fan sykjen,Type fan sykjen,Type fan sykjen,Type fan sykjen,4,1,3,0
+USALS,,'','','',3,0,0,3
+Universal LNB,Unifersele LNB,Unifersele LNB,Unifersele LNB,Unifersele LNB,4,1,3,0
+Update,Bywurkje,Bywurkje,Bywurkje,Bywurkje,4,1,3,0
+Updating,,,An it bywurkjen,,1,1,0,0
+Use,Brûk,Brûk,Brûk,Brûk,4,1,3,0
+Use DHCP,DHCP brûke,DHCP brûke,DHCP brûke,DHCP brûke,4,1,3,0
+Use a gateway,In gateway brûke,In gateway brûke,In gateway brûke,In gateway brûke,4,1,3,0
+Use power measurement,Fermogensmjitting brûke,Fermogensmjitting brûke,Fermogensmjitting brûke,Fermogensmjitting brûke,4,1,3,0
+"Use the up/down keys on your remote control to select an option. After that, press OK.",Knoppen op en del brûke om in opsje te kiezen. Dêrnei druk Ok,Knoppen op en del brûke om in opsje te kiezen. Dêrnei druk Ok,Knoppen op en del brûke om in opsje te kiezen. Dêrnei druk Ok,Knoppen op en del brûke om in opsje te kiezen. Dêrnei druk Ok,4,1,3,0
+Used service scan type,Brukte type kanaal sykjen,Brukte type kanaal sykjen,Brukte type kanaal sykjen,Brukte type kanaal sykjen,4,1,3,0
+User defined,Gebruker ynstelling,Gebruker ynstelling,Gebruker ynstelling,Gebruker ynstelling,4,1,3,0
+VCR scart,,'','','',3,0,0,3
+VMGM (intro trailer),VMGM (yntro fan film),VMGM (yntro fan film),VMGM (yntro fan film),VMGM (yntro fan film),4,1,3,0
+Video mode selection.,Fideo moadus seleksje,Fideo moadus seleksje,Fideo moadus seleksje,Fideo moadus seleksje,4,1,3,0
+View Rass interactive...,Rass interaktief sjen litte,Rass interaktief sjen litte,Rass interaktief sjen litte,Rass interaktief sjen litte,4,1,3,0
+View teletext...,tiletekst toane...,tiletekst toane...,tiletekst toane...,tiletekst toane...,4,1,3,0
+Voltage mode,Spanning mode,Spanning mode,Spanning mode,Spanning mode,4,1,3,0
+Volume,,,Lûdsterkte,,1,1,0,0
+W,,'','','',3,0,0,3
+WEP,,'','','',3,0,0,3
+WPA,,'','','',3,0,0,3
+WPA or WPA2,WPA of WPA2,WPA of WPA2,WPA of WPA2,WPA of WPA2,4,1,3,0
+WPA2,,'','','',3,0,0,3
+WSS on 4:3,WSS by 4:3,WSS by 4:3,WSS by 4:3,WSS by 4:3,4,1,3,0
+Waiting,Oan it wachtsjen,Oan it wachtsjen,Oan it wachtsjen,Oan it wachtsjen,4,1,3,0
+Wed,Woa,Woa,Woa,Woa,4,1,3,0
+Wednesday,Woansdei,Woansdei,Woansdei,Woansdei,4,1,3,0
+Weekday,Wiekdei,Wiekdei,Wiekdei,Wiekdei,4,1,3,0
+Welcome...,,,Wolkom...,,1,1,0,0
+West,,'','','',3,0,0,3
+Where to save temporary timeshift recordings?,Wêr moatte it opnimmen mei tiidsferskowing opslein wurde ?,Wêr moatte it opnimmen mei tiidsferskowing opslein wurde ?,Wêr moatte it opnimmen mei tiidsferskowing opslein wurde ?,Wêr moatte it opnimmen mei tiidsferskowing opslein wurde ?,4,1,3,0
+Write error while recording. Disk full?\n,,Skriuw flater by it opnimmen. Skiif fol ?\n,Skriuw flater by it opnimmen. Skiif fol ?\n,Skriuw flater by it opnimmen. Skiif fol ?\n,3,1,2,0
+Write failed!,Skriuw flater!,Skriuw flater!,Skriuw flater!,Skriuw flater!,4,1,3,0
+YPbPr,,'','','',3,0,0,3
+Year,Jier,Jier,Jier,Jier,4,1,3,0
+Yes,Ja,Ja,Ja,Ja,4,1,3,0
+"Yes, and delete this movie","Ja, en ferwiderje dizze film","Ja, en ferwiderje dizze film","Ja, en ferwiderje dizze film","Ja, en ferwiderje dizze film",4,1,3,0
+"Yes, returning to movie list","Ja, werom nei de film lyst","Ja, werom nei de film lyst","Ja, werom nei de film lyst",,3,1,2,0
+You cannot delete this!,Jo kinne dit net ferwiderje!,Jo kinne dit net ferwiderje!,Jo kinne dit net ferwiderje!,Jo kinne dit net ferwiderje!,4,1,3,0
+You have to wait %s!,Jo moatte %s wachtsje!,Jo moatte %s wachtsje!,Jo moatte %s wachtsje!,Jo moatte %s wachtsje!,4,1,3,0
+Your network configuration has been activated.,Netwurk ynstellingen binne no aktief.,Netwurk ynstellingen binne no aktief.,Netwurk ynstellingen binne no aktief.,Netwurk ynstellingen binne no aktief.,4,1,3,0
+Zap back to service before positioner setup?,Werom zappe nei kanaal foar rotor ynstellingen?,Werom zappe nei kanaal foar rotor ynstellingen?,Werom zappe nei kanaal foar rotor ynstellingen?,Werom zappe nei kanaal foar rotor ynstellingen?,4,1,3,0
+[alternative edit],[alternatief bewurkje],[alternatief bewurkje],[alternatief bewurkje],[alternatief bewurkje],4,1,3,0
+[bouquet edit],[bouquet bewurkje],[bouquet bewurkje],[bouquet bewurkje],[bouquet bewurkje],4,1,3,0
+[favourite edit],[favorieten bewurkje],[favorieten bewurkje],[favorieten bewurkje],[favorieten bewurkje],4,1,3,0
+[move mode],[Ferpleats moadus],[Ferpleats moadus],[Ferpleats moadus],[Ferpleats moadus],4,1,3,0
+about to start,op it punt om te starten,op it punt om te starten,op it punt om te starten,op it punt om te starten,4,1,3,0
+advanced,afansjearre,afansjearre,afansjearre,afansjearre,4,1,3,0
+audio tracks,audio spoor,audio spoor,audio spoor,audio spoor,4,1,3,0
+auto,,'','','',3,0,0,3
+back,werom,werom,werom,werom,4,1,3,0
+background image,Eftergrûn ôfbylding,Eftergrûn ôfbylding,Eftergrûn ôfbylding,Eftergrûn ôfbylding,4,1,3,0
+better,,'','','',3,0,0,3
+black,swart,swart,swart,swart,4,1,3,0
+blacklist,swarte lyst,swarte lyst,swarte lyst,swarte lyst,4,1,3,0
+blue,blauw,blauw,blauw,blauw,4,1,3,0
+chapters,Haadstikken,Haadstikken,Haadstikken,Haadstikken,4,1,3,0
+circular left,circular links,circular links,circular links,circular links,4,1,3,0
+circular right,circular rjochts,circular rjochts,circular rjochts,circular rjochts,4,1,3,0
+config menu,,,konfiguraasje menu,,1,1,0,0
+confirmed,befestigt,befestigt,befestigt,befestigt,4,1,3,0
+connected,oanslúten,oanslúten,oanslúten,oanslúten,4,1,3,0
+daily,eltse dei,eltse dei,eltse dei,eltse dei,4,1,3,0
+day,dei,dei,dei,dei,4,1,3,0
+delete cut,ferwiderje stik,ferwiderje stik,ferwiderje stik,ferwiderje stik,4,1,3,0
+disable,utskeakelje,utskeakelje,utskeakelje,utskeakelje,4,1,3,0
+disabled,útskeakele,útskeakele,útskeakele,útskeakele,4,1,3,0
+disconnected,net oanslúten,net oanslúten,net oanslúten,net oanslúten,4,1,3,0
+do nothing,doch neat,doch neat,doch neat,doch neat,4,1,3,0
+done!,Klear!,Klear!,Klear!,Klear!,4,1,3,0
+empty,leeg,leeg,leeg,leeg,4,1,3,0
+enable,ynskeakelje,ynskeakelje,ynskeakelje,ynskeakelje,4,1,3,0
+enabled,ynskeakele,ynskeakele,ynskeakele,ynskeakele,4,1,3,0
+end cut here,stop stik hjirre,stop stik hjirre,stop stik hjirre,stop stik hjirre,4,1,3,0
+exit DVD player or return to file browser,DVD spieler ferlitte en werom nei triem browser,DVD spieler ferlitte en werom nei triem browser,DVD spieler ferlitte en werom nei triem browser,DVD spieler ferlitte en werom nei triem browser,4,1,3,0
+exit network adapter configuration,netwurk adapter konfiguraasje ferlitte,netwurk adapter konfiguraasje ferlitte,netwurk adapter konfiguraasje ferlitte,,3,1,2,0
+exit networkadapter setup menu,netwurkadapter ynstellingen menu ferlitte,netwurkadapter ynstellingen menu ferlitte,netwurkadapter ynstellingen menu ferlitte,,3,1,2,0
+"fileformats (BMP, PNG, JPG, GIF)","triemformaat (BMP, PNG, JPG, GIF)","triemformaat (BMP, PNG, JPG, GIF)","triemformaat (BMP, PNG, JPG, GIF)","triemformaat (BMP, PNG, JPG, GIF)",4,1,3,0
+filename,triemnamme,triemnamme,triemnamme,triemnamme,4,1,3,0
+forward to the next chapter,foarút nei it folgende haadstik,foarút nei it folgende haadstik,foarút nei it folgende haadstik,foarút nei it folgende haadstik,4,1,3,0
+free,frij,frij,frij,frij,4,1,3,0
+go to deep standby,gean nei djip paraatstand,gean nei djip paraatstand,gean nei djip paraatstand,gean nei djip paraatstand,4,1,3,0
+go to standby,gean nei paraatstand,gean nei paraatstand,gean nei paraatstand,gean nei paraatstand,4,1,3,0
+green,grien,grien,grien,grien,4,1,3,0
+help...,,,'',,1,0,0,1
+horizontal,,'','','',3,0,0,3
+init module,CI-Module initialisearje,CI-Module initialisearje,CI-Module initialisearje,CI-Module initialisearje,4,1,3,0
+insert mark here,tuskenfoegje marker,tuskenfoegje marker,tuskenfoegje marker,tuskenfoegje marker,4,1,3,0
+jump back to the previous title,werom nei de foarige titel,werom nei de foarige titel,werom nei de foarige titel,werom nei de foarige titel,4,1,3,0
+jump forward to the next title,foarút nei de folgende titel,foarút nei de folgende titel,foarút nei de folgende titel,foarút nei de folgende titel,4,1,3,0
+leave movie player...,film ôfspieljen ferlitte...,film ôfspieljen ferlitte...,film ôfspieljen ferlitte...,,3,1,2,0
+left,links,links,links,links,4,1,3,0
+length,lengte,lengte,lengte,lengte,4,1,3,0
+list style compact,,,lyst styl kompakt,,1,1,0,0
+list style compact with description,,,lyst styl kompakt mei beskriuwing,,1,1,0,0
+list style default,,,lyst styl standert,,1,1,0,0
+list style single line,,,lyst styl ien rigele,,1,1,0,0
+locked,op slot,op slot,op slot,op slot,4,1,3,0
+manual,hânmatig,hânmatig,hânmatig,hânmatig,4,1,3,0
+menu,,'','','',3,0,0,3
+mins,min,min,min,min,4,1,3,0
+minutes,minuten,minuten,minuten,minuten,4,1,3,0
+month,maand,maand,maand,maand,4,1,3,0
+move down to last entry,Nei it lêste menu item gean,Nei it lêste menu item gean,Nei it lêste menu item gean,,3,1,2,0
+move down to next entry,Nei it folgende menu item gean,Nei it folgende menu item gean,Nei it folgende menu item gean,,3,1,2,0
+move up to first entry,Neit it earste menu item gean,Neit it earste menu item gean,Neit it earste menu item gean,,3,1,2,0
+move up to previous entry,Nei it foarige menu item ,Nei it foarige menu item ,Nei it foarige menu item ,,3,1,2,0
+multinorm,,'','','',3,0,0,3
+never,nea,nea,nea,nea,4,1,3,0
+no,nee,nee,nee,nee,4,1,3,0
+no module found,gjin CI-Module fûn,gjin CI-Module fûn,gjin CI-Module fûn,gjin CI-Module fûn,4,1,3,0
+none,gjin,gjin,gjin,gjin,4,1,3,0
+not locked,net op slot,net op slot,net op slot,net op slot,4,1,3,0
+nothing connected,neat anslúten,neat anslúten,neat anslúten,neat anslúten,4,1,3,0
+of a DUAL layer medium used.,fan in DUAL layer medium brûkt,fan in DUAL layer medium brûkt,fan in DUAL layer medium brûkt,fan in DUAL layer medium brûkt,4,1,3,0
+of a SINGLE layer medium used.,fan in SINGLE layer medium brûkt,fan in SINGLE layer medium brûkt,fan in SINGLE layer medium brûkt,fan in SINGLE layer medium brûkt,4,1,3,0
+off,uit,uit,uit,uit,4,1,3,0
+on,oan,oan,oan,oan,4,1,3,0
+on READ ONLY medium.,fan in ALLINNE-LEZE medium,fan in ALLINNE-LEZE medium,fan in ALLINNE-LEZE medium,fan in ALLINNE-LEZE medium,4,1,3,0
+once,ienmalig,ienmalig,ienmalig,ienmalig,4,1,3,0
+open nameserver configuration,,Iepenje nammeserver konfiguraasje,Iepenje nammeserver konfiguraasje,,2,1,1,0
+pass,trochgean,trochgean,trochgean,trochgean,4,1,3,0
+please press OK when ready,druk Ok wanneer klear,druk Ok wanneer klear,druk Ok wanneer klear,,3,1,2,0
+"please wait, loading picture...",plaatsje wurd laden...,plaatsje wurd laden...,plaatsje wurd laden...,plaatsje wurd laden...,4,1,3,0
+record,opnimme,opnimme,opnimme,opnimme,4,1,3,0
+recording...,an it opnimmen...,an it opnimmen...,an it opnimmen...,an it opnimmen...,4,1,3,0
+red,read,read,read,read,4,1,3,0
+remove after this position,nei dizze posysje alles ferwiderje,nei dizze posysje alles ferwiderje,nei dizze posysje alles ferwiderje,nei dizze posysje alles ferwiderje,4,1,3,0
+remove before this position,foar dizze posysje alles ferwiderje,foar dizze posysje alles ferwiderje,foar dizze posysje alles ferwiderje,foar dizze posysje alles ferwiderje,4,1,3,0
+remove this mark,ferwiderje punt,ferwiderje punt,ferwiderje punt,ferwiderje punt,4,1,3,0
+repeated,herhelle,herhelle,herhelle,herhelle,4,1,3,0
+rewind to the previous chapter,werom spile nei it foarige haadstik,werom spile nei it foarige haadstik,werom spile nei it foarige haadstik,werom spile nei it foarige haadstik,4,1,3,0
+right,rjochts,rjochts,rjochts,rjochts,4,1,3,0
+scan state,sykjen status,sykjen status,sykjen status,sykjen status,4,1,3,0
+seconds,seconden,seconden,seconden,seconden,4,1,3,0
+select menu entry,Kies menu item,Kies menu item,Kies menu item,,3,1,2,0
+show DVD main menu,DVD haadmenu sjen litte,DVD haadmenu sjen litte,DVD haadmenu sjen litte,DVD haadmenu sjen litte,4,1,3,0
+show event details,EPG details sjen litte,EPG details sjen litte,EPG details sjen litte,EPG details sjen litte,4,1,3,0
+simple,simpel,simpel,simpel,simpel,4,1,3,0
+skip backward,efterút oerslaan,efterút oerslaan,efterút oerslaan,efterút oerslaan,4,1,3,0
+skip forward,foarút oerslaan,foarút oerslaan,foarút oerslaan,foarút oerslaan,4,1,3,0
+standard,standert,standert,standert,,3,1,2,0
+start cut here,start stik hjirre,start stik hjirre,start stik hjirre,start stik hjirre,4,1,3,0
+stereo,,'','','',3,0,0,3
+switch to the next audio track,skeakelje nei it folgende lûd spoor,skeakelje nei it folgende lûd spoor,skeakelje nei it folgende lûd spoor,skeakelje nei it folgende lûd spoor,4,1,3,0
+switch to the next subtitle language,skeakelje nei de folgende undertiteling taal,skeakelje nei de folgende undertiteling taal,skeakelje nei de folgende undertiteling taal,skeakelje nei de folgende undertiteling taal,4,1,3,0
+template file,sjabloon triem,sjabloon triem,sjabloon triem,sjabloon triem,4,1,3,0
+this recording,dit opnimmen,dit opnimmen,dit opnimmen,dit opnimmen,4,1,3,0
+this service is protected by a parental control pin,dit kanaal is net beskikber troch it alderlik tasjoch.,dit kanaal is net beskikber troch it alderlik tasjoch.,dit kanaal is net beskikber troch it alderlik tasjoch.,dit kanaal is net beskikber troch it alderlik tasjoch.,4,1,3,0
+"toggle time, chapter, audio, subtitle info","tiid, haadstik, lûd en undertiteling ynfo omskeakelje","tiid, haadstik, lûd en undertiteling ynfo omskeakelje","tiid, haadstik, lûd en undertiteling ynfo omskeakelje","tiid, haadstik, lûd en undertiteling ynfo omskeakelje",4,1,3,0
+unconfirmed,net befestigt,net befestigt,net befestigt,net befestigt,4,1,3,0
+unknown service,unbeneame kanaal,unbeneame kanaal,unbeneame kanaal,unbeneame kanaal,4,1,3,0
+user defined,brûkers ynstelling,brûkers ynstelling,brûkers ynstelling,brûkers ynstelling,4,1,3,0
+vertical,ferticaal,ferticaal,ferticaal,ferticaal,4,1,3,0
+wait for ci...,,wachtsje op ci...,wachtsje op ci...,wachtsje op ci...,3,1,2,0
+wait for mmi...,wachtsje op mmi,wachtsje op mmi,wachtsje op mmi,wachtsje op mmi,4,1,3,0
+waiting,oan it wachtsjen,oan it wachtsjen,oan it wachtsjen,oan it wachtsjen,4,1,3,0
+weekly,wikeliks,wikeliks,wikeliks,wikeliks,4,1,3,0
+yellow,giel,giel,giel,giel,4,1,3,0
+yes,ja,ja,ja,ja,4,1,3,0
+yes (keep feeds),ja (feeds hâlde),ja (feeds hâlde),ja (feeds hâlde),ja (feeds hâlde),4,1,3,0
+zap,knip,knip,knip,knip,4,1,3,0
+zapped,knipt,knipt,knipt,knipt,4,1,3,0
+%d jobs are running in the background!,,%d processen rinne op 'e eftergrûn,,%d processen rinne op 'e eftergrûn,2,1,1,0
+A recording is currently running. Please stop the recording before trying to configure the positioner.,Opnimmen is dwaande. Stopje it opnimmen earst foar jo de rotor-ynstellingen wizigje.,Opnimmen is dwaande. Stopje it opnimmen earst foar jo de rotor-ynstellingen wizigje.,,,2,1,1,0
+A recording is currently running. Please stop the recording before trying to start the satfinder.,"Opnimmen is dwaande. Stopje it opnimmen earst, foar jo de satfyner brûke.","Opnimmen is dwaande. Stopje it opnimmen earst, foar jo de satfyner brûke.",,,2,1,1,0
+AA,,'',,,1,0,0,1
+AB,,'',,,1,0,0,1
+About...,Oer....,Oer....,,,2,1,1,0
+Automatic Scan,Automatysk sykjen,Automatysk sykjen,,Automatysk sykjen,3,1,2,0
+BA,,'',,,1,0,0,1
+BB,,'',,,1,0,0,1
+Behavior of 'pause' when paused,Gedrach fan 'pause' yn pause mode,Gedrach fan 'pause' yn pause mode,,Gedrach fan 'pause' yn pause mode,3,1,2,0
+Behavior of 0 key in PiP-mode,Gedrach fan 0 toets yn PiP mode,Gedrach fan 0 toets yn PiP mode,,Gedrach fan 0 toets yn PiP mode,3,1,2,0
+Change pin code,Feroarje pinkode,Feroarje pinkode,,,2,1,1,0
+Coderate HP,Kode faasje HP,Kode faasje HP,,,2,1,1,0
+Coderate LP,Kode faasje LP,Kode faasje LP,,,2,1,1,0
+Committed DiSEqC command,,Oanwizen DiSEqC kommando,,,1,1,0,0
+Conflicting timer,Tiidsbarren konflikt,Tiidsbarren konflikt,,Tiidsbarren konflikt,3,1,2,0
+Constellation,Himmel,Himmel,,,2,1,1,0
+Current version:,Hjoeddeiske ferzje :,Hjoeddeiske ferzje :,,Hjoeddeiske ferzje :,3,1,2,0
+Deep Standby,Sliip stand,Sliip stand,,Sliip stand,3,1,2,0
+DiSEqC repeats,,DiSEqC herhellingen,,,1,1,0,0
+Do you really want to check the filesystem?\nThis could take a long time!,Wolle jo echt it bestânsysteem neisjen ?<br> Dit kin lang duorje !,Wolle jo echt it bestânsysteem neisjen ?<br> Dit kin lang duorje !,,Wolle jo echt it bestânsysteem neisjen ?<br> Dit kin lang duorje !,3,1,2,0
+"Do you really want to download the plugin \""%s\""?","Wolle jo wier de plugin \""%s\"" binnenhelje ?","Wolle jo wier de plugin \""%s\"" binnenhelje ?",,"Wolle jo wier de plugin \""%s\"" binnenhelje ?",3,1,2,0
+"Do you really want to remove the plugin \""%s\""?","Wolle jo wier de plugin \""%s\"" ferwiderje ?","Wolle jo wier de plugin \""%s\"" ferwiderje ?",,"Wolle jo wier de plugin \""%s\"" ferwiderje ?",3,1,2,0
+Do you want to do a service scan?,Wolle jo no nei kanalen sykje ?,Wolle jo no nei kanalen sykje ?,,Wolle jo no nei kanalen sykje ?,3,1,2,0
+Do you want to do another manual service scan?,Wolle jo opnei mei de hân sykje ?,Wolle jo opnei mei de hân sykje ?,,Wolle jo opnei mei de hân sykje ?,3,1,2,0
+Download,Binnenhelje,Binnenhelje,,,2,1,1,0
+Edit services list,,Wyzigje kanaallyst,,,1,1,0,0
+Enable parental control,,Alderlik tasjoch ynskeakelje,,,1,1,0,0
+Error executing plugin,Flater by útfieren fan ynstekker,Flater by útfieren fan ynstekker,,Flater by útfieren fan ynstekker,3,1,2,0
+Extended Networksetup Plugin...,Utwreide Netwurkynstellingen Ynstekker...,Utwreide Netwurkynstellingen Ynstekker...,,Utwreide Netwurkynstellingen Ynstekker...,3,1,2,0
+Extended Setup...,Utwreide Ynstellingen...,Utwreide Ynstellingen...,,Utwreide Ynstellingen...,3,1,2,0
+Flash,,'',,,1,0,0,1
+Flashing failed,Flashen misljearre,Flashen misljearre,,,2,1,1,0
+Frontprocessor version: %d,,Foarprocessor ferzje: %d,,,1,1,0,0
+Intermediate,Yntermediate,Yntermediate,,Yntermediate,3,1,2,0
+Job View,Opdracht oansjoch,Opdracht oansjoch,,Opdracht oansjoch,3,1,2,0
+Mainmenu,HaadMenu,HaadMenu,,HaadMenu,3,1,2,0
+NFI image flashing completed. Press Yellow to Reboot!,NFI image flashen is klear. Druk giel om nei te starten!,NFI image flashen is klear. Druk giel om nei te starten!,,,2,1,1,0
+Network Setup,Netwurk Ynstellingen,Netwurk Ynstellingen,,Netwurk Ynstellingen,3,1,2,0
+New version:,Nije ferzje:,Nije ferzje:,,Nije ferzje:,3,1,2,0
+No backup needed,Gjin backup nedich,Gjin backup nedich,,Gjin backup nedich,3,1,2,0
+No details for this image file,Gjin details beskikber foar dit image triem,Gjin details beskikber foar dit image triem,,,2,1,1,0
+No valid service PIN found!\nDo you like to change the service PIN now?\nWhen you say 'No' here the service protection stay disabled!,,Gjin jildige service PIN fûn !\nWolle jo dizze no ynstelle ?\nBy 'nee' wurd de service befeiliging útskeakele !,,,1,1,0,0
+No valid setup PIN found!\nDo you like to change the setup PIN now?\nWhen you say 'No' here the setup protection stay disabled!,,Gjin jildige ynstellingen PIN fûn !\nWolle jo dizze no ynstelle ?\nBy 'nee' wurd de ynstellingen befeiliging útskeakele !,,,1,1,0,0
+"No, do nothing.","Nee, doch neat..","Nee, doch neat..",,"Nee, doch neat..",3,1,2,0
+"No, just start my %s %s","Nee, allinne myn %s %s starte","Nee, allinne myn %s %s starte",,"Nee, allinne myn %s %s starte",3,1,2,0
+"No, scan later manually","Nee, letter mei de hân sykje","Nee, letter mei de hân sykje",,"Nee, letter mei de hân sykje",3,1,2,0
+"OK, guide me through the upgrade process","Ok, rin troch it bywurkjen proces","Ok, rin troch it bywurkjen proces",,"Ok, rin troch it bywurkjen proces",3,1,2,0
+PIDs,,'',,,1,0,0,1
+Parental control type,,Alderlik tasjoch type,,,1,1,0,0
+Play Audio-CD...,,Ofspylje fan Audio-CD...,,Ofspylje fan Audio-CD...,2,1,1,0
+Please check your network settings!,Graach netwurk ynstellingen neisjen!,Graach netwurk ynstellingen neisjen!,,,2,1,1,0
+Press OK to start the scan,Druk Ok om sykjen te starten,Druk Ok om sykjen te starten,,,2,1,1,0
+Protect setup,,Ynstellingen befeiligje,,,1,1,0,0
+Provider to scan,,Utstjoerder ôfsykje,,,1,1,0,0
+Satfinder,Sat  syker,Sat  syker,,,2,1,1,0
+Seperate titles with a main menu,Aparte triemen mei in haad menu,Aparte triemen mei in haad menu,,Aparte triemen mei in haad menu,3,1,2,0
+Show services beginning with,,Kanalen sjen litte beginnent mei,,,1,1,0,0
+Single transponder,,Ien transponder,,,1,1,0,0
+Standby / Restart,Paraatmode / Nijstart,Paraatmode / Nijstart,,,2,1,1,0
+Terrestrial provider,,Ether útstjoerder,,,1,1,0,0
+The backup failed. Please choose a different backup location.,Backup is mislearre. Kies in oare backup lokaasje.,Backup is mislearre. Kies in oare backup lokaasje.,,Backup is mislearre. Kies in oare backup lokaasje.,3,1,2,0
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,It folgende apparaat wie fûn:\n\n%s\n\nWolle jo de USB flasher nei dizze stick skriuwe ?,It folgende apparaat wie fûn:\n\n%s\n\nWolle jo de USB flasher nei dizze stick skriuwe ?,,,2,1,1,0
+The wizard can backup your current settings. Do you want to do a backup now?,De gucheler kin jo ynstellingen efterút sette. Wolle jo no een backup meitsje ?,De gucheler kin jo ynstellingen efterút sette. Wolle jo no een backup meitsje ?,,De gucheler kin jo ynstellingen efterút sette. Wolle jo no een backup meitsje ?,3,1,2,0
+The wizard is finished now.,De gucheler is klear.,De gucheler is klear.,,De gucheler is klear.,3,1,2,0
+There might not be enough space on the selected partition..\nDo you really want to continue?,Blikber is der net genôch rûmte op de koazen partysje.\nWolle jo trochgean ?,Blikber is der net genôch rûmte op de koazen partysje.\nWolle jo trochgean ?,,Blikber is der net genôch rûmte op de koazen partysje.\nWolle jo trochgean ?,3,1,2,0
+Tuner status,,'',,,1,0,0,1
+USB stick wizard,USB stick gûcheler,USB stick gûcheler,,,2,1,1,0
+Uncommitted DiSEqC command,,Net oanwizen DiSEqC kommando,,,1,1,0,0
+Upgrading,An it bywurkjen,An it bywurkjen,,An it bywurkjen,3,1,2,0
+What do you want to scan?,Wat wolle jo ôfsykje ?,Wat wolle jo ôfsykje ?,,Wat wolle jo ôfsykje ?,3,1,2,0
+Where do you want to backup your settings?,Wêr wolle jo de gegevens opslaan?,Wêr wolle jo de gegevens opslaan?,,Wêr wolle jo de gegevens opslaan?,3,1,2,0
+"Yes, backup my settings!","Ja, myn ynstellingen extra bewarje","Ja, myn ynstellingen extra bewarje",,"Ja, myn ynstellingen extra bewarje",3,1,2,0
+"Yes, do a manual scan now","Ja, no hânmatig sykje","Ja, no hânmatig sykje",,"Ja, no hânmatig sykje",3,1,2,0
+"Yes, do an automatic scan now","Ja, no automatysk sykje","Ja, no automatysk sykje",,"Ja, no automatysk sykje",3,1,2,0
+"Yes, do another manual scan now","Ja, no nochris hânmatig sykje","Ja, no nochris hânmatig sykje",,"Ja, no nochris hânmatig sykje",3,1,2,0
+"Yes, restore the settings now","Ja, no de ynstellingen werom sette","Ja, no de ynstellingen werom sette",,"Ja, no de ynstellingen werom sette",3,1,2,0
+"Yes, shut down now.","Ja, no útskeakelje","Ja, no útskeakelje",,"Ja, no útskeakelje",3,1,2,0
+You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased.,Jo hawwe koazen in neie .NFI opstart USB stick te meitsjen. Dit sil de USB opnei partitionearje en sa sil alle data ferlên gean.,Jo hawwe koazen in neie .NFI opstart USB stick te meitsjen. Dit sil de USB opnei partitionearje en sa sil alle data ferlên gean.,,,2,1,1,0
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.hdfreaks.cc.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,"De moat in PC oan de %s %s ansluten weze. Foar mear ynstruktiessjoch op de webside http://www.hdfreaks.cc.\nJo %s %s sil no stopje. Nei it bywurkjen neffens de webside, de neie software sil jo freegje om de oarspronkelike ynstellingen werom te setten.",,,1,1,0,0
+Your %s %s is shutting down. Please wait...,Jo %s %s wurd no ôfsluten. Eefkes wachtsje...,Jo %s %s wurd no ôfsluten. Eefkes wachtsje...,,Jo %s %s wurd no ôfsluten. Eefkes wachtsje...,3,1,2,0
+Your backup succeeded. We will now continue to explain the further upgrade process.,It extra bewarjen is slagge. Wy gjinne jo fierder mei utlizzen fan it bywurk proces.,It extra bewarjen is slagge. Wy gjinne jo fierder mei utlizzen fan it bywurk proces.,,It extra bewarjen is slagge. Wy gjinne jo fierder mei utlizzen fan it bywurk proces.,3,1,2,0
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,Jo foarprocessor software moat bywurke wurde\nDruk Ok om te begjinnen.,Jo foarprocessor software moat bywurke wurde\nDruk Ok om te begjinnen.,,Jo foarprocessor software moat bywurke wurde\nDruk Ok om te begjinnen.,3,1,2,0
+abort alternatives edit,alternatieven bewurkjen ôfbrekke,alternatieven bewurkjen ôfbrekke,,,2,1,1,0
+abort bouquet edit,boeket bewurkjen ôfbrekke,boeket bewurkjen ôfbrekke,,,2,1,1,0
+abort favourites edit,favoriet bewurkje ôfbrekke,favoriet bewurkje ôfbrekke,,,2,1,1,0
+add alternatives,alernatief tafoegje,alernatief tafoegje,,,2,1,1,0
+add bookmark,boekmerk tafoegje,boekmerk tafoegje,,boekmerk tafoegje,3,1,2,0
+add bouquet,boeket tafoegje,boeket tafoegje,,,2,1,1,0
+add marker,marker tafoegje,marker tafoegje,,,2,1,1,0
+add service to bouquet,kanaal tafoegje oan bouquet,kanaal tafoegje oan bouquet,,,2,1,1,0
+add service to favourites,kanaal tafoegje oan favorieten,kanaal tafoegje oan favorieten,,,2,1,1,0
+add to parental protection,âlderlik tasjoch tafoegje ,âlderlik tasjoch tafoegje ,,,2,1,1,0
+complex,,'',,,1,0,0,1
+continue,gjea fierder,gjea fierder,,,2,1,1,0
+copy to bouquets,kopieer nei boeketten,kopieer nei boeketten,,,2,1,1,0
+create directory,map meitsje,map meitsje,,map meitsje,3,1,2,0
+disable move mode,ferpleats modus útskeakelje,ferpleats modus útskeakelje,,,2,1,1,0
+edit alternatives,bewurkje alternatief,bewurkje alternatief,,,2,1,1,0
+enable bouquet edit,bewurkjen boeket oan,bewurkjen boeket oan,,,2,1,1,0
+enable favourite edit,bewurkjen favorieten oan,bewurkjen favorieten oan,,,2,1,1,0
+enable move mode,ferpleatsen mode oan,ferpleatsen mode oan,,,2,1,1,0
+end alternatives edit,bewurkjen alternatief út,bewurkjen alternatief út,,,2,1,1,0
+end bouquet edit,bewurkjen boeket út,bewurkjen boeket út,,,2,1,1,0
+end favourites edit,bewurkjen favoriet út,bewurkjen favoriet út,,,2,1,1,0
+equal to,gelyk oan,gelyk oan,,,2,1,1,0
+fine-tune your display,,it skerm fyn tune,,,1,1,0,0
+free diskspace,freie skiif rûmte,freie skiif rûmte,,freie skiif rûmte,3,1,2,0
+loopthrough to,trochskeakele nei,trochskeakele nei,,,2,1,1,0
+remove all alternatives,ferwiderje alle alternatieven,ferwiderje alle alternatieven,,,2,1,1,0
+remove all new found flags,ferwiderje nij fûn flaggen,ferwiderje nij fûn flaggen,,,2,1,1,0
+remove bookmark,boekmerk ferwiderje,boekmerk ferwiderje,,boekmerk ferwiderje,3,1,2,0
+remove directory,map ferwiderje,map ferwiderje,,map ferwiderje,3,1,2,0
+remove entry,ferwiderje yngong,ferwiderje yngong,,,2,1,1,0
+remove from parental protection,ferwiderje út alderlik tasjoch,ferwiderje út alderlik tasjoch,,,2,1,1,0
+remove new found flag,ferwiderje nij fun flagge,ferwiderje nij fun flagge,,,2,1,1,0
+remove selected satellite,selektearre sat ferwiderje,selektearre sat ferwiderje,,,2,1,1,0
+repeat playlist,ôfspyllyst opnei spylje,ôfspyllyst opnei spylje,,ôfspyllyst opnei spylje,3,1,2,0
+save last directory on exit,Lêste map opslaan by ôfsluten,Lêste map opslaan by ôfsluten,,Lêste map opslaan by ôfsluten,3,1,2,0
+save playlist on exit,Ofspiellyst opslaan by ôfsluten,Ofspiellyst opslaan by ôfsluten,,Ofspiellyst opslaan by ôfsluten,3,1,2,0
+second cable of motorized LNB,twadde kabel fan LNB-motor,twadde kabel fan LNB-motor,,,2,1,1,0
+select,kies,kies,,kies,3,1,2,0
+show alternatives,alternatieven sjen litte,alternatieven sjen litte,,,2,1,1,0
+show transponder info,transponder ynfo sjen litte,transponder ynfo sjen litte,,,2,1,1,0
+skip backward (enter time),efterút oerslaan (tiid ynjaan),efterút oerslaan (tiid ynjaan),,efterút oerslaan (tiid ynjaan),3,1,2,0
+skip forward (enter time),foarút oerslaan (tiid ynjaan),foarút oerslaan (tiid ynjaan),,foarút oerslaan (tiid ynjaan),3,1,2,0
+start directory,start map,start map,,start map,3,1,2,0
+switch to bookmarks,skeakelje nei boekmerkers,skeakelje nei boekmerkers,,skeakelje nei boekmerkers,3,1,2,0
+switch to filelist,skeakelje nei triemlyst,skeakelje nei triemlyst,,skeakelje nei triemlyst,3,1,2,0
+view extensions...,lit útbreidingen sjen...,lit útbreidingen sjen...,,,2,1,1,0
+whitelist,,wyte lyst,,,1,1,0,0
+KA-SAT,,,,KA-SAT (9°E),1,1,0,0
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.dm7025.de.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,,,"De moat in PC oan de %s %s ansluten weze. Foar mear ynstruktiessjoch op de webside http://www.dm7025.de.\nJo %s %s sil no stopje. Nei it bywurkjen neffens de webside, de neie software sil jo freegje om de oarspronkelike ynstellingen werom te setten.",1,1,0,0

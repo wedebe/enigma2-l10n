@@ -1,0 +1,1058 @@
+msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+"\nAfter pressing OK, please wait!","\n!אחרי לחיצה על אשר,נא המתן","\n!אחרי לחיצה על אשר,נא המתן","\n!אחרי לחיצה על אשר,נא המתן","\n!אחרי לחיצה על אשר,נא המתן",4,1,3,0
+\nPress OK on your remote control to continue.,\nלחץ אשר על השלט בכדי להמשיך,\nלחץ אשר על השלט בכדי להמשיך,\nלחץ אשר על השלט בכדי להמשיך,\nלחץ אשר על השלט בכדי להמשיך,4,1,3,0
+ extensions.,,,תוספות,,1,1,0,0
+ ms,,,ms,,1,1,0,0
+ packages selected.,,,חבילות נבחרו,,1,1,0,0
+ updates available.,,,עדכונים זמינים,,1,1,0,0
+%H:%M,,'','','',3,0,0,3
+%d min,דקות %d,דקות %d,דקות %d,דקות %d,4,1,3,0
+%d.%B %Y,,'','',,2,0,0,2
+%s (%s)\n,,'','','',3,0,0,3
+(ZAP),,(זיפזופ),(זיפזופ),(זיפזופ),3,1,2,0
+(empty),(ריק),(ריק),(ריק),(ריק),4,1,3,0
+(show optional DVD audio menu),(הצג תפריטי קול אפשריים לדי וי די),(הצג תפריטי קול אפשריים לדי וי די),(הצג תפריטי קול אפשריים לדי וי די),(הצג תפריטי קול אפשריים לדי וי די),4,1,3,0
+* Only available if more than one interface is active.,אפשרי רק מעל לממשק אחד פעיל *,אפשרי רק מעל לממשק אחד פעיל *,אפשרי רק מעל לממשק אחד פעיל *,אפשרי רק מעל לממשק אחד פעיל *,4,1,3,0
+0,,,'',,1,0,0,1
+1,,,'',,1,0,0,1
+1.0,,'','','',3,0,0,3
+1.1,,'','','',3,0,0,3
+1.2,,'','','',3,0,0,3
+12V output,,'','','',3,0,0,3
+13 V,,'','','',3,0,0,3
+16:10,,'','','',3,0,0,3
+16:10 Letterbox,,'','','',3,0,0,3
+16:10 PanScan,,'','','',3,0,0,3
+16:9,,'','','',3,0,0,3
+16:9 Letterbox,,'','','',3,0,0,3
+16:9 always,16:9 תמיד,16:9 תמיד,16:9 תמיד,16:9 תמיד,4,1,3,0
+18 V,,'','','',3,0,0,3
+2,,,'',,1,0,0,1
+3,,,'',,1,0,0,1
+4,,,'',,1,0,0,1
+4:3,,'','','',3,0,0,3
+4:3 Letterbox,,'','','',3,0,0,3
+4:3 PanScan,,'','','',3,0,0,3
+5,,,'',,1,0,0,1
+6,,,'',,1,0,0,1
+7,,,'',,1,0,0,1
+8,,,'',,1,0,0,1
+9,,,'',,1,0,0,1
+<Current movielist location>,<מיקום רשימת סרטים בפועל>,<מיקום רשימת סרטים בפועל>,<מיקום רשימת סרטים בפועל>,<מיקום רשימת סרטים בפועל>,4,1,3,0
+<Default movie location>,<מיקום רשימת סרטים ברירת מחדל>,<מיקום רשימת סרטים ברירת מחדל>,<מיקום רשימת סרטים ברירת מחדל>,<מיקום רשימת סרטים ברירת מחדל>,4,1,3,0
+<Last timer location>,<מיקום אחרון לטיימר>,<מיקום אחרון לטיימר>,<מיקום אחרון לטיימר>,<מיקום אחרון לטיימר>,4,1,3,0
+<unknown>,<לא ידוע>,<לא ידוע>,<לא ידוע>,<לא ידוע>,4,1,3,0
+??,؟؟,؟؟,؟؟,؟؟,4,1,3,0
+A,,'','','',3,0,0,3
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,עודכן מאז ההתקנה (%s) קובץ ההגדרות.\n? האם אתה מעוניין לשמור על הגירסה שלך,עודכן מאז ההתקנה (%s) קובץ ההגדרות.\n? האם אתה מעוניין לשמור על הגירסה שלך,עודכן מאז ההתקנה (%s) קובץ ההגדרות.\n? האם אתה מעוניין לשמור על הגירסה שלך,עודכן מאז ההתקנה (%s) קובץ ההגדרות.\n? האם אתה מעוניין לשמור על הגירסה שלך,4,1,3,0
+A record has been started:\n%s,,,:הקלטה התחילה\n%s,,1,1,0,0
+A recording is currently running.\nWhat do you want to do?,הקלטה כרגע פועלת \n? מה אתה מעוניין לעשות,הקלטה כרגע פועלת \n? מה אתה מעוניין לעשות,הקלטה כרגע פועלת \n? מה אתה מעוניין לעשות,,3,1,2,0
+A required tool (%s) was not found., (%s) :הכלי הבא - לא נמצא, (%s) :הכלי הבא - לא נמצא, (%s) :הכלי הבא - לא נמצא, (%s) :הכלי הבא - לא נמצא,4,1,3,0
+A search for available updates is currently in progress.,בדיקת עדכונים זמינים בפועל,בדיקת עדכונים זמינים בפועל,בדיקת עדכונים זמינים בפועל,בדיקת עדכונים זמינים בפועל,4,1,3,0
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,.נמצא ממשק רשת משני מוגדר\n\nהאם ברצונך להשבית את הממשק השני,.נמצא ממשק רשת משני מוגדר\n\nהאם ברצונך להשבית את הממשק השני,.נמצא ממשק רשת משני מוגדר\n\nהאם ברצונך להשבית את הממשק השני,.נמצא ממשק רשת משני מוגדר\n\nהאם ברצונך להשבית את הממשק השני,4,1,3,0
+A timer failed to record!\nDisable TV and try again?\n,הטיימר לא הצליח להקליט\n?האם להשבית את הטלויזיה ולנסות שוב\n,הטיימר לא הצליח להקליט\n?האם להשבית את הטלויזיה ולנסות שוב\n,הטיימר לא הצליח להקליט\n?האם להשבית את הטלויזיה ולנסות שוב\n,הטיימר לא הצליח להקליט\n?האם להשבית את הטלויזיה ולנסות שוב\n,4,1,3,0
+Abort,חדל,חדל,חדל,חדל,4,1,3,0
+Abort alternatives edit,,,'',,1,0,0,1
+Abort bouquet edit,,,'',,1,0,0,1
+Abort favourites edit,,,'',,1,0,0,1
+About,אודות,אודות,אודות,אודות,4,1,3,0
+Accesspoint:,:נקודת גישה,:נקודת גישה,:נקודת גישה,:נקודת גישה,4,1,3,0
+Activate Picture in Picture,הפעל תמונה בתוך תמונה,הפעל תמונה בתוך תמונה,הפעל תמונה בתוך תמונה,הפעל תמונה בתוך תמונה,4,1,3,0
+Activate network settings,הפעל הגדרות רשת,הפעל הגדרות רשת,הפעל הגדרות רשת,הפעל הגדרות רשת,4,1,3,0
+Adapter settings,הגדרת מתאם,הגדרת מתאם,הגדרת מתאם,הגדרת מתאם,4,1,3,0
+Add,הוסף,הוסף,הוסף,הוסף,4,1,3,0
+Add a mark,הוסף סמן,הוסף סמן,הוסף סמן,הוסף סמן,4,1,3,0
+Add a new title,הוסף כותרת חדשה,הוסף כותרת חדשה,הוסף כותרת חדשה,הוסף כותרת חדשה,4,1,3,0
+Add alternatives,,,'',,1,0,0,1
+Add bouquet,,,'',,1,0,0,1
+Add marker,,,הוסף סמן,,1,1,0,0
+Add service to bouquet,,,הוסף את הערוץ לתיקית הערוצים,,1,1,0,0
+Add service to favourites,,,הוסף את הערוץ למועדפים,,1,1,0,0
+Add timer,הוסף טיימר,הוסף טיימר,הוסף טיימר,הוסף טיימר,4,1,3,0
+Add title,הוסף כותרת,הוסף כותרת,הוסף כותרת,הוסף כותרת,4,1,3,0
+Add to bouquet,,הוסף תיקיית ערוצים,הוסף תיקיית ערוצים,הוסף תיקיית ערוצים,3,1,2,0
+Add to favourites,,הוסף למועדפים,הוסף למועדפים,הוסף למועדפים,3,1,2,0
+Add to parental protection,,,הוסף לבקרת הורים,,1,1,0,0
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.","כוונו את הגדרות הצבעים, כך שכל גווני צבע יראו, אך רווים ככל האפשר. במידה ואתם שמחים עם התוצאה, לחצו על אישור כדי לסגור את הכוונון העדין, או השתמשו במקשי המספרים בכדי לבחור מסכי מבחן אחרים.","כוונו את הגדרות הצבעים, כך שכל גווני צבע יראו, אך רווים ככל האפשר. במידה ואתם שמחים עם התוצאה, לחצו על אישור כדי לסגור את הכוונון העדין, או השתמשו במקשי המספרים בכדי לבחור מסכי מבחן אחרים.","כוונו את הגדרות הצבעים, כך שכל גווני צבע יראו, אך רווים ככל האפשר. במידה ואתם שמחים עם התוצאה, לחצו על אישור כדי לסגור את הכוונון העדין, או השתמשו במקשי המספרים בכדי לבחור מסכי מבחן אחרים.","כוונו את הגדרות הצבעים, כך שכל גווני צבע יראו, אך רווים ככל האפשר. במידה ואתם שמחים עם התוצאה, לחצו על אישור כדי לסגור את הכוונון העדין, או השתמשו במקשי המספרים בכדי לבחור מסכי מבחן אחרים.",4,1,3,0
+Advanced options and settings.,,,אפשרויות מתקדמות והגדרות,,1,1,0,0
+Advanced restore,שחזור מתקדם,שחזור מתקדם,שחזור מתקדם,שחזור מתקדם,4,1,3,0
+After event,לאחר התוכנית,לאחר התוכנית,לאחר התוכנית,לאחר התוכנית,4,1,3,0
+Album,אלבום,אלבום,אלבום,אלבום,4,1,3,0
+All,כולם,כולם,כולם,כולם,4,1,3,0
+Alpha,,'','','',3,0,0,3
+Alternative services tuner priority,,'','','',3,0,0,3
+An empty filename is illegal.,קובץ ריק לא חוקי,קובץ ריק לא חוקי,קובץ ריק לא חוקי,קובץ ריק לא חוקי,4,1,3,0
+An unknown error occurred!,,,! אירעה שגיאה לא ידועה,,1,1,0,0
+Arabic,ערבית,ערבית,ערבית,ערבית,4,1,3,0
+Are you sure you want to activate this network configuration?\n\n,? האם אתה מעוניין להפעיל את הגדרות הרשת האלו\n\n,? האם אתה מעוניין להפעיל את הגדרות הרשת האלו\n\n,? האם אתה מעוניין להפעיל את הגדרות הרשת האלו\n\n,? האם אתה מעוניין להפעיל את הגדרות הרשת האלו\n\n,4,1,3,0
+Are you sure you want to exit this wizard?,? האם אתה מעוניין לצאת מהאשף,? האם אתה מעוניין לצאת מהאשף,? האם אתה מעוניין לצאת מהאשף,? האם אתה מעוניין לצאת מהאשף,4,1,3,0
+Are you sure you want to restart your network interfaces?\n\n,?האם אתה בטוח שאתה רוצה לאתחל את ממשקי הרשת\n\n,?האם אתה בטוח שאתה רוצה לאתחל את ממשקי הרשת\n\n,?האם אתה בטוח שאתה רוצה לאתחל את ממשקי הרשת\n\n,?האם אתה בטוח שאתה רוצה לאתחל את ממשקי הרשת\n\n,4,1,3,0
+Artist,אומן,אומן,אומן,אומן,4,1,3,0
+Ask user,שאל משתמש,שאל משתמש,שאל משתמש,שאל משתמש,4,1,3,0
+Audio,,,קול,,1,1,0,0
+Author: ,:מחבר,:מחבר,:מחבר,:מחבר,4,1,3,0
+Auto,אוטומטי,אוטומטי,אוטומטי,אוטומטי,4,1,3,0
+Auto scart switching,,'','','',3,0,0,3
+Automatic,אוטומטי,אוטומטי,אוטומטי,אוטומטי,4,1,3,0
+Available format variables,,'','','',3,0,0,3
+B,,'','','',3,0,0,3
+BER,,,'',,1,0,0,1
+BER:,,,'',,1,0,0,1
+Back,,'','','',3,0,0,3
+Background,רקע,רקע,רקע,רקע,4,1,3,0
+Backup failed.,.הגיבוי נכשל,.הגיבוי נכשל,.הגיבוי נכשל,.הגיבוי נכשל,4,1,3,0
+Backup is running...,...........גיבוי מתבצע,...........גיבוי מתבצע,...........גיבוי מתבצע,...........גיבוי מתבצע,4,1,3,0
+Backup system settings,גיבוי הגדרות מערכת,גיבוי הגדרות מערכת,גיבוי הגדרות מערכת,גיבוי הגדרות מערכת,4,1,3,0
+Band,,'','','',3,0,0,3
+Bandwidth,רוחב פס,רוחב פס,רוחב פס,רוחב פס,4,1,3,0
+Begin time,,'','','',3,0,0,3
+Behavior of '0' button in PiP mode,,,פעולת מקש ה - 0 במצב תמונה בתוך תמונה,,1,1,0,0
+Behavior when a movie is started,הפעולה כאשר סרט מתחיל,הפעולה כאשר סרט מתחיל,הפעולה כאשר סרט מתחיל,הפעולה כאשר סרט מתחיל,4,1,3,0
+Behavior when a movie is stopped,הפעולה כאשר סרט נעצר ,הפעולה כאשר סרט נעצר ,הפעולה כאשר סרט נעצר ,הפעולה כאשר סרט נעצר ,4,1,3,0
+Behavior when a movie reaches the end,הפעולה כאשר סרט מגיע לסוף ,הפעולה כאשר סרט מגיע לסוף ,הפעולה כאשר סרט מגיע לסוף ,הפעולה כאשר סרט מגיע לסוף ,4,1,3,0
+Block noise reduction,,'','','',3,0,0,3
+Bookmarks,סימניות,סימניות,סימניות,סימניות,4,1,3,0
+Brightness,בהירות,בהירות,בהירות,בהירות,4,1,3,0
+Burn DVD,צרוב די.וי.די,צרוב די.וי.די,צרוב די.וי.די,צרוב די.וי.די,4,1,3,0
+Burn existing image to DVD,,צרוב קובץ מוכן לדי.וי.די,צרוב קובץ מוכן לדי.וי.די,צרוב קובץ מוכן לדי.וי.די,3,1,2,0
+Burn to DVD,,צרוב לדי.וי.די,צרוב לדי.וי.די,צרוב לדי.וי.די,3,1,2,0
+C,,,'',,1,0,0,1
+C-Band,,'','','',3,0,0,3
+Cable,,'','','',3,0,0,3
+Cancel,בטל,בטל,בטל,בטל,4,1,3,0
+Capacity: ,:נפח,:נפח,:נפח,:נפח,4,1,3,0
+Card,,,כרטיס,,1,1,0,0
+Change step size,,'','','',3,0,0,3
+Channel,ערוץ,ערוץ,ערוץ,ערוץ,4,1,3,0
+Channel not in services list,הערוץ לא ברשימת השירותים,הערוץ לא ברשימת השירותים,הערוץ לא ברשימת השירותים,הערוץ לא ברשימת השירותים,4,1,3,0
+Channel:,:ערוץ,:ערוץ,:ערוץ,:ערוץ,4,1,3,0
+Channellist menu,,,תפריט רשימת הערוצים,,1,1,0,0
+Chap.,,'','','',3,0,0,3
+Chapter,פרק,פרק,פרק,פרק,4,1,3,0
+Chapter:,:פרק,:פרק,:פרק,:פרק,4,1,3,0
+Check,בדוק,בדוק,בדוק,בדוק,4,1,3,0
+Circular left,,'','','',3,0,0,3
+Circular right,,'','','',3,0,0,3
+Cleanup,נקיון,נקיון,נקיון,נקיון,4,1,3,0
+Clear before scan,,'','','',3,0,0,3
+Clear log,נקה לוג,נקה לוג,נקה לוג,נקה לוג,4,1,3,0
+Close,סגור,סגור,סגור,סגור,4,1,3,0
+Close title selection,סגור בחירת כותרת,סגור בחירת כותרת,סגור בחירת כותרת,סגור בחירת כותרת,4,1,3,0
+Collection name,שם האוסף,שם האוסף,שם האוסף,שם האוסף,4,1,3,0
+Collection settings,הגדרות האוסף,הגדרות האוסף,הגדרות האוסף,הגדרות האוסף,4,1,3,0
+Command execution...,,,...הרצת פקודה,,1,1,0,0
+Command order,סדר פקודה,סדר פקודה,סדר פקודה,סדר פקודה,4,1,3,0
+Common Interface,ממשק משותף,ממשק משותף,ממשק משותף,ממשק משותף,4,1,3,0
+Communication,תקשורת,תקשורת,תקשורת,תקשורת,4,1,3,0
+Complete,שלם,שלם,שלם,שלם,4,1,3,0
+Complex (allows mixing audio tracks and aspects),,'','','',3,0,0,3
+Configure interface,הגדרת ממשק,הגדרת ממשק,הגדרת ממשק,הגדרת ממשק,4,1,3,0
+Configure nameservers,,'','','',3,0,0,3
+Configure your internal LAN,הגדרת הרשת הפנימית שלך,הגדרת הרשת הפנימית שלך,הגדרת הרשת הפנימית שלך,הגדרת הרשת הפנימית שלך,4,1,3,0
+Configure your network again,הגדרת הרשת שלך שוב,הגדרת הרשת שלך שוב,הגדרת הרשת שלך שוב,הגדרת הרשת שלך שוב,4,1,3,0
+Configure your wireless LAN again,הגדרת הרשת האלחוטית שוב,הגדרת הרשת האלחוטית שוב,הגדרת הרשת האלחוטית שוב,הגדרת הרשת האלחוטית שוב,4,1,3,0
+Configuring,מגדיר,מגדיר,מגדיר,מגדיר,4,1,3,0
+Connect,התחבר,התחבר,התחבר,התחבר,4,1,3,0
+Connected to,מחובר אל,מחובר אל,מחובר אל,מחובר אל,4,1,3,0
+Content does not fit on DVD!,!תכולה לא מתאימה לדי.וי.די,!תכולה לא מתאימה לדי.וי.די,!תכולה לא מתאימה לדי.וי.די,!תכולה לא מתאימה לדי.וי.די,4,1,3,0
+Continue playing,המשך לנגן,המשך לנגן,המשך לנגן,המשך לנגן,4,1,3,0
+Contrast,ניגודיות,ניגודיות,ניגודיות,ניגודיות,4,1,3,0
+Copy to bouquets,,,העתק לתיקית ערוצים,,1,1,0,0
+Could not open Picture in Picture,לא יכול לפתוח תמונה בתוך תמונה,לא יכול לפתוח תמונה בתוך תמונה,לא יכול לפתוח תמונה בתוך תמונה,,3,1,2,0
+Create DVD-ISO,DVD-ISO צור ,DVD-ISO צור ,DVD-ISO צור ,DVD-ISO צור ,4,1,3,0
+Create directory,,,צור תיקיה,,1,1,0,0
+Creating directory %s failed.,.נכשלה %s יצירת תיקייה,.נכשלה %s יצירת תיקייה,.נכשלה %s יצירת תיקייה,.נכשלה %s יצירת תיקייה,4,1,3,0
+Croatian,קרואטית,קרואטית,קרואטית,קרואטית,4,1,3,0
+Current settings:,,'','','',3,0,0,3
+Current value: ,,'','','',3,0,0,3
+Customize,התאמה אישית,התאמה אישית,התאמה אישית,,3,1,2,0
+Cut,חתוך,חתוך,חתוך,חתוך,4,1,3,0
+Cutlist editor...,Cutlist עורך...,Cutlist עורך...,Cutlist עורך...,Cutlist עורך...,4,1,3,0
+Czech,צ'כית,צ'כית,צ'כית,צ'כית,4,1,3,0
+D,,,'',,1,0,0,1
+DHCP,,'','','',3,0,0,3
+DUAL LAYER DVD,Dual Layer DVD,Dual Layer DVD,Dual Layer DVD,Dual Layer DVD,4,1,3,0
+DVB-S,,'','','',3,0,0,3
+DVB-S2,,'','','',3,0,0,3
+DVD media toolbox,,'','','',3,0,0,3
+Danish,דנית,דנית,דנית,דנית,4,1,3,0
+Date,תאריך,תאריך,תאריך,תאריך,4,1,3,0
+Default,ברירת מחדל,ברירת מחדל,ברירת מחדל,ברירת מחדל,4,1,3,0
+Default movie location,ברירת מחדל למיקום סרטים,ברירת מחדל למיקום סרטים,ברירת מחדל למיקום סרטים,ברירת מחדל למיקום סרטים,4,1,3,0
+Delete,מחק,מחק,מחק,מחק,4,1,3,0
+Delete entry,מחק רשומה,מחק רשומה,מחק רשומה,מחק רשומה,4,1,3,0
+Delete failed!,!מחיקה נכשלה,!מחיקה נכשלה,!מחיקה נכשלה,!מחיקה נכשלה,4,1,3,0
+Description,תאור,תאור,תאור,תאור,4,1,3,0
+Deselect,בטל בחירה,בטל בחירה,בטל בחירה,בטל בחירה,4,1,3,0
+Detected HDD:,,,'',,1,0,0,1
+Detected NIMs:,,'','',,2,0,0,2
+DiSEqC,,'','','',3,0,0,3
+DiSEqC A/B,,'','','',3,0,0,3
+DiSEqC A/B/C/D,,'','','',3,0,0,3
+DiSEqC mode,,'','','',3,0,0,3
+Digital contour removal,,'','','',3,0,0,3
+Direct playback of linked titles without menu,,'','','',3,0,0,3
+Directory browser,סייר תיקיות,סייר תיקיות,סייר תיקיות,סייר תיקיות,4,1,3,0
+Disable,השבת,השבת,השבת,השבת,4,1,3,0
+Disable Picture in Picture,השבת תמונה בתוך תמונה,השבת תמונה בתוך תמונה,השבת תמונה בתוך תמונה,השבת תמונה בתוך תמונה,4,1,3,0
+Disable move mode,,,'',,1,0,0,1
+Disabled,הושבת,הושבת,הושבת,הושבת,4,1,3,0
+Display 16:9 content as,,'','','',3,0,0,3
+Display 4:3 content as,,'','','',3,0,0,3
+Do you really want to check the filesystem?\nThis could take lots of time!,,,? האם ברצונך לסמן את קבצי המערכת\n!זה עלול לקחת הרבה זמן,,1,1,0,0
+Do you really want to delete %s?,? %s האם ברצוך למחוק את,? %s האם ברצוך למחוק את,? %s האם ברצוך למחוק את,? %s האם ברצוך למחוק את,4,1,3,0
+"Do you really want to download\nthe plugin \""%s\""?",,,"האם ברצונך להוריד\nאת הפלאגין \""%s\""?",,1,1,0,0
+Do you really want to exit?,? האם ברצונך לצאת,? האם ברצונך לצאת,? האם ברצונך לצאת,? האם ברצונך לצאת,4,1,3,0
+Do you really want to remove directory %s from the disk?,? מהכונן %s האם ברצונך למחוק את התיקיה,? מהכונן %s האם ברצונך למחוק את התיקיה,? מהכונן %s האם ברצונך למחוק את התיקיה,? מהכונן %s האם ברצונך למחוק את התיקיה,4,1,3,0
+Do you really want to remove your bookmark of %s?,%s ?האם ברצונך להסיר את הסימניה ,%s ?האם ברצונך להסיר את הסימניה ,%s ?האם ברצונך להסיר את הסימניה ,%s ?האם ברצונך להסיר את הסימניה ,4,1,3,0
+Do you want to burn this collection to DVD medium?,האם ברצונך לצרוב את התוכן לדי.וי.די,האם ברצונך לצרוב את התוכן לדי.וי.די,האם ברצונך לצרוב את התוכן לדי.וי.די,האם ברצונך לצרוב את התוכן לדי.וי.די,4,1,3,0
+Do you want to install the package:\n,:האם ברצונך להתקין את החבילה\n,:האם ברצונך להתקין את החבילה\n,:האם ברצונך להתקין את החבילה\n,:האם ברצונך להתקין את החבילה\n,4,1,3,0
+Do you want to play DVD in drive?,? האם ברצונך לנגן את הדי.וי.די שבכונן,? האם ברצונך לנגן את הדי.וי.די שבכונן,? האם ברצונך לנגן את הדי.וי.די שבכונן,? האם ברצונך לנגן את הדי.וי.די שבכונן,4,1,3,0
+Do you want to preview this DVD before burning?,?האם ברצונך להציג את הדי.וי.די לפני הצריבה,?האם ברצונך להציג את הדי.וי.די לפני הצריבה,?האם ברצונך להציג את הדי.וי.די לפני הצריבה,?האם ברצונך להציג את הדי.וי.די לפני הצריבה,4,1,3,0
+Do you want to remove the package:\n,האם ברצונך להסיר את החבילה\n,האם ברצונך להסיר את החבילה\n,האם ברצונך להסיר את החבילה\n,האם ברצונך להסיר את החבילה\n,4,1,3,0
+Do you want to restore your settings?,? האם ברצונך לשחזר את ההגדרות,? האם ברצונך לשחזר את ההגדרות,? האם ברצונך לשחזר את ההגדרות,? האם ברצונך לשחזר את ההגדרות,4,1,3,0
+Do you want to resume this playback?,?האם ברצונך להמשיך ולנגן את זה,?האם ברצונך להמשיך ולנגן את זה,?האם ברצונך להמשיך ולנגן את זה,,3,1,2,0
+Do you want to update the package:\n,,,?האם ברצונך לשדרג את החבילה\n,,1,1,0,0
+Don't stop current event but disable coming events,אל תפסיק אירוע נוכחי אך בטל את כל הבאים בתור,אל תפסיק אירוע נוכחי אך בטל את כל הבאים בתור,אל תפסיק אירוע נוכחי אך בטל את כל הבאים בתור,,3,1,2,0
+Downloadable new plugins,,,פלאגינים חדשים להורדה,,1,1,0,0
+Downloadable plugins,,,פלאגינים להורדה,,1,1,0,0
+Downloading,מוריד,מוריד,מוריד,מוריד,4,1,3,0
+Downloading plugin information. Please wait...,"...מוריד פרטים על הפלאגין, אנא המתן","...מוריד פרטים על הפלאגין, אנא המתן","...מוריד פרטים על הפלאגין, אנא המתן","...מוריד פרטים על הפלאגין, אנא המתן",4,1,3,0
+Dutch,הולנדית,הולנדית,הולנדית,הולנדית,4,1,3,0
+Dynamic contrast,,'','','',3,0,0,3
+ERROR - failed to scan (%s)!,(%s) !שגיאה - נכשל בסריקה,(%s) !שגיאה - נכשל בסריקה,(%s) !שגיאה - נכשל בסריקה,(%s) !שגיאה - נכשל בסריקה,4,1,3,0
+East,מזרח,מזרח,מזרח,מזרח,4,1,3,0
+Edit,ערוך,ערוך,ערוך,ערוך,4,1,3,0
+Edit DNS,,DNS ערוך,DNS ערוך,DNS ערוך,3,1,2,0
+Edit alternatives,,,'',,1,0,0,1
+Edit chapters of current title,ערוך פרקים של הכותרת הנוכחית,ערוך פרקים של הכותרת הנוכחית,ערוך פרקים של הכותרת הנוכחית,ערוך פרקים של הכותרת הנוכחית,4,1,3,0
+Edit settings,ערוך הגדרות,ערוך הגדרות,ערוך הגדרות,ערוך הגדרות,4,1,3,0
+Edit the update source address.,,,ערוך את כתובת מקור העדכון,,1,1,0,0
+Edit title,ערוך כותרת,ערוך כותרת,ערוך כותרת,ערוך כותרת,4,1,3,0
+Edit update source url,,,'',,1,0,0,1
+Electronic Program Guide,,'','','',3,0,0,3
+Enable,אפשר,אפשר,אפשר,אפשר,4,1,3,0
+Enable 5V for active antenna,,'','','',3,0,0,3
+Enable bouquet edit,,,'',,1,0,0,1
+Enable favourites edit,,,'',,1,0,0,1
+Enable move mode,,,'',,1,0,0,1
+Enable multiple bouquets,אפשר תיקיות ערוצים מרובות,אפשר תיקיות ערוצים מרובות,אפשר תיקיות ערוצים מרובות,אפשר תיקיות ערוצים מרובות,4,1,3,0
+Enabled,אפשר,אפשר,אפשר,אפשר,4,1,3,0
+Encrypted: ,:קידוד,:קידוד,:קידוד,:קידוד,4,1,3,0
+Encryption,קידוד,קידוד,קידוד,קידוד,4,1,3,0
+Encryption:,:קידוד,:קידוד,:קידוד,:קידוד,4,1,3,0
+End alternatives edit,,,'',,1,0,0,1
+End bouquet edit,,,'',,1,0,0,1
+End favourites edit,,,'',,1,0,0,1
+End time,שעת סיום,שעת סיום,שעת סיום,שעת סיום,4,1,3,0
+English,אנגלית,אנגלית,אנגלית,אנגלית,4,1,3,0
+Enter main menu...,...כנס לתפריט ראשי,...כנס לתפריט ראשי,...כנס לתפריט ראשי,...כנס לתפריט ראשי,4,1,3,0
+Enter pin code,:הכנס קוד אבטחה,:הכנס קוד אבטחה,:הכנס קוד אבטחה,:הכנס קוד אבטחה,4,1,3,0
+Enter the service pin,הכנס קוד האבטחה של השירות,הכנס קוד האבטחה של השירות,הכנס קוד האבטחה של השירות,הכנס קוד האבטחה של השירות,4,1,3,0
+Error,שגיאה,שגיאה,שגיאה,שגיאה,4,1,3,0
+Error: %s\nRetry?,שגיאה: %s\nלנסות שוב?,שגיאה: %s\nלנסות שוב?,שגיאה: %s\nלנסות שוב?,שגיאה: %s\nלנסות שוב?,4,1,3,0
+Estonian,אסטוניה,אסטוניה,אסטוניה,אסטוניה,4,1,3,0
+Exceeds dual layer medium!,,'','','',3,0,0,3
+Execution finished!!,!!הרצה הסתיימה,!!הרצה הסתיימה,!!הרצה הסתיימה,!!הרצה הסתיימה,4,1,3,0
+Exif,,'','','',3,0,0,3
+Exit,יציאה,יציאה,יציאה,יציאה,4,1,3,0
+Exit editor,יציאה מהעורך,יציאה מהעורך,יציאה מהעורך,יציאה מהעורך,4,1,3,0
+Exit network wizard,צא מאשף הרשת,צא מאשף הרשת,צא מאשף הרשת,צא מאשף הרשת,4,1,3,0
+Exit the wizard,צא מהאשף,צא מהאשף,צא מהאשף,צא מהאשף,4,1,3,0
+Expert,הגדרות מומחים,הגדרות מומחים,הגדרות מומחים,הגדרות מומחים,4,1,3,0
+Extended Software,,'','','',3,0,0,3
+Extended Software Plugin,Extended Software פלאגין ל,Extended Software פלאגין ל,Extended Software פלאגין ל,Extended Software פלאגין ל,4,1,3,0
+Extensions,תוספות,תוספות,תוספות,תוספות,4,1,3,0
+Extensions management,ניהול תוספות,ניהול תוספות,ניהול תוספות,ניהול תוספות,4,1,3,0
+FEC,,'','','',3,0,0,3
+Factory reset,שיחזור להגדרות יצרן,שיחזור להגדרות יצרן,שיחזור להגדרות יצרן,שיחזור להגדרות יצרן,4,1,3,0
+Failed,נכשל,נכשל,נכשל,נכשל,4,1,3,0
+Fan %d, מאוורר %d, מאוורר %d, מאוורר %d, מאוורר %d,4,1,3,0
+Fast,מהיר,מהיר,מהיר,מהיר,4,1,3,0
+Fast DiSEqC,DiSEqC מהיר,DiSEqC מהיר,DiSEqC מהיר,DiSEqC מהיר,4,1,3,0
+Favourites,מועדפים,מועדפים,מועדפים,מועדפים,4,1,3,0
+Finetune,כיוונון עדין,כיוונון עדין,כיוונון עדין,כיוונון עדין,4,1,3,0
+Finished,הסתיים,הסתיים,הסתיים,הסתיים,4,1,3,0
+Finished configuring your network,הגדרת הרשת הסתיימה,הגדרת הרשת הסתיימה,הגדרת הרשת הסתיימה,הגדרת הרשת הסתיימה,4,1,3,0
+Finished restarting your network,פעולת איתחול הרשת הסתיימה,פעולת איתחול הרשת הסתיימה,פעולת איתחול הרשת הסתיימה,,3,1,2,0
+Finnish,פינית,פינית,פינית,פינית,4,1,3,0
+Following tasks will be done after you press OK!,OK הפעולה הבאה תתבצע לאחר לחיצה על,OK הפעולה הבאה תתבצע לאחר לחיצה על,OK הפעולה הבאה תתבצע לאחר לחיצה על,OK הפעולה הבאה תתבצע לאחר לחיצה על,4,1,3,0
+Format,פורמט,פורמט,פורמט,פורמט,4,1,3,0
+French,צרפתית,צרפתית,צרפתית,צרפתית,4,1,3,0
+Frequency,תדר,תדר,תדר,תדר,4,1,3,0
+Frequency bands,קבוצת תדרים,קבוצת תדרים,קבוצת תדרים,קבוצת תדרים,4,1,3,0
+Frequency steps,קפיצות תדרים,קפיצות תדרים,קפיצות תדרים,קפיצות תדרים,4,1,3,0
+Fri,,'','','',3,0,0,3
+Friday,שישי,שישי,שישי,שישי,4,1,3,0
+German,גרמנית,גרמנית,גרמנית,גרמנית,4,1,3,0
+Getting plugin information. Please wait...,...מקבל מידע אודות הפלאגין. אנא המתן,...מקבל מידע אודות הפלאגין. אנא המתן,...מקבל מידע אודות הפלאגין. אנא המתן,...מקבל מידע אודות הפלאגין. אנא המתן,4,1,3,0
+Goto 0,,'','','',3,0,0,3
+Goto position,,'','','',3,0,0,3
+Graphical Multi EPG,,, גראפי Multi EPG,,1,1,0,0
+Greek,יוונית,יוונית,יוונית,יוונית,4,1,3,0
+Harddisk,,,כונן קשיח,,1,1,0,0
+High bitrate support,,'','','',3,0,0,3
+Horizontal,,'','','',3,0,0,3
+How many minutes do you want to record?,? כמה דקות אתה מעוניין להקליט,? כמה דקות אתה מעוניין להקליט,? כמה דקות אתה מעוניין להקליט,,3,1,2,0
+Hue,,'','','',3,0,0,3
+Hungarian,הונגרית,הונגרית,הונגרית,הונגרית,4,1,3,0
+ISO file is too large for this filesystem!,,'','','',3,0,0,3
+ISO path,,'','','',3,0,0,3
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,'','',,2,0,0,2
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,'','','',3,0,0,3
+"In order to record a timer, the TV was switched to the recording service!\n",,"!על מנת להקליט את הטיימר, הערוץ עבר לערוץ המוקלט\n","!על מנת להקליט את הטיימר, הערוץ עבר לערוץ המוקלט\n","!על מנת להקליט את הטיימר, הערוץ עבר לערוץ המוקלט\n",3,1,2,0
+Increased voltage,,'','','',3,0,0,3
+Index,,,אינדקס,,1,1,0,0
+Info,פרטים,פרטים,פרטים,פרטים,4,1,3,0
+Information,מידע,מידע,מידע,מידע,4,1,3,0
+Initialize,מאתחל,מאתחל,מאתחל,מאתחל,4,1,3,0
+Input,,'','','',3,0,0,3
+Install,התקן,התקן,התקן,התקן,4,1,3,0
+Install local extension,התקן תוספת מקומית,התקן תוספת מקומית,התקן תוספת מקומית,התקן תוספת מקומית,4,1,3,0
+Installing,מתקין,מתקין,מתקין,מתקין,4,1,3,0
+Interface: ,:ממשק,:ממשק,:ממשק,:ממשק,4,1,3,0
+Invalid directory selected: %s,%s :נבחרה תיקיה שגויה,%s :נבחרה תיקיה שגויה,%s :נבחרה תיקיה שגויה,%s :נבחרה תיקיה שגויה,4,1,3,0
+Inversion,,'','','',3,0,0,3
+Italian,איטלקית,איטלקית,איטלקית,איטלקית,4,1,3,0
+Keyboard,מקלדת,מקלדת,מקלדת,מקלדת,4,1,3,0
+LAN connection,חיבור רשת,חיבור רשת,חיבור רשת,חיבור רשת,4,1,3,0
+Language,שפה,שפה,שפה,שפה,4,1,3,0
+Language selection,בחירת שפה,בחירת שפה,בחירת שפה,בחירת שפה,4,1,3,0
+Last config,הגדרה קודמת,הגדרה קודמת,הגדרה קודמת,הגדרה קודמת,4,1,3,0
+Last speed,מהירות קודמת,מהירות קודמת,מהירות קודמת,מהירות קודמת,4,1,3,0
+Latitude,,'','','',3,0,0,3
+Left,שמאל,שמאל,שמאל,שמאל,4,1,3,0
+Limit east,הגבל מזרח,הגבל מזרח,הגבל מזרח,הגבל מזרח,4,1,3,0
+Limit west,הגבל מערב,הגבל מערב,הגבל מערב,הגבל מערב,4,1,3,0
+Lithuanian,ליטא,ליטא,ליטא,ליטא,4,1,3,0
+Load,טען,טען,טען,טען,4,1,3,0
+Location,מיקום,מיקום,מיקום,מיקום,4,1,3,0
+Location for instant recordings,,,מיקום להקלטה מיידית,,1,1,0,0
+Longitude,,'','','',3,0,0,3
+MORE,,,עוד,,1,1,0,0
+Main menu,תפריט ראשי,תפריט ראשי,תפריט ראשי,תפריט ראשי,4,1,3,0
+Make this mark an 'out' point,,'','','',3,0,0,3
+Make this mark just a mark,,'','','',3,0,0,3
+Manage extensions,נהל תוספים,נהל תוספים,נהל תוספים,נהל תוספים,4,1,3,0
+Manage your receiver's software,,,נהל את תוכנת הממיר שלך,,1,1,0,0
+Manual Scan,סריקה ידנית,סריקה ידנית,סריקה ידנית,סריקה ידנית,4,1,3,0
+Manual transponder, ידני transponder, ידני transponder, ידני transponder, ידני transponder,4,1,3,0
+Manufacturer,יצרן,יצרן,יצרן,יצרן,4,1,3,0
+Media player,נגן המוזיקה,נגן המוזיקה,נגן המוזיקה,נגן המוזיקה,4,1,3,0
+Medium is not empty!,!המדיה איננה ריקה,!המדיה איננה ריקה,!המדיה איננה ריקה,!המדיה איננה ריקה,4,1,3,0
+Menu,תפריט,תפריט,תפריט,תפריט,4,1,3,0
+Message,,,הודעה,,1,1,0,0
+Message...,,,...הודעה,,1,1,0,0
+Model: ,:דגם,:דגם,:דגם,:דגם,4,1,3,0
+Modulation,,'','','',3,0,0,3
+Mon,שני,שני,שני,שני,4,1,3,0
+Mon-Fri,שני-שישי,שני-שישי,שני-שישי,שני-שישי,4,1,3,0
+Monday,שני,שני,שני,שני,4,1,3,0
+Move Picture in Picture,,'','','',3,0,0,3
+Move east,,'','','',3,0,0,3
+Move west,,'','','',3,0,0,3
+Movie location,מיקום סרטים,מיקום סרטים,מיקום סרטים,מיקום סרטים,4,1,3,0
+Movielist menu,,,תפריט רשימת הסרטים,,1,1,0,0
+Multi EPG,,'','','',3,0,0,3
+Multimedia,מולטימדיה,מולטימדיה,מולטימדיה,מולטימדיה,4,1,3,0
+Multiple service support,,'','','',3,0,0,3
+Multisat,,'','','',3,0,0,3
+Mute,,,השתק,,1,1,0,0
+N/A,,'','','',3,0,0,3
+NEXT,,,הבא,,1,1,0,0
+NOW,,,עכשיו,,1,1,0,0
+NTSC,,'','','',3,0,0,3
+Name,שם,שם,שם,שם,4,1,3,0
+Nameserver,,'','','',3,0,0,3
+Nameserver %d,,'','','',3,0,0,3
+Nameserver settings,,'','','',3,0,0,3
+Netmask,,'','','',3,0,0,3
+Network,רשת,רשת,רשת,רשת,4,1,3,0
+Network scan,,'','','',3,0,0,3
+Network setup,,'','',,2,0,0,2
+Network test,,'','','',3,0,0,3
+Network test...,,,'',,1,0,0,1
+Network test: ,,'','',,2,0,0,2
+Network:,:רשת,:רשת,:רשת,:רשת,4,1,3,0
+New,חדש,חדש,חדש,חדש,4,1,3,0
+No,לא,לא,לא,לא,4,1,3,0
+No Connection,אין חיבור,אין חיבור,אין חיבור,אין חיבור,4,1,3,0
+No HDD found or HDD not initialized!,! לא נמצא כונן קשיח או לא אותחל,! לא נמצא כונן קשיח או לא אותחל,! לא נמצא כונן קשיח או לא אותחל,! לא נמצא כונן קשיח או לא אותחל,4,1,3,0
+No description available.,אין מידע נוסף,אין מידע נוסף,אין מידע נוסף,אין מידע נוסף,4,1,3,0
+No displayable files on this medium found!,!לא נמצאו קבצים מתאימים לתצוגה על המדיה הזו,!לא נמצאו קבצים מתאימים לתצוגה על המדיה הזו,!לא נמצאו קבצים מתאימים לתצוגה על המדיה הזו,!לא נמצאו קבצים מתאימים לתצוגה על המדיה הזו,4,1,3,0
+No free tuner!,!הטיונר בשימוש,!הטיונר בשימוש,!הטיונר בשימוש,!הטיונר בשימוש,4,1,3,0
+No network connection available.,.אין חיבור רשת זמין,.אין חיבור רשת זמין,.אין חיבור רשת זמין,.אין חיבור רשת זמין,4,1,3,0
+No networks found,לא נמצאו רשתות,לא נמצאו רשתות,לא נמצאו רשתות,לא נמצאו רשתות,4,1,3,0
+No to all,לא להכל,לא להכל,לא להכל,לא להכל,4,1,3,0
+No tuner is configured for use with a diseqc positioner!,!לא נמצא טיונר המוגדר לעבודה עם דייסק פוזישינר,!לא נמצא טיונר המוגדר לעבודה עם דייסק פוזישינר,!לא נמצא טיונר המוגדר לעבודה עם דייסק פוזישינר,!לא נמצא טיונר המוגדר לעבודה עם דייסק פוזישינר,4,1,3,0
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,!טיונר לא מוגדר\n.הגדר את הטיונר לפני סריקת תדרים,!טיונר לא מוגדר\n.הגדר את הטיונר לפני סריקת תדרים,!טיונר לא מוגדר\n.הגדר את הטיונר לפני סריקת תדרים,!טיונר לא מוגדר\n.הגדר את הטיונר לפני סריקת תדרים,4,1,3,0
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,'','','',3,0,0,3
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,'','','',3,0,0,3
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,'','','',3,0,0,3
+"No, but restart from begin","לא, אך התחל מחדש","לא, אך התחל מחדש","לא, אך התחל מחדש",,3,1,2,0
+None,אף אחד,אף אחד,אף אחד,אף אחד,4,1,3,0
+Nonlinear,,,'',,1,0,0,1
+North,,'','','',3,0,0,3
+Norwegian,נורווגית,נורווגית,נורווגית,נורווגית,4,1,3,0
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,!אין מה לסרוק\n.הגדר את הטינר לפני סריקת התדרים,!אין מה לסרוק\n.הגדר את הטינר לפני סריקת התדרים,!אין מה לסרוק\n.הגדר את הטינר לפני סריקת התדרים,!אין מה לסרוק\n.הגדר את הטינר לפני סריקת התדרים,4,1,3,0
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,,'',,1,0,0,1
+OK,אשר,אשר,אשר,אשר,4,1,3,0
+Off,כבוי,כבוי,כבוי,כבוי,4,1,3,0
+On,דלוק,דלוק,דלוק,דלוק,4,1,3,0
+One,אחד,אחד,אחד,אחד,4,1,3,0
+Only extensions.,.רק תוספים,.רק תוספים,.רק תוספים,.רק תוספים,4,1,3,0
+PAL,,'','','',3,0,0,3
+Package list update,עדכון רשימת חבילות,עדכון רשימת חבילות,עדכון רשימת חבילות,עדכון רשימת חבילות,4,1,3,0
+Packet management,,'','','',3,0,0,3
+Packet manager,,'','','',3,0,0,3
+Parental control,בקרת הורים,בקרת הורים,בקרת הורים,בקרת הורים,4,1,3,0
+Parental control setup,הגדרת בקרת הורים,הגדרת בקרת הורים,הגדרת בקרת הורים,,3,1,2,0
+Pause movie at end,עצור סרט בסופו,עצור סרט בסופו,עצור סרט בסופו,עצור סרט בסופו,4,1,3,0
+Pillarbox,,'','','',3,0,0,3
+Play,,נגן,נגן,נגן,3,1,2,0
+Play DVD,,'','','',3,0,0,3
+Play recorded movies...,...נגן סרטים שהוקלטו,...נגן סרטים שהוקלטו,...נגן סרטים שהוקלטו,...נגן סרטים שהוקלטו,4,1,3,0
+Please add titles to the compilation.,,'','','',3,0,0,3
+Please change recording endtime,אנא שנה את זמן סוף ההקלטה,אנא שנה את זמן סוף ההקלטה,אנא שנה את זמן סוף ההקלטה,,3,1,2,0
+Please choose an extension...,,'','','',3,0,0,3
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,'','','',3,0,0,3
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,'','','',3,0,0,3
+Please do not change any values unless you know what you are doing!,,'','','',3,0,0,3
+Please enter a name for the new bouquet,בבקשה הכנס שם לתיקית הערוצים החדשה,בבקשה הכנס שם לתיקית הערוצים החדשה,בבקשה הכנס שם לתיקית הערוצים החדשה,בבקשה הכנס שם לתיקית הערוצים החדשה,4,1,3,0
+Please enter a name for the new marker,בבקשה הכנס שם לסמן החדש,בבקשה הכנס שם לסמן החדש,בבקשה הכנס שם לסמן החדש,בבקשה הכנס שם לסמן החדש,4,1,3,0
+Please enter a new filename,בבקשה הכנס שם קובץ חדש,בבקשה הכנס שם קובץ חדש,בבקשה הכנס שם קובץ חדש,בבקשה הכנס שם קובץ חדש,4,1,3,0
+Please enter filename (empty = use current date),,'','','',3,0,0,3
+Please enter name of the new directory,בבקשה הכנס שם לתיקיה החדשה,בבקשה הכנס שם לתיקיה החדשה,בבקשה הכנס שם לתיקיה החדשה,,3,1,2,0
+Please enter the correct pin code,בבקשה הכנס את הקוד המתאים,בבקשה הכנס את הקוד המתאים,בבקשה הכנס את הקוד המתאים,בבקשה הכנס את הקוד המתאים,4,1,3,0
+Please follow the instructions on the TV,אנא עקוב אחר ההוראות בטלויזיה,אנא עקוב אחר ההוראות בטלויזיה,אנא עקוב אחר ההוראות בטלויזיה,אנא עקוב אחר ההוראות בטלויזיה,4,1,3,0
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,,'','','',3,0,0,3
+Please press OK to continue.,.אנא לחץ אשר על מנת להמשיך,.אנא לחץ אשר על מנת להמשיך,.אנא לחץ אשר על מנת להמשיך,.אנא לחץ אשר על מנת להמשיך,4,1,3,0
+Please select a playlist to delete...,...אנא בחר רשימת שמע למחיקה,...אנא בחר רשימת שמע למחיקה,...אנא בחר רשימת שמע למחיקה,...אנא בחר רשימת שמע למחיקה,4,1,3,0
+Please select a playlist...,...אנא בחר רשימת שמע ,...אנא בחר רשימת שמע ,...אנא בחר רשימת שמע ,...אנא בחר רשימת שמע ,4,1,3,0
+Please select a subservice to record...,,'','','',3,0,0,3
+Please select a subservice...,,'','','',3,0,0,3
+Please select medium to use as backup location,,'','','',3,0,0,3
+Please select the movie path...,,'','','',3,0,0,3
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,'','','',3,0,0,3
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,'','','',3,0,0,3
+Please set up tuner B,,'','','',3,0,0,3
+Please set up tuner C,,'','','',3,0,0,3
+Please set up tuner D,,'','','',3,0,0,3
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,'','',,2,0,0,2
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,".אנא בחר את השפה, לאחר מכן לחץ על אשר",".אנא בחר את השפה, לאחר מכן לחץ על אשר",".אנא בחר את השפה, לאחר מכן לחץ על אשר",,3,1,2,0
+Please wait for activation of your network configuration...,...נא המתן בזמן הפעלת הגדרות הרשת,...נא המתן בזמן הפעלת הגדרות הרשת,...נא המתן בזמן הפעלת הגדרות הרשת,,3,1,2,0
+Please wait while scanning is in progress...,"...נא המתן , הסריקה בעיצומה","...נא המתן , הסריקה בעיצומה","...נא המתן , הסריקה בעיצומה","...נא המתן , הסריקה בעיצומה",4,1,3,0
+Please wait while we configure your network...,...נא המתן בעת הגדרת הרשת שלך,...נא המתן בעת הגדרת הרשת שלך,...נא המתן בעת הגדרת הרשת שלך,...נא המתן בעת הגדרת הרשת שלך,4,1,3,0
+Please wait while we prepare your network interfaces...,...נא המתן בעת הכנת ממשקי הרשת,...נא המתן בעת הכנת ממשקי הרשת,...נא המתן בעת הכנת ממשקי הרשת,...נא המתן בעת הכנת ממשקי הרשת,4,1,3,0
+Please wait while we test your network...,...נא המתן בעת בדיקת הרשת,...נא המתן בעת בדיקת הרשת,...נא המתן בעת בדיקת הרשת,...נא המתן בעת בדיקת הרשת,4,1,3,0
+Please wait while your network is restarting...,...נא המתן בעת איתחול הרשת,...נא המתן בעת איתחול הרשת,...נא המתן בעת איתחול הרשת,,3,1,2,0
+Please wait...,...נא המתן,...נא המתן,...נא המתן,...נא המתן,4,1,3,0
+Please wait... Loading list...,...נא המתן...טוען רשימה,...נא המתן...טוען רשימה,...נא המתן...טוען רשימה,...נא המתן...טוען רשימה,4,1,3,0
+Plugin browser,,,סייר הפלאגינים,,1,1,0,0
+Plugin manager activity information,,'','','',3,0,0,3
+Plugin manager help,,'','','',3,0,0,3
+Plugins,פלאגינים,פלאגינים,פלאגינים,פלאגינים,4,1,3,0
+Polarization,,'','','',3,0,0,3
+Polish,פולנית,פולנית,פולנית,פולנית,4,1,3,0
+Port A,,'','','',3,0,0,3
+Port B,,'','','',3,0,0,3
+Port C,,'','','',3,0,0,3
+Port D,,'','','',3,0,0,3
+Portuguese,פורטוגזית,פורטוגזית,פורטוגזית,פורטוגזית,4,1,3,0
+Positioner,,'','','',3,0,0,3
+Positioner setup,,'','','',3,0,0,3
+Preparing... Please wait,מכין...נא המתן,מכין...נא המתן,מכין...נא המתן,מכין...נא המתן,4,1,3,0
+Press OK on your remote control to continue., על השלט על מנת להמשיך OK לחץ  , על השלט על מנת להמשיך OK לחץ  , על השלט על מנת להמשיך OK לחץ  , על השלט על מנת להמשיך OK לחץ  ,4,1,3,0
+Press OK to activate the settings.,,'','','',3,0,0,3
+Press OK to edit the settings.,,'','','',3,0,0,3
+Press OK to get further details for %s,,'','','',3,0,0,3
+Press OK to scan,לחץ אשר לסריקה,לחץ אשר לסריקה,לחץ אשר לסריקה,לחץ אשר לסריקה,4,1,3,0
+Press OK to select/deselect a CAId.,,'','','',3,0,0,3
+Press OK to toggle the selection.,,'','','',3,0,0,3
+Press yellow to set this interface as default interface.,,לחץ על הצהוב לקביעת הממשק הזה כברירת מחדל,לחץ על הצהוב לקביעת הממשק הזה כברירת מחדל,,2,1,1,0
+Preview,תצוגה מקדימה,תצוגה מקדימה,תצוגה מקדימה,תצוגה מקדימה,4,1,3,0
+Preview menu,תצוגה מקדימה לתפריט,תצוגה מקדימה לתפריט,תצוגה מקדימה לתפריט,תצוגה מקדימה לתפריט,4,1,3,0
+Primary DNS,,'','','',3,0,0,3
+Priority,עדיפות,עדיפות,עדיפות,עדיפות,4,1,3,0
+Process,,'','','',3,0,0,3
+Properties of current title,,'','','',3,0,0,3
+Protect services,,'','','',3,0,0,3
+Provider,,'','','',3,0,0,3
+Providers,,'','','',3,0,0,3
+Quick,מהיר,מהיר,מהיר,מהיר,4,1,3,0
+RF output,,'','',,2,0,0,2
+RGB,,'','','',3,0,0,3
+Radio,,,רדיו,,1,1,0,0
+Random,רנדומלי,רנדומלי,רנדומלי,רנדומלי,4,1,3,0
+Really close without saving settings?,?לסגור מבלי לשמור את השינויים,?לסגור מבלי לשמור את השינויים,?לסגור מבלי לשמור את השינויים,?לסגור מבלי לשמור את השינויים,4,1,3,0
+Really delete done timers?,?האם למחוק טיימרים שבוצעו,?האם למחוק טיימרים שבוצעו,?האם למחוק טיימרים שבוצעו,,3,1,2,0
+Really reboot now?,?לבצע איתחול עכשיו,?לבצע איתחול עכשיו,?לבצע איתחול עכשיו,?לבצע איתחול עכשיו,4,1,3,0
+Really restart now?,?לבצע איתחול עכשיו,?לבצע איתחול עכשיו,?לבצע איתחול עכשיו,?לבצע איתחול עכשיו,4,1,3,0
+Really shutdown now?,?לבצע כיבוי עכשיו,?לבצע כיבוי עכשיו,?לבצע כיבוי עכשיו,?לבצע כיבוי עכשיו,4,1,3,0
+Reboot,איתחול,איתחול,איתחול,איתחול,4,1,3,0
+Record,הקלטה,הקלטה,הקלטה,הקלטה,4,1,3,0
+Record time limited due to conflicting timer %s,%s זמן הקלטה הוגבל עקב התנגשות בין טיימרים,%s זמן הקלטה הוגבל עקב התנגשות בין טיימרים,%s זמן הקלטה הוגבל עקב התנגשות בין טיימרים,%s זמן הקלטה הוגבל עקב התנגשות בין טיימרים,4,1,3,0
+Recorded files...,,,...קבצים שהוקלטו,,1,1,0,0
+Recording,מקליט,מקליט,מקליט,מקליט,4,1,3,0
+Recording paths,,,מיקומי הקלטה,,1,1,0,0
+Recording(s) are in progress or coming up in few seconds!,,'','','',3,0,0,3
+Recordings,הקלטות,הקלטות,הקלטות,הקלטות,4,1,3,0
+Recordings always have priority,,'','','',3,0,0,3
+Refresh rate selection.,,'','','',3,0,0,3
+Reload,טען מחדש,טען מחדש,טען מחדש,טען מחדש,4,1,3,0
+Remove,הסר,הסר,הסר,הסר,4,1,3,0
+Remove a mark,הסר סמן,הסר סמן,הסר סמן,הסר סמן,4,1,3,0
+Remove all alternatives,,,'',,1,0,0,1
+Remove all new found flags,,,'',,1,0,0,1
+Remove currently selected title,,'','','',3,0,0,3
+Remove directory,,,'',,1,0,0,1
+Remove entry,,,'',,1,0,0,1
+Remove from parental protection,,,'',,1,0,0,1
+Remove new found flag,,,'',,1,0,0,1
+Remove plugins,הסר פלאגינים,הסר פלאגינים,הסר פלאגינים,הסר פלאגינים,4,1,3,0
+Remove selected satellite,,,'',,1,0,0,1
+Remove title,הסר כותרת,הסר כותרת,הסר כותרת,הסר כותרת,4,1,3,0
+Removing,מסיר,מסיר,מסיר,מסיר,4,1,3,0
+Removing directory %s failed. (Maybe not empty.),,'','','',3,0,0,3
+Rename,שנה שם,שנה שם,שנה שם,שנה שם,4,1,3,0
+Repeat playlist,,,'',,1,0,0,1
+Repeats,,'','','',3,0,0,3
+Required medium type:,,'','','',3,0,0,3
+Reset,,'','','',3,0,0,3
+Reset video enhancement settings to system defaults?,,'','','',3,0,0,3
+Reset video enhancement settings to your last configuration?,,'','','',3,0,0,3
+Restart,איתחול,איתחול,איתחול,איתחול,4,1,3,0
+Restart GUI now?,GUI ?איתחול עכשיו,GUI ?איתחול עכשיו,GUI ?איתחול עכשיו,GUI ?איתחול עכשיו,4,1,3,0
+Restart network,איתחול רשת,איתחול רשת,איתחול רשת,איתחול רשת,4,1,3,0
+Restart test,איתחול בדיקה,איתחול בדיקה,איתחול בדיקה,איתחול בדיקה,4,1,3,0
+Restart your network connection and interfaces.\n,.איתחול חיבורי רשת וממשקים\n,.איתחול חיבורי רשת וממשקים\n,.איתחול חיבורי רשת וממשקים\n,.איתחול חיבורי רשת וממשקים\n,4,1,3,0
+Restore,שחזור,שחזור,שחזור,שחזור,4,1,3,0
+Restore backups,שחזור גיבויים,שחזור גיבויים,שחזור גיבויים,שחזור גיבויים,4,1,3,0
+Restore system settings,שחזור הגדרות מערכת,שחזור הגדרות מערכת,שחזור הגדרות מערכת,שחזור הגדרות מערכת,4,1,3,0
+Restore your backups by date.,,,שיחזור גיבויים לפי תאריך,,1,1,0,0
+Resume from last position,,'','','',3,0,0,3
+Resume position at %s,,'','','',3,0,0,3
+Resuming playback,,'','','',3,0,0,3
+Return to movie list,חזור לרשימת הסרטים,חזור לרשימת הסרטים,חזור לרשימת הסרטים,חזור לרשימת הסרטים,4,1,3,0
+Return to previous service,,'','','',3,0,0,3
+Rewind speeds,מהירות הרצה אחורנית,מהירות הרצה אחורנית,מהירות הרצה אחורנית,מהירות הרצה אחורנית,4,1,3,0
+Right,ימין,ימין,ימין,ימין,4,1,3,0
+Rotor turning speed,,'','','',3,0,0,3
+Russian,רוסית,רוסית,רוסית,רוסית,4,1,3,0
+S-Video,,'','','',3,0,0,3
+SINGLE LAYER DVD,,'','','',3,0,0,3
+SNR,,,'',,1,0,0,1
+SNR:,,,'',,1,0,0,1
+SSID:,,'','','',3,0,0,3
+Sat,,'','','',3,0,0,3
+Satellite,לוויין,לוויין,לוויין,לוויין,4,1,3,0
+Satellite equipment,ציוד לוויין,ציוד לוויין,ציוד לוויין,ציוד לוויין,4,1,3,0
+Satellites,לוויינים,לוויינים,לוויינים,לוויינים,4,1,3,0
+Sats,,'','','',3,0,0,3
+Saturation,,'','','',3,0,0,3
+Saturday,שבת,שבת,שבת,שבת,4,1,3,0
+Save,שמור,שמור,שמור,שמור,4,1,3,0
+Save last directory on exit,,,'',,1,0,0,1
+Save playlist on exit,,,'',,1,0,0,1
+Scan ,סרוק,סרוק,סרוק,סרוק,4,1,3,0
+Scan additional SR,,'','','',3,0,0,3
+Scan for local extensions and install them.,,,סרוק לתוספות מקומיות והתקן אותם,,1,1,0,0
+Scan your network for wireless access points and connect to them using your selected wireless device.\n,,'','','',3,0,0,3
+Search east,,'','','',3,0,0,3
+Search west,,'','','',3,0,0,3
+Searching for available updates. Please wait...,,'','','',3,0,0,3
+Searching for new installed or removed packages. Please wait...,,'','','',3,0,0,3
+Secondary DNS,,'','','',3,0,0,3
+Seek,,'','','',3,0,0,3
+Select,בחר,בחר,בחר,בחר,4,1,3,0
+Select HDD,,,'',,1,0,0,1
+Select a movie,,,'',,1,0,0,1
+Select audio track,,'','','',3,0,0,3
+Select channel to record from,,'','','',3,0,0,3
+Select files/folders to backup,,'','','',3,0,0,3
+Select interface,בחר ממשק,בחר ממשק,בחר ממשק,בחר ממשק,4,1,3,0
+Select provider to add...,,'','','',3,0,0,3
+Select refresh rate,,'','','',3,0,0,3
+Select service to add...,,'','','',3,0,0,3
+Select update source to edit,,,'',,1,0,0,1
+Select video input with up/down buttons,,'','','',3,0,0,3
+Select video mode,,'','','',3,0,0,3
+Select wireless network,בחר רשת אלחוטית,בחר רשת אלחוטית,בחר רשת אלחוטית,בחר רשת אלחוטית,4,1,3,0
+Select your backup device.\nCurrent device: ,,,.בחר את התקן הגיבוי\n:ההתקן הנוכחי ,,1,1,0,0
+Send DiSEqC,,'','','',3,0,0,3
+Send DiSEqC only on satellite change,,'','','',3,0,0,3
+Separate titles with a main menu,,,'',,1,0,0,1
+Sequence repeat,,'','','',3,0,0,3
+Serbian,סרבית,סרבית,סרבית,סרבית,4,1,3,0
+Service,שירות,שירות,שירות,שירות,4,1,3,0
+Service has been added to the favourites.,,'','',,2,0,0,2
+Service has been added to the selected bouquet.,,'','',,2,0,0,2
+Service scan,סריקת שירותים,סריקת שירותים,סריקת שירותים,סריקת שירותים,4,1,3,0
+Service unavailable!\nCheck tuner configuration!,!שירותלא זמין\nבדוק הגדרות טיונר,!שירותלא זמין\nבדוק הגדרות טיונר,!שירותלא זמין\nבדוק הגדרות טיונר,!שירותלא זמין\nבדוק הגדרות טיונר,4,1,3,0
+Services,שירותים,שירותים,שירותים,שירותים,4,1,3,0
+Set interface as default Interface,,'','',,2,0,0,2
+Settings,הגדרות,הגדרות,הגדרות,הגדרות,4,1,3,0
+Setup,הגדרות,הגדרות,הגדרות,הגדרות,4,1,3,0
+Sharpness,חדות,חדות,חדות,חדות,4,1,3,0
+Show alternatives,,,הראה אלטרנטיבות,,1,1,0,0
+Show infobar on channel change,,'','','',3,0,0,3
+Show infobar on event change,,'','','',3,0,0,3
+Show infobar on skip forward/backward,,'','','',3,0,0,3
+Show positioner movement,,'','','',3,0,0,3
+Show the radio player...,...הצג את נגן הרדיו,...הצג את נגן הרדיו,...הצג את נגן הרדיו,...הצג את נגן הרדיו,4,1,3,0
+Show the tv player...,,'','','',3,0,0,3
+Show transponder info,,,Transponder הראה מידע על ה,,1,1,0,0
+Shows the state of your wireless LAN connection.\n,.הצג סטטוס חיבור של הרשת האלחוטית\n,.הצג סטטוס חיבור של הרשת האלחוטית\n,.הצג סטטוס חיבור של הרשת האלחוטית\n,.הצג סטטוס חיבור של הרשת האלחוטית\n,4,1,3,0
+Shutdown,כיבוי,כיבוי,כיבוי,,3,1,2,0
+Signal: ,,'','','',3,0,0,3
+Similar,,'','','',3,0,0,3
+Similar broadcasts:,,'','','',3,0,0,3
+Simple,,'','','',3,0,0,3
+Single,,'','','',3,0,0,3
+Single EPG, יחיד EPG, יחיד EPG, יחיד EPG, יחיד EPG,4,1,3,0
+Single satellite,יחיד satellite,יחיד satellite,יחיד satellite,יחיד satellite,4,1,3,0
+Skins,,'','','',3,0,0,3
+Slot %d,,'','','',3,0,0,3
+Slovenian,סלובנית,סלובנית,סלובנית,סלובנית,4,1,3,0
+Slow,,'','','',3,0,0,3
+Software,תוכנה,תוכנה,תוכנה,תוכנה,4,1,3,0
+Software management,ניהול תוכנה,ניהול תוכנה,ניהול תוכנה,ניהול תוכנה,4,1,3,0
+Software update,עדכון תוכנה,עדכון תוכנה,עדכון תוכנה,עדכון תוכנה,4,1,3,0
+Some plugins are not available:\n,מספר פלאגינים לא זמינים:\n,מספר פלאגינים לא זמינים:\n,מספר פלאגינים לא זמינים:\n,מספר פלאגינים לא זמינים:\n,4,1,3,0
+Sort A-Z,,,'',,1,0,0,1
+Sound,קול,קול,קול,קול,4,1,3,0
+South,,'','','',3,0,0,3
+Spanish,ספרדית,ספרדית,ספרדית,ספרדית,4,1,3,0
+Split preview mode,,'','','',3,0,0,3
+Standby,המתנה,המתנה,המתנה,המתנה,4,1,3,0
+Start directory,,,התחל תיקיה,,1,1,0,0
+Start from the beginning,התחל מההתחלה,התחל מההתחלה,התחל מההתחלה,התחל מההתחלה,4,1,3,0
+Start recording?,,,?התחל להקליט,,1,1,0,0
+Start test,התחל בדיקה,התחל בדיקה,התחל בדיקה,התחל בדיקה,4,1,3,0
+Starting on,מתחיל ב,מתחיל ב,מתחיל ב,מתחיל ב,4,1,3,0
+Step east,,'','','',3,0,0,3
+Step west,,'','','',3,0,0,3
+Stop,,'','','',3,0,0,3
+Stop current event and disable coming events,,'','',,2,0,0,2
+Stop current event but not coming events,,'','',,2,0,0,2
+Stop playing this movie?,?האם לעצור את הסרט,?האם לעצור את הסרט,?האם לעצור את הסרט,?האם לעצור את הסרט,4,1,3,0
+Stop test,עצור בדיקה,עצור בדיקה,עצור בדיקה,עצור בדיקה,4,1,3,0
+Stop testing plane after # failed transponders,,'','','',3,0,0,3
+Stop testing plane after # successful transponders,,'','','',3,0,0,3
+Store position,,'','','',3,0,0,3
+Stored position,,'','','',3,0,0,3
+Subservice list...,,,'',,1,0,0,1
+Subservices,,'','','',3,0,0,3
+Subtitle selection,בחירת תרגום,בחירת תרגום,בחירת תרגום,בחירת תרגום,4,1,3,0
+Subtitles,תרגום,תרגום,תרגום,תרגום,4,1,3,0
+Sun,ראשון,ראשון,ראשון,ראשון,4,1,3,0
+Sunday,ראשון,ראשון,ראשון,ראשון,4,1,3,0
+Swedish,שוודית,שוודית,שוודית,שוודית,4,1,3,0
+Switch to bookmarks,,,העבר לסימניות,,1,1,0,0
+System,מערכת,מערכת,מערכת,מערכת,4,1,3,0
+Tags,,'','','',3,0,0,3
+Test DiSEqC settings,,'','','',3,0,0,3
+Test mode,,'','','',3,0,0,3
+Thank you for using the wizard.\nPlease press OK to continue.,,'','','',3,0,0,3
+The directory %s is not writable.\nMake sure you select a writable directory instead.,,'','','',3,0,0,3
+The following files were found...,,'','','',3,0,0,3
+The path %s already exists.,,'','','',3,0,0,3
+The pin code you entered is wrong.,.הקוד שהכנסת שגוי,.הקוד שהכנסת שגוי,.הקוד שהכנסת שגוי,.הקוד שהכנסת שגוי,4,1,3,0
+The sleep timer has been activated.,,,.טיימר השינה הופעל,,1,1,0,0
+The sleep timer has been disabled.,,,.טיימר השינה בוטל,,1,1,0,0
+The timer file (timers.xml) is corrupt and could not be loaded.,,'','','',3,0,0,3
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,'','','',3,0,0,3
+The wireless LAN plugin is not installed!\nPlease install it.,,'','','',3,0,0,3
+There are at least ,,'','','',3,0,0,3
+There are no updates available.,.אין עדכונים זמינים,.אין עדכונים זמינים,.אין עדכונים זמינים,.אין עדכונים זמינים,4,1,3,0
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,,'',,1,0,0,1
+This plugin is installed.,.הפלאגין הזה הותקן,.הפלאגין הזה הותקן,.הפלאגין הזה הותקן,.הפלאגין הזה הותקן,4,1,3,0
+This plugin is not installed.,.הפלאגין הזה לא הותקן,.הפלאגין הזה לא הותקן,.הפלאגין הזה לא הותקן,.הפלאגין הזה לא הותקן,4,1,3,0
+This plugin will be installed.,.הפלאגין הזה יותקן,.הפלאגין הזה יותקן,.הפלאגין הזה יותקן,.הפלאגין הזה יותקן,4,1,3,0
+This plugin will be removed.,.הפלאגין הזה יוסר,.הפלאגין הזה יוסר,.הפלאגין הזה יוסר,.הפלאגין הזה יוסר,4,1,3,0
+Three,שלוש,שלוש,שלוש,שלוש,4,1,3,0
+Thursday,יום חמישי,יום חמישי,יום חמישי,יום חמישי,4,1,3,0
+Time,זמן,זמן,זמן,זמן,4,1,3,0
+Timer,,,טיימר,,1,1,0,0
+Timer entry,רשומת טיימר,רשומת טיימר,רשומת טיימר,,3,1,2,0
+Timer log,טיימר לוג,טיימר לוג,טיימר לוג,,3,1,2,0
+Timer sanity error,,'','',,2,0,0,2
+Timer selection,בחירת טיימר,בחירת טיימר,בחירת טיימר,בחירת טיימר,4,1,3,0
+Timeshift,,'','','',3,0,0,3
+Timeshift location,Timeshift מיקום ה,Timeshift מיקום ה,Timeshift מיקום ה,Timeshift מיקום ה,4,1,3,0
+Timeshift not possible!,,'','','',3,0,0,3
+Timezone,,איזור זמן,איזור זמן,,2,1,1,0
+Title,כותרת,כותרת,כותרת,כותרת,4,1,3,0
+Title properties,מאפייני הכותרת,מאפייני הכותרת,מאפייני הכותרת,מאפייני הכותרת,4,1,3,0
+Today,היום,היום,היום,היום,4,1,3,0
+Tone mode,,'','','',3,0,0,3
+Toneburst,,'','','',3,0,0,3
+Toneburst A/B,,'','','',3,0,0,3
+Track,,'','','',3,0,0,3
+Translation,,,תרגום,,1,1,0,0
+Translation:,,,תרגום:,,1,1,0,0
+Transmission mode,,'','','',3,0,0,3
+Transponder,,'','','',3,0,0,3
+Try to find used transponders in cable network.. please wait...,,'','','',3,0,0,3
+Tue,שלישי,שלישי,שלישי,שלישי,4,1,3,0
+Tuesday,יום שלישי,יום שלישי,יום שלישי,יום שלישי,4,1,3,0
+Tune,,'','','',3,0,0,3
+Tune failed!,,'','','',3,0,0,3
+Tuner,,'','','',3,0,0,3
+Tuner configuration,Tuner הגדרת,Tuner הגדרת,Tuner הגדרת,,3,1,2,0
+Tuner type,,Tuner סוג ה,Tuner סוג ה,Tuner סוג ה,3,1,2,0
+Turkish,טורקית,טורקית,טורקית,טורקית,4,1,3,0
+Two,שתיים,שתיים,שתיים,שתיים,4,1,3,0
+Type,סוג,סוג,סוג,סוג,4,1,3,0
+Type of scan,סוג סריקה,סוג סריקה,סוג סריקה,סוג סריקה,4,1,3,0
+USALS,,'','','',3,0,0,3
+Undo install,,'','','',3,0,0,3
+Undo uninstall,,'','','',3,0,0,3
+Uninstall,הסר,הסר,הסר,הסר,4,1,3,0
+Unsupported,לא נתמך,לא נתמך,לא נתמך,לא נתמך,4,1,3,0
+Update,עדכן,עדכן,עדכן,עדכן,4,1,3,0
+Updatefeed not available.,,'','','',3,0,0,3
+Updating,,,משדרג,,1,1,0,0
+Updating software catalog,מעדכן קטלוג תוכנה,מעדכן קטלוג תוכנה,מעדכן קטלוג תוכנה,מעדכן קטלוג תוכנה,4,1,3,0
+Use,,'','','',3,0,0,3
+Use DHCP,,'','','',3,0,0,3
+Use power measurement,,'','','',3,0,0,3
+"Use the up/down keys on your remote control to select an option. After that, press OK.",".השתמש במקשי השלט על מנת לבחור באפשרות. בסוף, לחץ אשר",".השתמש במקשי השלט על מנת לבחור באפשרות. בסוף, לחץ אשר",".השתמש במקשי השלט על מנת לבחור באפשרות. בסוף, לחץ אשר",".השתמש במקשי השלט על מנת לבחור באפשרות. בסוף, לחץ אשר",4,1,3,0
+Use this video enhancement settings?,,'','','',3,0,0,3
+Used service scan type,,'','','',3,0,0,3
+User defined,,'','','',3,0,0,3
+VCR scart,,'','','',3,0,0,3
+Vertical,,'','','',3,0,0,3
+Video enhancement preview,,'','','',3,0,0,3
+Video enhancement settings,,,'',,1,0,0,1
+Video enhancement setup,,'','','',3,0,0,3
+Video mode selection.,,'','','',3,0,0,3
+View details,הצג פרטים,הצג פרטים,הצג פרטים,הצג פרטים,4,1,3,0
+View list of available CommonInterface extensions,,'','','',3,0,0,3
+View list of available Satellite equipment extensions.,,'','','',3,0,0,3
+View list of available communication extensions.,,'','','',3,0,0,3
+View list of available default settings,,'','','',3,0,0,3
+View list of available multimedia extensions.,,'','','',3,0,0,3
+View list of available networking extensions,,'','','',3,0,0,3
+View list of available recording extensions,,'','','',3,0,0,3
+View list of available skins,,'','','',3,0,0,3
+View list of available software extensions,,'','','',3,0,0,3
+View list of available system extensions,,'','','',3,0,0,3
+"View, install and remove available or installed packages.",,,".הצג, התקן או הסר חבילות זמינות או מותקנות ",,1,1,0,0
+Voltage mode,,'','','',3,0,0,3
+Volume,,,'',,1,0,0,1
+WLAN connection,,'','','',3,0,0,3
+WPA,,'','','',3,0,0,3
+WPA or WPA2,,'','','',3,0,0,3
+WPA2,,'','','',3,0,0,3
+Waiting,ממתין,ממתין,ממתין,ממתין,4,1,3,0
+Wed,רביעי,רביעי,רביעי,רביעי,4,1,3,0
+Wednesday,יום רביעי,יום רביעי,יום רביעי,יום רביעי,4,1,3,0
+Weekday,,'','','',3,0,0,3
+Welcome...,,,...ברוך הבא,,1,1,0,0
+West,,'','','',3,0,0,3
+Where to save temporary timeshift recordings?,,'','','',3,0,0,3
+Wireless LAN,,'','','',3,0,0,3
+Write error while recording. Disk full?\n,,'','','',3,0,0,3
+Write failed!,,'','','',3,0,0,3
+YPbPr,,'','','',3,0,0,3
+Year,שנה,שנה,שנה,שנה,4,1,3,0
+Yes,כן,כן,כן,כן,4,1,3,0
+Yes to all,כן לכל,כן לכל,כן לכל,כן לכל,4,1,3,0
+"Yes, and delete this movie","כן, ומחק את הסרט הזה","כן, ומחק את הסרט הזה","כן, ומחק את הסרט הזה","כן, ומחק את הסרט הזה",4,1,3,0
+"Yes, returning to movie list",,'','',,2,0,0,2
+You can cancel the installation.,,'','','',3,0,0,3
+You can cancel the removal.,,'','','',3,0,0,3
+You can install this plugin.,,'','','',3,0,0,3
+You can remove this plugin.,,'','','',3,0,0,3
+You cannot delete this!,!אין אפשרות למחוק את הקובץ הזה,!אין אפשרות למחוק את הקובץ הזה,!אין אפשרות למחוק את הקובץ הזה,!אין אפשרות למחוק את הקובץ הזה,4,1,3,0
+You have to wait %s!,,'','','',3,0,0,3
+"Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!",,'','','',3,0,0,3
+Your current collection will get lost!,,'','','',3,0,0,3
+Your internet connection is not working!\nPlease choose what you want to do next.,,'','','',3,0,0,3
+Your network configuration has been activated.,,'','','',3,0,0,3
+Zap back to previously tuned service?,?לזפזפ אחורנית לערוץ הקודם,?לזפזפ אחורנית לערוץ הקודם,?לזפזפ אחורנית לערוץ הקודם,?לזפזפ אחורנית לערוץ הקודם,4,1,3,0
+Zap back to service before positioner setup?,?לזפזפ אחורנית לערוץ הקודם,?לזפזפ אחורנית לערוץ הקודם,?לזפזפ אחורנית לערוץ הקודם,?לזפזפ אחורנית לערוץ הקודם,4,1,3,0
+[alternative edit],,'','','',3,0,0,3
+[bouquet edit],,'','','',3,0,0,3
+[favourite edit],,'','','',3,0,0,3
+[move mode],,'','','',3,0,0,3
+about to start,,'','','',3,0,0,3
+activate network adapter configuration,,'','',,2,0,0,2
+advanced,מתקדם,מתקדם,מתקדם,מתקדם,4,1,3,0
+audio tracks,,'','','',3,0,0,3
+auto,אוטומטי,אוטומטי,אוטומטי,אוטומטי,4,1,3,0
+back,אחורנית,אחורנית,אחורנית,אחורנית,4,1,3,0
+background image,תמונת רקע,תמונת רקע,תמונת רקע,תמונת רקע,4,1,3,0
+better,,'','','',3,0,0,3
+black,,'','','',3,0,0,3
+blacklist,,'','','',3,0,0,3
+blue,,'','','',3,0,0,3
+chapters,,'','','',3,0,0,3
+circular left,,'','','',3,0,0,3
+circular right,,'','','',3,0,0,3
+config menu,,,תפריט הגדרות,,1,1,0,0
+confirmed,אושר,אושר,אושר,אושר,4,1,3,0
+connected,התחבר,התחבר,התחבר,התחבר,4,1,3,0
+daily,יומי,יומי,יומי,יומי,4,1,3,0
+day,יום,יום,יום,יום,4,1,3,0
+delete cut,,'','','',3,0,0,3
+disable,הפסק,הפסק,הפסק,הפסק,4,1,3,0
+disabled,,'','','',3,0,0,3
+disconnected,,'','','',3,0,0,3
+do nothing,,'','','',3,0,0,3
+done!,!בוצע,!בוצע,!בוצע,!בוצע,4,1,3,0
+empty,ריק,ריק,ריק,ריק,4,1,3,0
+enable,אפשר,אפשר,אפשר,אפשר,4,1,3,0
+enabled,אופשר,אופשר,אופשר,אופשר,4,1,3,0
+end cut here,,'','','',3,0,0,3
+exit DVD player or return to file browser,,'','','',3,0,0,3
+exit network adapter configuration,,'','',,2,0,0,2
+exit networkadapter setup menu,,'','',,2,0,0,2
+filename,,'','','',3,0,0,3
+go to deep standby,,'','','',3,0,0,3
+go to standby,,'','','',3,0,0,3
+green,ירוק,ירוק,ירוק,ירוק,4,1,3,0
+help...,,,...עזרה,,1,1,0,0
+horizontal,,'','','',3,0,0,3
+init module,,'','','',3,0,0,3
+insert mark here,הכנס סמן כאן,הכנס סמן כאן,הכנס סמן כאן,הכנס סמן כאן,4,1,3,0
+jump back to the previous title,,'','','',3,0,0,3
+jump forward to the next title,,'','','',3,0,0,3
+leave movie player...,,'','',,2,0,0,2
+left,,'','','',3,0,0,3
+length,,'','','',3,0,0,3
+locked,,'','','',3,0,0,3
+manual,ידני,ידני,ידני,ידני,4,1,3,0
+menu,תפריט,תפריט,תפריט,תפריט,4,1,3,0
+mins,דקות,דקות,דקות,דקות,4,1,3,0
+minutes,דקות,דקות,דקות,דקות,4,1,3,0
+month,חודש,חודש,חודש,חודש,4,1,3,0
+move down to last entry,,'','',,2,0,0,2
+move down to next entry,,'','',,2,0,0,2
+move up to first entry,,'','',,2,0,0,2
+move up to previous entry,,'','',,2,0,0,2
+multinorm,,'','','',3,0,0,3
+never,לעולם,לעולם,לעולם,לעולם,4,1,3,0
+no,לא,לא,לא,לא,4,1,3,0
+no module found,,'','','',3,0,0,3
+none,,'','','',3,0,0,3
+not configured,,'','','',3,0,0,3
+not locked,,'','','',3,0,0,3
+nothing connected,,'','','',3,0,0,3
+of a DUAL layer medium used.,,'','','',3,0,0,3
+of a SINGLE layer medium used.,,'','','',3,0,0,3
+off,כבוי,כבוי,כבוי,כבוי,4,1,3,0
+on,דלוק,דלוק,דלוק,דלוק,4,1,3,0
+on READ ONLY medium.,,'','','',3,0,0,3
+once,,'','','',3,0,0,3
+open nameserver configuration,,'','',,2,0,0,2
+pass,,'','','',3,0,0,3
+please press OK when ready,,'','',,2,0,0,2
+"please wait, loading picture...","...נא המתן, טוען תמונה","...נא המתן, טוען תמונה","...נא המתן, טוען תמונה","...נא המתן, טוען תמונה",4,1,3,0
+record,הקלט,הקלט,הקלט,הקלט,4,1,3,0
+recording...,...מקליט,...מקליט,...מקליט,...מקליט,4,1,3,0
+red,אדום,אדום,אדום,אדום,4,1,3,0
+remove after this position,,'','','',3,0,0,3
+remove before this position,,'','','',3,0,0,3
+remove this mark,,'','','',3,0,0,3
+repeated,,'','','',3,0,0,3
+rewind to the previous chapter,,'','','',3,0,0,3
+right,ימין,ימין,ימין,ימין,4,1,3,0
+scan state,מצב סריקה,מצב סריקה,מצב סריקה,מצב סריקה,4,1,3,0
+seconds,שניות,שניות,שניות,שניות,4,1,3,0
+select menu entry,בחר רשומה בתפריט,בחר רשומה בתפריט,בחר רשומה בתפריט,,3,1,2,0
+show DVD main menu,,'','','',3,0,0,3
+show event details,הצג מידע על האירוע,הצג מידע על האירוע,הצג מידע על האירוע,הצג מידע על האירוע,4,1,3,0
+shut down,כיבוי,כיבוי,כיבוי,כיבוי,4,1,3,0
+simple,פשוט,פשוט,פשוט,פשוט,4,1,3,0
+skip backward,דלג אחורה,דלג אחורה,דלג אחורה,דלג אחורה,4,1,3,0
+skip forward,דלג קדימה,דלג קדימה,דלג קדימה,דלג קדימה,4,1,3,0
+standard,סטנדרטי,סטנדרטי,סטנדרטי,,3,1,2,0
+start cut here,התחל גזירה כאן,התחל גזירה כאן,התחל גזירה כאן,התחל גזירה כאן,4,1,3,0
+stereo,סטריאו,סטריאו,סטריאו,סטריאו,4,1,3,0
+switch to the next angle,העבר לזווית הבאה,העבר לזווית הבאה,העבר לזווית הבאה,העבר לזווית הבאה,4,1,3,0
+switch to the next audio track,העבר לפס השמע הבא,העבר לפס השמע הבא,העבר לפס השמע הבא,העבר לפס השמע הבא,4,1,3,0
+switch to the next subtitle language,העבר לשפת תרגום הבאה,העבר לשפת תרגום הבאה,העבר לשפת תרגום הבאה,העבר לשפת תרגום הבאה,4,1,3,0
+template file,קובץ תבנית,קובץ תבנית,קובץ תבנית,קובץ תבנית,4,1,3,0
+testing,,,עובד,,1,1,0,0
+this recording,ההקלטה הזו,ההקלטה הזו,ההקלטה הזו,ההקלטה הזו,4,1,3,0
+this service is protected by a parental control pin,שירות זה מוגן על ידי בקרת הורים,שירות זה מוגן על ידי בקרת הורים,שירות זה מוגן על ידי בקרת הורים,שירות זה מוגן על ידי בקרת הורים,4,1,3,0
+unconfirmed,,,לא אושר,,1,1,0,0
+unknown,לא ידוע,לא ידוע,לא ידוע,לא ידוע,4,1,3,0
+unknown service,שירות לא ידוע,שירות לא ידוע,שירות לא ידוע,שירות לא ידוע,4,1,3,0
+until standby/restart,,'','','',3,0,0,3
+user defined,,'','','',3,0,0,3
+vertical,,'','','',3,0,0,3
+wait for ci...,,'','','',3,0,0,3
+wait for mmi...,,'','','',3,0,0,3
+waiting,ממתין,ממתין,ממתין,ממתין,4,1,3,0
+weekly,שבועי,שבועי,שבועי,שבועי,4,1,3,0
+yellow,צהוב,צהוב,צהוב,צהוב,4,1,3,0
+yes,כן,כן,כן,כן,4,1,3,0
+yes (keep feeds),כן (שמור פידים),כן (שמור פידים),כן (שמור פידים),כן (שמור פידים),4,1,3,0
+zap,זיפזופ,זיפזופ,זיפזופ,זיפזופ,4,1,3,0
+zapped,זופזפ,זופזפ,זופזפ,זופזפ,4,1,3,0
+\nAdvanced options and settings.,\nאפשרויות מתקדמות והגדרות,\nאפשרויות מתקדמות והגדרות,,\nאפשרויות מתקדמות והגדרות,3,1,2,0
+\nEdit the upgrade source address.,\nערוך את כתובת מקור העדכון,\nערוך את כתובת מקור העדכון,,\nערוך את כתובת מקור העדכון,3,1,2,0
+\nRestore your backups by date.,\nשיחזור גיבויים לפי תאריך,\nשיחזור גיבויים לפי תאריך,,\nשיחזור גיבויים לפי תאריך,3,1,2,0
+\nScan for local extensions and install them.,\nסרוק לתוספות מקומיות והתקן אותם,\nסרוק לתוספות מקומיות והתקן אותם,,\nסרוק לתוספות מקומיות והתקן אותם,3,1,2,0
+\nSelect your backup device.\nCurrent device: ,\n.בחר את התקן הגיבוי\n:ההתקן הנוכחי ,\n.בחר את התקן הגיבוי\n:ההתקן הנוכחי ,,\n.בחר את התקן הגיבוי\n:ההתקן הנוכחי ,3,1,2,0
+"\nView, install and remove available or installed packages.","\n.הצג, התקן או הסר חבילות זמינות או מותקנות ","\n.הצג, התקן או הסר חבילות זמינות או מותקנות ",,"\n.הצג, התקן או הסר חבילות זמינות או מותקנות ",3,1,2,0
+%d jobs are running in the background!,,!עבודות רצות ברקע %d ,,!עבודות רצות ברקע %d ,2,1,1,0
+A recording is currently running. Please stop the recording before trying to configure the positioner.,".הקלטה פועלת כרגע, בבקשה עצור את ההקלטה לפני הגדרת הפוזישינר",".הקלטה פועלת כרגע, בבקשה עצור את ההקלטה לפני הגדרת הפוזישינר",,,2,1,1,0
+A recording is currently running. Please stop the recording before trying to start the satfinder.,".הקלטה פועלת כרגע, בבקשה עצור את ההקלטה לפני הפעלת הסאטפיינדר",".הקלטה פועלת כרגע, בבקשה עצור את ההקלטה לפני הפעלת הסאטפיינדר",,,2,1,1,0
+AA,,'',,,1,0,0,1
+AB,,'',,,1,0,0,1
+About...,...אודות,...אודות,,,2,1,1,0
+Active,פעיל,פעיל,,פעיל,3,1,2,0
+Automatic Scan,סריקה אוטומטית,סריקה אוטומטית,,סריקה אוטומטית,3,1,2,0
+BA,,'',,,1,0,0,1
+BB,,'',,,1,0,0,1
+Behavior of 0 key in PiP-mode,פעולת מקש ה - 0 במצב תמונה בתוך תמונה,פעולת מקש ה - 0 במצב תמונה בתוך תמונה,,פעולת מקש ה - 0 במצב תמונה בתוך תמונה,3,1,2,0
+Change pin code,שנה קוד אבטחה,שנה קוד אבטחה,,,2,1,1,0
+Common Interface Assignment,הקצאת ממשק משותף,הקצאת ממשק משותף,,,2,1,1,0
+Conflicting timer,טיימר מתנגש,טיימר מתנגש,,טיימר מתנגש,3,1,2,0
+Connected!,,! התחבר,,,1,1,0,0
+Constellation,,'',,,1,0,0,1
+Current version:,,'',,'',2,0,0,2
+Deep Standby,המתנה עמוקה,המתנה עמוקה,,המתנה עמוקה,3,1,2,0
+DiSEqC repeats,,'',,,1,0,0,1
+Dialing:,,:מחייג,,,1,1,0,0
+Disconnect,,לנתק,,,1,1,0,0
+Do you really want to check the filesystem?\nThis could take a long time!,? האם ברצונך לסמן את קבצי המערכת\n!זה עלול לקחת הרבה זמן,? האם ברצונך לסמן את קבצי המערכת\n!זה עלול לקחת הרבה זמן,,? האם ברצונך לסמן את קבצי המערכת\n!זה עלול לקחת הרבה זמן,3,1,2,0
+"Do you really want to download the plugin \""%s\""?","האם ברצונך להוריד את הפלאגין \""%s\""?","האם ברצונך להוריד את הפלאגין \""%s\""?",,"האם ברצונך להוריד את הפלאגין \""%s\""?",3,1,2,0
+"Do you really want to remove the plugin \""%s\""?","האם ברצונך להסיר את הפלאגין \""%s\""?","האם ברצונך להסיר את הפלאגין \""%s\""?",,"האם ברצונך להסיר את הפלאגין \""%s\""?",3,1,2,0
+Do you want to do a service scan?,?האם ברצונך לבצע סריקת שירותים,?האם ברצונך לבצע סריקת שירותים,,?האם ברצונך לבצע סריקת שירותים,3,1,2,0
+Do you want to do another manual service scan?,? האם ברצונך לבצע שוב סריקת שירותים ידנית,? האם ברצונך לבצע שוב סריקת שירותים ידנית,,? האם ברצונך לבצע שוב סריקת שירותים ידנית,3,1,2,0
+Do you want to upgrade the package:\n,?האם ברצונך לשדרג את החבילה\n,?האם ברצונך לשדרג את החבילה\n,,?האם ברצונך לשדרג את החבילה\n,3,1,2,0
+Download,הורד,הורד,,,2,1,1,0
+Edit bouquets list,,ערוך רשימת תיקיות ערוצים,,,1,1,0,0
+Edit services list,,ערוך רשימת שירותים,,,1,1,0,0
+Edit upgrade source url.,,'',,'',2,0,0,2
+Enable parental control,,אפשר בקרת הורים,,,1,1,0,0
+Error executing plugin,שגיאה בהרצת הפלאגין,שגיאה בהרצת הפלאגין,,שגיאה בהרצת הפלאגין,3,1,2,0
+Extended Networksetup Plugin...,...פלאגין הגדרת רשת נרחב,...פלאגין הגדרת רשת נרחב,,...פלאגין הגדרת רשת נרחב,3,1,2,0
+Extended Setup...,הגדרות נרחבות,הגדרות נרחבות,,הגדרות נרחבות,3,1,2,0
+Flash,,'',,,1,0,0,1
+Flashing failed,,'',,,1,0,0,1
+Install a new image with your web browser,התקן אימג' חדש עם הדפדפן שלך,התקן אימג' חדש עם הדפדפן שלך,,התקן אימג' חדש עם הדפדפן שלך,3,1,2,0
+Install extensions.,.התקן תוספות,.התקן תוספות,,.התקן תוספות,3,1,2,0
+Install or remove finished.,.התקנה או הסרה הסתיימה,.התקנה או הסרה הסתיימה,,.התקנה או הסרה הסתיימה,3,1,2,0
+Installation finished.,.התקנה הסתיימה,.התקנה הסתיימה,,.התקנה הסתיימה,3,1,2,0
+Instant record location,מיקום הקלטה מיידית,מיקום הקלטה מיידית,,מיקום הקלטה מיידית,3,1,2,0
+Intermediate,ביניים,ביניים,,ביניים,3,1,2,0
+Mainmenu,תפריט ראשי,תפריט ראשי,,תפריט ראשי,3,1,2,0
+NFI image flashing completed. Press Yellow to Reboot!,! הסתיימה. לחץ על הצהוב בכדי לאתחל NFI צריבת אימג,! הסתיימה. לחץ על הצהוב בכדי לאתחל NFI צריבת אימג,,,2,1,1,0
+Network Setup,הגדרת רשת,הגדרת רשת,,הגדרת רשת,3,1,2,0
+New version:,:גרסה חדשה,:גרסה חדשה,,:גרסה חדשה,3,1,2,0
+No backup needed,לא נדרש גיבוי,לא נדרש גיבוי,,לא נדרש גיבוי,3,1,2,0
+No details for this image file,אין מידע נוסף לאימג' הזה,אין מידע נוסף לאימג' הזה,,,2,1,1,0
+"No, do nothing.",".לא, לא לעשות כלום",".לא, לא לעשות כלום",,".לא, לא לעשות כלום",3,1,2,0
+"No, just start my %s %s",".לא, רק הפעל את הדרימבוקס",".לא, רק הפעל את הדרימבוקס",,".לא, רק הפעל את הדרימבוקס",3,1,2,0
+"No, scan later manually",".לא, סריקה ידנית מאוחר יותר",".לא, סריקה ידנית מאוחר יותר",,".לא, סריקה ידנית מאוחר יותר",3,1,2,0
+"OK, guide me through the upgrade process","בסדר, הדרך אותי במהלך השידרוג","בסדר, הדרך אותי במהלך השידרוג",,"בסדר, הדרך אותי במהלך השידרוג",3,1,2,0
+PIDs,,'',,,1,0,0,1
+Parental control type,,סוג בקרת הורים,,,1,1,0,0
+Password,סיסמא,סיסמא,,סיסמא,3,1,2,0
+Phone number,,מספר טלפון,,,1,1,0,0
+Play Audio-CD...,,'',,'',2,0,0,2
+Play Music...,,...נגן מוזיקה,,...נגן מוזיקה,2,1,1,0
+Please check your network settings!,,'',,,1,0,0,1
+Press OK to activate the selected skin.,,'',,,1,0,0,1
+Press OK to start the scan,לחץ אשר לתחילת הסריקה,לחץ אשר לתחילת הסריקה,,,2,1,1,0
+Protect setup,,'',,,1,0,0,1
+Provider to scan,,'',,,1,0,0,1
+Remove finished.,.הסרה הסתיימה,.הסרה הסתיימה,,.הסרה הסתיימה,3,1,2,0
+Remove timer,הסר טיימר,הסר טיימר,,הסר טיימר,3,1,2,0
+Restore is running...,...שחזור בפעולה,...שחזור בפעולה,,,2,1,1,0
+Satfinder,,'',,,1,0,0,1
+Select upgrade source to edit.,,'',,'',2,0,0,2
+Seperate titles with a main menu,,'',,'',2,0,0,2
+Set limits,,'',,'',2,0,0,2
+Show services beginning with,,'',,,1,0,0,1
+Signal Strength:,,'',,,1,0,0,1
+Single transponder,,'',,,1,0,0,1
+Software restore,שחזור תוכנה,שחזור תוכנה,,שחזור תוכנה,3,1,2,0
+Standby / Restart, איתחול / המתנה, איתחול / המתנה,,,2,1,1,0
+Terrestrial provider,,'',,,1,0,0,1
+The backup failed. Please choose a different backup location.,,'',,'',2,0,0,2
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,'',,,1,0,0,1
+The wizard can backup your current settings. Do you want to do a backup now?,?האשף יכול לבצע גיבוי להגדרות. האם אתה מעוניין לעשות זאת עכשיו,?האשף יכול לבצע גיבוי להגדרות. האם אתה מעוניין לעשות זאת עכשיו,,?האשף יכול לבצע גיבוי להגדרות. האם אתה מעוניין לעשות זאת עכשיו,3,1,2,0
+The wizard is finished now.,,'',,'',2,0,0,2
+There might not be enough space on the selected partition..\nDo you really want to continue?,,'',,'',2,0,0,2
+Timer record location,מיקום הקלטה לטיימר,מיקום הקלטה לטיימר,,מיקום הקלטה לטיימר,3,1,2,0
+Tuner status,Tuner מצב ה,Tuner מצב ה,,,2,1,1,0
+Upgrade finished.,.שדרוג הסתיים,.שדרוג הסתיים,,.שדרוג הסתיים,3,1,2,0
+Upgrading,משדרג,משדרג,,משדרג,3,1,2,0
+Username,שם משתמש,שם משתמש,,שם משתמש,3,1,2,0
+View Movies...,,...הצג סרטים,,...הצג סרטים,2,1,1,0
+View Video CD...,,'',,'',2,0,0,2
+What do you want to scan?,?מה ברצונל לסרוק,?מה ברצונל לסרוק,,?מה ברצונל לסרוק,3,1,2,0
+Where do you want to backup your settings?,,'',,'',2,0,0,2
+"Yes, backup my settings!","!כן, גבה את ההגדרות","!כן, גבה את ההגדרות",,"!כן, גבה את ההגדרות",3,1,2,0
+"Yes, do a manual scan now",,'',,'',2,0,0,2
+"Yes, do an automatic scan now",,'',,'',2,0,0,2
+"Yes, do another manual scan now",,'',,'',2,0,0,2
+"Yes, restore the settings now",,'',,'',2,0,0,2
+"Yes, shut down now.",,'',,'',2,0,0,2
+You have chosen to backup your settings. Please press OK to start the backup now.,,'',,'',2,0,0,2
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,'',,'',2,0,0,2
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.hdfreaks.cc.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,'',,,1,0,0,1
+Your %s %s is now ready to use.\n\nYour internet connection is working now.\n\nPlease press OK to continue.,,'',,,1,0,0,1
+Your %s %s is shutting down. Please wait...,,'',,'',2,0,0,2
+Your backup succeeded. We will now continue to explain the further upgrade process.,,'',,'',2,0,0,2
+Your config file is not well-formed:\n%s,,'',,,1,0,0,1
+Zap back to service before tuner setup?,?לזפזפ אחורנית לערוץ הקודם,?לזפזפ אחורנית לערוץ הקודם,,,2,1,1,0
+abort alternatives edit,,'',,,1,0,0,1
+abort bouquet edit,,'',,,1,0,0,1
+abort favourites edit,,'',,,1,0,0,1
+add alternatives,,'',,,1,0,0,1
+add bookmark,,'',,'',2,0,0,2
+add bouquet,,'',,,1,0,0,1
+add marker,הוסף סמן,הוסף סמן,,,2,1,1,0
+add service to bouquet,הוסף את הערוץ לתיקית הערוצים,הוסף את הערוץ לתיקית הערוצים,,,2,1,1,0
+add service to favourites,הוסף את הערוץ למועדפים,הוסף את הערוץ למועדפים,,,2,1,1,0
+add to parental protection,הוסף לבקרת הורים,הוסף לבקרת הורים,,,2,1,1,0
+complex,,'',,,1,0,0,1
+continue,המשך,המשך,,,2,1,1,0
+copy to bouquets,העתק לתיקית ערוצים,העתק לתיקית ערוצים,,,2,1,1,0
+create directory,צור תיקיה,צור תיקיה,,צור תיקיה,3,1,2,0
+delete,מחק,מחק,,מחק,3,1,2,0
+disable move mode,,'',,,1,0,0,1
+edit alternatives,,'',,,1,0,0,1
+enable bouquet edit,,'',,,1,0,0,1
+enable favourite edit,,'',,,1,0,0,1
+enable move mode,,'',,,1,0,0,1
+end alternatives edit,,'',,,1,0,0,1
+end bouquet edit,,'',,,1,0,0,1
+end favourites edit,,'',,,1,0,0,1
+equal to,,'',,,1,0,0,1
+fine-tune your display,,'',,,1,0,0,1
+free diskspace,מקום פנוי בכונן הקשיח,מקום פנוי בכונן הקשיח,,מקום פנוי בכונן הקשיח,3,1,2,0
+not used,לא בשימוש,לא בשימוש,,,2,1,1,0
+remove all alternatives,,'',,,1,0,0,1
+remove all new found flags,,'',,,1,0,0,1
+remove bookmark,,'',,'',2,0,0,2
+remove directory,,'',,'',2,0,0,2
+remove entry,,'',,,1,0,0,1
+remove from parental protection,,'',,,1,0,0,1
+remove new found flag,,'',,,1,0,0,1
+remove selected satellite,,'',,,1,0,0,1
+repeat playlist,,'',,'',2,0,0,2
+save last directory on exit,,'',,'',2,0,0,2
+save playlist on exit,,'',,'',2,0,0,2
+select,בחר,בחר,,בחר,3,1,2,0
+show alternatives,הראה אלטרנטיבות,הראה אלטרנטיבות,,,2,1,1,0
+show transponder info,transponder  הראה מידע על ה,transponder  הראה מידע על ה,,,2,1,1,0
+skip backward (enter time),דלג אחורה - הכנס זמן,דלג אחורה - הכנס זמן,,דלג אחורה - הכנס זמן,3,1,2,0
+skip forward (enter time),דלג קדימה - הכנס זמן,דלג קדימה - הכנס זמן,,דלג קדימה - הכנס זמן,3,1,2,0
+special characters,,תוויות מיוחדות,,,1,1,0,0
+start directory,התחל תיקיה,התחל תיקיה,,התחל תיקיה,3,1,2,0
+switch to bookmarks,העבר לסימניות,העבר לסימניות,,העבר לסימניות,3,1,2,0
+switch to filelist,העבר לרשימת הקבצים,העבר לרשימת הקבצים,,העבר לרשימת הקבצים,3,1,2,0
+view extensions...,...הצג תוספות,...הצג תוספות,,,2,1,1,0
+whitelist,,רשימה לבנה,,,1,1,0,0
+working,עובד,עובד,,עובד,3,1,2,0
+KA-SAT,,,,KA-SAT (9°E),1,1,0,0
+"You need a PC connected to your %s %s. If you need further instructions, please visit the website http://www.dm7025.de.\nYour %s %s will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,,,'',1,0,0,1
