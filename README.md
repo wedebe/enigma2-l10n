@@ -1,5 +1,5 @@
 # enigma2-l10n
-Aggregation of popular e2 image language files into a simple, (almost-)visual format.
+Aggregation of popular e2 image language (.po) files into a simple, (almost-)visual format.
 
 - [openATV](https://github.com/openatv/enigma2/tree/6.4/po)
 - [OpenHDF](https://github.com/openhdf/enigma2/tree/master/po)
