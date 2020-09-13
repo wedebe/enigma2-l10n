@@ -30,3 +30,4 @@ play|PLAY||Play|''||
 So far, translations are only read into each individual language's csv file. 
 The intention is to enable simpler bulk modifying/saving of po translation files 
 from an aggregated csv file.
+`msgstr_plural` entries aren't included
