@@ -1,1 +1,2280 @@
-msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
+msgid,openatv,openhdf,openpli,openvix,STATUS
+\nAdvanced options and settings.,,'',,,SOLITARY
+"\nAfter pressing OK, please wait!",,'',,,SOLITARY
+\nBackup your Dreambox settings.,,'',,,SOLITARY
+\nEdit the upgrade source address.,,'',,,SOLITARY
+\nManage extensions or plugins for your Dreambox,,'',,,SOLITARY
+\nOnline update of your Dreambox software.,,'',,,SOLITARY
+\nPress OK on your remote control to continue.,,'',,,SOLITARY
+\nProtocol:,,'',,,SOLITARY
+\nProvider:,,'',,,SOLITARY
+\nRestore your Dreambox settings.,,'',,,SOLITARY
+\nRestore your Dreambox with a new firmware.,,'',,,SOLITARY
+\nRestore your backups by date.,,'',,,SOLITARY
+\nScan for local extensions and install them.,,'',,,SOLITARY
+\nSelect your backup device.\nCurrent device: ,,'',,,SOLITARY
+\nShut down upgrade and reboot,,'',,,SOLITARY
+\nSystem will restart after the restore!,,'',,,SOLITARY
+"\nView, install and remove available or installed packages.",,'',,,SOLITARY
+ ,,'',,,SOLITARY
+ and,,'',,,SOLITARY
+ extensions.,,'',,,SOLITARY
+ has been sent to the AAF SVN team.\nplease quote ,,'',,,SOLITARY
+ ms,,'',,,SOLITARY
+ packages selected.,,'',,,SOLITARY
+ updates available.,,'',,,SOLITARY
+ wireless networks found!,,'',,,SOLITARY
+#000000,,'',,,SOLITARY
+#0064c7,,'',,,SOLITARY
+#25062748,,'',,,SOLITARY
+#389416,,'',,,SOLITARY
+#80000000,,'',,,SOLITARY
+#80ffffff,,'',,,SOLITARY
+#bab329,,'',,,SOLITARY
+#f23d21,,'',,,SOLITARY
+#ff0000,,'',,,SOLITARY
+#ffff7f,,'',,,SOLITARY
+#ffffff,,'',,,SOLITARY
+#ffffffff,,'',,,SOLITARY
+%H:%M,,'',,,SOLITARY
+%d jobs are running in the background!,,'',,,SOLITARY
+%d min,,'',,,SOLITARY
+%d services found!,,'',,,SOLITARY
+%d.%B %Y,,'',,,SOLITARY
+%s (%s)\n,,'',,,SOLITARY
+( All readers),,'',,,SOLITARY
+(Beta),,'',,,SOLITARY
+(Release),,'',,,SOLITARY
+(Show only reader:,,'',,,SOLITARY
+(ZAP),,'',,,SOLITARY
+(empty),,'',,,SOLITARY
+(show optional DVD audio menu),,'',,,SOLITARY
+* Only available if more than one interface is active.,,'',,,SOLITARY
+/usr/share/enigma2 directory,,'',,,SOLITARY
+/var directory,,'',,,SOLITARY
+0,,'',,,SOLITARY
+1,,'',,,SOLITARY
+1 wireless network found!,,'',,,SOLITARY
+1.0,,'',,,SOLITARY
+1.1,,'',,,SOLITARY
+1.2,,'',,,SOLITARY
+12V output,,'',,,SOLITARY
+13 V,,'',,,SOLITARY
+14-16,,'',,,SOLITARY
+16:10,,'',,,SOLITARY
+16:10 Letterbox,,'',,,SOLITARY
+16:10 PanScan,,'',,,SOLITARY
+16:9,,'',,,SOLITARY
+16:9 Letterbox,,'',,,SOLITARY
+16:9 always,,'',,,SOLITARY
+18 V,,'',,,SOLITARY
+1X,,'',,,SOLITARY
+2,,'',,,SOLITARY
+2X,,'',,,SOLITARY
+3,,'',,,SOLITARY
+30 Days,,'',,,SOLITARY
+30 minutes,,'',,,SOLITARY
+3X,,'',,,SOLITARY
+3d mode,,'',,,SOLITARY
+4,,'',,,SOLITARY
+4:3,,'',,,SOLITARY
+4:3 Letterbox,,'',,,SOLITARY
+4:3 PanScan,,'',,,SOLITARY
+5,,'',,,SOLITARY
+5 minutes,,'',,,SOLITARY
+6,,'',,,SOLITARY
+60 minutes,,'',,,SOLITARY
+7,,'',,,SOLITARY
+7-8,,'',,,SOLITARY
+8,,'',,,SOLITARY
+9,,'',,,SOLITARY
+<Current movielist location>,,'',,,SOLITARY
+<Default movie location>,,'',,,SOLITARY
+<Last timer location>,,'',,,SOLITARY
+<unknown>,,'',,,SOLITARY
+??,,'',,,SOLITARY
+A,,'',,,SOLITARY
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,,'',,,SOLITARY
+A demo plugin for TPM usage.,,'',,,SOLITARY
+A finished record timer wants to set your\nDreambox to standby. Do that now?,,'',,,SOLITARY
+A finished record timer wants to shut down\nyour Dreambox. Shutdown now?,,'',,,SOLITARY
+A graphical EPG for all services of an specific bouquet,,'',,,SOLITARY
+A recording has been started:\n%s,,'',,,SOLITARY
+A recording is currently running.\nWhat do you want to do?,,'',,,SOLITARY
+A recording is currently running. Please stop the recording before trying to configure the positioner.,,'',,,SOLITARY
+A recording is currently running. Please stop the recording before trying to scan.,,'',,,SOLITARY
+A recording is currently running. Please stop the recording before trying to start the satfinder.,,'',,,SOLITARY
+A required tool (%s) was not found.,,'',,,SOLITARY
+A search for available updates is currently in progress.,,'',,,SOLITARY
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,,'',,,SOLITARY
+A sleep timer wants to set your\nDreambox to standby. Do that now?,,'',,,SOLITARY
+A sleep timer wants to shut down\nyour Dreambox. Shutdown now?,,'',,,SOLITARY
+A small overview of the available icon states and actions.,,'',,,SOLITARY
+A timer failed to record!\nDisable TV and try again?\n,,'',,,SOLITARY
+A/V Settings,,'',,,SOLITARY
+AA,,'',,,SOLITARY
+AB,,'',,,SOLITARY
+AC3 downmix,,'',,,SOLITARY
+AFP Setup,,'',,,SOLITARY
+AVL Xtrend blindscan running... please wait,,'',,,SOLITARY
+Abort,,'',,,SOLITARY
+About,,'',,,SOLITARY
+About...,,'',,,SOLITARY
+Accesspoint:,,'',,,SOLITARY
+Action on long powerbutton press,,'',,,SOLITARY
+Action on short powerbutton press,,'',,,SOLITARY
+Action:,,'',,,SOLITARY
+Activate,,'',,,SOLITARY
+Activate Picture in Picture,,'',,,SOLITARY
+Activate network settings,,'',,,SOLITARY
+Active,,'',,,SOLITARY
+Active clients,,'',,,SOLITARY
+Adapter settings,,'',,,SOLITARY
+Add,,'',,,SOLITARY
+Add AutoTimer,,'',,,SOLITARY
+Add Bookmark,,'',,,SOLITARY
+Add WLAN configuration?,,'',,,SOLITARY
+Add a mark,,'',,,SOLITARY
+Add a new title,,'',,,SOLITARY
+Add network configuration?,,'',,,SOLITARY
+Add timer,,'',,,SOLITARY
+Add title,,'',,,SOLITARY
+Add to bouquet,,'',,,SOLITARY
+Add to favourites,,'',,,SOLITARY
+Address,,'',,,SOLITARY
+"Adds enigma2 settings and dreambox model informations like SN, rev... if enabled.",,'',,,SOLITARY
+Adds network configuration if enabled.,,'',,,SOLITARY
+Adds wlan configuration if enabled.,,'',,,SOLITARY
+Addtional Info,,'',,,SOLITARY
+Adjust 3D settings,,'',,,SOLITARY
+Adjust display scrolling and symbols,,'',,,SOLITARY
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.",,'',,,SOLITARY
+Advanced Options,,'',,,SOLITARY
+Advanced Software,,'',,,SOLITARY
+Advanced Software Plugin,,'',,,SOLITARY
+Advanced Video Enhancement Setup,,'',,,SOLITARY
+Advanced Video Setup,,'',,,SOLITARY
+Advanced restore,,'',,,SOLITARY
+After event,,'',,,SOLITARY
+"After the start wizard is completed, you need to protect single services. Refer to your dreambox's manual on how to do that.",,'',,,SOLITARY
+Album,,'',,,SOLITARY
+Alias,,'',,,SOLITARY
+Alias:,,'',,,SOLITARY
+All,,'',,,SOLITARY
+All Satellites,,'',,,SOLITARY
+Allow Subtiles equals Audio mask,,'',,,SOLITARY
+Allow hearing impaired subtitles,,'',,,SOLITARY
+Alpha,,'',,,SOLITARY
+Alphanumeric,,'',,,SOLITARY
+Alternative radio mode,,'',,,SOLITARY
+Alternative services tuner priority,,'',,,SOLITARY
+Always ask,,'',,,SOLITARY
+Always ask before sending,,'',,,SOLITARY
+Always show bouquets,,'',,,SOLITARY
+An empty filename is illegal.,,'',,,SOLITARY
+An unknown error occured!,,'',,,SOLITARY
+Anonymize crashlog?,,'',,,SOLITARY
+April,,'',,,SOLITARY
+Are you sure you want to activate this network configuration?\n\n,,'',,,SOLITARY
+Are you sure you want to delete\nfollowing backup:\n,,'',,,SOLITARY
+Are you sure you want to delete all selected logs:\n,,'',,,SOLITARY
+Are you sure you want to delete this log:\n,,'',,,SOLITARY
+Are you sure you want to exit this wizard?,,'',,,SOLITARY
+Are you sure you want to reload the EPG data from:\n,,'',,,SOLITARY
+Are you sure you want to restart your network interfaces?\n\n,,'',,,SOLITARY
+Are you sure you want to restore\nfollowing backup:\n,,'',,,SOLITARY
+Are you sure you want to restore your Enigma2 backup?\nEnigma2 will restart after the restore,,'',,,SOLITARY
+Are you sure you want to save the EPG Cache to:\n,,'',,,SOLITARY
+Are you sure you want to send this log:\n,,'',,,SOLITARY
+Artist,,'',,,SOLITARY
+Ask before shutdown:,,'',,,SOLITARY
+Ask user,,'',,,SOLITARY
+Aspect Ratio,,'',,,SOLITARY
+Atheros,,'',,,SOLITARY
+Attach a file,,'',,,SOLITARY
+Audio,,'',,,SOLITARY
+Audio Options...,,'',,,SOLITARY
+Audio language selection 1,,'',,,SOLITARY
+Audio language selection 2,,'',,,SOLITARY
+Audio language selection 3,,'',,,SOLITARY
+Audio language selection 4,,'',,,SOLITARY
+August,,'',,,SOLITARY
+Author: ,,'',,,SOLITARY
+Authoring mode,,'',,,SOLITARY
+Auto,,'',,,SOLITARY
+Auto Language Selection,,'',,,SOLITARY
+Auto chapter split every ? minutes (0=never),,'',,,SOLITARY
+Auto flesh,,'',,,SOLITARY
+Auto scart switching,,'',,,SOLITARY
+AutoTimer,,'',,,SOLITARY
+Automatic,,'',,,SOLITARY
+Automatic Scan,,'',,,SOLITARY
+Automatically update Client/Server View?,,'',,,SOLITARY
+Autostart,,'',,,SOLITARY
+Autostart Disabled.,,'',,,SOLITARY
+Autostart Enabled.,,'',,,SOLITARY
+Autostart:,,'',,,SOLITARY
+Available format variables,,'',,,SOLITARY
+Available shares:,,'',,,SOLITARY
+B,,'',,,SOLITARY
+BA,,'',,,SOLITARY
+BB,,'',,,SOLITARY
+BER,,'',,,SOLITARY
+BER:,,'',,,SOLITARY
+Back,,'',,,SOLITARY
+Background,,'',,,SOLITARY
+Background delete option,,'',,,SOLITARY
+Background delete speed,,'',,,SOLITARY
+Backup,,'',,,SOLITARY
+Backup Location,,'',,,SOLITARY
+Backup Mode,,'',,,SOLITARY
+Backup done.,,'',,,SOLITARY
+Backup failed.,,'',,,SOLITARY
+Backup is running...,,'',,,SOLITARY
+Backup system settings,,'',,,SOLITARY
+Band,,'',,,SOLITARY
+Bandwidth,,'',,,SOLITARY
+Begin time,,'',,,SOLITARY
+Behavior of 'pause' when paused,,'',,,SOLITARY
+Behavior of 0 key in PiP-mode,,'',,,SOLITARY
+Behavior when a movie is started,,'',,,SOLITARY
+Behavior when a movie is stopped,,'',,,SOLITARY
+Behavior when a movie reaches the end,,'',,,SOLITARY
+Bitrate:,,'',,,SOLITARY
+Black screen,,'',,,SOLITARY
+Black screen till locked,,'',,,SOLITARY
+Blindscan,,'',,,SOLITARY
+Block noise reduction,,'',,,SOLITARY
+Blue boost,,'',,,SOLITARY
+Bookmarks,,'',,,SOLITARY
+Bouquet List,,'',,,SOLITARY
+Brightness,,'',,,SOLITARY
+Build:,,'',,,SOLITARY
+Burn DVD,,'',,,SOLITARY
+Burn existing image to DVD,,'',,,SOLITARY
+Burn to DVD,,'',,,SOLITARY
+Bus: ,,'',,,SOLITARY
+Button Setup,,'',,,SOLITARY
+By AAF Team,,'',,,SOLITARY
+"By pressing the OK Button on your remote control, the info bar is being displayed.",,'',,,SOLITARY
+C,,'',,,SOLITARY
+C-Band,,'',,,SOLITARY
+CAID,,'',,,SOLITARY
+CCcam Info,,'',,,SOLITARY
+CCcam Info %s\nby AliAbdul %s\n\nThis plugin shows you the status of your CCcam.,,'',,,SOLITARY
+CF Drive,,'',,,SOLITARY
+CI assignment,,'',,,SOLITARY
+CVBS,,'',,,SOLITARY
+CaID: ,,'',,,SOLITARY
+Cable,,'',,,SOLITARY
+Cable Scan,,'',,,SOLITARY
+Cache Thumbnails,,'',,,SOLITARY
+Cancel,,'',,,SOLITARY
+Cannot move files on a different disk or system to the trash can,,'',,,SOLITARY
+Cannot move to trash can,,'',,,SOLITARY
+Capacity: ,,'',,,SOLITARY
+Card infos (CCcam-Reader),,'',,,SOLITARY
+Cards:,,'',,,SOLITARY
+Cards: ,,'',,,SOLITARY
+Cards: 0,,'',,,SOLITARY
+Cardserial,,'',,,SOLITARY
+Centered DVB subtitles,,'',,,SOLITARY
+Change bouquets in quickzap,,'',,,SOLITARY
+Change pin code,,'',,,SOLITARY
+Change service PIN,,'',,,SOLITARY
+Change service PINs,,'',,,SOLITARY
+Change setup PIN,,'',,,SOLITARY
+Change step size,,'',,,SOLITARY
+Changelog,,'',,,SOLITARY
+Channel,,'',,,SOLITARY
+Channel +/- button mode,,'',,,SOLITARY
+Channel 1 at Start,,'',,,SOLITARY
+Channel Info,,'',,,SOLITARY
+Channel List,,'',,,SOLITARY
+Channel Selection,,'',,,SOLITARY
+Channel list preview mode,,'',,,SOLITARY
+Channel list service mode,,'',,,SOLITARY
+Channel not in services list,,'',,,SOLITARY
+Channel:,,'',,,SOLITARY
+Channellist menu,,'',,,SOLITARY
+Chap.,,'',,,SOLITARY
+Chapter,,'',,,SOLITARY
+Chapter:,,'',,,SOLITARY
+Check,,'',,,SOLITARY
+Checking Filesystem...,,'',,,SOLITARY
+Checking Version...,,'',,,SOLITARY
+Choose Tuner,,'',,,SOLITARY
+Choose a wireless network,,'',,,SOLITARY
+Choose backup files,,'',,,SOLITARY
+Choose backup location,,'',,,SOLITARY
+Choose bouquet,,'',,,SOLITARY
+Choose image to download,,'',,,SOLITARY
+Choose target folder,,'',,,SOLITARY
+Choose upgrade source,,'',,,SOLITARY
+Choose your Skin,,'',,,SOLITARY
+Circular left,,'',,,SOLITARY
+Circular right,,'',,,SOLITARY
+Cleanup,,'',,,SOLITARY
+Cleanup Wizard,,'',,,SOLITARY
+Cleanup Wizard settings,,'',,,SOLITARY
+CleanupWizard,,'',,,SOLITARY
+Clear before scan,,'',,,SOLITARY
+Clear log,,'',,,SOLITARY
+Clients,,'',,,SOLITARY
+Close,,'',,,SOLITARY
+Close title selection,,'',,,SOLITARY
+Code rate high,,'',,,SOLITARY
+Code rate low,,'',,,SOLITARY
+CodeRateHP,,'',,,SOLITARY
+CodeRateLP,,'',,,SOLITARY
+Coderate HP,,'',,,SOLITARY
+Coderate LP,,'',,,SOLITARY
+Collection name,,'',,,SOLITARY
+Collection settings,,'',,,SOLITARY
+Color Format,,'',,,SOLITARY
+Command execution...,,'',,,SOLITARY
+Command order,,'',,,SOLITARY
+Committed DiSEqC command,,'',,,SOLITARY
+Common Interface,,'',,,SOLITARY
+Common Interface Assignment,,'',,,SOLITARY
+CommonInterface,,'',,,SOLITARY
+Communication,,'',,,SOLITARY
+Complete,,'',,,SOLITARY
+Complex (allows mixing audio tracks and aspects),,'',,,SOLITARY
+Composition of the recording filenames,,'',,,SOLITARY
+Configfile %s saved.,,'',,,SOLITARY
+Configuration Mode,,'',,,SOLITARY
+Configure interface,,'',,,SOLITARY
+Configure nameservers,,'',,,SOLITARY
+Configure your internal LAN,,'',,,SOLITARY
+Configure your network again,,'',,,SOLITARY
+"Configure your network settings, and press OK to start the scan",,'',,,SOLITARY
+Configure your wireless LAN again,,'',,,SOLITARY
+Configuring,,'',,,SOLITARY
+Conflicting timer,,'',,,SOLITARY
+Connect,,'',,,SOLITARY
+Connect to a Wireless Network,,'',,,SOLITARY
+Connected clients,,'',,,SOLITARY
+Connected to,,'',,,SOLITARY
+Connected!,,'',,,SOLITARY
+Connected: ,,'',,,SOLITARY
+Constellation,,'',,,SOLITARY
+Content,,'',,,SOLITARY
+Content does not fit on DVD!,,'',,,SOLITARY
+Continue,,'',,,SOLITARY
+Continue in background,,'',,,SOLITARY
+Continue playing,,'',,,SOLITARY
+Continues,,'',,,SOLITARY
+Contrast,,'',,,SOLITARY
+Convert ext3 to ext4,,'',,,SOLITARY
+Convert ext3 to ext4...,,'',,,SOLITARY
+Convert filesystem ext3 to ext4,,'',,,SOLITARY
+Cool TV Guide,,'',,,SOLITARY
+Copy,,'',,,SOLITARY
+Could not activate Permanent-Timeshift!\nTimeshift-Path does not exist,,'',,,SOLITARY
+Could not connect to Dreambox .NFI Image Feed Server:,,'',,,SOLITARY
+Could not load Medium! No disc inserted?,,'',,,SOLITARY
+Could not open Picture in Picture,,'',,,SOLITARY
+Could not open the file %s!,,'',,,SOLITARY
+Could not save configfile %s!,,'',,,SOLITARY
+Couldn't record due to conflicting timer %s,,'',,,SOLITARY
+Crash Logs,,'',,,SOLITARY
+Crashlog settings,,'',,,SOLITARY
+CrashlogAutoSubmit,,'',,,SOLITARY
+CrashlogAutoSubmit settings,,'',,,SOLITARY
+CrashlogAutoSubmit settings...,,'',,,SOLITARY
+Crashlogs found!\nSend them to Dream Multimedia?,,'',,,SOLITARY
+Create DVD-ISO,,'',,,SOLITARY
+Create Filesystem,,'',,,SOLITARY
+Create Partition,,'',,,SOLITARY
+Create more detailed crash log,,'',,,SOLITARY
+Create movie directory,,'',,,SOLITARY
+Create movie folder failed,,'',,,SOLITARY
+Creating AP and SC Files,,'',,,SOLITARY
+Creating Hardlink to Timeshift file failed!,,'',,,SOLITARY
+Creating directory %s failed.,,'',,,SOLITARY
+Creating partition failed,,'',,,SOLITARY
+Current Event:,,'',,,SOLITARY
+Current Status:,,'',,,SOLITARY
+Current Transponder,,'',,,SOLITARY
+Current device: ,,'',,,SOLITARY
+Current settings:,,'',,,SOLITARY
+Current time,,'',,,SOLITARY
+Current value: ,,'',,,SOLITARY
+Current version:,,'',,,SOLITARY
+Currently installed image,,'',,,SOLITARY
+Custom skip time for '1'/'3'-keys,,'',,,SOLITARY
+Custom skip time for '4'/'6'-keys,,'',,,SOLITARY
+Custom skip time for '7'/'9'-keys,,'',,,SOLITARY
+Custom text alignment,,'',,,SOLITARY
+Custom text position,,'',,,SOLITARY
+Customize,,'',,,SOLITARY
+Cut,,'',,,SOLITARY
+Cutlist editor...,,'',,,SOLITARY
+D,,'',,,SOLITARY
+DHCP,,'',,,SOLITARY
+DUAL LAYER DVD,,'',,,SOLITARY
+DVB subtitle black transparency,,'',,,SOLITARY
+DVB-S,,'',,,SOLITARY
+DVB-S2,,'',,,SOLITARY
+DVD File Browser,,'',,,SOLITARY
+DVD Player,,'',,,SOLITARY
+DVD Titlelist,,'',,,SOLITARY
+DVD media toolbox,,'',,,SOLITARY
+Daily,,'',,,SOLITARY
+Date,,'',,,SOLITARY
+Debug Log location,,'',,,SOLITARY
+Debug Logs,,'',,,SOLITARY
+December,,'',,,SOLITARY
+Decide if you want to enable or disable the Cleanup Wizard.,,'',,,SOLITARY
+Decide what should be done when crashlogs are found.,,'',,,SOLITARY
+Decide what should happen to the crashlogs after submission.,,'',,,SOLITARY
+Deep Standby,,'',,,SOLITARY
+Default,,'',,,SOLITARY
+Default Settings,,'',,,SOLITARY
+Default movie location,,'',,,SOLITARY
+Delay,,'',,,SOLITARY
+Delete,,'',,,SOLITARY
+Delete %s?,,'',,,SOLITARY
+Delete Confirmation,,'',,,SOLITARY
+Delete crashlogs,,'',,,SOLITARY
+Delete entry,,'',,,SOLITARY
+Delete failed!,,'',,,SOLITARY
+Delete no more configured satellite\n%s?,,'',,,SOLITARY
+Deleted %s!,,'',,,SOLITARY
+Deleted items,,'',,,SOLITARY
+Depth,,'',,,SOLITARY
+Description,,'',,,SOLITARY
+Deselect,,'',,,SOLITARY
+Details for plugin: ,,'',,,SOLITARY
+Detected Devices:,,'',,,SOLITARY
+Detected NIMs:,,'',,,SOLITARY
+Device Setup,,'',,,SOLITARY
+DiSEqC,,'',,,SOLITARY
+DiSEqC A/B,,'',,,SOLITARY
+DiSEqC A/B/C/D,,'',,,SOLITARY
+DiSEqC mode,,'',,,SOLITARY
+DiSEqC repeats,,'',,,SOLITARY
+DiSEqC-Tester settings,,'',,,SOLITARY
+Dialing:,,'',,,SOLITARY
+Digital contour removal,,'',,,SOLITARY
+Digital downmix,,'',,,SOLITARY
+Direct playback of linked titles without menu,,'',,,SOLITARY
+Directory,,'',,,SOLITARY
+Directory %s nonexistent.,,'',,,SOLITARY
+Directory browser,,'',,,SOLITARY
+Disable,,'',,,SOLITARY
+Disable Picture in Picture,,'',,,SOLITARY
+Disable background scanning,,'',,,SOLITARY
+Disable crashlog reporting,,'',,,SOLITARY
+Disable timer,,'',,,SOLITARY
+Disabled,,'',,,SOLITARY
+Disconnect,,'',,,SOLITARY
+Dish,,'',,,SOLITARY
+Disk space to reserve for recordings (in GB),,'',,,SOLITARY
+Display 16:9 content as,,'',,,SOLITARY
+Display 4:3 content as,,'',,,SOLITARY
+Display >16:9 content as,,'',,,SOLITARY
+Display Setup,,'',,,SOLITARY
+Display and Userinterface,,'',,,SOLITARY
+"Do you really want to REMOVE\nthe plugin \""%s\""?",,'',,,SOLITARY
+Do you really want to check the filesystem?\nThis could take lots of time!,,'',,,SOLITARY
+Do you really want to convert the filesystem?\nYou cannot go back!,,'',,,SOLITARY
+Do you really want to delete %s?,,'',,,SOLITARY
+"Do you really want to download\nthe plugin \""%s\""?",,'',,,SOLITARY
+Do you really want to exit?,,'',,,SOLITARY
+Do you really want to initialize the device?\nAll data on the disk will be lost!,,'',,,SOLITARY
+Do you really want to remove directory %s from the disk?,,'',,,SOLITARY
+Do you really want to remove your bookmark of %s?,,'',,,SOLITARY
+Do you want to add any additional infomation ?,,'',,,SOLITARY
+Do you want to attach a text file to explain the log ?\n(choose 'No' to type message using virtual keyboard.),,'',,,SOLITARY
+"Do you want to backup now?\nAfter pressing OK, please wait!",,'',,,SOLITARY
+Do you want to burn this collection to DVD medium?,,'',,,SOLITARY
+Do you want to delete all selected files:\n(choose 'No' to only delete the currently selected file.),,'',,,SOLITARY
+Do you want to do a service scan?,,'',,,SOLITARY
+Do you want to do another manual service scan?,,'',,,SOLITARY
+Do you want to download the image to %s ?,,'',,,SOLITARY
+Do you want to enable the parental control feature on your dreambox?,,'',,,SOLITARY
+Do you want to install the package:\n,,'',,,SOLITARY
+Do you want to play DVD in drive?,,'',,,SOLITARY
+Do you want to preview this DVD before burning?,,'',,,SOLITARY
+Do you want to reboot your Dreambox?,,'',,,SOLITARY
+Do you want to remove the package:\n,,'',,,SOLITARY
+Do you want to restore your settings?,,'',,,SOLITARY
+Do you want to resume this playback?,,'',,,SOLITARY
+Do you want to send all selected files:\n(choose 'No' to only send the currently selected file.),,'',,,SOLITARY
+Do you want to submit your email address and name so that we can contact you if needed?,,'',,,SOLITARY
+Do you want to update your Dreambox?,,'',,,SOLITARY
+"Do you want to update your Dreambox?\nAfter pressing OK, please wait!",,'',,,SOLITARY
+Do you want to upgrade the package:\n,,'',,,SOLITARY
+Do you want to upgrade?,,'',,,SOLITARY
+Do you want to view a tutorial?,,'',,,SOLITARY
+"Don't ask, just send",,'',,,SOLITARY
+Don't save,,'',,,SOLITARY
+Don't save Timeshift as Movie,,'',,,SOLITARY
+Don't stop current event but disable coming events,,'',,,SOLITARY
+Done - Installed or upgraded %d packages,,'',,,SOLITARY
+"Done - Installed, upgraded or removed %d packages with %d errors",,'',,,SOLITARY
+Download,,'',,,SOLITARY
+Download %s from Server,,'',,,SOLITARY
+Download .NFI-Files for USB-Flasher,,'',,,SOLITARY
+Download Plugins,,'',,,SOLITARY
+Downloadable new plugins,,'',,,SOLITARY
+Downloadable plugins,,'',,,SOLITARY
+Downloaded ,,'',,,SOLITARY
+Downloading,,'',,,SOLITARY
+Downloading file...,,'',,,SOLITARY
+Downloading plugin information. Please wait...,,'',,,SOLITARY
+Downloading...,,'',,,SOLITARY
+Dreambox format data DVD (HDTV compatible),,'',,,SOLITARY
+Dreambox software because updates are available.,,'',,,SOLITARY
+Dynamic contrast,,'',,,SOLITARY
+E,,'',,,SOLITARY
+ECM Statistics,,'',,,SOLITARY
+ECM Time,,'',,,SOLITARY
+ECM avg,,'',,,SOLITARY
+ECM last,,'',,,SOLITARY
+ECM-Time,,'',,,SOLITARY
+EPG,,'',,,SOLITARY
+EPG Search,,'',,,SOLITARY
+EPG Selection,,'',,,SOLITARY
+EPG Setup,,'',,,SOLITARY
+EPG buton mode,,'',,,SOLITARY
+EPG filename,,'',,,SOLITARY
+EPG location,,'',,,SOLITARY
+EPGSearch,,'',,,SOLITARY
+ERROR - failed to scan (%s)!,,'',,,SOLITARY
+East,,'',,,SOLITARY
+Ecm:,,'',,,SOLITARY
+Edit,,'',,,SOLITARY
+Edit DNS,,'',,,SOLITARY
+Edit Title,,'',,,SOLITARY
+Edit bouquets list,,'',,,SOLITARY
+Edit chapters of current title,,'',,,SOLITARY
+Edit services list,,'',,,SOLITARY
+Edit settings,,'',,,SOLITARY
+Edit the Nameserver configuration of your Dreambox.\n,,'',,,SOLITARY
+Edit the network configuration of your Dreambox.\n,,'',,,SOLITARY
+Edit title,,'',,,SOLITARY
+Edit upgrade source url.,,'',,,SOLITARY
+Electronic Program Guide,,'',,,SOLITARY
+Enable,,'',,,SOLITARY
+Enable 5V for active antenna,,'',,,SOLITARY
+Enable Cleanup Wizard?,,'',,,SOLITARY
+Enable Debug log,,'',,,SOLITARY
+Enable EIT EPG,,'',,,SOLITARY
+Enable MHW EPG,,'',,,SOLITARY
+Enable Netmed EPG,,'',,,SOLITARY
+Enable Picon,,'',,,SOLITARY
+Enable ViaSat EPG,,'',,,SOLITARY
+Enable freesat EPG,,'',,,SOLITARY
+Enable multiple bouquets,,'',,,SOLITARY
+Enable panic button,,'',,,SOLITARY
+Enable parental control,,'',,,SOLITARY
+Enable teletext caching,,'',,,SOLITARY
+Enable timer,,'',,,SOLITARY
+Enabled,,'',,,SOLITARY
+Encrypted: ,,'',,,SOLITARY
+Encryption,,'',,,SOLITARY
+Encryption Key,,'',,,SOLITARY
+Encryption Keytype,,'',,,SOLITARY
+Encryption Type,,'',,,SOLITARY
+Encryption:,,'',,,SOLITARY
+End time,,'',,,SOLITARY
+EndTime,,'',,,SOLITARY
+Enigma2 Skinselector\n\nIf you experience any problems please contact\nstephan@reichholf.net\n\n© 2006 - Stephan Reichholf,,'',,,SOLITARY
+Enter main menu...,,'',,,SOLITARY
+Enter pin code,,'',,,SOLITARY
+Enter the service pin,,'',,,SOLITARY
+Enter your email address so that we can contact you if needed.,,'',,,SOLITARY
+Entitlements,,'',,,SOLITARY
+Error,,'',,,SOLITARY
+Error code,,'',,,SOLITARY
+Error executing plugin,,'',,,SOLITARY
+Error reading webpage!,,'',,,SOLITARY
+Error:\n%s,,'',,,SOLITARY
+Error: %s\nRetry?,,'',,,SOLITARY
+Event Fontsize,,'',,,SOLITARY
+Eventview,,'',,,SOLITARY
+Eventview menu,,'',,,SOLITARY
+Everything is fine,,'',,,SOLITARY
+Everywhere,,'',,,SOLITARY
+Exceeds dual layer medium!,,'',,,SOLITARY
+Execution Progress:,,'',,,SOLITARY
+Execution finished!!,,'',,,SOLITARY
+Exif,,'',,,SOLITARY
+Exit,,'',,,SOLITARY
+Exit editor,,'',,,SOLITARY
+Exit input device selection.,,'',,,SOLITARY
+Exit network wizard,,'',,,SOLITARY
+Exit the cleanup wizard,,'',,,SOLITARY
+Exit the wizard,,'',,,SOLITARY
+Exit wizard,,'',,,SOLITARY
+Experimental,,'',,,SOLITARY
+Expert,,'',,,SOLITARY
+Extended Networksetup Plugin...,,'',,,SOLITARY
+Extended Setup...,,'',,,SOLITARY
+Extended Shares,,'',,,SOLITARY
+Extended Software,,'',,,SOLITARY
+Extended Software Plugin,,'',,,SOLITARY
+Extensions,,'',,,SOLITARY
+Extensions management,,'',,,SOLITARY
+FEC,,'',,,SOLITARY
+FEC inner,,'',,,SOLITARY
+FPGA Upgrade,,'',,,SOLITARY
+FTA,,'',,,SOLITARY
+FTP Setup,,'',,,SOLITARY
+Factory reset,,'',,,SOLITARY
+Fail to upgrade.\nCause : ,,'',,,SOLITARY
+Failed,,'',,,SOLITARY
+Fan %d,,'',,,SOLITARY
+Fan %d PWM,,'',,,SOLITARY
+Fan %d Voltage,,'',,,SOLITARY
+Fan Control,,'',,,SOLITARY
+Fan basic action,,'',,,SOLITARY
+Fan control,,'',,,SOLITARY
+Fan mode,,'',,,SOLITARY
+Fan off duration time,,'',,,SOLITARY
+Fan on duration time,,'',,,SOLITARY
+Fast,,'',,,SOLITARY
+Fast DiSEqC,,'',,,SOLITARY
+Fast Forward speeds,,'',,,SOLITARY
+Fast Scan,,'',,,SOLITARY
+Fast epoch,,'',,,SOLITARY
+Favourites,,'',,,SOLITARY
+February,,'',,,SOLITARY
+File appears to be busy.\n,,'',,,SOLITARY
+File not found,,'',,,SOLITARY
+File oscam.conf not found.\nPlease enter username/password manually.,,'',,,SOLITARY
+Filesystem Check,,'',,,SOLITARY
+Filesystem contains uncorrectable errors,,'',,,SOLITARY
+Finetune,,'',,,SOLITARY
+Finished,,'',,,SOLITARY
+Finished configuring your network,,'',,,SOLITARY
+Finished restarting your network,,'',,,SOLITARY
+Flash,,'',,,SOLITARY
+Flashing failed,,'',,,SOLITARY
+Following tasks will be done after you press OK!,,'',,,SOLITARY
+Format,,'',,,SOLITARY
+Frame size in full view,,'',,,SOLITARY
+Free memory,,'',,,SOLITARY
+Free memory:,,'',,,SOLITARY
+Free to Air,,'',,,SOLITARY
+Free:,,'',,,SOLITARY
+Frequency,,'',,,SOLITARY
+Frequency bands,,'',,,SOLITARY
+Frequency scan step size(khz),,'',,,SOLITARY
+Frequency steps,,'',,,SOLITARY
+Fri,,'',,,SOLITARY
+Friday,,'',,,SOLITARY
+Frontprocessor version: %d,,'',,,SOLITARY
+Fsck failed,,'',,,SOLITARY
+Ftp service Disabled.,,'',,,SOLITARY
+Ftp service Enabled.,,'',,,SOLITARY
+Ftpd service type: Vsftpd server,,'',,,SOLITARY
+GB,,'',,,SOLITARY
+GUI needs a restart to apply a new skin\nDo you want to Restart the GUI now?,,'',,,SOLITARY
+Gateway,,'',,,SOLITARY
+General,,'',,,SOLITARY
+General AC3 Delay,,'',,,SOLITARY
+General AC3 delay (ms),,'',,,SOLITARY
+General PCM Delay,,'',,,SOLITARY
+General PCM delay (ms),,'',,,SOLITARY
+Genre,,'',,,SOLITARY
+Get latest experimental image,,'',,,SOLITARY
+Get latest release image,,'',,,SOLITARY
+Getting Event Info failed!,,'',,,SOLITARY
+Getting plugin information. Please wait...,,'',,,SOLITARY
+Go to first movie,,'',,,SOLITARY
+Go to last item,,'',,,SOLITARY
+Go to top of list,,'',,,SOLITARY
+Goto 0,,'',,,SOLITARY
+Goto position,,'',,,SOLITARY
+Graph MEpg Settings,,'',,,SOLITARY
+Graphical Multi EPG,,'',,,SOLITARY
+Green boost,,'',,,SOLITARY
+Guard Interval,,'',,,SOLITARY
+Guard interval mode,,'',,,SOLITARY
+HD list,,'',,,SOLITARY
+Harddisk,,'',,,SOLITARY
+Harddisk setup,,'',,,SOLITARY
+Harddisk standby after,,'',,,SOLITARY
+Hardware:,,'',,,SOLITARY
+Hidden network SSID,,'',,,SOLITARY
+Hidden networkname,,'',,,SOLITARY
+Hide CI messages,,'',,,SOLITARY
+Hide zap errors,,'',,,SOLITARY
+Hierarchy Inform.,,'',,,SOLITARY
+Hierarchy Information,,'',,,SOLITARY
+Hierarchy mode,,'',,,SOLITARY
+High bitrate support,,'',,,SOLITARY
+Hold screen,,'',,,SOLITARY
+Hold till locked,,'',,,SOLITARY
+Hops:,,'',,,SOLITARY
+Horizontal,,'',,,SOLITARY
+Hostname: ,,'',,,SOLITARY
+Hour,,'',,,SOLITARY
+How many minutes do you want to record?,,'',,,SOLITARY
+How to handle found crashlogs?,,'',,,SOLITARY
+Hue,,'',,,SOLITARY
+IMDb Details,,'',,,SOLITARY
+IMDb Search,,'',,,SOLITARY
+IP Address,,'',,,SOLITARY
+IP-Address,,'',,,SOLITARY
+IP-Adress,,'',,,SOLITARY
+IP:,,'',,,SOLITARY
+ISO file is too large for this filesystem!,,'',,,SOLITARY
+ISO path,,'',,,SOLITARY
+Icons,,'',,,SOLITARY
+Idle Time: ,,'',,,SOLITARY
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,'',,,SOLITARY
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,'',,,SOLITARY
+Image:,,'',,,SOLITARY
+In Progress,,'',,,SOLITARY
+"In order to record a timer, the TV was switched to the recording service!\n",,'',,,SOLITARY
+Inadyn Log,,'',,,SOLITARY
+Inadyn Manager,,'',,,SOLITARY
+Inadyn Setup,,'',,,SOLITARY
+Include your email and name (optional) in the mail?,,'',,,SOLITARY
+Increased voltage,,'',,,SOLITARY
+Index,,'',,,SOLITARY
+Info,,'',,,SOLITARY
+Info Button,,'',,,SOLITARY
+InfoBar,,'',,,SOLITARY
+Infobar EPG...,,'',,,SOLITARY
+Infobar timeout,,'',,,SOLITARY
+Information,,'',,,SOLITARY
+Init,,'',,,SOLITARY
+Initial Fast Forward speed,,'',,,SOLITARY
+Initial Rewind speed,,'',,,SOLITARY
+Initial location in new timers,,'',,,SOLITARY
+Initialization,,'',,,SOLITARY
+Initialize,,'',,,SOLITARY
+Initializing storage device...,,'',,,SOLITARY
+Input,,'',,,SOLITARY
+Input device setup,,'',,,SOLITARY
+Install,,'',,,SOLITARY
+Install a new image with a USB stick,,'',,,SOLITARY
+Install a new image with your web browser,,'',,,SOLITARY
+Install extensions.,,'',,,SOLITARY
+Install local extension,,'',,,SOLITARY
+Install or remove finished.,,'',,,SOLITARY
+Install picons on,,'',,,SOLITARY
+"Install settings, skins, software...",,'',,,SOLITARY
+Installation finished.,,'',,,SOLITARY
+Installing,,'',,,SOLITARY
+Installing Software...,,'',,,SOLITARY
+Installing default sat lists... Please wait...,,'',,,SOLITARY
+Installing defaults... Please wait...,,'',,,SOLITARY
+Installing package content... Please wait...,,'',,,SOLITARY
+Instant Record...,,'',,,SOLITARY
+Instant record location,,'',,,SOLITARY
+Interface: ,,'',,,SOLITARY
+Intermediate,,'',,,SOLITARY
+Internal Flash,,'',,,SOLITARY
+Internal LAN adapter.,,'',,,SOLITARY
+Internal hdd only,,'',,,SOLITARY
+Invalid Location,,'',,,SOLITARY
+Invalid directory selected: %s,,'',,,SOLITARY
+Inversion,,'',,,SOLITARY
+Invert,,'',,,SOLITARY
+Ipkg,,'',,,SOLITARY
+Is this videomode ok?,,'',,,SOLITARY
+Items per Page,,'',,,SOLITARY
+Items per Page ,,'',,,SOLITARY
+January,,'',,,SOLITARY
+Job View,,'',,,SOLITARY
+July,,'',,,SOLITARY
+June,,'',,,SOLITARY
+Just Scale,,'',,,SOLITARY
+Just change channels,,'',,,SOLITARY
+Keep old timers for how many days,,'',,,SOLITARY
+Kernel:,,'',,,SOLITARY
+Keyboard,,'',,,SOLITARY
+Keyboard Map,,'',,,SOLITARY
+Keyboard Setup,,'',,,SOLITARY
+Keymap,,'',,,SOLITARY
+Kill partition table,,'',,,SOLITARY
+LAN Adapter,,'',,,SOLITARY
+LAN connection,,'',,,SOLITARY
+LNB,,'',,,SOLITARY
+LOF,,'',,,SOLITARY
+LOF/H,,'',,,SOLITARY
+LOF/L,,'',,,SOLITARY
+Label,,'',,,SOLITARY
+Language,,'',,,SOLITARY
+Language selection,,'',,,SOLITARY
+Last Req.,,'',,,SOLITARY
+Last Update:,,'',,,SOLITARY
+Last config,,'',,,SOLITARY
+Last speed,,'',,,SOLITARY
+Last used share: ,,'',,,SOLITARY
+Latitude,,'',,,SOLITARY
+Leave DVD Player?,,'',,,SOLITARY
+Left,,'',,,SOLITARY
+Left Fontsize,,'',,,SOLITARY
+Left width Picon,,'',,,SOLITARY
+Left width Text,,'',,,SOLITARY
+Letterbox,,'',,,SOLITARY
+Limit Debug log size (MB),,'',,,SOLITARY
+Limit east,,'',,,SOLITARY
+Limit west,,'',,,SOLITARY
+Limited character set for recording filenames,,'',,,SOLITARY
+Limits off,,'',,,SOLITARY
+Limits on,,'',,,SOLITARY
+Link Quality:,,'',,,SOLITARY
+Link:,,'',,,SOLITARY
+Linked titles with a DVD menu,,'',,,SOLITARY
+List of Storage Devices,,'',,,SOLITARY
+"List version %d, found %d channels",,'',,,SOLITARY
+Load,,'',,,SOLITARY
+Load EPG,,'',,,SOLITARY
+Load Length of Movies in Movielist,,'',,,SOLITARY
+Load/Save,,'',,,SOLITARY
+Local Network,,'',,,SOLITARY
+Local box,,'',,,SOLITARY
+Location,,'',,,SOLITARY
+Location for instant recordings,,'',,,SOLITARY
+Lock:,,'',,,SOLITARY
+Log Manager,,'',,,SOLITARY
+Log results to harddisk,,'',,,SOLITARY
+Logs,,'',,,SOLITARY
+Logs Manager,,'',,,SOLITARY
+Long Info Button,,'',,,SOLITARY
+Long Keypress,,'',,,SOLITARY
+Long filenames,,'',,,SOLITARY
+LongOK Button,,'',,,SOLITARY
+Longitude,,'',,,SOLITARY
+MB,,'',,,SOLITARY
+MORE,,'',,,SOLITARY
+Main Menu,,'',,,SOLITARY
+Main menu,,'',,,SOLITARY
+Mainmenu,,'',,,SOLITARY
+Make this mark an 'in' point,,'',,,SOLITARY
+Make this mark an 'out' point,,'',,,SOLITARY
+Make this mark just a mark,,'',,,SOLITARY
+Manage extensions,,'',,,SOLITARY
+Manage your receiver's software,,'',,,SOLITARY
+Manual Scan,,'',,,SOLITARY
+Manual transponder,,'',,,SOLITARY
+Manufacturer,,'',,,SOLITARY
+March,,'',,,SOLITARY
+Margin after record,,'',,,SOLITARY
+Margin before record (minutes),,'',,,SOLITARY
+Max. Bitrate: ,,'',,,SOLITARY
+Maxdown +,,'',,,SOLITARY
+Maxdown -,,'',,,SOLITARY
+Maxdown: ,,'',,,SOLITARY
+Maximum Timeshift length per Event reached!\nRestarting Timeshift now ...,,'',,,SOLITARY
+May,,'',,,SOLITARY
+Media player,,'',,,SOLITARY
+MediaPlayer,,'',,,SOLITARY
+Medium is not a writeable DVD!,,'',,,SOLITARY
+Medium is not empty!,,'',,,SOLITARY
+Menu,,'',,,SOLITARY
+Menu Overscan amount,,'',,,SOLITARY
+Menu config,,'',,,SOLITARY
+Merging Timeshift files,,'',,,SOLITARY
+Message,,'',,,SOLITARY
+Message...,,'',,,SOLITARY
+Missing ,,'',,,SOLITARY
+Mkfs failed,,'',,,SOLITARY
+Mode,,'',,,SOLITARY
+Model: ,,'',,,SOLITARY
+Modulation,,'',,,SOLITARY
+Modulator,,'',,,SOLITARY
+Mon,,'',,,SOLITARY
+Mon-Fri,,'',,,SOLITARY
+Monday,,'',,,SOLITARY
+Mosquito noise reduction,,'',,,SOLITARY
+Mount,,'',,,SOLITARY
+Mount failed,,'',,,SOLITARY
+Move,,'',,,SOLITARY
+Move Picture in Picture,,'',,,SOLITARY
+Move east,,'',,,SOLITARY
+Move to other directory,,'',,,SOLITARY
+Move west,,'',,,SOLITARY
+Movie List,,'',,,SOLITARY
+Movie List Configuration,,'',,,SOLITARY
+Movie location,,'',,,SOLITARY
+Movielist menu,,'',,,SOLITARY
+Multi EPG,,'',,,SOLITARY
+Multi EPG...,,'',,,SOLITARY
+Multimedia,,'',,,SOLITARY
+Multiple service support,,'',,,SOLITARY
+Multisat,,'',,,SOLITARY
+Mute,,'',,,SOLITARY
+N/A,,'',,,SOLITARY
+NEXT,,'',,,SOLITARY
+NFI Image Flashing,,'',,,SOLITARY
+NFI image flashing completed. Press Yellow to Reboot!,,'',,,SOLITARY
+NFS Setup,,'',,,SOLITARY
+NIM,,'',,,SOLITARY
+NOT,,'',,,SOLITARY
+NOW,,'',,,SOLITARY
+NTP,,'',,,SOLITARY
+NTSC,,'',,,SOLITARY
+Name,,'',,,SOLITARY
+Name:,,'',,,SOLITARY
+Nameserver,,'',,,SOLITARY
+Nameserver %d,,'',,,SOLITARY
+Nameserver Setup,,'',,,SOLITARY
+Nameserver settings,,'',,,SOLITARY
+Namespace,,'',,,SOLITARY
+Netmask,,'',,,SOLITARY
+Network,,'',,,SOLITARY
+Network Configuration...,,'',,,SOLITARY
+Network ID,,'',,,SOLITARY
+Network SSID,,'',,,SOLITARY
+Network Setup,,'',,,SOLITARY
+Network Wizard,,'',,,SOLITARY
+Network scan,,'',,,SOLITARY
+Network setup,,'',,,SOLITARY
+Network test,,'',,,SOLITARY
+Network test...,,'',,,SOLITARY
+Network test: ,,'',,,SOLITARY
+Network:,,'',,,SOLITARY
+NetworkWizard,,'',,,SOLITARY
+New,,'',,,SOLITARY
+New PIN,,'',,,SOLITARY
+New profile: ,,'',,,SOLITARY
+New version:,,'',,,SOLITARY
+Next,,'',,,SOLITARY
+No,,'',,,SOLITARY
+No (supported) DVDROM found!,,'',,,SOLITARY
+No Connection,,'',,,SOLITARY
+No HDD found or HDD not initialized!,,'',,,SOLITARY
+No Networks found,,'',,,SOLITARY
+No Timeshift found to save as recording!,,'',,,SOLITARY
+No backup needed,,'',,,SOLITARY
+No cable tuner found!,,'',,,SOLITARY
+No card inserted!,,'',,,SOLITARY
+No data on transponder!\n(Timeout reading PAT),,'',,,SOLITARY
+No description available.,,'',,,SOLITARY
+No details for this image file,,'',,,SOLITARY
+No displayable files on this medium found!,,'',,,SOLITARY
+"No event info found, recording indefinitely.",,'',,,SOLITARY
+No fast winding possible yet.. but you can use the number buttons to skip forward/backward!,,'',,,SOLITARY
+No free tuner!,,'',,,SOLITARY
+No httpport defined in oscam.conf. This value is required!,,'',,,SOLITARY
+No httppwd defined in oscam.conf,,'',,,SOLITARY
+No httpuser defined in oscam.conf,,'',,,SOLITARY
+No network connection available.,,'',,,SOLITARY
+No networks found,,'',,,SOLITARY
+No packages were upgraded yet. So you can check your network and try again.,,'',,,SOLITARY
+No picture on TV? Press EXIT and retry.,,'',,,SOLITARY
+No positioner capable frontend found.,,'',,,SOLITARY
+No sat tuner found!,,'',,,SOLITARY
+No satellite frontend found!!,,'',,,SOLITARY
+No tags are set on these movies.,,'',,,SOLITARY
+No to all,,'',,,SOLITARY
+No tuner is configured for use with a diseqc positioner!,,'',,,SOLITARY
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,,'',,,SOLITARY
+No valid service PIN found!\nDo you like to change the service PIN now?\nWhen you say 'No' here the service protection stay disabled!,,'',,,SOLITARY
+No valid setup PIN found!\nDo you like to change the setup PIN now?\nWhen you say 'No' here the setup protection stay disabled!,,'',,,SOLITARY
+No wireless networks found! Please refresh.,,'',,,SOLITARY
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,'',,,SOLITARY
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,'',,,SOLITARY
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,'',,,SOLITARY
+"No, but restart from begin",,'',,,SOLITARY
+"No, do nothing.",,'',,,SOLITARY
+"No, just start my dreambox",,'',,,SOLITARY
+"No, never",,'',,,SOLITARY
+"No, not now",,'',,,SOLITARY
+"No, scan later manually",,'',,,SOLITARY
+"No, send them never",,'',,,SOLITARY
+NodeID,,'',,,SOLITARY
+NodeID: ,,'',,,SOLITARY
+None,,'',,,SOLITARY
+Nonlinear,,'',,,SOLITARY
+North,,'',,,SOLITARY
+"Not enough diskspace. Please free up some diskspace and try again. (%d MB required, %d MB available)",,'',,,SOLITARY
+Not enough free Diskspace!\n\nFilesize: %sMB\nFree Space: %sMB\nPath: %s,,'',,,SOLITARY
+Nothing,,'',,,SOLITARY
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,,'',,,SOLITARY
+November,,'',,,SOLITARY
+Now Playing,,'',,,SOLITARY
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,'',,,SOLITARY
+OK,,'',,,SOLITARY
+OK Button,,'',,,SOLITARY
+"OK, guide me through the upgrade process",,'',,,SOLITARY
+"OK, remove another extensions",,'',,,SOLITARY
+"OK, remove some extensions",,'',,,SOLITARY
+OSD Settings,,'',,,SOLITARY
+OSD visibility,,'',,,SOLITARY
+OScam Info,,'',,,SOLITARY
+October,,'',,,SOLITARY
+Off,,'',,,SOLITARY
+Ok,,'',,,SOLITARY
+On,,'',,,SOLITARY
+Once per day,,'',,,SOLITARY
+One,,'',,,SOLITARY
+Online version check every (hours) 0 = Disable,,'',,,SOLITARY
+OnlineVersionCheck,,'',,,SOLITARY
+Only Free scan,,'',,,SOLITARY
+Only extensions.,,'',,,SOLITARY
+Open Context Menu,,'',,,SOLITARY
+Open bouquet selection,,'',,,SOLITARY
+Open channel selection,,'',,,SOLITARY
+OpenVPN Setup,,'',,,SOLITARY
+OpenVpn Log,,'',,,SOLITARY
+OpenVpn Setup,,'',,,SOLITARY
+Optionally enter your name if you want to.,,'',,,SOLITARY
+Orbital Position,,'',,,SOLITARY
+Oscam Info - Configuration,,'',,,SOLITARY
+Oscam Info - Main Menu,,'',,,SOLITARY
+Other,,'',,,SOLITARY
+Overwrite configuration files ?,,'',,,SOLITARY
+Overwrite configuration files during software upgrade?,,'',,,SOLITARY
+PAL,,'',,,SOLITARY
+PIDs,,'',,,SOLITARY
+PTS Plugin Error: %s,,'',,,SOLITARY
+PTS-Plugin: Merging records failed!,,'',,,SOLITARY
+PTS-Plugin: Restarting Timeshift!,,'',,,SOLITARY
+Package list update,,'',,,SOLITARY
+Package removal failed.\n,,'',,,SOLITARY
+Package removed successfully.\n,,'',,,SOLITARY
+Packet management,,'',,,SOLITARY
+Packet manager,,'',,,SOLITARY
+Pan&Scan,,'',,,SOLITARY
+Parent Directory,,'',,,SOLITARY
+Parental control,,'',,,SOLITARY
+Parental control services Editor,,'',,,SOLITARY
+Parental control setup,,'',,,SOLITARY
+Parental control type,,'',,,SOLITARY
+Password,,'',,,SOLITARY
+Password (httpwd),,'',,,SOLITARY
+Password:,,'',,,SOLITARY
+Pause movie at end,,'',,,SOLITARY
+Peak load (max queued requests per workerthread),,'',,,SOLITARY
+Permanent Timeshift Enable,,'',,,SOLITARY
+Permanent Timeshift Max Events,,'',,,SOLITARY
+Permanent Timeshift Max Length,,'',,,SOLITARY
+Permanent Timeshift Start Delay,,'',,,SOLITARY
+Permanently delete all recordings in the trash can?,,'',,,SOLITARY
+Permanently remove all deleted items,,'',,,SOLITARY
+Phone number,,'',,,SOLITARY
+PiPSetup,,'',,,SOLITARY
+Picture In Graphics (close EPG),,'',,,SOLITARY
+PicturePlayer,,'',,,SOLITARY
+Pillarbox,,'',,,SOLITARY
+Pilot,,'',,,SOLITARY
+Pin code needed,,'',,,SOLITARY
+Play,,'',,,SOLITARY
+Play Audio-CD...,,'',,,SOLITARY
+Play DVD,,'',,,SOLITARY
+Play Music...,,'',,,SOLITARY
+Play audio in background,,'',,,SOLITARY
+Play recorded movies...,,'',,,SOLITARY
+Please Reboot,,'',,,SOLITARY
+Please Select Medium to be Scanned,,'',,,SOLITARY
+Please add titles to the compilation.,,'',,,SOLITARY
+"Please be aware, that anyone can disable the parental control, if you have not set a PIN.",,'',,,SOLITARY
+Please change recording endtime,,'',,,SOLITARY
+Please check your network settings!,,'',,,SOLITARY
+Please choose CCcam-Reader,,'',,,SOLITARY
+Please choose an extension...,,'',,,SOLITARY
+Please choose he package...,,'',,,SOLITARY
+Please choose reader,,'',,,SOLITARY
+Please choose the default services lists you want to install.,,'',,,SOLITARY
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,'',,,SOLITARY
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,'',,,SOLITARY
+Please do not change any values unless you know what you are doing!,,'',,,SOLITARY
+Please enter a name for the new bouquet,,'',,,SOLITARY
+Please enter a name for the new marker,,'',,,SOLITARY
+Please enter a new filename,,'',,,SOLITARY
+Please enter filename (empty = use current date),,'',,,SOLITARY
+Please enter name of the new directory,,'',,,SOLITARY
+Please enter the correct pin code,,'',,,SOLITARY
+Please enter the old PIN code,,'',,,SOLITARY
+Please enter your email address here:,,'',,,SOLITARY
+Please enter your name here (optional):,,'',,,SOLITARY
+Please follow the instructions on the TV,,'',,,SOLITARY
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,,'',,,SOLITARY
+Please press OK to continue.,,'',,,SOLITARY
+Please press OK!,,'',,,SOLITARY
+Please select a playlist to delete...,,'',,,SOLITARY
+Please select a playlist...,,'',,,SOLITARY
+Please select a subservice to record...,,'',,,SOLITARY
+Please select a subservice...,,'',,,SOLITARY
+Please select an NFI file and press green key to flash!,,'',,,SOLITARY
+Please select an extension to remove.,,'',,,SOLITARY
+Please select an option below.,,'',,,SOLITARY
+Please select medium to use as backup location,,'',,,SOLITARY
+Please select tag to filter...,,'',,,SOLITARY
+Please select the movie path...,,'',,,SOLITARY
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,'',,,SOLITARY
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,'',,,SOLITARY
+Please set up tuner B,,'',,,SOLITARY
+Please set up tuner C,,'',,,SOLITARY
+Please set up tuner D,,'',,,SOLITARY
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,'',,,SOLITARY
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,,'',,,SOLITARY
+Please wait for activation of your network configuration...,,'',,,SOLITARY
+Please wait while removing selected package...,,'',,,SOLITARY
+Please wait while scanning is in progress...,,'',,,SOLITARY
+Please wait while searching for removable packages...,,'',,,SOLITARY
+Please wait while we configure your network...,,'',,,SOLITARY
+Please wait while we prepare your network interfaces...,,'',,,SOLITARY
+Please wait while we test your network...,,'',,,SOLITARY
+Please wait while your network is restarting...,,'',,,SOLITARY
+Please wait...,,'',,,SOLITARY
+Please wait... Loading list...,,'',,,SOLITARY
+Plugin Browser,,'',,,SOLITARY
+Plugin browser,,'',,,SOLITARY
+Plugin manager activity information,,'',,,SOLITARY
+Plugin manager help,,'',,,SOLITARY
+Plugins,,'',,,SOLITARY
+Polarity,,'',,,SOLITARY
+Polarization,,'',,,SOLITARY
+Port A,,'',,,SOLITARY
+Port B,,'',,,SOLITARY
+Port C,,'',,,SOLITARY
+Port D,,'',,,SOLITARY
+Port:,,'',,,SOLITARY
+Position of finished Timers in Timerlist,,'',,,SOLITARY
+Positioner,,'',,,SOLITARY
+Positioner fine movement,,'',,,SOLITARY
+Positioner movement,,'',,,SOLITARY
+Positioner setup,,'',,,SOLITARY
+Positioner storage,,'',,,SOLITARY
+Power threshold in mA,,'',,,SOLITARY
+Predefined transponder,,'',,,SOLITARY
+Prefer AC3,,'',,,SOLITARY
+Prefer DVB-grafical subtitles,,'',,,SOLITARY
+Prefer audio stream stored by service,,'',,,SOLITARY
+Prefer hearing impaired subtitles,,'',,,SOLITARY
+Prefer subtitle stored by service,,'',,,SOLITARY
+Preferred tuner,,'',,,SOLITARY
+Prepare another USB stick for image flashing,,'',,,SOLITARY
+Preparing... Please wait,,'',,,SOLITARY
+Press '0' to toggle internal/external PiP.,,'',,,SOLITARY
+Press INFO on your remote control for additional information.,,'',,,SOLITARY
+Press MENU on your remote control for additional options.,,'',,,SOLITARY
+Press OK on your remote control to continue.,,'',,,SOLITARY
+Press OK to activate the selected skin.,,'',,,SOLITARY
+Press OK to activate the settings.,,'',,,SOLITARY
+Press OK to edit the settings.,,'',,,SOLITARY
+Press OK to get further details for %s,,'',,,SOLITARY
+Press OK to scan,,'',,,SOLITARY
+Press OK to select a Provider.,,'',,,SOLITARY
+Press OK to select/deselect a CAId.,,'',,,SOLITARY
+Press OK to start the scan,,'',,,SOLITARY
+Press OK to toggle the selection.,,'',,,SOLITARY
+Press yellow to set this interface as default interface.,,'',,,SOLITARY
+Prev,,'',,,SOLITARY
+Preview,,'',,,SOLITARY
+Preview menu,,'',,,SOLITARY
+Primary DNS,,'',,,SOLITARY
+Primetime hour,,'',,,SOLITARY
+Primetime minute,,'',,,SOLITARY
+Priority,,'',,,SOLITARY
+Process,,'',,,SOLITARY
+Profile: Local box,,'',,,SOLITARY
+Progress,,'',,,SOLITARY
+Progress Small,,'',,,SOLITARY
+Properties of current title,,'',,,SOLITARY
+Protect services,,'',,,SOLITARY
+Protect setup,,'',,,SOLITARY
+Protocol,,'',,,SOLITARY
+Provider,,'',,,SOLITARY
+Provider Name: ,,'',,,SOLITARY
+Provider to scan,,'',,,SOLITARY
+Provider: ,,'',,,SOLITARY
+Providers,,'',,,SOLITARY
+Providers:,,'',,,SOLITARY
+Providers: ,,'',,,SOLITARY
+Python frontend for /tmp/mmi.socket,,'',,,SOLITARY
+Quick,,'',,,SOLITARY
+QuickEPG mode,,'',,,SOLITARY
+Quickzap,,'',,,SOLITARY
+RC Menu,,'',,,SOLITARY
+RF output,,'',,,SOLITARY
+RGB,,'',,,SOLITARY
+Radio,,'',,,SOLITARY
+Ralink,,'',,,SOLITARY
+Random,,'',,,SOLITARY
+Read Userdata from oscam.conf,,'',,,SOLITARY
+Reader,,'',,,SOLITARY
+Reader Statistics,,'',,,SOLITARY
+Really close without saving settings?,,'',,,SOLITARY
+Really delete done timers?,,'',,,SOLITARY
+Really exit the subservices quickzap?,,'',,,SOLITARY
+Really reboot now?,,'',,,SOLITARY
+Really restart now?,,'',,,SOLITARY
+Really shutdown now?,,'',,,SOLITARY
+Reboot,,'',,,SOLITARY
+Rec,,'',,,SOLITARY
+Reception Settings,,'',,,SOLITARY
+Record,,'',,,SOLITARY
+Record Settings,,'',,,SOLITARY
+Record started! Stopping timeshift now ...,,'',,,SOLITARY
+Record time limited due to conflicting timer %s,,'',,,SOLITARY
+Recorded files...,,'',,,SOLITARY
+Recording,,'',,,SOLITARY
+Recording Paths,,'',,,SOLITARY
+Recording data sync size,,'',,,SOLITARY
+Recording demux buffer size,,'',,,SOLITARY
+Recording in progress,,'',,,SOLITARY
+Recording(s) are in progress or coming up in few seconds!,,'',,,SOLITARY
+Recordings,,'',,,SOLITARY
+Recordings always have priority,,'',,,SOLITARY
+Reenter new PIN,,'',,,SOLITARY
+Refresh Rate,,'',,,SOLITARY
+Refresh rate selection.,,'',,,SOLITARY
+Release,,'',,,SOLITARY
+Reload,,'',,,SOLITARY
+Reload Black-/Whitelists,,'',,,SOLITARY
+Reloading bouquets and services...,,'',,,SOLITARY
+Remember service PIN,,'',,,SOLITARY
+Remember service PIN cancel,,'',,,SOLITARY
+Remember these settings for each folder,,'',,,SOLITARY
+Remote box,,'',,,SOLITARY
+Remove,,'',,,SOLITARY
+Remove Bookmark,,'',,,SOLITARY
+Remove Plugins,,'',,,SOLITARY
+Remove a mark,,'',,,SOLITARY
+Remove currently selected title,,'',,,SOLITARY
+Remove failed.,,'',,,SOLITARY
+Remove finished.,,'',,,SOLITARY
+Remove items from trash after (days),,'',,,SOLITARY
+Remove plugins,,'',,,SOLITARY
+Remove timer,,'',,,SOLITARY
+Remove title,,'',,,SOLITARY
+Removed successfully.,,'',,,SOLITARY
+Removing,,'',,,SOLITARY
+Removing directory %s failed. (Maybe not empty.),,'',,,SOLITARY
+Rename,,'',,,SOLITARY
+Rename crashlogs,,'',,,SOLITARY
+Rename failed!,,'',,,SOLITARY
+Rename to:,,'',,,SOLITARY
+Renamed %s!,,'',,,SOLITARY
+Repeat,,'',,,SOLITARY
+Repeat Display Message,,'',,,SOLITARY
+Repeat Type,,'',,,SOLITARY
+Repeating event currently recording... What do you want to do?,,'',,,SOLITARY
+Repeats,,'',,,SOLITARY
+Required medium type:,,'',,,SOLITARY
+Reread partition table,,'',,,SOLITARY
+Reset,,'',,,SOLITARY
+Reset and renumerate title names,,'',,,SOLITARY
+Reset playback position,,'',,,SOLITARY
+Reset video enhancement settings to system defaults?,,'',,,SOLITARY
+Reset video enhancement settings to your last configuration?,,'',,,SOLITARY
+Reshare:,,'',,,SOLITARY
+Resolution,,'',,,SOLITARY
+Restart,,'',,,SOLITARY
+Restart GUI now?,,'',,,SOLITARY
+Restart enigma,,'',,,SOLITARY
+Restart network,,'',,,SOLITARY
+Restart test,,'',,,SOLITARY
+Restart your network connection and interfaces.\n,,'',,,SOLITARY
+Restore,,'',,,SOLITARY
+Restore backups,,'',,,SOLITARY
+Restore is running...,,'',,,SOLITARY
+Restore running,,'',,,SOLITARY
+Restore system settings,,'',,,SOLITARY
+Resume from last position,,'',,,SOLITARY
+Resume position at %s,,'',,,SOLITARY
+Resuming playback,,'',,,SOLITARY
+Return to file browser,,'',,,SOLITARY
+Return to movie list,,'',,,SOLITARY
+Return to previous service,,'',,,SOLITARY
+Rewind speeds,,'',,,SOLITARY
+Rewrap teletext subtitles,,'',,,SOLITARY
+Right,,'',,,SOLITARY
+Rolloff,,'',,,SOLITARY
+Rotor turning speed,,'',,,SOLITARY
+Running,,'',,,SOLITARY
+S-Video,,'',,,SOLITARY
+SINGLE LAYER DVD,,'',,,SOLITARY
+SNR,,'',,,SOLITARY
+SNR:,,'',,,SOLITARY
+SSID:,,'',,,SOLITARY
+Samba Setup,,'',,,SOLITARY
+Sat,,'',,,SOLITARY
+Sat / Dish Setup,,'',,,SOLITARY
+Satellite,,'',,,SOLITARY
+Satellite Equipment Setup,,'',,,SOLITARY
+Satellite equipment,,'',,,SOLITARY
+Satellites,,'',,,SOLITARY
+Satfinder,,'',,,SOLITARY
+Sats,,'',,,SOLITARY
+Saturation,,'',,,SOLITARY
+Saturday,,'',,,SOLITARY
+Save,,'',,,SOLITARY
+Save EPG,,'',,,SOLITARY
+Save Playlist,,'',,,SOLITARY
+Save Timeshift as Movie and continue recording,,'',,,SOLITARY
+Save Timeshift as Movie and stop recording,,'',,,SOLITARY
+Save and record,,'',,,SOLITARY
+Save and stop,,'',,,SOLITARY
+Saving Timeshift files,,'',,,SOLITARY
+Saving timeshift as movie now. This might take a while!,,'',,,SOLITARY
+Scaler sharpness,,'',,,SOLITARY
+Scaling Mode,,'',,,SOLITARY
+Scan ,,'',,,SOLITARY
+Scan Files...,,'',,,SOLITARY
+Scan QAM128,,'',,,SOLITARY
+Scan QAM16,,'',,,SOLITARY
+Scan QAM256,,'',,,SOLITARY
+Scan QAM32,,'',,,SOLITARY
+Scan QAM64,,'',,,SOLITARY
+Scan SR6875,,'',,,SOLITARY
+Scan SR6900,,'',,,SOLITARY
+Scan Wireless Networks,,'',,,SOLITARY
+Scan additional SR,,'',,,SOLITARY
+Scan band,,'',,,SOLITARY
+Scan band EU HYPER,,'',,,SOLITARY
+Scan band EU MID,,'',,,SOLITARY
+Scan band EU SUPER,,'',,,SOLITARY
+Scan band EU UHF IV,,'',,,SOLITARY
+Scan band EU UHF V,,'',,,SOLITARY
+Scan band EU VHF I,,'',,,SOLITARY
+Scan band EU VHF III,,'',,,SOLITARY
+Scan band US HIGH,,'',,,SOLITARY
+Scan band US HYPER,,'',,,SOLITARY
+Scan band US LOW,,'',,,SOLITARY
+Scan band US MID,,'',,,SOLITARY
+Scan band US SUPER,,'',,,SOLITARY
+Scan start frequency,,'',,,SOLITARY
+Scan start symbolrate,,'',,,SOLITARY
+Scan stop frequency,,'',,,SOLITARY
+Scan stop symbolrate,,'',,,SOLITARY
+Scan your network for wireless access points and connect to them using your selected wireless device.\n,,'',,,SOLITARY
+Scanning %s...,,'',,,SOLITARY
+"Scanning completed, %d channels found",,'',,,SOLITARY
+Scanning failed!,,'',,,SOLITARY
+Scanning...,,'',,,SOLITARY
+Scans default lamedbs sorted by satellite with a connected dish positioner,,'',,,SOLITARY
+Search east,,'',,,SOLITARY
+Search west,,'',,,SOLITARY
+Searching for available updates. Please wait...,,'',,,SOLITARY
+Searching for new installed or removed packages. Please wait...,,'',,,SOLITARY
+Secondary DNS,,'',,,SOLITARY
+Seek,,'',,,SOLITARY
+Select,,'',,,SOLITARY
+Select HDD,,'',,,SOLITARY
+Select Location,,'',,,SOLITARY
+Select Network Adapter,,'',,,SOLITARY
+Select a movie,,'',,,SOLITARY
+Select audio track,,'',,,SOLITARY
+Select channel to record from,,'',,,SOLITARY
+Select copy destination for:,,'',,,SOLITARY
+Select desired image from feed list,,'',,,SOLITARY
+Select destination for:,,'',,,SOLITARY
+Select files for backup.,,'',,,SOLITARY
+Select files/folders to backup,,'',,,SOLITARY
+Select input device,,'',,,SOLITARY
+Select input device.,,'',,,SOLITARY
+Select interface,,'',,,SOLITARY
+Select package,,'',,,SOLITARY
+Select provider to add...,,'',,,SOLITARY
+Select refresh rate,,'',,,SOLITARY
+Select service to add...,,'',,,SOLITARY
+Select upgrade source to edit.,,'',,,SOLITARY
+Select video input with up/down buttons,,'',,,SOLITARY
+Select video mode,,'',,,SOLITARY
+Select wireless network,,'',,,SOLITARY
+"Select your provider, and press OK to start the scan",,'',,,SOLITARY
+Send,,'',,,SOLITARY
+Send DiSEqC,,'',,,SOLITARY
+Send DiSEqC only on satellite change,,'',,,SOLITARY
+Send yourself a copy ?,,'',,,SOLITARY
+Seperate titles with a main menu,,'',,,SOLITARY
+September,,'',,,SOLITARY
+Sequence repeat,,'',,,SOLITARY
+Serv.Name,,'',,,SOLITARY
+Server:,,'',,,SOLITARY
+Servers,,'',,,SOLITARY
+Servers:,,'',,,SOLITARY
+Service,,'',,,SOLITARY
+Service Information,,'',,,SOLITARY
+Service Reference,,'',,,SOLITARY
+Service Scan,,'',,,SOLITARY
+Service Searching,,'',,,SOLITARY
+Service has been added to the favourites.,,'',,,SOLITARY
+Service has been added to the selected bouquet.,,'',,,SOLITARY
+Service invalid!\n(Timeout reading PMT),,'',,,SOLITARY
+Service not found!\n(SID not found in PAT),,'',,,SOLITARY
+Service scan,,'',,,SOLITARY
+Service unavailable!\nCheck tuner configuration!,,'',,,SOLITARY
+Serviceinfo,,'',,,SOLITARY
+Services,,'',,,SOLITARY
+Set End Time,,'',,,SOLITARY
+Set System,,'',,,SOLITARY
+Set Voltage and 22KHz,,'',,,SOLITARY
+Set available internal memory threshold for the warning.,,'',,,SOLITARY
+Set interface as default Interface,,'',,,SOLITARY
+Set limits,,'',,,SOLITARY
+Settings,,'',,,SOLITARY
+Settings...,,'',,,SOLITARY
+Setup,,'',,,SOLITARY
+Setup Mode,,'',,,SOLITARY
+Shall the USB stick wizard proceed and program the image file %s into flash memory?,,'',,,SOLITARY
+Share View,,'',,,SOLITARY
+Shares,,'',,,SOLITARY
+Sharpness,,'',,,SOLITARY
+Short filenames,,'',,,SOLITARY
+Show /tmp/ecm.info,,'',,,SOLITARY
+Show CCcam in extensions ?,,'',,,SOLITARY
+Show Clients,,'',,,SOLITARY
+Show CoolTVGuide,,'',,,SOLITARY
+Show Display Icons,,'',,,SOLITARY
+Show EIT now/next in infobar,,'',,,SOLITARY
+Show Graphical EPG,,'',,,SOLITARY
+Show Info,,'',,,SOLITARY
+Show Log,,'',,,SOLITARY
+Show Message when Recording starts,,'',,,SOLITARY
+Show Multi EPG,,'',,,SOLITARY
+Show OScam in extensions ?,,'',,,SOLITARY
+Show PTS Infobar while timeshifting?,,'',,,SOLITARY
+Show Readers/Proxies,,'',,,SOLITARY
+Show Single EPG,,'',,,SOLITARY
+Show WLAN Status,,'',,,SOLITARY
+Show animation while busy,,'',,,SOLITARY
+Show background in Radio Mode,,'',,,SOLITARY
+Show blinking clock in display during recording,,'',,,SOLITARY
+Show bouquet on launch,,'',,,SOLITARY
+Show channel numbers in channel selection,,'',,,SOLITARY
+Show channel selection on mode change,,'',,,SOLITARY
+Show crypto info in infobar,,'',,,SOLITARY
+Show event info on 2nd OK,,'',,,SOLITARY
+Show event-progress in channel selection,,'',,,SOLITARY
+Show icon for new/unseen items,,'',,,SOLITARY
+Show in extensions list ?,,'',,,SOLITARY
+Show infobar on channel change,,'',,,SOLITARY
+Show infobar on event change,,'',,,SOLITARY
+Show infobar on skip forward/backward,,'',,,SOLITARY
+Show positioner movement,,'',,,SOLITARY
+Show services beginning with,,'',,,SOLITARY
+Show status icons in Movielist,,'',,,SOLITARY
+Show the media player...,,'',,,SOLITARY
+Show the radio player...,,'',,,SOLITARY
+Show the tv player...,,'',,,SOLITARY
+Shows the state of your wireless LAN connection.\n,,'',,,SOLITARY
+Shutdown,,'',,,SOLITARY
+Shutdown Dreambox after,,'',,,SOLITARY
+Side by Side,,'',,,SOLITARY
+Signal Strength:,,'',,,SOLITARY
+Signal: ,,'',,,SOLITARY
+Similar,,'',,,SOLITARY
+Similar broadcasts:,,'',,,SOLITARY
+Simple,,'',,,SOLITARY
+Simple titleset (compatibility for legacy players),,'',,,SOLITARY
+Single,,'',,,SOLITARY
+Single EPG,,'',,,SOLITARY
+Single EPG...,,'',,,SOLITARY
+Single satellite,,'',,,SOLITARY
+Single transponder,,'',,,SOLITARY
+Singlestep (GOP),,'',,,SOLITARY
+Skin,,'',,,SOLITARY
+Skin Setup,,'',,,SOLITARY
+Skins,,'',,,SOLITARY
+Skip Empty Services (may need restart),,'',,,SOLITARY
+Skip Empty Services (restart plugin),,'',,,SOLITARY
+Sleep Timer,,'',,,SOLITARY
+Sleep timer action:,,'',,,SOLITARY
+Slideshow Interval (sec.),,'',,,SOLITARY
+Slot %d,,'',,,SOLITARY
+Slow,,'',,,SOLITARY
+Slow Motion speeds,,'',,,SOLITARY
+SoftCam / CI,,'',,,SOLITARY
+Software,,'',,,SOLITARY
+Software management,,'',,,SOLITARY
+Software manager setup,,'',,,SOLITARY
+Software restore,,'',,,SOLITARY
+Software update,,'',,,SOLITARY
+Softwaremanager information,,'',,,SOLITARY
+Some plugins are not available:\n,,'',,,SOLITARY
+Sorry Inadyn Config is Missing,,'',,,SOLITARY
+Sorry MediaScanner is not installed!,,'',,,SOLITARY
+Sorry no backups found!,,'',,,SOLITARY
+Sorry your Backup destination does not exist\n\nPlease choose an other one.,,'',,,SOLITARY
+Sorry your backup destination is not writeable.\nPlease choose an other one.,,'',,,SOLITARY
+"Sorry, no Details available!",,'',,,SOLITARY
+"Sorry, your backup destination is not writeable.\n\nPlease choose another one.",,'',,,SOLITARY
+Sort,,'',,,SOLITARY
+Sort List by,,'',,,SOLITARY
+Sound,,'',,,SOLITARY
+Soundcarrier,,'',,,SOLITARY
+Source active,,'',,,SOLITARY
+Source inactive,,'',,,SOLITARY
+South,,'',,,SOLITARY
+Split preview mode,,'',,,SOLITARY
+Standard,,'',,,SOLITARY
+Standby,,'',,,SOLITARY
+Standby / Restart,,'',,,SOLITARY
+Standby Fan %d PWM,,'',,,SOLITARY
+Standby Fan %d Voltage,,'',,,SOLITARY
+Start,,'',,,SOLITARY
+Start from the beginning,,'',,,SOLITARY
+Start recording?,,'',,,SOLITARY
+Start test,,'',,,SOLITARY
+"Start-Items 7-8 , 14-16",,'',,,SOLITARY
+StartTime,,'',,,SOLITARY
+Starting on,,'',,,SOLITARY
+Status,,'',,,SOLITARY
+Step east,,'',,,SOLITARY
+Step west,,'',,,SOLITARY
+Stop,,'',,,SOLITARY
+Stop Timeshift?,,'',,,SOLITARY
+Stop current event and disable coming events,,'',,,SOLITARY
+Stop current event but not coming events,,'',,,SOLITARY
+Stop playing this movie?,,'',,,SOLITARY
+Stop recording,,'',,,SOLITARY
+Stop recording and delete,,'',,,SOLITARY
+Stop test,,'',,,SOLITARY
+Stop testing plane after # failed transponders,,'',,,SOLITARY
+Stop testing plane after # successful transponders,,'',,,SOLITARY
+Stop timeshift while recording?,,'',,,SOLITARY
+Stopped,,'',,,SOLITARY
+Store position,,'',,,SOLITARY
+Stored position,,'',,,SOLITARY
+Subservice mode,,'',,,SOLITARY
+Subservices,,'',,,SOLITARY
+Subtitle Settings,,'',,,SOLITARY
+Subtitle delay when timing lacks,,'',,,SOLITARY
+Subtitle language selection 1,,'',,,SOLITARY
+Subtitle language selection 2,,'',,,SOLITARY
+Subtitle language selection 3,,'',,,SOLITARY
+Subtitle language selection 4,,'',,,SOLITARY
+Subtitle selection,,'',,,SOLITARY
+Subtitle selection...,,'',,,SOLITARY
+Subtitles,,'',,,SOLITARY
+Success!!,,'',,,SOLITARY
+Sun,,'',,,SOLITARY
+Sunday,,'',,,SOLITARY
+Support at,,'',,,SOLITARY
+Swap SNR in db with SNR in percentage on OSD,,'',,,SOLITARY
+Swap Services,,'',,,SOLITARY
+Switch config,,'',,,SOLITARY
+Switch to next subservice,,'',,,SOLITARY
+Switch to previous subservice,,'',,,SOLITARY
+Switchable tuner types:,,'',,,SOLITARY
+Symbol Rate,,'',,,SOLITARY
+Symbolrate,,'',,,SOLITARY
+Sync NTP every (minutes),,'',,,SOLITARY
+Sync time using,,'',,,SOLITARY
+System,,'',,,SOLITARY
+System Information,,'',,,SOLITARY
+System:,,'',,,SOLITARY
+System: ,,'',,,SOLITARY
+TRANSLATOR_INFO,,'',,,SOLITARY
+TS file is too large for ISO9660 level 1!,,'',,,SOLITARY
+TV System,,'',,,SOLITARY
+TV button mode,,'',,,SOLITARY
+TV standby,,'',,,SOLITARY
+TV wakeup,,'',,,SOLITARY
+Table of content for collection,,'',,,SOLITARY
+Tags,,'',,,SOLITARY
+Teletext subtitle color,,'',,,SOLITARY
+Telnet Setup,,'',,,SOLITARY
+Telnet service Disabled.,,'',,,SOLITARY
+Telnet service Enabled.,,'',,,SOLITARY
+Temperature and Fan control,,'',,,SOLITARY
+Terrestrial,,'',,,SOLITARY
+Terrestrial provider,,'',,,SOLITARY
+Test DiSEqC settings,,'',,,SOLITARY
+Test Type,,'',,,SOLITARY
+Test mode,,'',,,SOLITARY
+Test the network configuration of your Dreambox.\n,,'',,,SOLITARY
+Test-Messagebox?,,'',,,SOLITARY
+Text border width,,'',,,SOLITARY
+Text font size,,'',,,SOLITARY
+Thank you for using the wizard.\nPlease press OK to continue.,,'',,,SOLITARY
+Thank you for using the wizard. Your box is now ready to use.\nPlease press OK to start using your Dreambox.,,'',,,SOLITARY
+The AutoTimer plugin is not installed!\nPlease install it.,,'',,,SOLITARY
+The Cool TV Guide plugin is not installed!\nPlease install it.,,'',,,SOLITARY
+The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to create a Dreambox format data DVD (which will not play in stand-alone DVD players) instead?,,'',,,SOLITARY
+The EPGSearch plugin is not installed!\nPlease install it.,,'',,,SOLITARY
+The Filesystem on your Timeshift-Device does not support hardlinks.\nMake sure it is formated in EXT2 or EXT3!,,'',,,SOLITARY
+The IMDb plugin is not installed!\nPlease install it.,,'',,,SOLITARY
+The MediaPlayer plugin is not installed!\nPlease install it.,,'',,,SOLITARY
+The NetworkWizard extension is not installed!\nPlease install it.,,'',,,SOLITARY
+The PIN code has been changed successfully.,,'',,,SOLITARY
+The PIN codes you entered are different.,,'',,,SOLITARY
+The Softwaremanagement extension is not installed!\nPlease install it.,,'',,,SOLITARY
+The Timeshift record was not saved yet!\nWhat do you want to do now with the timeshift file?,,'',,,SOLITARY
+The USB stick was prepared to be bootable.\nNow you can download an NFI image file!,,'',,,SOLITARY
+The backup failed. Please choose a different backup location.,,'',,,SOLITARY
+The directory %s is not writable.\nMake sure you select a writable directory instead.,,'',,,SOLITARY
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,'',,,SOLITARY
+The following files were found...,,'',,,SOLITARY
+The input port should be configured now.\nYou can now configure the screen by displaying some test pictures. Do you want to do that now?,,'',,,SOLITARY
+The installation of the default services lists is finished.,,'',,,SOLITARY
+The installation of the default settings is finished. You can now continue configuring your Dreambox by pressing the OK button on the remote control.,,'',,,SOLITARY
+"The md5sum validation failed, the file may be corrupted!",,'',,,SOLITARY
+The package doesn't contain anything.,,'',,,SOLITARY
+The package:,,'',,,SOLITARY
+The path %s already exists.,,'',,,SOLITARY
+The pin code you entered is wrong.,,'',,,SOLITARY
+The results have been written to %s.,,'',,,SOLITARY
+"The screen will go blank while upgrading, be patient and wait for the reboot.",,'',,,SOLITARY
+The sleep timer has been activated.,,'',,,SOLITARY
+The sleep timer has been disabled.,,'',,,SOLITARY
+The timer file (timers.xml) is corrupt and could not be loaded.,,'',,,SOLITARY
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,'',,,SOLITARY
+The wireless LAN plugin is not installed!\nPlease install it.,,'',,,SOLITARY
+The wizard can backup your current settings. Do you want to do a backup now?,,'',,,SOLITARY
+The wizard found a configuration backup. Do you want to restore your old settings from %s?,,'',,,SOLITARY
+The wizard is finished now.,,'',,,SOLITARY
+There are at least ,,'',,,SOLITARY
+There are currently no outstanding actions.,,'',,,SOLITARY
+There are no default services lists in your image.,,'',,,SOLITARY
+There are no default settings in your image.,,'',,,SOLITARY
+There are no updates available.,,'',,,SOLITARY
+There are now ,,'',,,SOLITARY
+There is no [webif] section in oscam.conf,,'',,,SOLITARY
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,'',,,SOLITARY
+There was an error downloading the packetlist. Please try again.,,'',,,SOLITARY
+There was an error. The package:,,'',,,SOLITARY
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,,'',,,SOLITARY
+This Dreambox can't decode %s streams!,,'',,,SOLITARY
+This is step number 2.,,'',,,SOLITARY
+"This plugin creates a USB stick which can be used to update the firmware of your Dreambox without the need for a network or WLAN connection.\nFirst, a USB stick needs to be prepared so that it becomes bootable.\nIn the next step, an NFI image file can be downloaded from the update server and saved on the USB stick.\nIf you already have a prepared bootable USB stick, please insert it now. Otherwise plug in a USB stick with a minimum size of 64 MB!",,'',,,SOLITARY
+This plugin is installed.,,'',,,SOLITARY
+This plugin is not installed.,,'',,,SOLITARY
+This plugin will be installed.,,'',,,SOLITARY
+This plugin will be removed.,,'',,,SOLITARY
+"This test checks for configured Nameservers.\nIf you get a \""unconfirmed\"" message:\n- please check your DHCP, cabling and Adapter setup\n- if you configured your Nameservers manually please verify your entries in the \""Nameserver\"" Configuration",,'',,,SOLITARY
+"This test checks whether a network cable is connected to your LAN-Adapter.\nIf you get a \""disconnected\"" message:\n- verify that a network cable is attached\n- verify that the cable is not broken",,'',,,SOLITARY
+"This test checks whether a valid IP Address is found for your LAN Adapter.\nIf you get a \""unconfirmed\"" message:\n- no valid IP Address was found\n- please check your DHCP, cabling and adapter setup",,'',,,SOLITARY
+"This test checks whether your LAN Adapter is set up for automatic IP Address configuration with DHCP.\nIf you get a \""disabled\"" message:\n - then your LAN Adapter is configured for manual IP Setup\n- verify thay you have entered correct IP informations in the AdapterSetup dialog.\nIf you get an \""enabeld\"" message:\n-verify that you have a configured and working DHCP Server in your network.",,'',,,SOLITARY
+This test detects your configured LAN-Adapter.,,'',,,SOLITARY
+Three,,'',,,SOLITARY
+Threshold,,'',,,SOLITARY
+Thu,,'',,,SOLITARY
+Thumbnails,,'',,,SOLITARY
+Thursday,,'',,,SOLITARY
+Time,,'',,,SOLITARY
+Time Scale,,'',,,SOLITARY
+Time Update in Minutes,,'',,,SOLITARY
+Time Update in Minutes:,,'',,,SOLITARY
+Time/Date Input,,'',,,SOLITARY
+Timeline Fontsize (restart plugin),,'',,,SOLITARY
+Timer Edit,,'',,,SOLITARY
+Timer Editor,,'',,,SOLITARY
+Timer List,,'',,,SOLITARY
+Timer Type,,'',,,SOLITARY
+Timer entry,,'',,,SOLITARY
+Timer log,,'',,,SOLITARY
+Timer overlap in timers.xml detected!\nPlease recheck it!,,'',,,SOLITARY
+Timer record location,,'',,,SOLITARY
+Timer sanity error,,'',,,SOLITARY
+Timer selection,,'',,,SOLITARY
+Timer status:,,'',,,SOLITARY
+Timers,,'',,,SOLITARY
+Timeshift,,'',,,SOLITARY
+Timeshift Settings,,'',,,SOLITARY
+Timeshift location,,'',,,SOLITARY
+Timeshift not possible!,,'',,,SOLITARY
+Timeshift save failed!,,'',,,SOLITARY
+Timeshift saved to your harddisk!,,'',,,SOLITARY
+Timeshift will get saved at end of event!,,'',,,SOLITARY
+Timeshift-Save Action on zap,,'',,,SOLITARY
+Timezone,,'',,,SOLITARY
+Title,,'',,,SOLITARY
+Title properties,,'',,,SOLITARY
+Titleset mode,,'',,,SOLITARY
+To audio selection,,'',,,SOLITARY
+To subtitle selection,,'',,,SOLITARY
+"To update your Dreambox firmware, please follow these steps:\n1) Turn off your box with the rear power switch and make sure the bootable USB stick is plugged in.\n2) Turn mains back on and hold the DOWN button on the front panel pressed for 10 seconds.\n3) Wait for bootup and follow instructions of the wizard.",,'',,,SOLITARY
+Today,,'',,,SOLITARY
+Tone Amplitude,,'',,,SOLITARY
+Tone mode,,'',,,SOLITARY
+Toneburst,,'',,,SOLITARY
+Toneburst A/B,,'',,,SOLITARY
+Top and Bottom,,'',,,SOLITARY
+Total,,'',,,SOLITARY
+Total cards:,,'',,,SOLITARY
+Total handled client ecm's,,'',,,SOLITARY
+Total handled client emm's,,'',,,SOLITARY
+Total:,,'',,,SOLITARY
+Track,,'',,,SOLITARY
+Translation,,'',,,SOLITARY
+Translation:,,'',,,SOLITARY
+Transmission Mode,,'',,,SOLITARY
+Transmission mode,,'',,,SOLITARY
+Transponder,,'',,,SOLITARY
+Transponder Type,,'',,,SOLITARY
+Trashcan,,'',,,SOLITARY
+Tries left:,,'',,,SOLITARY
+Try to find used Transponders in cable network.. please wait...,,'',,,SOLITARY
+Try to find used transponders in cable network.. please wait...,,'',,,SOLITARY
+Trying to download a new packetlist. Please wait...,,'',,,SOLITARY
+Tue,,'',,,SOLITARY
+Tuesday,,'',,,SOLITARY
+Tune,,'',,,SOLITARY
+Tune failed!,,'',,,SOLITARY
+Tuner,,'',,,SOLITARY
+Tuner ,,'',,,SOLITARY
+Tuner Slot,,'',,,SOLITARY
+Tuner configuration,,'',,,SOLITARY
+Tuner settings,,'',,,SOLITARY
+Tuner status,,'',,,SOLITARY
+Tuner type,,'',,,SOLITARY
+Two,,'',,,SOLITARY
+Type,,'',,,SOLITARY
+Type of scan,,'',,,SOLITARY
+Type: ,,'',,,SOLITARY
+USALS,,'',,,SOLITARY
+USB Stick,,'',,,SOLITARY
+USB stick wizard,,'',,,SOLITARY
+Uncommitted DiSEqC command,,'',,,SOLITARY
+Undo install,,'',,,SOLITARY
+Undo uninstall,,'',,,SOLITARY
+UnhandledKey,,'',,,SOLITARY
+Unicable,,'',,,SOLITARY
+Unicable LNB,,'',,,SOLITARY
+Unicable Martix,,'',,,SOLITARY
+Uninstall,,'',,,SOLITARY
+Universal LNB,,'',,,SOLITARY
+Unknown network adapter.,,'',,,SOLITARY
+Unmount,,'',,,SOLITARY
+Unmount failed,,'',,,SOLITARY
+Unsupported,,'',,,SOLITARY
+Update,,'',,,SOLITARY
+Update interval (in seconds),,'',,,SOLITARY
+Updatefeed not available.,,'',,,SOLITARY
+Updates your receiver's software,,'',,,SOLITARY
+Updating finished. Here is the result:,,'',,,SOLITARY
+Updating software catalog,,'',,,SOLITARY
+Updating... Please wait... This can take some minutes...,,'',,,SOLITARY
+Upgrade,,'',,,SOLITARY
+Upgrade finished.,,'',,,SOLITARY
+Upgrade finished. Do you want to reboot your Dreambox?,,'',,,SOLITARY
+Upgrade will take about 5 minutes to finish.\nDo you want to upgrade?,,'',,,SOLITARY
+Upgrading,,'',,,SOLITARY
+Upgrading Dreambox... Please wait,,'',,,SOLITARY
+Uphops +,,'',,,SOLITARY
+Uphops -,,'',,,SOLITARY
+Uphops: ,,'',,,SOLITARY
+Uptime,,'',,,SOLITARY
+Use,,'',,,SOLITARY
+Use DHCP,,'',,,SOLITARY
+Use Fan timer,,'',,,SOLITARY
+Use Interface,,'',,,SOLITARY
+Use Power Measurement,,'',,,SOLITARY
+Use PLI Coloured Butons,,'',,,SOLITARY
+Use a gateway,,'',,,SOLITARY
+Use fastscan channel names,,'',,,SOLITARY
+Use fastscan channel numbering,,'',,,SOLITARY
+Use official channel numbering,,'',,,SOLITARY
+Use original teletext position,,'',,,SOLITARY
+Use power measurement,,'',,,SOLITARY
+Use slim screen,,'',,,SOLITARY
+Use the Networkwizard to configure selected network adapter,,'',,,SOLITARY
+Use the Networkwizard to configure your Network\n,,'',,,SOLITARY
+Use the left and right buttons to change an option.\n\nPlease set up tuner A,,'',,,SOLITARY
+"Use the up/down keys on your remote control to select an option. After that, press OK.",,'',,,SOLITARY
+Use this input device settings?,,'',,,SOLITARY
+Use this settings?,,'',,,SOLITARY
+Use this video enhancement settings?,,'',,,SOLITARY
+Use time of currently running service,,'',,,SOLITARY
+Use trashcan in movielist,,'',,,SOLITARY
+Use usals for this sat,,'',,,SOLITARY
+Use wizard to set up basic features,,'',,,SOLITARY
+Used service scan type,,'',,,SOLITARY
+Used:,,'',,,SOLITARY
+User Name,,'',,,SOLITARY
+User defined,,'',,,SOLITARY
+Username,,'',,,SOLITARY
+Username (httpuser),,'',,,SOLITARY
+Username:,,'',,,SOLITARY
+Using old profile: ,,'',,,SOLITARY
+VCR scart,,'',,,SOLITARY
+VFD Setup,,'',,,SOLITARY
+VMGM (intro trailer),,'',,,SOLITARY
+Version:,,'',,,SOLITARY
+Version: ,,'',,,SOLITARY
+Vertical,,'',,,SOLITARY
+PLI HD Overscan amount,,'',,,SOLITARY
+Video Enhancement Settings,,'',,,SOLITARY
+Video Fine-Tuning,,'',,,SOLITARY
+Video Fine-Tuning Wizard,,'',,,SOLITARY
+Video Output,,'',,,SOLITARY
+Video Setup,,'',,,SOLITARY
+Video Wizard,,'',,,SOLITARY
+Video enhancement preview,,'',,,SOLITARY
+Video enhancement setup,,'',,,SOLITARY
+Video input selection\n\nPlease press OK if you can see this page on your TV (or select a different input port).\n\nThe next input port will be automatically probed in 10 seconds.,,'',,,SOLITARY
+Video mode selection.,,'',,,SOLITARY
+Videocodec,,'',,,SOLITARY
+Videoenhancement Setup,,'',,,SOLITARY
+Videoformat,,'',,,SOLITARY
+Videosize,,'',,,SOLITARY
+View,,'',,,SOLITARY
+View Movies...,,'',,,SOLITARY
+View Photos...,,'',,,SOLITARY
+View Rass interactive...,,'',,,SOLITARY
+View Video CD...,,'',,,SOLITARY
+View details,,'',,,SOLITARY
+View list of available ,,'',,,SOLITARY
+View list of available CommonInterface extensions,,'',,,SOLITARY
+View list of available Display and Userinterface extensions.,,'',,,SOLITARY
+View list of available EPG extensions.,,'',,,SOLITARY
+View list of available Satellite equipment extensions.,,'',,,SOLITARY
+View list of available communication extensions.,,'',,,SOLITARY
+View list of available default settings,,'',,,SOLITARY
+View list of available multimedia extensions.,,'',,,SOLITARY
+View list of available networking extensions,,'',,,SOLITARY
+View list of available recording extensions,,'',,,SOLITARY
+View list of available skins,,'',,,SOLITARY
+View list of available software extensions,,'',,,SOLITARY
+View list of available system extensions,,'',,,SOLITARY
+View teletext...,,'',,,SOLITARY
+Virtual KeyBoard,,'',,,SOLITARY
+Virtuosso Image Xtreme,,'',,,SOLITARY
+Voltage mode,,'',,,SOLITARY
+Volume,,'',,,SOLITARY
+W,,'',,,SOLITARY
+WEP,,'',,,SOLITARY
+WLAN adapter.,,'',,,SOLITARY
+WLAN connection,,'',,,SOLITARY
+WPA,,'',,,SOLITARY
+WPA or WPA2,,'',,,SOLITARY
+WPA2,,'',,,SOLITARY
+WSS on 4:3,,'',,,SOLITARY
+Wait for mount,,'',,,SOLITARY
+Wait for partition,,'',,,SOLITARY
+Waiting,,'',,,SOLITARY
+Warn if free space drops below (kB):,,'',,,SOLITARY
+Wed,,'',,,SOLITARY
+Wednesday,,'',,,SOLITARY
+Weekday,,'',,,SOLITARY
+Weekly,,'',,,SOLITARY
+"Welcome to the Cutlist editor.\n\nSeek to the start of the stuff you want to cut away. Press OK, select 'start cut'.\n\nThen seek to the end, press OK, select 'end cut'. That's it.",,'',,,SOLITARY
+Welcome to the Image upgrade wizard. The wizard will assist you in upgrading the firmware of your Dreambox by providing a backup facility for your current settings and a short explanation of how to upgrade your firmware.,,'',,,SOLITARY
+"Welcome to the cleanup wizard.\n\nWe have detected that your available internal memory has dropped below 2MB.\nTo ensure stable operation of your Dreambox, the internal memory should be cleaned up.\nYou can use this wizard to remove some extensions.\n",,'',,,SOLITARY
+"Welcome.\n\nIf you want to connect your Dreambox to the Internet, this wizard will guide you through the basic network setup of your Dreambox.\n\nPress OK to start configuring your network",,'',,,SOLITARY
+Welcome.\n\nThis start wizard will guide you through the basic setup of your Dreambox.\nPress the OK button on your remote control to move to the next step.,,'',,,SOLITARY
+Welcome...,,'',,,SOLITARY
+West,,'',,,SOLITARY
+What do you want to scan?,,'',,,SOLITARY
+What to do with submitted crashlogs?,,'',,,SOLITARY
+"When you do a factory reset, you will lose ALL your configuration data\n(including bouquets, services, satellite data ...)\nAfter completion of factory reset, your receiver will restart automatically!\n\nReally do a factory reset?",,'',,,SOLITARY
+Where do you want to backup your settings?,,'',,,SOLITARY
+Where to save temporary timeshift recordings?,,'',,,SOLITARY
+Which event do you want to save permanently?,,'',,,SOLITARY
+Wireless LAN,,'',,,SOLITARY
+Wireless Network,,'',,,SOLITARY
+Wireless Network State,,'',,,SOLITARY
+Write error while recording. Disk full?\n,,'',,,SOLITARY
+Write failed!,,'',,,SOLITARY
+YPbPr,,'',,,SOLITARY
+Year,,'',,,SOLITARY
+Yellow DVB subtitles,,'',,,SOLITARY
+Yellow pango subtitles,,'',,,SOLITARY
+Yes,,'',,,SOLITARY
+Yes to all,,'',,,SOLITARY
+"Yes, always",,'',,,SOLITARY
+"Yes, and delete this movie",,'',,,SOLITARY
+"Yes, and don't ask again",,'',,,SOLITARY
+"Yes, backup my settings!",,'',,,SOLITARY
+"Yes, do a manual scan now",,'',,,SOLITARY
+"Yes, do an automatic scan now",,'',,,SOLITARY
+"Yes, do another manual scan now",,'',,,SOLITARY
+"Yes, perform a shutdown now.",,'',,,SOLITARY
+"Yes, restore the settings now",,'',,,SOLITARY
+"Yes, returning to movie list",,'',,,SOLITARY
+"Yes, view the tutorial",,'',,,SOLITARY
+Yesterday,,'',,,SOLITARY
+You can cancel the installation.,,'',,,SOLITARY
+You can cancel the removal.,,'',,,SOLITARY
+You can choose some default settings now. Please select the settings you want to be installed.,,'',,,SOLITARY
+"You can choose, what you want to install...",,'',,,SOLITARY
+You can continue watching TV etc. while this is running.,,'',,,SOLITARY
+You can disable Telnet Server and use ssh to login.,,'',,,SOLITARY
+You can install this plugin.,,'',,,SOLITARY
+You can only burn Dreambox recordings!,,'',,,SOLITARY
+You can remove this plugin.,,'',,,SOLITARY
+You cannot delete this!,,'',,,SOLITARY
+You chose not to install any default services lists.,,'',,,SOLITARY
+You chose not to install any default settings. You can however install the default settings later in the settings menu.,,'',,,SOLITARY
+You chose not to install anything. Please press OK finish the install wizard.,,'',,,SOLITARY
+You didn't select a channel to record from.,,'',,,SOLITARY
+"You have already sent this log, are you sure you want to resend this log:\n",,'',,,SOLITARY
+You have chosen to backup your settings. Please press OK to start the backup now.,,'',,,SOLITARY
+You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased.,,'',,,SOLITARY
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,'',,,SOLITARY
+You have selected no logs to delete.,,'',,,SOLITARY
+You have selected no logs to send.,,'',,,SOLITARY
+You have to wait %s!,,'',,,SOLITARY
+"You need a PC connected to your dreambox. If you need further instructions, please visit the website http://www.aaf-digital.info.\nYour dreambox will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,'',,,SOLITARY
+You need to set a PIN code and hide it from your children.\n\nDo you want to set the pin now?,,'',,,SOLITARY
+You system does not support ext4,,'',,,SOLITARY
+Your Dreambox is now ready to use.\n\nYour internet connection is working now.\n\n,,'',,,SOLITARY
+Your Dreambox is now ready to use.\n\nYour internet connection is working now.\n\nPlease press OK to continue.,,'',,,SOLITARY
+Your Dreambox will restart after pressing OK on your remote control.,,'',,,SOLITARY
+Your backup succeeded. We will now continue to explain the further upgrade process.,,'',,,SOLITARY
+"Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!",,'',,,SOLITARY
+Your current collection will get lost!,,'',,,SOLITARY
+Your dreambox is shutting down. Please stand by...,,'',,,SOLITARY
+Your dreambox isn't connected to the internet properly. Please check it and try again.,,'',,,SOLITARY
+Your email address:,,'',,,SOLITARY
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,,'',,,SOLITARY
+Your internet connection is not working!\nPlease choose what you want to do next.,,'',,,SOLITARY
+Your name (optional):,,'',,,SOLITARY
+Your network configuration has been activated.,,'',,,SOLITARY
+Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,,'',,,SOLITARY
+Zap,,'',,,SOLITARY
+Zap + Exit,,'',,,SOLITARY
+Zap back to previously tuned service?,,'',,,SOLITARY
+Zap back to service before positioner setup?,,'',,,SOLITARY
+Zap back to service before satfinder?,,'',,,SOLITARY
+Zap back to service before tuner setup?,,'',,,SOLITARY
+Zap focus to Picture in Picture,,'',,,SOLITARY
+Zap focus to main screen,,'',,,SOLITARY
+Zap mode,,'',,,SOLITARY
+Zydas,,'',,,SOLITARY
+[alternative edit],,'',,,SOLITARY
+[bouquet edit],,'',,,SOLITARY
+[favourite edit],,'',,,SOLITARY
+[move mode],,'',,,SOLITARY
+a gui to assign services/providers to common interface modules,,'',,,SOLITARY
+a gui to assign services/providers/caids to common interface modules,,'',,,SOLITARY
+abort alternatives edit,,'',,,SOLITARY
+abort bouquet edit,,'',,,SOLITARY
+abort favourites edit,,'',,,SOLITARY
+about to start,,'',,,SOLITARY
+activate PiP,,'',,,SOLITARY
+activate current configuration,,'',,,SOLITARY
+activate network adapter configuration,,'',,,SOLITARY
+add Provider,,'',,,SOLITARY
+add Service,,'',,,SOLITARY
+add a nameserver entry,,'',,,SOLITARY
+add alternatives,,'',,,SOLITARY
+add bookmark,,'',,,SOLITARY
+add bouquet,,'',,,SOLITARY
+add directory to playlist,,'',,,SOLITARY
+add file to playlist,,'',,,SOLITARY
+add files to playlist,,'',,,SOLITARY
+add marker,,'',,,SOLITARY
+add recording (enter recording duration),,'',,,SOLITARY
+add recording (enter recording endtime),,'',,,SOLITARY
+add recording (indefinitely),,'',,,SOLITARY
+add recording (stop after current event),,'',,,SOLITARY
+add service to bouquet,,'',,,SOLITARY
+add service to favourites,,'',,,SOLITARY
+add to parental protection,,'',,,SOLITARY
+address:,,'',,,SOLITARY
+advanced,,'',,,SOLITARY
+alphabetic sort,,'',,,SOLITARY
+are you sure you want to restore\nfollowing backup:\n,,'',,,SOLITARY
+as plugin in extended bar,,'',,,SOLITARY
+assigned CAIds:,,'',,,SOLITARY
+assigned Services/Provider:,,'',,,SOLITARY
+at beginning,,'',,,SOLITARY
+at end,,'',,,SOLITARY
+audio track (%s) format,,'',,,SOLITARY
+audio track (%s) language,,'',,,SOLITARY
+audio tracks,,'',,,SOLITARY
+auto,,'',,,SOLITARY
+available,,'',,,SOLITARY
+back,,'',,,SOLITARY
+background image,,'',,,SOLITARY
+backgroundcolor,,'',,,SOLITARY
+better,,'',,,SOLITARY
+black,,'',,,SOLITARY
+blacklist,,'',,,SOLITARY
+blue,,'',,,SOLITARY
+burn audio track (%s),,'',,,SOLITARY
+caid:,,'',,,SOLITARY
+card,,'',,,SOLITARY
+card reader,,'',,,SOLITARY
+change recording (duration),,'',,,SOLITARY
+change recording (endtime),,'',,,SOLITARY
+chapters,,'',,,SOLITARY
+circular left,,'',,,SOLITARY
+circular right,,'',,,SOLITARY
+clear playlist,,'',,,SOLITARY
+close share view,,'',,,SOLITARY
+complex,,'',,,SOLITARY
+config menu,,'',,,SOLITARY
+confirmed,,'',,,SOLITARY
+connected,,'',,,SOLITARY
+continue,,'',,,SOLITARY
+copy,,'',,,SOLITARY
+copy to bouquets,,'',,,SOLITARY
+could not be removed,,'',,,SOLITARY
+create directory,,'',,,SOLITARY
+currently installed image: %s,,'',,,SOLITARY
+daily,,'',,,SOLITARY
+day,,'',,,SOLITARY
+decrease uphop by 1,,'',,,SOLITARY
+delete,,'',,,SOLITARY
+delete cut,,'',,,SOLITARY
+delete file,,'',,,SOLITARY
+delete playlist entry,,'',,,SOLITARY
+delete saved playlist,,'',,,SOLITARY
+delete...,,'',,,SOLITARY
+disable,,'',,,SOLITARY
+disable move mode,,'',,,SOLITARY
+disabled,,'',,,SOLITARY
+disconnected,,'',,,SOLITARY
+do not change,,'',,,SOLITARY
+do nothing,,'',,,SOLITARY
+don't record,,'',,,SOLITARY
+done!,,'',,,SOLITARY
+e-Mail address,,'',,,SOLITARY
+ecm time:,,'',,,SOLITARY
+ecm.info,,'',,,SOLITARY
+edit alternatives,,'',,,SOLITARY
+empty,,'',,,SOLITARY
+enable,,'',,,SOLITARY
+enable bouquet edit,,'',,,SOLITARY
+enable favourite edit,,'',,,SOLITARY
+enable move mode,,'',,,SOLITARY
+enabled,,'',,,SOLITARY
+end alternatives edit,,'',,,SOLITARY
+end bouquet edit,,'',,,SOLITARY
+end cut here,,'',,,SOLITARY
+end favourites edit,,'',,,SOLITARY
+enigma2 and network,,'',,,SOLITARY
+enter hidden network SSID,,'',,,SOLITARY
+equal to,,'',,,SOLITARY
+exit DVD player or return to file browser,,'',,,SOLITARY
+exit mediaplayer,,'',,,SOLITARY
+exit movielist,,'',,,SOLITARY
+exit nameserver configuration,,'',,,SOLITARY
+exit network adapter configuration,,'',,,SOLITARY
+exit network interface list,,'',,,SOLITARY
+exit networkadapter setup menu,,'',,,SOLITARY
+file oscam.conf could not be found,,'',,,SOLITARY
+"fileformats (BMP, PNG, JPG, GIF)",,'',,,SOLITARY
+filename,,'',,,SOLITARY
+fine-tune your display,,'',,,SOLITARY
+forward to the next chapter,,'',,,SOLITARY
+free,,'',,,SOLITARY
+free diskspace,,'',,,SOLITARY
+full transparency,,'',,,SOLITARY
+get the cards' server,,'',,,SOLITARY
+go to deep standby,,'',,,SOLITARY
+go to standby,,'',,,SOLITARY
+grab this frame as bitmap,,'',,,SOLITARY
+green,,'',,,SOLITARY
+handled,,'',,,SOLITARY
+hear radio...,,'',,,SOLITARY
+height,,'',,,SOLITARY
+help...,,'',,,SOLITARY
+hide player,,'',,,SOLITARY
+high,,'',,,SOLITARY
+hops:,,'',,,SOLITARY
+horizontal,,'',,,SOLITARY
+hour,,'',,,SOLITARY
+hours,,'',,,SOLITARY
+immediate shutdown,,'',,,SOLITARY
+increase uphop by 1,,'',,,SOLITARY
+init module,,'',,,SOLITARY
+init modules,,'',,,SOLITARY
+insert mark here,,'',,,SOLITARY
+jump back to the previous title,,'',,,SOLITARY
+jump forward to the next title,,'',,,SOLITARY
+jump to listbegin,,'',,,SOLITARY
+jump to listend,,'',,,SOLITARY
+jump to next marked position,,'',,,SOLITARY
+jump to previous marked position,,'',,,SOLITARY
+leave movie player...,,'',,,SOLITARY
+left,,'',,,SOLITARY
+length,,'',,,SOLITARY
+list of EPG views...,,'',,,SOLITARY
+list style compact,,'',,,SOLITARY
+list style compact with description,,'',,,SOLITARY
+list style default,,'',,,SOLITARY
+list style single line,,'',,,SOLITARY
+load playlist,,'',,,SOLITARY
+locked,,'',,,SOLITARY
+loopthrough to,,'',,,SOLITARY
+low,,'',,,SOLITARY
+manual,,'',,,SOLITARY
+menu,,'',,,SOLITARY
+mins,,'',,,SOLITARY
+minute,,'',,,SOLITARY
+minutes,,'',,,SOLITARY
+month,,'',,,SOLITARY
+move,,'',,,SOLITARY
+move PiP to main picture,,'',,,SOLITARY
+move down to last entry,,'',,,SOLITARY
+move down to next entry,,'',,,SOLITARY
+move up to first entry,,'',,,SOLITARY
+move up to previous entry,,'',,,SOLITARY
+movie list,,'',,,SOLITARY
+multinorm,,'',,,SOLITARY
+never,,'',,,SOLITARY
+next channel,,'',,,SOLITARY
+next channel in history,,'',,,SOLITARY
+no,,'',,,SOLITARY
+no CAId selected,,'',,,SOLITARY
+no CI slots found,,'',,,SOLITARY
+no Services/Providers selected,,'',,,SOLITARY
+no module found,,'',,,SOLITARY
+no or unknown card inserted,,'',,,SOLITARY
+no standby,,'',,,SOLITARY
+no storage devices found,,'',,,SOLITARY
+no timeout,,'',,,SOLITARY
+no transparency,,'',,,SOLITARY
+not configured,,'',,,SOLITARY
+not locked,,'',,,SOLITARY
+not supported,,'',,,SOLITARY
+not used,,'',,,SOLITARY
+nothing connected,,'',,,SOLITARY
+of a DUAL layer medium used.,,'',,,SOLITARY
+of a SINGLE layer medium used.,,'',,,SOLITARY
+off,,'',,,SOLITARY
+on,,'',,,SOLITARY
+on READ ONLY medium.,,'',,,SOLITARY
+once,,'',,,SOLITARY
+open bouquetlist,,'',,,SOLITARY
+open nameserver configuration,,'',,,SOLITARY
+open servicelist,,'',,,SOLITARY
+open servicelist(down),,'',,,SOLITARY
+open servicelist(up),,'',,,SOLITARY
+original,,'',,,SOLITARY
+pass,,'',,,SOLITARY
+pause,,'',,,SOLITARY
+pid:,,'',,,SOLITARY
+play as picture in picture,,'',,,SOLITARY
+play entry,,'',,,SOLITARY
+play from next mark or playlist entry,,'',,,SOLITARY
+play from previous mark or playlist entry,,'',,,SOLITARY
+play in mainwindow,,'',,,SOLITARY
+please press OK when ready,,'',,,SOLITARY
+"please wait, loading picture...",,'',,,SOLITARY
+previous channel,,'',,,SOLITARY
+previous channel in history,,'',,,SOLITARY
+provid:,,'',,,SOLITARY
+provider:,,'',,,SOLITARY
+record,,'',,,SOLITARY
+recording...,,'',,,SOLITARY
+red,,'',,,SOLITARY
+remove a nameserver entry,,'',,,SOLITARY
+remove after this position,,'',,,SOLITARY
+remove all alternatives,,'',,,SOLITARY
+remove all new found flags,,'',,,SOLITARY
+remove before this position,,'',,,SOLITARY
+remove bookmark,,'',,,SOLITARY
+remove directory,,'',,,SOLITARY
+remove entry,,'',,,SOLITARY
+remove from parental protection,,'',,,SOLITARY
+remove new found flag,,'',,,SOLITARY
+remove selected satellite,,'',,,SOLITARY
+remove this mark,,'',,,SOLITARY
+rename,,'',,,SOLITARY
+repeat playlist,,'',,,SOLITARY
+repeated,,'',,,SOLITARY
+rewind to the previous chapter,,'',,,SOLITARY
+right,,'',,,SOLITARY
+save last directory on exit,,'',,,SOLITARY
+save playlist,,'',,,SOLITARY
+save playlist on exit,,'',,,SOLITARY
+save recording (Select event),,'',,,SOLITARY
+save recording (stop after current event),,'',,,SOLITARY
+scan done!,,'',,,SOLITARY
+scan in progress - %d%% done!,,'',,,SOLITARY
+scan state,,'',,,SOLITARY
+scrolling Speed,,'',,,SOLITARY
+second,,'',,,SOLITARY
+second cable of motorized LNB,,'',,,SOLITARY
+seconds,,'',,,SOLITARY
+select,,'',,,SOLITARY
+select CAId,,'',,,SOLITARY
+select CAId's,,'',,,SOLITARY
+select interface,,'',,,SOLITARY
+select menu entry,,'',,,SOLITARY
+select movie,,'',,,SOLITARY
+select the movie path,,'',,,SOLITARY
+service PIN,,'',,,SOLITARY
+set as startup service,,'',,,SOLITARY
+setup PIN,,'',,,SOLITARY
+share:,,'',,,SOLITARY
+show DVD main menu,,'',,,SOLITARY
+show Infoline,,'',,,SOLITARY
+show all cards,,'',,,SOLITARY
+show all tags,,'',,,SOLITARY
+show alternatives,,'',,,SOLITARY
+show cards with uphop 0,,'',,,SOLITARY
+show cards with uphop 1,,'',,,SOLITARY
+show cards with uphop 2,,'',,,SOLITARY
+show cards with uphop 3,,'',,,SOLITARY
+show cards with uphop 4,,'',,,SOLITARY
+show cards with uphop 5,,'',,,SOLITARY
+show cards with uphop 6,,'',,,SOLITARY
+show cards with uphop 7,,'',,,SOLITARY
+show cards with uphop 8,,'',,,SOLITARY
+show cards with uphop 9,,'',,,SOLITARY
+show event details,,'',,,SOLITARY
+show extended description,,'',,,SOLITARY
+show program infomation...,,'',,,SOLITARY
+show shutdown menu,,'',,,SOLITARY
+show tag menu,,'',,,SOLITARY
+show transponder info,,'',,,SOLITARY
+shuffle,,'',,,SOLITARY
+shuffle playlist,,'',,,SOLITARY
+shut down,,'',,,SOLITARY
+shutdown,,'',,,SOLITARY
+simple,,'',,,SOLITARY
+skip backward,,'',,,SOLITARY
+skip backward (enter time),,'',,,SOLITARY
+skip forward,,'',,,SOLITARY
+skip forward (enter time),,'',,,SOLITARY
+slide picture in loop,,'',,,SOLITARY
+sort by date,,'',,,SOLITARY
+sorting of playlists,,'',,,SOLITARY
+special characters,,'',,,SOLITARY
+standard,,'',,,SOLITARY
+standby,,'',,,SOLITARY
+start cut here,,'',,,SOLITARY
+start directory,,'',,,SOLITARY
+start timeshift,,'',,,SOLITARY
+stereo,,'',,,SOLITARY
+stop PiP,,'',,,SOLITARY
+stop entry,,'',,,SOLITARY
+stop recording,,'',,,SOLITARY
+stop timeshift,,'',,,SOLITARY
+stop using as startup service,,'',,,SOLITARY
+swap PiP and main picture,,'',,,SOLITARY
+switch Fan On/Off,,'',,,SOLITARY
+switch to bookmarks,,'',,,SOLITARY
+switch to filelist,,'',,,SOLITARY
+switch to playlist,,'',,,SOLITARY
+switch to the next angle,,'',,,SOLITARY
+switch to the next audio track,,'',,,SOLITARY
+switch to the next subtitle language,,'',,,SOLITARY
+system:,,'',,,SOLITARY
+template file,,'',,,SOLITARY
+textcolor,,'',,,SOLITARY
+this recording,,'',,,SOLITARY
+this service is protected by a parental control pin,,'',,,SOLITARY
+toggle a cut mark at the current position,,'',,,SOLITARY
+"toggle time, chapter, audio, subtitle info",,'',,,SOLITARY
+top,,'',,,SOLITARY
+tuner is not supported,,'',,,SOLITARY
+unavailable,,'',,,SOLITARY
+unconfirmed,,'',,,SOLITARY
+unknown,,'',,,SOLITARY
+unknown service,,'',,,SOLITARY
+until standby/restart,,'',,,SOLITARY
+user defined,,'',,,SOLITARY
+using:,,'',,,SOLITARY
+vertical,,'',,,SOLITARY
+view extensions...,,'',,,SOLITARY
+view recordings...,,'',,,SOLITARY
+wait for ci...,,'',,,SOLITARY
+wait for mmi...,,'',,,SOLITARY
+waiting,,'',,,SOLITARY
+was removed successfully,,'',,,SOLITARY
+weekly,,'',,,SOLITARY
+white,,'',,,SOLITARY
+whitelist,,'',,,SOLITARY
+width,,'',,,SOLITARY
+with exit button,,'',,,SOLITARY
+with left/right buttons,,'',,,SOLITARY
+with long OK press,,'',,,SOLITARY
+working,,'',,,SOLITARY
+yellow,,'',,,SOLITARY
+yes,,'',,,SOLITARY
+yes (keep feeds),,'',,,SOLITARY
+your dreambox might be unusable now. Please consult the manual for further assistance before rebooting your dreambox.,,'',,,SOLITARY
+zap,,'',,,SOLITARY
+zapped,,'',,,SOLITARY

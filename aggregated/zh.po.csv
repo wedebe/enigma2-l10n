@@ -1,1247 +1,2312 @@
-msgid,openatv,openhdf,openpli,openvix,APPEARANCES,UNIQUES,DUPLICATES,EMPTIES
-\nAdvanced options and settings.,,\n高级选项和设置.,,,1,1,0,0
-"\nAfter pressing OK, please wait!",,"\n按OK键确定后, 请稍等!",,,1,1,0,0
-\nEdit the upgrade source address.,,\n编辑升级源地址。,,,1,1,0,0
-\nPress OK on your remote control to continue.,,\n按OK键继续.,,,1,1,0,0
-\nRestore your backups by date.,,\n按日期恢复您的备份,,,1,1,0,0
-\nScan for local extensions and install them.,,\n扫描本地扩展并安装.,,,1,1,0,0
-\nSelect your backup device.\nCurrent device: ,,\n选择备份设备.\n目前的设备:,,,1,1,0,0
-"\nView, install and remove available or installed packages.",,"\n查看, 安装和删除已安装的软件包。",,,1,1,0,0
- extensions.,,扩展,,,1,1,0,0
- updates available.,,升级可用.,,,1,1,0,0
-%d min,,%d 分钟,,,1,1,0,0
-%d.%B %Y,,'',,,1,0,0,1
-%s (%s)\n,,'',,,1,0,0,1
-(ZAP),,(调谐),,,1,1,0,0
-(empty),,(空的),,,1,1,0,0
-(show optional DVD audio menu),,（显示可选的DVD音频菜单）,,,1,1,0,0
-* Only available if more than one interface is active.,,* 仅在一个或多个网卡激活才有效.,,,1,1,0,0
-1.1,,'',,,1,0,0,1
-1.2,,'',,,1,0,0,1
-12V output,,12V 输出,,,1,1,0,0
-13 V,,'',,,1,0,0,1
-16:10 Letterbox,,16:10 信箱模式,,,1,1,0,0
-16:10 PanScan,,16:10 伸缩,,,1,1,0,0
-16:9,,'',,,1,0,0,1
-16:9 Letterbox,,16:9 信箱模式,,,1,1,0,0
-16:9 always,,16:9 固定,,,1,1,0,0
-18 V,,'',,,1,0,0,1
-3d mode,,3D 模式,,,1,1,0,0
-4:3 Letterbox,,4:3 信箱模式,,,1,1,0,0
-4:3 PanScan,,4:3 伸缩,,,1,1,0,0
-<Current movielist location>,,<当前影片列表位置>,,,1,1,0,0
-<Default movie location>,,<影片默认位置>,,,1,1,0,0
-<Last timer location>,,<最后一个计时器位置>,,,1,1,0,0
-<unknown>,,<未知>,,,1,1,0,0
-??,,'',,,1,0,0,1
-A,,'',,,1,0,0,1
-A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,,配置文件(%s)在安装后被修改了.\n是否想要保留您的版本？,,,1,1,0,0
-A graphical EPG for all services of an specific bouquet,,图形EPG包含自定义组所有频道,,,1,1,0,0
-A record has been started:\n%s,,录制已经开始:\n%s,,,1,1,0,0
-A recording is currently running.\nWhat do you want to do?,,录制正在进行中.\n您想做什么?,,,1,1,0,0
-A recording is currently running. Please stop the recording before trying to configure the positioner.,,录制正在进行中. 请在配置极轴之前停止录制.,,,1,1,0,0
-A recording is currently running. Please stop the recording before trying to scan.,,录制正在进行中. 扫描前请停止录制.,,,1,1,0,0
-A required tool (%s) was not found.,,一个必须的工具 (%s) 未找到.,,,1,1,0,0
-A second configured interface has been found.\n\nDo you want to disable the second network interface?,,您的网络配置已被激活.\n发现第二个网卡.\n\n是否禁用第二个网卡?,,,1,1,0,0
-A timer failed to record!\nDisable TV and try again?\n,,定时录像失败.\n禁用电视输出并重试?\n,,,1,1,0,0
-A/V settings,,A/V设置,,,1,1,0,0
-Abort,,放弃,,,1,1,0,0
-About,,关于,,,1,1,0,0
-About...,,关于...,,,1,1,0,0
-Accesspoint:,,存取点:,,,1,1,0,0
-Action on long powerbutton press,,长按电源按钮,,,1,1,0,0
-Action on short powerbutton press,,短按电源按钮,,,1,1,0,0
-Activate Picture in Picture,,启用画中画,,,1,1,0,0
-Activate current configuration,,启用当前设置,,,1,1,0,0
-Activate network settings,,激活网络设置,,,1,1,0,0
-Activate the configured network settings.,,启用网络设置,,,1,1,0,0
-Adapter settings,,网卡设置,,,1,1,0,0
-Add,,添加,,,1,1,0,0
-Add a mark,,增加标记,,,1,1,0,0
-Add a nameserver entry,,添加DNS,,,1,1,0,0
-Add a new title,,增加一个新标题,,,1,1,0,0
-Add bookmark,,添加书签,,,1,1,0,0
-Add directory to playlist,,添加目录到播放列表,,,1,1,0,0
-Add service,,添加频道,,,1,1,0,0
-Add timer,,添加定时器,,,1,1,0,0
-Add title,,添加标题,,,1,1,0,0
-Add to bouquet,,添加到自定义组,,,1,1,0,0
-Add to favourites,,添加到喜欢频道,,,1,1,0,0
-Adjust 3D settings,,调整3D设置,,,1,1,0,0
-"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.",,调整颜色设置以使所有的颜色深浅可以辨识出来，使之看起来尽可能饱和。如果您对结果感到满意，按OK关闭视频微调，或者用数字键选择画面上的其它测试。 ,,,1,1,0,0
-Advanced options,,高级设置,,,1,1,0,0
-Advanced restore,,高级恢复,,,1,1,0,0
-Advanced software,,高级软件,,,1,1,0,0
-Advanced software plugin,,高级软件插件,,,1,1,0,0
-Advanced video enhancement setup,,高级视频增强设置,,,1,1,0,0
-Advanced video setup,,高级视频设置,,,1,1,0,0
-After event,,事件之后,,,1,1,0,0
-Album,,专辑,,,1,1,0,0
-All,,全部,,,1,1,0,0
-Alpha,,透明度,,,1,1,0,0
-Alternative services tuner priority,,可选调谐器优先顺序,,,1,1,0,0
-Always ask,,总是询问,,,1,1,0,0
-An empty filename is illegal.,,一个空的文件名是非法的.,,,1,1,0,0
-Arabic,,阿拉伯语,,,1,1,0,0
-Are you sure you want to activate this network configuration?\n\n,,您确定要激活此网络配置？\n\n,,,1,1,0,0
-Are you sure you want to exit this wizard?,,您是否确定要退出向导?,,,1,1,0,0
-Are you sure you want to restart your network interfaces?\n\n,,您确定要重新启动网络接口?\n\n,,,1,1,0,0
-Artist,,艺术家,,,1,1,0,0
-Ask user,,询问用户,,,1,1,0,0
-Audio,,音频,,,1,1,0,0
-Audio PID,,音频PID,,,1,1,0,0
-Audio language selection 1,,自动语言1,,,1,1,0,0
-Audio language selection 2,,自动语言2,,,1,1,0,0
-Audio language selection 3,,自动语言3,,,1,1,0,0
-Audio language selection 4,,自动语言4,,,1,1,0,0
-Audio options...,,音频选项...,,,1,1,0,0
-Audio source,,音频源,,,1,1,0,0
-AC3 downmix,,AC3 缩减混音,,,1,1,0,0
-Author: ,,作者,,,1,1,0,0
-Authoring mode,,创作模式,,,1,1,0,0
-Auto,,自动,,,1,1,0,0
-Auto chapter split every ? minutes (0=never),,每隔? 分钟自动分割.(0=从不) ,,,1,1,0,0
-Auto language selection,,自动语言选择,,,1,1,0,0
-Auto scart switching,,自动切换录像机,,,1,1,0,0
-Automatic,,自动,,,1,1,0,0
-Automatic scan,,自动扫描,,,1,1,0,0
-Automatically start timeshift after,,自动开始时光平移,,,1,1,0,0
-Automatically turn on external subtitles,,自动打开外部字幕,,,1,1,0,0
-Available format variables,,可用的格式变量,,,1,1,0,0
-B,,'',,,1,0,0,1
-BER,,误码,,,1,1,0,0
-BER:,,误码:,,,1,1,0,0
-Back,,返回,,,1,1,0,0
-Background,,背景,,,1,1,0,0
-Background delete option,,后台删除选项,,,1,1,0,0
-Background delete speed,,后台删除速度,,,1,1,0,0
-Backup failed.,,备份失败!!,,,1,1,0,0
-Backup is running...,,正在备份...,,,1,1,0,0
-Backup system settings,,备份系统设置,,,1,1,0,0
-Band,,波段,,,1,1,0,0
-Bandwidth,,带宽,,,1,1,0,0
-Begin time,,开始时间,,,1,1,0,0
-Behavior of 0 key in PiP-mode,,按 0 键启用画中画模式,,,1,1,0,0
-Behavior when a movie is started,,当电影开始时,,,1,1,0,0
-Behavior when a movie is stopped,,当电影结束时,,,1,1,0,0
-Behavior when a movie reaches the end,,当电影快要结束时,,,1,1,0,0
-Bitrate:,,比特率:,,,1,1,0,0
-Black screen,,黑屏,,,1,1,0,0
-Black screen till locked,,锁定前黑屏,,,1,1,0,0
-Block noise reduction,,块降噪,,,1,1,0,0
-Bookmarks,,书签,,,1,1,0,0
-Brightness,,亮度,,,1,1,0,0
-Burn DVD,,烧录 DVD,,,1,1,0,0
-Burn existing image to DVD,,烧录已有的镜像到DVD,,,1,1,0,0
-Burn to DVD,,DVD烧录,,,1,1,0,0
-Bus: ,,Bus:,,,1,1,0,0
-C-Band,,C-波段,,,1,1,0,0
-CI assignment,,CI选择,,,1,1,0,0
-CVBS,,'',,,1,0,0,1
-Cable,,有线,,,1,1,0,0
-Cable Scan,,有线电视扫描,,,1,1,0,0
-Calculate,,计算,,,1,1,0,0
-Calculation complete,,计算结束,,,1,1,0,0
-Cancel,,取消,,,1,1,0,0
-Capacity: ,,容量: ,,,1,1,0,0
-Card,,卡片,,,1,1,0,0
-Change bouquets in quickzap,,快速切换自定义组,,,1,1,0,0
-Change step size,,更改步长,,,1,1,0,0
-Changelog,,变动日志,,,1,1,0,0
-Channel,,频道,,,1,1,0,0
-Channel list type,,频道列表类型,,,1,1,0,0
-Channel not in services list,,频道不在列表中,,,1,1,0,0
-Channel selection,,频道选择,,,1,1,0,0
-Channel:,,频道:,,,1,1,0,0
-Channellist menu,,频道列表菜单,,,1,1,0,0
-Chap.,,章节.,,,1,1,0,0
-Chapter,,章节,,,1,1,0,0
-Chapter:,,章节:,,,1,1,0,0
-Check,,检查,,,1,1,0,0
-Circular left,,左旋,,,1,1,0,0
-Circular right,,左旋,,,1,1,0,0
-Cleanup,,清除,,,1,1,0,0
-Clear,,清除,,,1,1,0,0
-Clear before scan,,扫描前清理频道,,,1,1,0,0
-Clear fixed,,清除 已修复,,,1,1,0,0
-Clear log,,清除日志,,,1,1,0,0
-Clear playlist,,清除播放列表,,,1,1,0,0
-Close,,关闭,,,1,1,0,0
-Close PiP on exit,,结束时关闭画中画,,,1,1,0,0
-Close title selection,,关闭标题选择,,,1,1,0,0
-Code rate HP,,HP编码率,,,1,1,0,0
-Code rate LP,,LP编码率,,,1,1,0,0
-Coderate HP,,HP编码率,,,1,1,0,0
-Coderate LP,,LP编码率,,,1,1,0,0
-Collection name,,收藏名称,,,1,1,0,0
-Collection settings,,收藏设置,,,1,1,0,0
-Color format,,色彩格式,,,1,1,0,0
-Command execution...,,执行命令...,,,1,1,0,0
-Command order,,命令顺序,,,1,1,0,0
-Common Interface,,通用接口 (CI),,,1,1,0,0
-Common Interface assignment,,通用接口选择,,,1,1,0,0
-Communication,,通信,,,1,1,0,0
-Complete,,完成,,,1,1,0,0
-Complex (allows mixing audio tracks and aspects),,复合 (允许混合音轨和宽高比),,,1,1,0,0
-Composition of the recording filenames,,录像的文件名构成,,,1,1,0,0
-Configuration mode,,设置模式,,,1,1,0,0
-Configuration...,,设置...,,,1,1,0,0
-Configure interface,,配置网卡,,,1,1,0,0
-Configure nameservers,,配置DNS,,,1,1,0,0
-Configure your internal LAN,,配置本地网络,,,1,1,0,0
-Configure your network again,,重新配置网络,,,1,1,0,0
-"Configure your network settings, and press OK to start the scan",,配置你的网络，然后按OK开始扫描,,,1,1,0,0
-Configure your wireless LAN again,,重新配置无线网络,,,1,1,0,0
-Configuring,,配置,,,1,1,0,0
-Conflicting timer,,配置定时器,,,1,1,0,0
-Connect,,连接,,,1,1,0,0
-Connect to a wireless network,,连接无线网络,,,1,1,0,0
-Connected to,,连接到,,,1,1,0,0
-Constellation,,星位,,,1,1,0,0
-Content does not fit on DVD!,,容量不适合DVD!,,,1,1,0,0
-Continue,,继续,,,1,1,0,0
-Continue in background,,继续后台运行,,,1,1,0,0
-Continue playback,,继续播放,,,1,1,0,0
-Continue playing,,继续播放,,,1,1,0,0
-Continues play (loop),,继续播放(重复),,,1,1,0,0
-Contrast,,对比度,,,1,1,0,0
-Copy,,拷贝,,,1,1,0,0
-Could not open Picture in Picture,,不能打开画中画,,,1,1,0,0
-Create DVD-ISO,,创建DVD-ISO,,,1,1,0,0
-Creating directory %s failed.,,创建目录%s 失败.,,,1,1,0,0
-Croatian,,克罗地亚,,,1,1,0,0
-Current CEC address,,当前CEC地址,,,1,1,0,0
-Current device: ,,当前设备:,,,1,1,0,0
-Current event EPG,,当前EPG ,,,1,1,0,0
-Current settings:,,当前设置:,,,1,1,0,0
-Current transponder,,当前转发器,,,1,1,0,0
-Current value: ,,当前值:,,,1,1,0,0
-Current version:,,当前版本:,,,1,1,0,0
-Currently installed image,,当前已安装映像:,,,1,1,0,0
-Customize,,高级设置,,,1,1,0,0
-Cut,,剪切,,,1,1,0,0
-Cutlist editor...,,列表编辑器...,,,1,1,0,0
-Czech,,捷克,,,1,1,0,0
-DHCP,,自动分配地址(DHCP),,,1,1,0,0
-DUAL LAYER DVD,,双层DVD,,,1,1,0,0
-DVB subtitle black transparency,,DVB字幕黑色透明,,,1,1,0,0
-DVB-S,,'',,,1,0,0,1
-DVB-S2,,'',,,1,0,0,1
-DVD data format,,DVD数据格式,,,1,1,0,0
-DVD media toolbox,,DVD媒体工具箱,,,1,1,0,0
-DVD player,,DVD播放器,,,1,1,0,0
-Danish,,丹麦,,,1,1,0,0
-Date,,日期,,,1,1,0,0
-Date/time input,,日期/时间输入,,,1,1,0,0
-Deep standby,,深度休眠,,,1,1,0,0
-Default,,缺省值,,,1,1,0,0
-Default movie location,,影片默认位置,,,1,1,0,0
-Default settings,,默认设置,,,1,1,0,0
-Delete,,删除,,,1,1,0,0
-Delete entry,,删除项目,,,1,1,0,0
-Delete failed!,,删除失败.,,,1,1,0,0
-Deleted,,删除,,,1,1,0,0
-Deleted items,,已删除项目,,,1,1,0,0
-Depth,,深度,,,1,1,0,0
-Description,,描述,,,1,1,0,0
-Deselect,,取消,,,1,1,0,0
-Details for plugin: ,,插件信息:,,,1,1,0,0
-Detected HDD:,,检测到的硬盘:,,,1,1,0,0
-Detected NIMs:,,检测到的调谐器:,,,1,1,0,0
-Devicename:,,设备名:,,,1,1,0,0
-DiSEqC,,'',,,1,0,0,1
-DiSEqC A/B,,DiSEqC A/B/,,,1,1,0,0
-DiSEqC A/B/C/D,,'',,,1,0,0,1
-DiSEqC mode,,DiSEqC-模式,,,1,1,0,0
-Digital contour removal,,数字轮廓滤除,,,1,1,0,0
-Direct playback of linked titles without menu,,直接播放链接标题，不使用菜单,,,1,1,0,0
-Directory,,目录,,,1,1,0,0
-Directory browser,,目录浏览,,,1,1,0,0
-Disable,,禁用,,,1,1,0,0
-Disable Picture in Picture,,禁用画中画,,,1,1,0,0
-Disable background scanning,,禁止后台扫描,,,1,1,0,0
-Disabled,,禁用,,,1,1,0,0
-Disk space to reserve for recordings (in GB),,为录像保留磁盘空间(GB),,,1,1,0,0
-Display 16:9 content as,,显示16:9内容,,,1,1,0,0
-Display 4:3 content as,,显示4:3内容,,,1,1,0,0
-Display >16:9 content as,,显示 >16:9 内容,,,1,1,0,0
-Display setup,,显示设置,,,1,1,0,0
-Do you really want to check the filesystem?\nThis could take lots of time!,, 是否检查文件系统?\n这将需要很长时间!,,,1,1,0,0
-Do you really want to convert the filesystem?\nYou cannot go back!,, 是否确认要转换文件系统?\n你将不能恢复!,,,1,1,0,0
-Do you really want to delete %s?,, 是否删除 %s?,,,1,1,0,0
-"Do you really want to download\nthe plugin \""%s\""?",," 是否下载插件 \""%s\""?",,,1,1,0,0
-Do you really want to exit?,,你是否确认要退出?,,,1,1,0,0
-Do you really want to initialize the device?\nAll data on the disk will be lost!,, 是否初始化这个设备?\n设备上所有数据都会丢失!,,,1,1,0,0
-Do you really want to remove directory %s from the disk?,, 是否从磁盘上删除目录%s ?,,,1,1,0,0
-Do you really want to remove your bookmark of %s?,, 是否删除 %s 书签?,,,1,1,0,0
-Do you want to burn this collection to DVD medium?,, 是否烧录这个收藏到DVD光盘?,,,1,1,0,0
-Do you want to do a service scan?,, 是否开始频道扫描?,,,1,1,0,0
-Do you want to do another manual service scan?,, 是否手动扫描其他频道?,,,1,1,0,0
-Do you want to download the image to %s ?,," 是否下载映像到 \""%s\""?",,,1,1,0,0
-Do you want to install the package:\n,, 是否安装软件包:\n,,,1,1,0,0
-Do you want to play DVD in drive?,, 是否播放DVD?,,,1,1,0,0
-Do you want to preview this DVD before burning?,, 是否在烧录之前预览DVD?,,,1,1,0,0
-Do you want to remove the package:\n,, 是否卸除软件包:\n,,,1,1,0,0
-Do you want to restore your settings?,, 是否恢复您的设置?,,,1,1,0,0
-Do you want to resume this playback?,, 是否继续上次播放?,,,1,1,0,0
-Do you want to upgrade the package:\n,, 是否升级软件包:\n,,,1,1,0,0
-Don't stop current event but disable coming events,,"不能停止当前事件, 不过可以禁用下一个事件.",,,1,1,0,0
-Download,,下载,,,1,1,0,0
-Downloadable new plugins,,可下载的新插件,,,1,1,0,0
-Downloadable plugins,,可下载的插件,,,1,1,0,0
-Downloading,,下载,,,1,1,0,0
-Downloading plugin information. Please wait...,,"正在下载插件列表,请稍候...",,,1,1,0,0
-Dutch,,荷兰语,,,1,1,0,0
-E,,'',,,1,0,0,1
-EPG language selection 1,,EPG自动语言1,,,1,1,0,0
-EPG language selection 2,,EPG自动语言2,,,1,1,0,0
-ERROR - failed to scan (%s)!,,错误 - 扫描 (%s)失败!,,,1,1,0,0
-East,,东,,,1,1,0,0
-Edit,,修改,,,1,1,0,0
-Edit DNS,,编辑 DNS,,,1,1,0,0
-Edit chapters of current title,,编辑章节当前标题,,,1,1,0,0
-Edit settings,,编辑设置,,,1,1,0,0
-Edit title,,修改标题,,,1,1,0,0
-Edit upgrade source url.,,修改升级源地址.,,,1,1,0,0
-Electronic Program Guide,,电子节目指南,,,1,1,0,0
-Enable,,启用,,,1,1,0,0
-Enable 5V for active antenna,,为有源天线启用5V供电,,,1,1,0,0
-Enable EIT EPG,,启用EIT EPG,,,1,1,0,0
-Enable MHW EPG,,启用MHW EPG,,,1,1,0,0
-Enable Netmed EPG,,启用Netmed EPG,,,1,1,0,0
-Enable ViaSat EPG,,启用ViaSat EPG,,,1,1,0,0
-Enable freesat EPG,,启用freesat EPG,,,1,1,0,0
-Enable multiple bouquets,,启用多自定义组,,,1,1,0,0
-Enable teletext caching,,启用图文电视缓冲,,,1,1,0,0
-Enabled,,启用的,,,1,1,0,0
-Encrypted: ,,已加密:,,,1,1,0,0
-Encryption,,加密方式,,,1,1,0,0
-Encryption:,,加密方式:,,,1,1,0,0
-End time,,结束时间,,,1,1,0,0
-English,,英语,,,1,1,0,0
-Enter main menu...,,进入主菜单...,,,1,1,0,0
-Enter pin code,,输入密码,,,1,1,0,0
-Enter the service pin,,输入服务密码,,,1,1,0,0
-Error,,错误,,,1,1,0,0
-Error code,,错误码,,,1,1,0,0
-Error executing plugin,,执行插件发生错误,,,1,1,0,0
-Error: %s\nRetry?,,错误: %s\n重试?,,,1,1,0,0
-Ethernet network interface,,网卡接口,,,1,1,0,0
-Everywhere,,随时,,,1,1,0,0
-Exceeds dual layer medium!,,超出双层介质!,,,1,1,0,0
-Execution finished!!,,执行完毕！,,,1,1,0,0
-Exit,,退出,,,1,1,0,0
-Exit editor,,退出编辑,,,1,1,0,0
-Exit input device selection.,,退出输入设备选择.,,,1,1,0,0
-Exit network wizard,,退出网络设置向导,,,1,1,0,0
-Exit the wizard,,退出向导,,,1,1,0,0
-Expert,,高级,,,1,1,0,0
-Extended Software,,扩展软件.,,,1,1,0,0
-Extended Software Plugin,,扩展插件...,,,1,1,0,0
-Extensions,,扩展,,,1,1,0,0
-Extensions management,,扩展管理,,,1,1,0,0
-FEC,,前向纠错码(FEC),,,1,1,0,0
-Factory reset,,出厂设置,,,1,1,0,0
-Failed,,失败,,,1,1,0,0
-Fan %d,,风扇 %d ,,,1,1,0,0
-Fan %d PWM,,风扇 %d  PWM,,,1,1,0,0
-Fast,,快速,,,1,1,0,0
-Fast DiSEqC,,快速DiSEqC,,,1,1,0,0
-Fast Scan,,快速扫描,,,1,1,0,0
-Fast epoch,,'',,,1,0,0,1
-Favourites,,喜爱频道,,,1,1,0,0
-Finetune,,微调,,,1,1,0,0
-Finished,,完成,,,1,1,0,0
-Finished configuring your network,,网络设置完成,,,1,1,0,0
-Finished restarting your network,,重启网络完成,,,1,1,0,0
-Finnish,,芬兰,,,1,1,0,0
-Flashing failed,,安装失败,,,1,1,0,0
-Format,,格式化,,,1,1,0,0
-Forward volume keys,,前向音量键,,,1,1,0,0
-Frame size in full view,,全屏显示时的帧大小,,,1,1,0,0
-French,,法国,,,1,1,0,0
-Frequency,,频率,,,1,1,0,0
-Frequency bands,,频带,,,1,1,0,0
-Frequency scan step size(khz),,频率扫描步长(khz),,,1,1,0,0
-Frequency steps,,频率步进,,,1,1,0,0
-Fri,,周五,,,1,1,0,0
-Friday,,星期五,,,1,1,0,0
-Frontprocessor version: %d,,前端版本: %d,,,1,1,0,0
-Gateway,,网关,,,1,1,0,0
-Genre,,类型,,,1,1,0,0
-German,,德语,,,1,1,0,0
-Getting plugin information. Please wait...,,"正在下载插件信息, 请稍候...",,,1,1,0,0
-Goto 0,,转到 0,,,1,1,0,0
-Goto position,,转到位置,,,1,1,0,0
-Graphical Multi EPG,,图形 Multi-EPG,,,1,1,0,0
-Greek,,希腊语,,,1,1,0,0
-Guard interval,,保护间隔模式,,,1,1,0,0
-HD list,,高清列表,,,1,1,0,0
-Handle standby from TV,,管理待机,,,1,1,0,0
-Handle wakeup from TV,,处理唤醒,,,1,1,0,0
-Harddisk,,硬盘,,,1,1,0,0
-Hardware: ,,硬件:,,,1,1,0,0
-Hidden network,,隐藏网络,,,1,1,0,0
-Hide CI messages,,隐藏CI消息,,,1,1,0,0
-Hide zap errors,,隐藏调谐错误,,,1,1,0,0
-Hierarchy info,,分级模式,,,1,1,0,0
-High bitrate support,,高比特率支持,,,1,1,0,0
-Hold till locked,,保持到锁定,,,1,1,0,0
-Horizontal,,水平,,,1,1,0,0
-How many minutes do you want to record?,,您想录制多少分钟?,,,1,1,0,0
-Hue,,色相,,,1,1,0,0
-Hungarian,,匈牙利语,,,1,1,0,0
-ISO file is too large for this filesystem!,,这个ISO文件过大!,,,1,1,0,0
-ISO path,,ISO路径,,,1,1,0,0
-Icons,,图标,,,1,1,0,0
-"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,"如果您能看到这个提示,说明您的色差连接有错误.\n按OK返回.",,,1,1,0,0
-"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,如果您的电视机有亮度或对比度增强项，请关闭它。如果里面有标为“动态”的项目，将其设置为标准。调整背光等级的值以符合您的口味。将电视机的对比度尽可能地降低。然后尽可能将亮度设置调低，但请确保最下面的两个灰色能够分辨出来。现在，不必关心亮度的色调，它们将在接下来的步骤中设置。如果您对结果感到满意，按OK 。,,,1,1,0,0
-Image: ,,映像:,,,1,1,0,0
-"In order to record a timer, the TV was switched to the recording service!\n",,"定时录制开始,即将切换到预录频道!\n",,,1,1,0,0
-Increased voltage,,增加电压,,,1,1,0,0
-Index,,索引,,,1,1,0,0
-Info,,信息,,,1,1,0,0
-Information,,信息,,,1,1,0,0
-Init,,初始化,,,1,1,0,0
-Initialization,,初始化,,,1,1,0,0
-Initialize,,初始化,,,1,1,0,0
-Initializing storage device...,,正在初始化硬盘...,,,1,1,0,0
-Input,,输入,,,1,1,0,0
-Input device setup,,输入设备,,,1,1,0,0
-Input devices,,输入设备,,,1,1,0,0
-Install,,安装,,,1,1,0,0
-Install a new image with a USB stick,,安装一个新的Image到U盘,,,1,1,0,0
-Install a new image with your web browser,,通过网页浏览器安装一个新的Image,,,1,1,0,0
-Install extensions.,,安装本地扩展,,,1,1,0,0
-Install local extension,,安装本地扩展,,,1,1,0,0
-Install picons on,,安装picon,,,1,1,0,0
-Installing,,正在安装,,,1,1,0,0
-Interface: ,,网卡:,,,1,1,0,0
-Intermediate,,中级,,,1,1,0,0
-Internal hdd only,,仅内置硬盘,,,1,1,0,0
-Invalid directory selected: %s,,选择了无效目录: %s,,,1,1,0,0
-Inversion,,反向,,,1,1,0,0
-Invert,,反向,,,1,1,0,0
-Italian,,意大利语,,,1,1,0,0
-Keyboard,,键盘布局,,,1,1,0,0
-LAN connection,,局域网连接,,,1,1,0,0
-LNB,,'',,,1,0,0,1
-Language,,语言,,,1,1,0,0
-Language selection,,语言选择,,,1,1,0,0
-Last config,,上次配置,,,1,1,0,0
-Last speed,,上次速度,,,1,1,0,0
-Latitude,,纬度,,,1,1,0,0
-Left,,左,,,1,1,0,0
-Letterbox,,信箱模式,,,1,1,0,0
-Limit east,,东极限位置,,,1,1,0,0
-Limit west,,西极限位置,,,1,1,0,0
-Limits off,,限位设置关闭,,,1,1,0,0
-Limits on,,限位设置打开,,,1,1,0,0
-Link:,,连接:,,,1,1,0,0
-Linked titles with a DVD menu,,与DVD菜单的连接的标题,,,1,1,0,0
-List available networks,,列出可用网络,,,1,1,0,0
-Lithuanian,,立陶宛语,,,1,1,0,0
-Load,,加载,,,1,1,0,0
-Location,,位置,,,1,1,0,0
-Location for instant recordings,,实时录像的位置,,,1,1,0,0
-Lock:,,锁定:,,,1,1,0,0
-Long filenames,,长文件名,,,1,1,0,0
-Longitude,,经度,,,1,1,0,0
-MORE,,更多,,,1,1,0,0
-Main menu,,主菜单,,,1,1,0,0
-Make this mark an 'in' point,,这个标记作为'in'节点,,,1,1,0,0
-Make this mark an 'out' point,,这个标记作为'out'节点,,,1,1,0,0
-Make this mark just a mark,,这仅仅只是一标记,,,1,1,0,0
-Manage extensions,,管理扩展,,,1,1,0,0
-Manage your receiver's software,,管理Dreambox软件.,,,1,1,0,0
-Manual Scan,,手动扫描,,,1,1,0,0
-Manual configuration,,手动配置,,,1,1,0,0
-Manual transponder,,手动转发器扫描,,,1,1,0,0
-Manufacturer,,制造商,,,1,1,0,0
-Media player,,媒体播放器,,,1,1,0,0
-Medium is not a writeable DVD!,,媒介不是可写DVD!,,,1,1,0,0
-Medium is not empty!,,媒介不是空白的!,,,1,1,0,0
-Memory,,内存,,,1,1,0,0
-Menu,,菜单,,,1,1,0,0
-Message,,消息,,,1,1,0,0
-Message...,,消息...,,,1,1,0,0
-Missing ,,丢失,,,1,1,0,0
-Model: ,,型号:,,,1,1,0,0
-Modulation,,调制,,,1,1,0,0
-Modulator,,调制器,,,1,1,0,0
-Mon,,周一,,,1,1,0,0
-Mon-Fri,,星期一至星期五,,,1,1,0,0
-Monday,,星期一,,,1,1,0,0
-Mosquito noise reduction,,蚊状噪声抑制,,,1,1,0,0
-Mount,,挂载,,,1,1,0,0
-Move,,移动,,,1,1,0,0
-Move Picture in Picture,,移动画中画,,,1,1,0,0
-Move east,,东移,,,1,1,0,0
-Move west,,西移,,,1,1,0,0
-Movie location,,影片位置,,,1,1,0,0
-Movielist menu,,电影列表菜单,,,1,1,0,0
-Multi EPG,,Multi-EPG,,,1,1,0,0
-Multi-EPG bouquet selection,,Multi-EPG组 选择,,,1,1,0,0
-Multimedia,,多媒体,,,1,1,0,0
-Multiple service support,,多系统支持,,,1,1,0,0
-Multiplex,,传输,,,1,1,0,0
-Multisat,,多星,,,1,1,0,0
-Mute,,静音,,,1,1,0,0
-N/A,,空,,,1,1,0,0
-NEXT,,下一个,,,1,1,0,0
-NFI image flashing completed. Press Yellow to Reboot!,,NFI Image安装完成.\n按黄键重启Dreambox!,,,1,1,0,0
-NOW,,现在,,,1,1,0,0
-NTSC,,'',,,1,0,0,1
-Name,,名称,,,1,1,0,0
-Nameserver,,DNS服务器,,,1,1,0,0
-Nameserver %d,,DNS %d,,,1,1,0,0
-Nameserver settings,,DNS设置,,,1,1,0,0
-Namespace,,名字空间,,,1,1,0,0
-Netmask,,子网掩码,,,1,1,0,0
-Network,,网络,,,1,1,0,0
-Network ID,,网络 ID,,,1,1,0,0
-Network scan,,网络扫描,,,1,1,0,0
-Network setup,,网络设置,,,1,1,0,0
-Network test,,网络测试,,,1,1,0,0
-Network test...,,网络测试...,,,1,1,0,0
-Network test: ,,网络测试,,,1,1,0,0
-Network:,,网络:,,,1,1,0,0
-New,,新建,,,1,1,0,0
-New version:,,新版本:,,,1,1,0,0
-No,,不,,,1,1,0,0
-No (supported) DVDROM found!,,未找到(支持的)DVDROM!,,,1,1,0,0
-No Connection,,没有连接,,,1,1,0,0
-No HDD found or HDD not initialized!,,未找到硬盘或硬盘未初始化！,,,1,1,0,0
-No backup needed,,不需要备份,,,1,1,0,0
-No cable tuner found!,,没有发现卫星前端,,,1,1,0,0
-No data on transponder!\n(Timeout reading PAT),,转发器上未找到数据!\n(读取PAT超时),,,1,1,0,0
-No description available.,,无可用信息,,,1,1,0,0
-No details for this image file,,这个Image文件没有详细说明,,,1,1,0,0
-No displayable files on this medium found!,,当前位置未找到文件,,,1,1,0,0
-"No event info found, recording indefinitely.",,"EPG数据没有发现,无限制录制.",,,1,1,0,0
-No free tuner!,,没有空闲的调谐器,,,1,1,0,0
-No network connection available.,,无可用网络连接.,,,1,1,0,0
-No networks found,,未找到网络,,,1,1,0,0
-No positioner capable frontend found.,,未发现有支持的极轴天线.,,,1,1,0,0
-No tags are set on these movies.,,这些影片没有标签,,,1,1,0,0
-No to all,,完全不,,,1,1,0,0
-No tuner is configured for use with a diseqc positioner!,,没有配置极轴(DiSEqC 1.2).,,,1,1,0,0
-No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,,未找到可用的调谐器!\n请设置您的调谐器的设置，然后再启动频道扫描。.,,,1,1,0,0
-No wireless networks found! Searching...,,没有发现无线网络！正在搜索...,,,1,1,0,0
-No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,未找到可用的本地网络.\n请检查网络连接并检查网卡配置是否正确.,,,1,1,0,0
-No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,未找到可用的无线网络连接.\n请检查无线网络设备并检查无线网卡配置是否正确.,,,1,1,0,0
-No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,未找到可用的无线网络连接.\n请检查无线网络设备并检查无线网卡配置是否正确.,,,1,1,0,0
-"No, but restart from begin",,不，重新开始播放这个视频,,,1,1,0,0
-"No, do nothing.",,不，什么也不做.,,,1,1,0,0
-"No, never",,从不,,,1,1,0,0
-None,,无,,,1,1,0,0
-Nonlinear,,非线性,,,1,1,0,0
-North,,北,,,1,1,0,0
-Norwegian,,挪威语,,,1,1,0,0
-Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,,没有扫描!\n请设置您的调谐器，然后再启动频道扫描。.,,,1,1,0,0
-"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,现在，尽可能使用对比度设置出现的亮度背景，但是请确保您仍然可以看到色调的两个最亮等级之间的不同。如果您已经完成了，按OK。,,,1,1,0,0
-OK,,确定,,,1,1,0,0
-"OK, guide me through the upgrade process",,"确定, 引导我的升级过程",,,1,1,0,0
-Off,,关闭,,,1,1,0,0
-Ok,,确定,,,1,1,0,0
-On,,打开,,,1,1,0,0
-One,,1,,,1,1,0,0
-Only extensions.,,只有扩展.,,,1,1,0,0
-Orbital position,,轨道位置,,,1,1,0,0
-Other,,天气,,,1,1,0,0
-Output,,输出,,,1,1,0,0
-PAL,,'',,,1,0,0,1
-PIDs,,'',,,1,0,0,1
-Package list update,,更新软件列表,,,1,1,0,0
-Packet management,,软件包管理,,,1,1,0,0
-Packet manager,,软件管理器,,,1,1,0,0
-Parental control,,家长控制,,,1,1,0,0
-Parental control setup,,家长控制设置,,,1,1,0,0
-Pause movie at end,,电影结束时暂停,,,1,1,0,0
-Pillarbox,,原始大小,,,1,1,0,0
-Pilot,,'',,,1,0,0,1
-Play,,播放,,,1,1,0,0
-Play DVD,,播放DVD,,,1,1,0,0
-Play audio in background,,后台播放音频,,,1,1,0,0
-Play recorded movies...,,播放录制的电影...,,,1,1,0,0
-Please change recording endtime,,请更改录制结束时间,,,1,1,0,0
-Please check your network settings!,,请检查网络设置！,,,1,1,0,0
-Please choose an extension...,,请选择增加部分...,,,1,1,0,0
-Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,请配置或确认DNS地址.\n当您准备好后按OK键继续.,,,1,1,0,0
-Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,下列数值必须设置正确才能连接到Internet.\n当您准备好后按OK键确认.,,,1,1,0,0
-Please do not change any values unless you know what you are doing!,,"不要做任何改变,除非您知道您在干什么!",,,1,1,0,0
-Please enter a name for the new bouquet,,重命名自定义组,,,1,1,0,0
-Please enter a name for the new marker,,重命名标签,,,1,1,0,0
-Please enter a new filename,,请输入一个新的文件名,,,1,1,0,0
-Please enter filename (empty = use current date),,请输入文件名 (空=使用当时日期命名),,,1,1,0,0
-Please enter name of the new directory,,为新的目录重命名,,,1,1,0,0
-Please enter the correct pin code,,请输入正确的密码,,,1,1,0,0
-Please enter the old PIN code,,请输入旧密码,,,1,1,0,0
-Please follow the instructions on the TV,,请依照电视屏幕指导操作.,,,1,1,0,0
-Please press OK to continue.,,请按OK键确认.,,,1,1,0,0
-Please select a playlist to delete...,,请选择要删除的播放列表...,,,1,1,0,0
-Please select a playlist...,,请选择一个播放列表...,,,1,1,0,0
-Please select a subservice to record...,,请选择要录制的子频道...,,,1,1,0,0
-Please select a subservice...,,请选择一个子频道...,,,1,1,0,0
-Please select medium to use as backup location,,请选择作为备份的媒介,,,1,1,0,0
-Please select tag to filter...,,请选择过滤标签...,,,1,1,0,0
-Please select the movie path...,,选择电影路径...,,,1,1,0,0
-Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,请选择连接Internet的网络设备.\n\n按OK键确认.,,,1,1,0,0
-Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,请选择您要接入的无线网络.\n\n按OK键确认,,,1,1,0,0
-Please set up tuner B,,请选择调谐器 B.,,,1,1,0,0
-Please set up tuner C,,请选择调谐器 C.,,,1,1,0,0
-Please set up tuner D,,请选择调谐器 D.,,,1,1,0,0
-Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,请使用方向键移动画中画窗口.\n按遥控器上 Bouquet +/- 改变窗口大小..\n按OK返回到电视模式，或按EXIT取消调整。,,,1,1,0,0
-Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,,"按 上/下 键选择语言, 选定后按 OK.",,,1,1,0,0
-Please wait for activation of your network configuration...,,请等待网络配置激活...,,,1,1,0,0
-Please wait while scanning is in progress...,,正在扫描...请稍候...,,,1,1,0,0
-Please wait while we configure your network...,,正在配置网络...请稍候...,,,1,1,0,0
-Please wait while we prepare your network interfaces...,,正在配置网络...请稍候...,,,1,1,0,0
-Please wait while we test your network...,,正在测试网络...请稍候...,,,1,1,0,0
-Please wait while your network is restarting...,,正在重启网络...请稍候...,,,1,1,0,0
-Please wait...,,请稍候...,,,1,1,0,0
-Please wait... Loading list...,,正在加载列表... 请稍候...,,,1,1,0,0
-Plugin browser,,浏览插件,,,1,1,0,0
-Plugin manager activity information,,插件管理器活动信息,,,1,1,0,0
-Plugins,,插件,,,1,1,0,0
-Polarization,,极化,,,1,1,0,0
-Polish,,波兰语,,,1,1,0,0
-Port A,,端口A,,,1,1,0,0
-Port B,,端口 B,,,1,1,0,0
-Port C,,端口 C,,,1,1,0,0
-Port D,,端口 D,,,1,1,0,0
-Portuguese,,葡萄牙语,,,1,1,0,0
-Positioner,,星位,,,1,1,0,0
-Positioner setup,,位置设置(DiSEqC 1.2),,,1,1,0,0
-Power threshold in mA,,功率阈值(mA),,,1,1,0,0
-Predefined transponder,,预设置转发器,,,1,1,0,0
-Preferred tuner,,首选调谐器,,,1,1,0,0
-Preparing... Please wait,,准备中... 请稍候!,,,1,1,0,0
-Press INFO on your remote control for additional information.,,按INFO键查看更多信息.,,,1,1,0,0
-Press MENU on your remote control for additional options.,,按MENU键查看更多选项.,,,1,1,0,0
-Press OK on your remote control to continue.,,按OK键确认.,,,1,1,0,0
-Press OK to activate the selected skin.,,按OK键激活所选皮肤.,,,1,1,0,0
-Press OK to activate the settings.,,按OK键激活设置.,,,1,1,0,0
-Press OK to edit the settings.,,按OK键修改设置,,,1,1,0,0
-Press OK to get further details for %s,,按OK键获取 %s 详细说明,,,1,1,0,0
-Press OK to scan,,按OK键开始扫描.,,,1,1,0,0
-Press OK to select/deselect a CAId.,,按OK键 选择/取消 CAID,,,1,1,0,0
-Press OK to start the scan,,按OK键开始扫描.,,,1,1,0,0
-Press OK to toggle the selection.,,按OK键修改选择,,,1,1,0,0
-Press yellow to set this interface as default interface.,,按黄键设置默认网卡,,,1,1,0,0
-Preview,,预览,,,1,1,0,0
-Preview menu,,DVD预览菜单,,,1,1,0,0
-Primary DNS,,主 DNS,,,1,1,0,0
-Priority,,次序,,,1,1,0,0
-Process,,进程信息,,,1,1,0,0
-Progress,,进度,,,1,1,0,0
-Properties of current title,,当前标题属性,,,1,1,0,0
-Protect services,,保护服务,,,1,1,0,0
-Provider,,供应商,,,1,1,0,0
-Provider to scan,,扫描供应商,,,1,1,0,0
-Providers,,供应商,,,1,1,0,0
-Put TV in standby,,待机,,,1,1,0,0
-Quick,,快速,,,1,1,0,0
-RF output,,RF-输出,,,1,1,0,0
-RGB,,'',,,1,0,0,1
-Radio,,广播,,,1,1,0,0
-Random,,随机,,,1,1,0,0
-Really close without saving settings?,,关闭而不保存设置?,,,1,1,0,0
-Really delete done timers?,,确实要删除定时器?,,,1,1,0,0
-Really exit the subservices quickzap?,,退出字幕快速切换?,,,1,1,0,0
-Really reboot now?,,立即重启(Reboot)?,,,1,1,0,0
-Really restart now?,,立即重启(Restart)?,,,1,1,0,0
-Really shutdown now?,,立即关机?,,,1,1,0,0
-Reboot,,重新启动,,,1,1,0,0
-Rec,,录制,,,1,1,0,0
-Record,,录制,,,1,1,0,0
-Record time limited due to conflicting timer %s,,由于定时器 %s 冲突导致录制时间受限,,,1,1,0,0
-Recorded files...,,录制文件...,,,1,1,0,0
-Recording,,正在录制,,,1,1,0,0
-Recording in progress,,正在录像,,,1,1,0,0
-Recording paths,,录像路径,,,1,1,0,0
-Recording(s) are in progress or coming up in few seconds!,,录制正在进行中或刚开始录制不久!,,,1,1,0,0
-Recordings,,正在录制,,,1,1,0,0
-Recordings always have priority,,总是优先录制,,,1,1,0,0
-Refresh rate selection.,,选择刷新率.,,,1,1,0,0
-Reload,,重新加载,,,1,1,0,0
-Reloading bouquets and services...,,重载自定义组和频道...,,,1,1,0,0
-Remember service PIN,,记住服务密码,,,1,1,0,0
-Remove,,删除,,,1,1,0,0
-Remove a mark,,移除标记,,,1,1,0,0
-Remove currently selected title,,移除当前选择的标题,,,1,1,0,0
-Remove plugins,,移除插件,,,1,1,0,0
-Remove title,,移除标题,,,1,1,0,0
-Removing,,正在删除...,,,1,1,0,0
-Removing directory %s failed. (Maybe not empty.),,删除 %s 目录失败. (很可能不是空目录.),,,1,1,0,0
-Rename,,改名,,,1,1,0,0
-Repeating event currently recording... What do you want to do?,,重复的定时录制事件...\n您准备怎么办?,,,1,1,0,0
-Repeat,,重复,,,1,1,0,0
-Repeats,,重复,,,1,1,0,0
-Required medium type:,,需要介质类型:,,,1,1,0,0
-Reset,,复位,,,1,1,0,0
-Reset and renumerate title names,,复位并重设标题名称,,,1,1,0,0
-Reset playback position,,重设播放位置,,,1,1,0,0
-Reset video enhancement settings to system defaults?,,重置视频增强器设置?,,,1,1,0,0
-Reset video enhancement settings to your last configuration?,,恢复视频增强器设置?,,,1,1,0,0
-Resolution,,分辨率,,,1,1,0,0
-Restart,,重新启动,,,1,1,0,0
-Restart GUI now?,,立即重启Enigma2?,,,1,1,0,0
-Restart enigma,,重启Enigma2,,,1,1,0,0
-Restart network,,重启网络,,,1,1,0,0
-Restart test,,重新测试,,,1,1,0,0
-Restart your network connection and interfaces.\n,,重启 Dreambox网络连接.\n,,,1,1,0,0
-Restore,,恢复,,,1,1,0,0
-Restore backups,,恢复备份,,,1,1,0,0
-Restore is running...,,正在恢复...,,,1,1,0,0
-Restore system settings,,恢复系统设置,,,1,1,0,0
-Resume from last position,,从最后位置恢复,,,1,1,0,0
-Resume position at %s,,恢复到%s,,,1,1,0,0
-Resuming playback,,恢复播放,,,1,1,0,0
-Return to movie list,,返回电影列表,,,1,1,0,0
-Return to previous service,,返回之前的频道,,,1,1,0,0
-Rewind speeds,,快退速度,,,1,1,0,0
-Right,,右,,,1,1,0,0
-Roll-off,,信号衰减,,,1,1,0,0
-Root directory,,开始目录,,,1,1,0,0
-Rotor turning speed,,马达转速,,,1,1,0,0
-Russian,,俄语,,,1,1,0,0
-S-Video,,'',,,1,0,0,1
-SID,,'',,,1,0,0,1
-SINGLE LAYER DVD,,单层DVD,,,1,1,0,0
-SNR,,信噪比,,,1,1,0,0
-SNR:,,信噪:,,,1,1,0,0
-Sat,,周六,,,1,1,0,0
-Satellite,,卫星,,,1,1,0,0
-Satellite equipment,,卫星设备设置,,,1,1,0,0
-Satellites,,卫星,,,1,1,0,0
-Satfinder,,寻星,,,1,1,0,0
-Sats,,卫星,,,1,1,0,0
-Saturation,,饱和度,,,1,1,0,0
-Saturday,,星期六,,,1,1,0,0
-Save,,保存,,,1,1,0,0
-Scaler sharpness,,定标锐度,,,1,1,0,0
-Scan ,,扫描,,,1,1,0,0
-Scan additional SR,,扫描更多 SR,,,1,1,0,0
-Scan your network for wireless access points and connect to them using your selected wireless device.\n,,扫描无线网络接入点并通过所选无线设备连接.\n,,,1,1,0,0
-Scanning %s...,,正在扫描%s ...,,,1,1,0,0
-Scanning failed!,,扫描失败!,,,1,1,0,0
-Scanning...,,正在扫描...,,,1,1,0,0
-Scans default lamedbs sorted by satellite with a connected dish positioner,,扫描默认lamedb，以卫星排序,,,1,1,0,0
-Search east,,向东搜索,,,1,1,0,0
-Search west,,向西搜索,,,1,1,0,0
-Searching for available updates. Please wait...,,正在搜索可用升级. 请稍候...,,,1,1,0,0
-Searching for new installed or removed packages. Please wait...,,正在搜索可用安装或卸载的软件表. 请稍候...,,,1,1,0,0
-Secondary DNS,,副 DNS,,,1,1,0,0
-Seek,,查找,,,1,1,0,0
-Select,,选择,,,1,1,0,0
-Select HDD,,选择硬盘,,,1,1,0,0
-Select a movie,,选择一部电影,,,1,1,0,0
-Select audio track,,选择音轨,,,1,1,0,0
-Select channel to record from,,选择要录制的频道,,,1,1,0,0
-Select copy destination for:,,选择目标位置:,,,1,1,0,0
-Select desired image from feed list,,从服务器选择Image,,,1,1,0,0
-Select destination for:,,目标目录:,,,1,1,0,0
-Select files for backup.,,选择 文件/目录 备份...,,,1,1,0,0
-Select files/folders to backup,,选择 文件/目录 备份...,,,1,1,0,0
-Select input device,,输入设备,,,1,1,0,0
-Select interface,,选择接口,,,1,1,0,0
-Select provider to add...,,选择要添加的提供商...,,,1,1,0,0
-Select refresh rate,,选择刷新率,,,1,1,0,0
-Select service to add...,,选择要添加的频道...,,,1,1,0,0
-Select upgrade source to edit.,,选泽升级源进行编辑.,,,1,1,0,0
-Select video input with up/down buttons,,用上下键选择视频,,,1,1,0,0
-Select video mode,,设置视频模式,,,1,1,0,0
-Select wireless network,,选择无线网络,,,1,1,0,0
-"Select your provider, and press OK to start the scan",,选择供应商，按OK开始扫描,,,1,1,0,0
-Send DiSEqC,,发送DiSEqC命令,,,1,1,0,0
-Send DiSEqC only on satellite change,,当改变卫星时发送DiSEqC命令,,,1,1,0,0
-Sequence repeat,,重复序列,,,1,1,0,0
-Service,,频道,,,1,1,0,0
-Service has been added to the favourites.,,频道已添加到喜爱频道,,,1,1,0,0
-Service has been added to the selected bouquet.,,频道已添加到选定的自定义组.,,,1,1,0,0
-Service invalid!\n(Timeout reading PMT),,频道无效!\n(读取PMT超时),,,1,1,0,0
-Service not found!\n(SID not found in PAT),,频道未找到!\n(在PAT中找不以SID),,,1,1,0,0
-Service reference,,频道参考,,,1,1,0,0
-Service scan,,频道扫描,,,1,1,0,0
-Service unavailable!\nCheck tuner configuration!,,频道无法使用!\n请检查调谐器配置!,,,1,1,0,0
-Services,,频道,,,1,1,0,0
-Set fixed,,设为已修复,,,1,1,0,0
-Set interface as default Interface,,将网卡设为默认,,,1,1,0,0
-Set limits,,设置极限,,,1,1,0,0
-Settings,,设置,,,1,1,0,0
-Setup,,设置,,,1,1,0,0
-Sharpness,,锐度,,,1,1,0,0
-Short filenames,,短文件名,,,1,1,0,0
-Show EIT now/next in infobar,,在信息条显示EIT Now/Next信息,,,1,1,0,0
-Show animation while busy,,忙时显示动画,,,1,1,0,0
-Show channel numbers in channel selection,,选择频道时显示频道编号,,,1,1,0,0
-Show crypto info in infobar,,在信息条显示加密信息,,,1,1,0,0
-Show event-progress in channel selection,,切换频道时显示信息条,,,1,1,0,0
-Show infobar on channel change,,切换频道时显示信息条,,,1,1,0,0
-Show infobar on event change,,事件更改时显示信息条,,,1,1,0,0
-Show infobar on skip forward/backward,,快退 / 快进时显示信息条,,,1,1,0,0
-Show positioner movement,,显示位置移动,,,1,1,0,0
-Show second infobar,,显示第二信息条,,,1,1,0,0
-Show the radio player...,,广播回放模式下...,,,1,1,0,0
-Show the tv player...,,电视回放模式下...,,,1,1,0,0
-Shows the state of your wireless LAN connection.\n,,显示WLAN连接信息.\n,,,1,1,0,0
-Shutdown,,关机,,,1,1,0,0
-Signal: ,,信号,,,1,1,0,0
-Quality,,质量,,,1,1,0,0
-Similar,,类似,,,1,1,0,0
-Similar broadcasts:,,类似的广播:,,,1,1,0,0
-Simple,,简易,,,1,1,0,0
-Simplified Chinese,,简体中文,,,1,1,0,0
-Simple titleset (compatibility for legacy players),,简易的标题 (更好的兼容性),,,1,1,0,0
-Single,,单个,,,1,1,0,0
-Single EPG,,单个-EPG,,,1,1,0,0
-Single satellite,,单个卫星,,,1,1,0,0
-Skin,,皮肤,,,1,1,0,0
-Skins,,皮肤,,,1,1,0,0
-Slot %d,,插槽 %d,,,1,1,0,0
-Slow,,慢的,,,1,1,0,0
-Software,,软件,,,1,1,0,0
-Software management,,软件管理,,,1,1,0,0
-Software manager setup,,软件管理,,,1,1,0,0
-Software restore,,软件还原,,,1,1,0,0
-Software update,,软件升级,,,1,1,0,0
-Softwaremanager information,,软件管理,,,1,1,0,0
-Some plugins are not available:\n,,一些插件不可用:\n,,,1,1,0,0
-Sort,,排序,,,1,1,0,0
-Sort A-Z,,按字母排序,,,1,1,0,0
-Sound,,声音,,,1,1,0,0
-Source request,,源目录,,,1,1,0,0
-South,,南,,,1,1,0,0
-Spanish,,西班牙语,,,1,1,0,0
-Split preview mode,,分割预览模式,,,1,1,0,0
-Standby,,待机,,,1,1,0,0
-Start from the beginning,,重头开始,,,1,1,0,0
-Start recording?,,开始录制？,,,1,1,0,0
-Start test,,重新测试,,,1,1,0,0
-Starting on,,开始,,,1,1,0,0
-Step east,,向东步进,,,1,1,0,0
-Step west,,向西步进,,,1,1,0,0
-Stop,,停止,,,1,1,0,0
-Stop current event and disable coming events,,停止当前事件并禁用下一个事件,,,1,1,0,0
-Stop current event but not coming events,,停止当前事件但不禁用下一个事件,,,1,1,0,0
-Stop playing this movie?,,停止播放这部电影？,,,1,1,0,0
-Stop recording,,停止录像,,,1,1,0,0
-Stop recording and delete,,停止录像并删除,,,1,1,0,0
-Stop test,,停止测试,,,1,1,0,0
-Stop testing plane after # failed transponders,,转发器失败后停止测试卫星,,,1,1,0,0
-Stop testing plane after # successful transponders,,转发器成功后停止测试卫星,,,1,1,0,0
-Stopped,,停止,,,1,1,0,0
-Store position,,存贮位置,,,1,1,0,0
-Stored position,,存贮位置,,,1,1,0,0
-Stream request,,流请求,,,1,1,0,0
-Subservice list...,,子频道列表...,,,1,1,0,0
-Subservices,,子频道,,,1,1,0,0
-Subtitle delay when timing lacks,,当时间不足时图文字幕延时,,,1,1,0,0
-Subtitle language selection 1,,字幕语言1,,,1,1,0,0
-Subtitle language selection 2,,字幕语言2,,,1,1,0,0
-Subtitle language selection 3,,字幕语言3,,,1,1,0,0
-Subtitle language selection 4,,字幕语言4,,,1,1,0,0
-Subtitle selection,,字幕选择,,,1,1,0,0
-Subtitle selection...,,字幕选择...,,,1,1,0,0
-Subtitle settings,,字幕设置,,,1,1,0,0
-Subtitles,,字幕,,,1,1,0,0
-Sun,,周日,,,1,1,0,0
-Sunday,,星期日,,,1,1,0,0
-Swedish,,瑞典语,,,1,1,0,0
-Switch TV to correct input,,切换电视到正确的输入,,,1,1,0,0
-Switchable tuner types:,,可换调谐器类型,,,1,1,0,0
-Symbol rate,,符号率,,,1,1,0,0
-System,,系统,,,1,1,0,0
-TS file is too large for ISO9660 level 1!,,TS文件太大！,,,1,1,0,0
-Tags,,标签,,,1,1,0,0
-Teletext subtitle color,,图文字幕颜色,,,1,1,0,0
-Terrestrial,,地面波,,,1,1,0,0
-Terrestrial provider,,地面波提供商,,,1,1,0,0
-Test DiSEqC settings,,测试DiSEqC设置,,,1,1,0,0
-Test mode,,测试模式,,,1,1,0,0
-Thank you for using the wizard.\nPlease press OK to continue.,,感谢您使用设置向导.\n按OK键确认.,,,1,1,0,0
-The PIN code has been changed successfully.,,服务密码 已被成功修改.,,,1,1,0,0
-The PIN codes you entered are different.,,密码输入不相同.,,,1,1,0,0
-The backup failed. Please choose a different backup location.,,备份操作失败！请选择不同的备份位置。,,,1,1,0,0
-The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,下列装备被发现:\n\n%s\n\n是否刷新这个U盘?,,,1,1,0,0
-The following files were found...,,下列文件已找到...,,,1,1,0,0
-The path %s already exists.,,路径 %s 已经存在.,,,1,1,0,0
-The pin code you entered is wrong.,,密码输入有误.,,,1,1,0,0
-The results have been written to %s.,,测试结果是在 %s 中保存.,,,1,1,0,0
-The sleep timer has been activated.,,定时休眠已被激活.,,,1,1,0,0
-The sleep timer has been disabled.,,定时休眠已被禁用.,,,1,1,0,0
-The timer file (timers.xml) is corrupt and could not be loaded.,,计时器文件（timers.xml）已损坏，无法加载.,,,1,1,0,0
-The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,无线网络插件未安装!\n请安装并选择下一步做什么.,,,1,1,0,0
-The wireless LAN plugin is not installed!\nPlease install it.,,WLAN插件未安装!\n请先安装.,,,1,1,0,0
-The wizard can backup your current settings. Do you want to do a backup now?,,该向导可以备份您当前的设置.您想要做的一个备份吗？,,,1,1,0,0
-The wizard is finished now.,,向导已完成设置.,,,1,1,0,0
-There are at least ,,至少,,,1,1,0,0
-There are no updates available.,,没有可用更新.,,,1,1,0,0
-There might not be enough Space on the selected Partition.\nDo you really want to continue?,,所选的分区上可能没有足够的空间.\n是否继续？,,,1,1,0,0
-This DVD RW medium is already formatted - reformatting will erase all content on the disc.,,这张DVD RW已经格式化过，再次格式化将删除所有文件,,,1,1,0,0
-This plugin is installed.,,此插件已安装.,,,1,1,0,0
-This plugin is not installed.,,此插件未安装.,,,1,1,0,0
-This plugin will be installed.,,此插件将安装.,,,1,1,0,0
-This plugin will be removed.,,插件被移除,,,1,1,0,0
-Three,,3,,,1,1,0,0
-Threshold,,转折频率,,,1,1,0,0
-Thu,,周四,,,1,1,0,0
-Thumbnails,,缩略图,,,1,1,0,0
-Thursday,,星期四,,,1,1,0,0
-Time,,时间,,,1,1,0,0
-Timer,,定时器,,,1,1,0,0
-Timer entry,,定时器项目,,,1,1,0,0
-Timer log,,定时器日志,,,1,1,0,0
-Timer overlap in timers.xml detected!\nPlease recheck it!,,检测timers.xml有重叠部分！\n请重新检查它!,,,1,1,0,0
-Timer sanity error,,定时器测试中的错误,,,1,1,0,0
-Timer selection,,定时器选择,,,1,1,0,0
-Timeshift,,时光平移,,,1,1,0,0
-Timeshift location,,时光平移位置,,,1,1,0,0
-Timeshift not possible!,,不能时光平移!,,,1,1,0,0
-Timezone,,时区,,,1,1,0,0
-Title,,标题,,,1,1,0,0
-Title properties,,标题属性,,,1,1,0,0
-Titleset mode,,标题设置模式,,,1,1,0,0
-To audio selection,,音频选择,,,1,1,0,0
-To subtitle selection,,字幕选择,,,1,1,0,0
-Today,,今天,,,1,1,0,0
-Tone mode,,脉冲模式,,,1,1,0,0
-Toneburst,,'',,,1,0,0,1
-Toneburst A/B,,'',,,1,0,0,1
-Track,,轨道,,,1,1,0,0
-Traditional Chinese,,繁体中文,,,1,1,0,0
-Translation,,翻译,,,1,1,0,0
-Translation:,,翻译:,,,1,1,0,0
-Transmission mode,,传输模式,,,1,1,0,0
-Transponder,,转发器,,,1,1,0,0
-Tries left:,,尝试:,,,1,1,0,0
-Try to find used transponders in cable network.. please wait...,,尝试从电缆找寻可用的转发器.. 请稍候...,,,1,1,0,0
-Trying to download a new packetlist. Please wait...,,尝试下载新的软件包列表. 请稍候...,,,1,1,0,0
-Tue,,周二,,,1,1,0,0
-Tuesday,,星期二,,,1,1,0,0
-Tune,,调制,,,1,1,0,0
-Tune failed!,,调制失败!,,,1,1,0,0
-Tuner,,调谐器,,,1,1,0,0
-Tuner configuration,,调谐器配置,,,1,1,0,0
-Tuner status,,调谐器状态,,,1,1,0,0
-Tuner type,,调谐器类型,,,1,1,0,0
-Turkish,,土耳其语,,,1,1,0,0
-Two,,2,,,1,1,0,0
-Type,,类型,,,1,1,0,0
-Type of scan,,扫描类型,,,1,1,0,0
-USALS,,'',,,1,0,0,1
-USB stick wizard,,U盘向导,,,1,1,0,0
-Undo install,, 放弃安装,,,1,1,0,0
-Undo uninstall,,放弃卸载,,,1,1,0,0
-Unencrypted,,未加密,,,1,1,0,0
-Unicable,,通用,,,1,1,0,0
-Unicable LNB,,通用LNB,,,1,1,0,0
-Uninstall,,卸载,,,1,1,0,0
-Universal LNB,,通用LNB,,,1,1,0,0
-Unknown,,<未知>,,,1,1,0,0
-Unmount,,卸载,,,1,1,0,0
-Unsupported,,不支持,,,1,1,0,0
-Update,,更新,,,1,1,0,0
-Updatefeed not available.,,更新资源无效,,,1,1,0,0
-Upgrading,,升级,,,1,1,0,0
-Use,,使用,,,1,1,0,0
-Use DHCP,,自动分配地址(DHCP),,,1,1,0,0
-Use TV remote control,,用电视遥控,,,1,1,0,0
-Use a gateway,,使用网关,,,1,1,0,0
-Use fastscan channel names,,使用快速扫描频道名称,,,1,1,0,0
-Use fastscan channel numbering,,使用快速扫描频道编号,,,1,1,0,0
-Use interface,,使用接口,,,1,1,0,0
-Use official channel numbering,,使用快速扫描频道编号,,,1,1,0,0
-Use original teletext position,,使用原始图文位置,,,1,1,0,0
-Use power measurement,,使用功率测量,,,1,1,0,0
-"Use the up/down keys on your remote control to select an option. After that, press OK.",,使用遥控 上/下 键选择一个选项。在此之后按下 OK 。,,,1,1,0,0
-Use these settings?,,使用这些设置?,,,1,1,0,0
-Use this video enhancement settings?,,使用此视频增强器设置?,,,1,1,0,0
-Used service scan type,,按频道类型搜索,,,1,1,0,0
-User - bouquets,,自定义组,,,1,1,0,0
-User defined,,用户定义,,,1,1,0,0
-User defined transponder,,用户定义的转发器,,,1,1,0,0
-User interface,,用户界面,,,1,1,0,0
-Using LNB %d,,正使用 LNB %d,,,1,1,0,0
-Using fixed address,,使用固定地址,,,1,1,0,0
-Using tuner %s,,使用调谐器 %s,,,1,1,0,0
-VCR scart,,录像机,,,1,1,0,0
-Vertical,,垂直,,,1,1,0,0
-Vertical turning speed,,垂直调谐速度,,,1,1,0,0
-Video PID,,视频PID,,,1,1,0,0
-Video enhancement preview,,视频增强预览,,,1,1,0,0
-Video enhancement settings,,视频增强器设置,,,1,1,0,0
-Video enhancement setup,,视频增强器设置,,,1,1,0,0
-Video input selection\n\nPlease press OK if you can see this page on your TV (or select a different input port).\n\nThe next input port will be automatically probed in 20 seconds.,,"视频输入选择\n\n如果你能看到此页面,请按 确定(或则选择不同输入端口) \n\n ",,,1,1,0,0
-Video mode selection.,,选择视频模式.,,,1,1,0,0
-Video output,,视频输出,,,1,1,0,0
-Mode,,输出模式,,,1,1,0,0
-Video setup,,视频设置,,,1,1,0,0
-Video wizard,,视频向导,,,1,1,0,0
-Videocodec,,视频编码,,,1,1,0,0
-Videoformat,,画面格式,,,1,1,0,0
-Videosize,,画面大小,,,1,1,0,0
-View Rass interactive...,,'',,,1,0,0,1
-View details,,显示事件详细内容,,,1,1,0,0
-View list of available ,,查看可用列表,,,1,1,0,0
-View list of available CommonInterface extensions,,可用的通用接口扩展列表,,,1,1,0,0
-View list of available EPG extensions.,,可用的EPG扩展列表,,,1,1,0,0
-View list of available Satellite equipment extensions.,,可用的卫星设备扩展列表,,,1,1,0,0
-View teletext...,,查看图文电视...,,,1,1,0,0
-Voltage mode,,电压模式,,,1,1,0,0
-Volume,,音量,,,1,1,0,0
-W,,'',,,1,0,0,1
-WEP,,'',,,1,0,0,1
-WLAN connection,,WLAN连接,,,1,1,0,0
-WPA,,'',,,1,0,0,1
-WPA or WPA2,,WPA 或r WPA2,,,1,1,0,0
-WPA2,,'',,,1,0,0,1
-WSS on 4:3,,'',,,1,0,0,1
-Waiting,,等待,,,1,1,0,0
-Wakeup,,唤醒,,,1,1,0,0
-Wakeup TV from standby,,唤醒电视,,,1,1,0,0
-Wed,,周三,,,1,1,0,0
-Wednesday,,星期三,,,1,1,0,0
-Weekday,,"普通日(周六,日以外的任何一天)",,,1,1,0,0
-Welcome...,,欢迎...,,,1,1,0,0
-West,,西,,,1,1,0,0
-What do you want to scan?,,是否开始扫描?,,,1,1,0,0
-"When you do a factory reset, you will lose ALL your configuration data\n(including bouquets, services, satellite data ...)\nAfter completion of factory reset, your receiver will restart automatically!\n\nReally do a factory reset?",,"如果恢复出厂设置，全部个人设置将丢失\n(包括卫星, 频道, 自定义组等 ...)\n完成出厂设置复位后, 接收机将自动重启!\n\n确定要恢复出厂设置吗?",,,1,1,0,0
-Where do you want to backup your settings?,,在哪里备份您的设置?,,,1,1,0,0
-Where to save temporary timeshift recordings?,,在哪里保存时光平移临时录制的内容?,,,1,1,0,0
-Wireless LAN,,无线网络,,,1,1,0,0
-Wireless network connection setup,,无线网络连接设置,,,1,1,0,0
-Wireless network connection setup.,,无线网络连接设置.,,,1,1,0,0
-Wireless network state,,无线网络状态,,,1,1,0,0
-Write error while recording. Disk full?\n,,录制节目时出现错误.磁盘已满?\n,,,1,1,0,0
-Write failed!,,写入失败！,,,1,1,0,0
-YPbPr,,'',,,1,0,0,1
-Year,,年,,,1,1,0,0
-Yellow DVB subtitles,,黄色DVB字幕,,,1,1,0,0
-Yes,,是,,,1,1,0,0
-Yes to all,,所有,,,1,1,0,0
-"Yes, always",,总是,,,1,1,0,0
-"Yes, and delete this movie",,是的，删除此电影,,,1,1,0,0
-"Yes, backup my settings!",,是，备份我的设置！,,,1,1,0,0
-"Yes, do a manual scan now",,是，开始手动扫描,,,1,1,0,0
-"Yes, do an automatic scan now",,是，开始自动扫描,,,1,1,0,0
-"Yes, do another manual scan now",,是，手动扫描另一个参数,,,1,1,0,0
-"Yes, perform a shutdown now.",,是，立即关机。,,,1,1,0,0
-"Yes, restore the settings now",,是，立即还原设置,,,1,1,0,0
-"Yes, returning to movie list",,是，返回电影列表,,,1,1,0,0
-Yesterday,,昨天,,,1,1,0,0
-You can remove this plugin.,,你可以删除这个插件.,,,1,1,0,0
-You cannot delete this!,,这个文件不能删除!,,,1,1,0,0
-You didn't select a channel to record from.,,你没有选择要录制的频道,,,1,1,0,0
-You have chosen to backup your settings. Please press OK to start the backup now.,,您已选择要备份您的设置。请按OK键开始备份。,,,1,1,0,0
-You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,您已经选择恢复备份设置.恢复后将重启Enigma2.请按OK开始恢复备份.,,,1,1,0,0
-You have to wait %s!,,您必须等待 %s !,,,1,1,0,0
-Your backup succeeded. We will now continue to explain the further upgrade process.,,备份成功.现在将继续说明下一步的升级过程.,,,1,1,0,0
-Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,,您的前端处理器固件必须更新.\n按 OK 开始升级.,,,1,1,0,0
-Your internet connection is not working!\nPlease choose what you want to do next.,,Internet连接不正常！\n请选择下一步做什么,,,1,1,0,0
-Your network configuration has been activated.,,您的网络配置已被激活.,,,1,1,0,0
-Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,,无线网络不能连接！\n是否连接了USB无线网卡?\n\n请选择下一步做什么.,,,1,1,0,0
-Zap back to previously tuned service?,,回到上次的频道？,,,1,1,0,0
-Zap back to service before positioner setup?,,切换回设定位置之前的频道?,,,1,1,0,0
-Zap back to service before tuner setup?,,回到调谐器设置前的频道？,,,1,1,0,0
-Zap focus to Picture in Picture,,切换到画中画,,,1,1,0,0
-Zap mode,,调谐模式,,,1,1,0,0
-[alternative edit],,[编辑项目],,,1,1,0,0
-[bouquet edit],,[编辑自定义组],,,1,1,0,0
-[favourite edit],,[编辑喜爱频道],,,1,1,0,0
-[move mode],,[移动模式],,,1,1,0,0
-abort alternatives edit,,取消项目编辑,,,1,1,0,0
-abort bouquet edit,,取消自定义组编辑,,,1,1,0,0
-abort favourites edit,,放弃编辑喜爱频道,,,1,1,0,0
-about to start,,立即开始,,,1,1,0,0
-activate network adapter configuration,,激活网卡配置,,,1,1,0,0
-add alternatives,,增加项目,,,1,1,0,0
-add bookmark,,增加书签,,,1,1,0,0
-add bouquet,,增加自定义组,,,1,1,0,0
-add marker,,添加标记,,,1,1,0,0
-add service to bouquet,,添加频道到自定义组,,,1,1,0,0
-add service to favourites,,添加频道到喜爱频道,,,1,1,0,0
-add to parental protection,,添加到家长控制,,,1,1,0,0
-advanced,,高级,,,1,1,0,0
-alphabetic reverse,,按字母顺序排列,,,1,1,0,0
-audio tracks,,单轨,,,1,1,0,0
-auto,,自动,,,1,1,0,0
-back,,后退,,,1,1,0,0
-background image,,背景图片,,,1,1,0,0
-better,,较好,,,1,1,0,0
-black,,黑色,,,1,1,0,0
-blacklist,,黑名单,,,1,1,0,0
-blue,,蓝色,,,1,1,0,0
-chapters,,章节,,,1,1,0,0
-circular left,,左旋,,,1,1,0,0
-circular right,,右旋,,,1,1,0,0
-config menu,,配置菜单,,,1,1,0,0
-confirmed,,检测通过,,,1,1,0,0
-connected,,已连接,,,1,1,0,0
-continue,,继续,,,1,1,0,0
-copy to bouquets,,复制到自定义组,,,1,1,0,0
-create directory,,创建目录,,,1,1,0,0
-currently installed image: %s,,当前已安装映像:%s,,,1,1,0,0
-daily,,每天,,,1,1,0,0
-day,,天,,,1,1,0,0
-default,,默认,,,1,1,0,0
-delete cut,,删除剪辑,,,1,1,0,0
-disable,,禁止,,,1,1,0,0
-disable move mode,,禁用移动模式,,,1,1,0,0
-disabled,,不可用,,,1,1,0,0
-disconnected,,断开,,,1,1,0,0
-do nothing,,什么都不做,,,1,1,0,0
-done!,,完成!,,,1,1,0,0
-edit alternatives,,编辑选项,,,1,1,0,0
-empty,,空的,,,1,1,0,0
-enable,,启用,,,1,1,0,0
-enable bouquet edit,,允许编辑自定义组,,,1,1,0,0
-enable favourite edit,,允许编辑喜爱频道,,,1,1,0,0
-enable move mode,,允许移动模式,,,1,1,0,0
-enabled,,启用,,,1,1,0,0
-end alternatives edit,,结速项目编辑,,,1,1,0,0
-end bouquet edit,,结束自定义组编辑,,,1,1,0,0
-end cut here,,结束录像剪辑,,,1,1,0,0
-end favourites edit,,结束喜爱频道编辑,,,1,1,0,0
-equal to,,相同,,,1,1,0,0
-exit DVD player or return to file browser,,退出DVD播放器或返回文件浏览器,,,1,1,0,0
-exit network adapter configuration,,退出网卡配置,,,1,1,0,0
-exit networkadapter setup menu,,退出网卡设置菜单,,,1,1,0,0
-"fileformats (BMP, PNG, JPG, GIF)",,"文件格式 (BMP, PNG, JPG, GIF)",,,1,1,0,0
-filename,,文件名,,,1,1,0,0
-forward to the next chapter,,快进到下一个章节,,,1,1,0,0
-free,,空闲,,,1,1,0,0
-go to deep standby,,深度休眠,,,1,1,0,0
-go to standby,,待机,,,1,1,0,0
-green,,绿色,,,1,1,0,0
-height,,高,,,1,1,0,0
-help...,,帮助...,,,1,1,0,0
-horizontal,,水平,,,1,1,0,0
-init module,,模块初始化,,,1,1,0,0
-init modules,,模块初始化,,,1,1,0,0
-insert mark here,,在这里标记,,,1,1,0,0
-jump back to the previous title,,跳转到上一个标题,,,1,1,0,0
-jump forward to the next title,,跳转到下一个标题,,,1,1,0,0
-leave movie player...,,退出电影播放...,,,1,1,0,0
-left,,左,,,1,1,0,0
-length,,长度,,,1,1,0,0
-list style compact,,列表样式,,,1,1,0,0
-list style compact with description,,带描述的列表样式,,,1,1,0,0
-list style default,,默认列表样式,,,1,1,0,0
-list style single line,,单行列表样式,,,1,1,0,0
-locked,,锁定,,,1,1,0,0
-loopthrough to,,联系,,,1,1,0,0
-manual,,手动,,,1,1,0,0
-menu,,菜单,,,1,1,0,0
-mins,,分钟,,,1,1,0,0
-minutes,,分钟,,,1,1,0,0
-month,,月,,,1,1,0,0
-move down to last entry,,向下移动到最后项目,,,1,1,0,0
-move down to next entry,,向下移动到下一个项目,,,1,1,0,0
-move up to first entry,,向上移动到第一个项目,,,1,1,0,0
-move up to previous entry,,向上移动到上一个项目,,,1,1,0,0
-multinorm,,多标准,,,1,1,0,0
-never,,从不,,,1,1,0,0
-no,,否,,,1,1,0,0
-no CAId selected,,无选择的CAID,,,1,1,0,0
-no CI slots found,,未找到CI,,,1,1,0,0
-no module found,,未找到模块,,,1,1,0,0
-no storage devices found,,无存储设备,,,1,1,0,0
-none,,无,,,1,1,0,0
-not configured,,未设置,,,1,1,0,0
-not locked,,无信号,,,1,1,0,0
-not supported,,不支持,,,1,1,0,0
-not used,,未使用,,,1,1,0,0
-nothing connected,,从未连接,,,1,1,0,0
-of a DUAL layer medium used.,,使用双层介质,,,1,1,0,0
-of a SINGLE layer medium used.,,使用单层介质.,,,1,1,0,0
-off,,关,,,1,1,0,0
-on,,开,,,1,1,0,0
-on READ ONLY medium.,,只读介质.,,,1,1,0,0
-once,,一次,,,1,1,0,0
-open nameserver configuration,,打开DNS设置,,,1,1,0,0
-original,,原始,,,1,1,0,0
-pass,,通过,,,1,1,0,0
-play as picture in picture,,以画中画播放,,,1,1,0,0
-play in mainwindow,,在主窗口中播放,,,1,1,0,0
-please press OK when ready,,准备好后，按OK键,,,1,1,0,0
-"please wait, loading picture...",,请稍候，正在加载图片...,,,1,1,0,0
-record,,录像,,,1,1,0,0
-recording...,,正在录像...,,,1,1,0,0
-red,,红色,,,1,1,0,0
-remove after this position,,移除这个位置之后的,,,1,1,0,0
-remove all alternatives,,移除所有项目,,,1,1,0,0
-remove all new found flags,,移除所有新发现标记,,,1,1,0,0
-remove before this position,,移除这个位置之前的,,,1,1,0,0
-remove bookmark,,移除书签,,,1,1,0,0
-remove directory,,移除目录,,,1,1,0,0
-remove entry,,移除项目,,,1,1,0,0
-remove from parental protection,,取消家长控制,,,1,1,0,0
-remove new found flag,,移除新发现标记,,,1,1,0,0
-remove selected satellite,,移除选定的卫星,,,1,1,0,0
-remove this mark,,移除这个标记,,,1,1,0,0
-repeat playlist,,重复播放列表,,,1,1,0,0
-repeated,,重复,,,1,1,0,0
-reverse by date,,按日期排序,,,1,1,0,0
-rewind to the previous chapter,,退回上一个章节,,,1,1,0,0
-right,,右,,,1,1,0,0
-save last directory on exit,,退出时保存目录,,,1,1,0,0
-save playlist on exit,,退出时保存播放列表,,,1,1,0,0
-scan state,,扫描状态,,,1,1,0,0
-second cable of motorized LNB,,第二条线缆连接Rotor,,,1,1,0,0
-seconds,,秒,,,1,1,0,0
-select,,选择,,,1,1,0,0
-select CAId's,,选择CAID,,,1,1,0,0
-select menu entry,,选择菜单项目,,,1,1,0,0
-set as startup service,,设为启动频道,,,1,1,0,0
-show DVD main menu,,显示DVD主菜单,,,1,1,0,0
-show all tags,,显示所有标签,,,1,1,0,0
-show alternatives,,显示选项,,,1,1,0,0
-show event details,,显示事件详细内容,,,1,1,0,0
-show transponder info,,显示转发器信息,,,1,1,0,0
-shuffle,,随机播放,,,1,1,0,0
-shut down,,关机,,,1,1,0,0
-simple,,简单,,,1,1,0,0
-skip backward,,快倒,,,1,1,0,0
-skip forward,,快进,,,1,1,0,0
-sorting of playlists,,播放列表排序,,,1,1,0,0
-standard,,标准,,,1,1,0,0
-start cut here,,从这里开始剪接,,,1,1,0,0
-start directory,,开始目录,,,1,1,0,0
-stepsize,,步长,,,1,1,0,0
-stereo,,立体声,,,1,1,0,0
-stop using as startup service,,停止用作启动频道,,,1,1,0,0
-switch to bookmarks,,切换到书签,,,1,1,0,0
-switch to filelist,,切换到文件列表,,,1,1,0,0
-switch to the next angle,,切换到下一个角度,,,1,1,0,0
-switch to the next audio track,,切换到下一个单轨,,,1,1,0,0
-switch to the next subtitle language,,切换到下一个语种字幕,,,1,1,0,0
-template file,,临时文件,,,1,1,0,0
-this recording,,这个录像,,,1,1,0,0
-this service is protected by a parental control pin,,此频道受家长控制.,,,1,1,0,0
-"toggle time, chapter, audio, subtitle info",,"切换时间, 章节, 音频,字幕信息",,,1,1,0,0
-top,,顶部,,,1,1,0,0
-unconfirmed,,检测未通过,,,1,1,0,0
-unknown,,未知,,,1,1,0,0
-unknown service,,未知频道,,,1,1,0,0
-until standby/restart,,直到待机/重启,,,1,1,0,0
-user defined,,用户定义,,,1,1,0,0
-vertical,,垂直,,,1,1,0,0
-wait for ci...,,等待CI...,,,1,1,0,0
-wait for mmi...,,等待mmi...,,,1,1,0,0
-waiting,,等待,,,1,1,0,0
-weekly,,每周,,,1,1,0,0
-white,,白,,,1,1,0,0
-width,,宽,,,1,1,0,0
-wireless network interface,,无线网卡,,,1,1,0,0
-yellow,,黄色,,,1,1,0,0
-yes,,是,,,1,1,0,0
-yes (keep feeds),,是 (保留),,,1,1,0,0
-zap,,开关,,,1,1,0,0
-zapped,,转自,,,1,1,0,0
-Search,,搜索,,,1,1,0,0
-Symbol Rate,,符号率,,,1,1,0,0
-Polarity,,极化,,,1,1,0,0
-Current,,当前,,,1,1,0,0
-Next,,下一个,,,1,1,0,0
+msgid,openatv,openhdf,openpli,openvix,STATUS
+\nAdvanced options and settings.,,\n高级选项和设置.,,,SOLITARY
+"\nAfter pressing OK, please wait!",,"\n按OK键确定后, 请稍等!",,,SOLITARY
+\nBackup your receiver settings.,,'',,,SOLITARY
+\nEdit the upgrade source address.,,\n编辑升级源地址。,,,SOLITARY
+\nManage extensions or plugins for your receiver,,'',,,SOLITARY
+\nOnline update of your receiver software.,,'',,,SOLITARY
+\nPress OK on your remote control to continue.,,\n按OK键继续.,,,SOLITARY
+\nRestore your backups by date.,,\n按日期恢复您的备份,,,SOLITARY
+\nRestore your receiver settings.,,'',,,SOLITARY
+\nRestore your receiver with a new firmware.,,'',,,SOLITARY
+\nScan for local extensions and install them.,,\n扫描本地扩展并安装.,,,SOLITARY
+\nSelect your backup device.\nCurrent device: ,,\n选择备份设备.\n目前的设备:,,,SOLITARY
+"\nView, install and remove available or installed packages.",,"\n查看, 安装和删除已安装的软件包。",,,SOLITARY
+ (PiP),,'',,,SOLITARY
+ (Radio),,'',,,SOLITARY
+ (TV),,'',,,SOLITARY
+ extensions.,,扩展,,,SOLITARY
+ ms,,'',,,SOLITARY
+ packages selected.,,'',,,SOLITARY
+ updates available.,,升级可用.,,,SOLITARY
+%2d:%02d,,'',,,SOLITARY
+%2d:%02d:%02d,,'',,,SOLITARY
+%A %d %B,,'',,,SOLITARY
+%A %e %B,,'',,,SOLITARY
+%A %e %B %Y,,'',,,SOLITARY
+%H:%M,,'',,,SOLITARY
+%a %e/%m,,'',,,SOLITARY
+%a %e/%m  %-H:%M,,'',,,SOLITARY
+%d min,,%d 分钟,,,SOLITARY
+%d minutes,,'',,,SOLITARY
+%d-%b-%Y %-H:%M,,'',,,SOLITARY
+%d-%m,,'',,,SOLITARY
+%d.%B %Y,,%d.%B %Y,,,SOLITARY
+%k:%M %e/%m,,'',,,SOLITARY
+%s %s free disk space,,'',,,SOLITARY
+%s (%s)\n,,%s (%s)\n,,,SOLITARY
+%s is no longer used. Should it be deleted?,,'',,,SOLITARY
+%s/%s: %s,,'',,,SOLITARY
+(ZAP),,(调谐),,,SOLITARY
+(empty),,(空的),,,SOLITARY
+(show optional DVD audio menu),,（显示可选的DVD音频菜单）,,,SOLITARY
+* Only available if more than one interface is active.,,* 仅在一个或多个网卡激活才有效.,,,SOLITARY
+1,,'',,,SOLITARY
+1.1,,1.1,,,SOLITARY
+1.2,,1.2,,,SOLITARY
+12V output,,12V 输出,,,SOLITARY
+13 V,,13 V,,,SOLITARY
+16:10,,'',,,SOLITARY
+16:10 Letterbox,,16:10 信箱模式,,,SOLITARY
+16:10 PanScan,,16:10 伸缩,,,SOLITARY
+16:9,,16:9,,,SOLITARY
+16:9 Letterbox,,16:9 信箱模式,,,SOLITARY
+16:9 always,,16:9 固定,,,SOLITARY
+18 V,,18 V,,,SOLITARY
+2,,'',,,SOLITARY
+3,,'',,,SOLITARY
+3d mode,,3D 模式,,,SOLITARY
+4,,'',,,SOLITARY
+4:3,,'',,,SOLITARY
+4:3 Letterbox,,4:3 信箱模式,,,SOLITARY
+4:3 PanScan,,4:3 伸缩,,,SOLITARY
+5,,'',,,SOLITARY
+6,,'',,,SOLITARY
+7,,'',,,SOLITARY
+8,,'',,,SOLITARY
+9,,'',,,SOLITARY
+<Current movielist location>,,<当前影片列表位置>,,,SOLITARY
+<Default movie location>,,<影片默认位置>,,,SOLITARY
+<Last timer location>,,<最后一个计时器位置>,,,SOLITARY
+<unknown>,,<未知>,,,SOLITARY
+??,,??,,,SOLITARY
+A,,A,,,SOLITARY
+A configuration file (%s) has been modified since it was installed.\nDo you want to keep your modifications?,,'',,,SOLITARY
+A configuration file (%s) was modified since Installation.\nDo you want to keep your version?,,配置文件(%s)在安装后被修改了.\n是否想要保留您的版本？,,,SOLITARY
+A finished record timer wants to set your\nreceiver to standby. Do that now?,,'',,,SOLITARY
+A finished record timer wants to shut down\nyour receiver. Shutdown now?,,'',,,SOLITARY
+A graphical EPG for all services of an specific bouquet,,图形EPG包含自定义组所有频道,,,SOLITARY
+A record has been started:\n%s,,录制已经开始:\n%s,,,SOLITARY
+A recording is currently running.\nWhat do you want to do?,,录制正在进行中.\n您想做什么?,,,SOLITARY
+A recording is currently running. Please stop the recording before trying to configure the positioner.,,录制正在进行中. 请在配置极轴之前停止录制.,,,SOLITARY
+A recording is currently running. Please stop the recording before trying to scan.,,录制正在进行中. 扫描前请停止录制.,,,SOLITARY
+A required tool (%s) was not found.,,一个必须的工具 (%s) 未找到.,,,SOLITARY
+A search for available updates is currently in progress.,,'',,,SOLITARY
+A second configured interface has been found.\n\nDo you want to disable the second network interface?,,您的网络配置已被激活.\n发现第二个网卡.\n\n是否禁用第二个网卡?,,,SOLITARY
+A sleep timer wants to set your\nreceiver to standby. Do that now?,,'',,,SOLITARY
+A sleep timer wants to shut down\nyour receiver. Shutdown now?,,'',,,SOLITARY
+A small overview of the available icon states and actions.,,'',,,SOLITARY
+A timer failed to record!\nDisable TV and try again?\n,,定时录像失败.\n禁用电视输出并重试?\n,,,SOLITARY
+A/V settings,,A/V设置,,,SOLITARY
+Abort,,放弃,,,SOLITARY
+About,,关于,,,SOLITARY
+About...,,关于...,,,SOLITARY
+Accesspoint:,,存取点:,,,SOLITARY
+Action on long powerbutton press,,长按电源按钮,,,SOLITARY
+Action on short powerbutton press,,短按电源按钮,,,SOLITARY
+Activate Picture in Picture,,启用画中画,,,SOLITARY
+Activate current configuration,,启用当前设置,,,SOLITARY
+Activate network settings,,激活网络设置,,,SOLITARY
+Activate the configured network settings.,,启用网络设置,,,SOLITARY
+Adapter settings,,网卡设置,,,SOLITARY
+Add,,添加,,,SOLITARY
+Add a mark,,增加标记,,,SOLITARY
+Add a nameserver entry,,添加DNS,,,SOLITARY
+Add a new title,,增加一个新标题,,,SOLITARY
+Add bookmark,,添加书签,,,SOLITARY
+Add directory to playlist,,添加目录到播放列表,,,SOLITARY
+Add file to playlist,,'',,,SOLITARY
+Add files to playlist,,'',,,SOLITARY
+Add provider,,'',,,SOLITARY
+Add recording (enter recording duration),,'',,,SOLITARY
+Add recording (enter recording endtime),,'',,,SOLITARY
+Add recording (indefinitely),,'',,,SOLITARY
+Add recording (stop after current event),,'',,,SOLITARY
+Add service,,添加频道,,,SOLITARY
+Add timer,,添加定时器,,,SOLITARY
+Add title,,添加标题,,,SOLITARY
+Add to bouquet,,添加到自定义组,,,SOLITARY
+Add to favourites,,添加到喜欢频道,,,SOLITARY
+Adjust 3D settings,,调整3D设置,,,SOLITARY
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens.",,调整颜色设置以使所有的颜色深浅可以辨识出来，使之看起来尽可能饱和。如果您对结果感到满意，按OK关闭视频微调，或者用数字键选择画面上的其它测试。 ,,,SOLITARY
+Advanced options,,高级设置,,,SOLITARY
+Advanced restore,,高级恢复,,,SOLITARY
+Advanced software,,高级软件,,,SOLITARY
+Advanced software plugin,,高级软件插件,,,SOLITARY
+Advanced video enhancement setup,,高级视频增强设置,,,SOLITARY
+Advanced video setup,,高级视频设置,,,SOLITARY
+After event,,事件之后,,,SOLITARY
+Album,,专辑,,,SOLITARY
+All,,全部,,,SOLITARY
+All ages,,'',,,SOLITARY
+Allocate,,'',,,SOLITARY
+Allocate unused memory index,,'',,,SOLITARY
+Allow quit movieplayer with exit,,'',,,SOLITARY
+Allow subtitle language to equal audio language,,'',,,SOLITARY
+Allow subtitles for hearing impaired,,'',,,SOLITARY
+Alpha,,透明度,,,SOLITARY
+Alternative,,'',,,SOLITARY
+Alternative numbering mode,,'',,,SOLITARY
+Alternative services tuner priority,,可选调谐器优先顺序,,,SOLITARY
+Always ask,,总是询问,,,SOLITARY
+An empty filename is illegal.,,一个空的文件名是非法的.,,,SOLITARY
+An error occurred while downloading the packetlist. Please try again.,,'',,,SOLITARY
+An unknown error occurred!,,'',,,SOLITARY
+Any activity,,'',,,SOLITARY
+Arabic,,阿拉伯语,,,SOLITARY
+Are you sure you want to activate this network configuration?\n\n,,您确定要激活此网络配置？\n\n,,,SOLITARY
+Are you sure you want to delete\nthe following backup:\n,,'',,,SOLITARY
+Are you sure you want to exit this wizard?,,您是否确定要退出向导?,,,SOLITARY
+Are you sure you want to restart your network interfaces?\n\n,,您确定要重新启动网络接口?\n\n,,,SOLITARY
+Are you sure you want to restore\nthe following backup:\n%s\nYour receiver will restart after the backup has been restored!,,'',,,SOLITARY
+Are you sure you want to restore the backup?\nYour receiver will restart after the backup has been restored!,,'',,,SOLITARY
+Artist,,艺术家,,,SOLITARY
+Arts/Culture,,'',,,SOLITARY
+Ask user,,询问用户,,,SOLITARY
+Aspect ratio,,'',,,SOLITARY
+Assigned CAIds:,,'',,,SOLITARY
+Assigned services/provider:,,'',,,SOLITARY
+At beginning,,'',,,SOLITARY
+At end,,'',,,SOLITARY
+Audio,,音频,,,SOLITARY
+Audio PID,,音频PID,,,SOLITARY
+Audio language selection 1,,自动语言1,,,SOLITARY
+Audio language selection 2,,自动语言2,,,SOLITARY
+Audio language selection 3,,自动语言3,,,SOLITARY
+Audio language selection 4,,自动语言4,,,SOLITARY
+Audio options...,,音频选项...,,,SOLITARY
+Audio source,,音频源,,,SOLITARY
+AC3 downmix,,AC3 缩减混音,,,SOLITARY
+Multi channel downmix,,'',,,SOLITARY
+Audio track (%s) format,,'',,,SOLITARY
+Audio track (%s) language,,'',,,SOLITARY
+Author: ,,作者,,,SOLITARY
+Authoring mode,,创作模式,,,SOLITARY
+Auto,,自动,,,SOLITARY
+Auto chapter split every ? minutes (0=never),,每隔? 分钟自动分割.(0=从不) ,,,SOLITARY
+Auto flesh,,'',,,SOLITARY
+Auto focus,,'',,,SOLITARY
+Auto focus commencing ...,,'',,,SOLITARY
+Auto language selection,,自动语言选择,,,SOLITARY
+Auto scart switching,,自动切换录像机,,,SOLITARY
+Automatic,,自动,,,SOLITARY
+Automatic scan,,自动扫描,,,SOLITARY
+Automatically start timeshift after,,自动开始时光平移,,,SOLITARY
+Automatically turn on external subtitles,,自动打开外部字幕,,,SOLITARY
+Available format variables,,可用的格式变量,,,SOLITARY
+B,,B,,,SOLITARY
+BER,,误码,,,SOLITARY
+BER:,,误码:,,,SOLITARY
+Back,,返回,,,SOLITARY
+Background,,背景,,,SOLITARY
+Background color,,'',,,SOLITARY
+Background delete option,,后台删除选项,,,SOLITARY
+Background delete speed,,后台删除速度,,,SOLITARY
+Backup completed.,,'',,,SOLITARY
+Backup failed.,,备份失败!!,,,SOLITARY
+Backup is running...,,正在备份...,,,SOLITARY
+Backup system settings,,备份系统设置,,,SOLITARY
+Band,,波段,,,SOLITARY
+Bandwidth,,带宽,,,SOLITARY
+Basque,,'',,,SOLITARY
+Begin time,,开始时间,,,SOLITARY
+Behavior of 0 key in PiP-mode,,按 0 键启用画中画模式,,,SOLITARY
+Behavior when a movie is started,,当电影开始时,,,SOLITARY
+Behavior when a movie is stopped,,当电影结束时,,,SOLITARY
+Behavior when a movie reaches the end,,当电影快要结束时,,,SOLITARY
+Behavior of 'pause and ok' when paused,,'',,,SOLITARY
+Configure the behavior of the 'pause and ok' key when movie playback is already paused.,,'',,,SOLITARY
+Bitrate:,,比特率:,,,SOLITARY
+Black screen,,黑屏,,,SOLITARY
+Black screen till locked,,锁定前黑屏,,,SOLITARY
+Block noise reduction,,块降噪,,,SOLITARY
+Blue boost,,'',,,SOLITARY
+Bookmarks,,书签,,,SOLITARY
+Brightness,,亮度,,,SOLITARY
+Bulgarian,,'',,,SOLITARY
+Burn DVD,,烧录 DVD,,,SOLITARY
+Burn audio track (%s),,'',,,SOLITARY
+Burn existing image to DVD,,烧录已有的镜像到DVD,,,SOLITARY
+Burn to DVD,,DVD烧录,,,SOLITARY
+Bus: ,,Bus:,,,SOLITARY
+"By default, SNR will be shown in dB (when supported by the tuner). This setting forces SNR to be shown as a percentage instead.",,'',,,SOLITARY
+C,,'',,,SOLITARY
+C-Band,,C-波段,,,SOLITARY
+CI assignment,,CI选择,,,SOLITARY
+CVBS,,CVBS,,,SOLITARY
+Cable,,有线,,,SOLITARY
+Cable Scan,,有线电视扫描,,,SOLITARY
+Cache thumbnails,,'',,,SOLITARY
+Calculate,,计算,,,SOLITARY
+Calculate all positions,,'',,,SOLITARY
+Calculation complete,,计算结束,,,SOLITARY
+Calibrate,,'',,,SOLITARY
+Can be used for different fps between external subtitles and video.,,'',,,SOLITARY
+Cancel,,取消,,,SOLITARY
+Cannot determine,,'',,,SOLITARY
+"Cannot find any signal ..., aborting !",,'',,,SOLITARY
+Cannot move files on a different disk or system to the trash can,,'',,,SOLITARY
+Cannot move to trash can,,'',,,SOLITARY
+Capacity: ,,容量: ,,,SOLITARY
+Card,,卡片,,,SOLITARY
+Center DVB subtitles,,'',,,SOLITARY
+Change bouquets in quickzap,,快速切换自定义组,,,SOLITARY
+Change recording (duration),,'',,,SOLITARY
+Change recording (endtime),,'',,,SOLITARY
+Change repeat and delay settings?,,'',,,SOLITARY
+Change step size,,更改步长,,,SOLITARY
+Changelog,,变动日志,,,SOLITARY
+Channel,,频道,,,SOLITARY
+Channel list type,,频道列表类型,,,SOLITARY
+Channel not in services list,,频道不在列表中,,,SOLITARY
+Channel selection,,频道选择,,,SOLITARY
+Channel:,,频道:,,,SOLITARY
+Channellist menu,,频道列表菜单,,,SOLITARY
+Chap.,,章节.,,,SOLITARY
+Chapter,,章节,,,SOLITARY
+Chapter:,,章节:,,,SOLITARY
+Check,,检查,,,SOLITARY
+Check the internet connection,,'',,,SOLITARY
+Check the internet connection again,,'',,,SOLITARY
+Checking filesystem...,,'',,,SOLITARY
+Checking the internet connection,,'',,,SOLITARY
+Checking tuner %d\nDiSEqC port %s for %s,,'',,,SOLITARY
+Children/Youth,,'',,,SOLITARY
+Choose which tuner to configure.,,'',,,SOLITARY
+Circular left,,左旋,,,SOLITARY
+Circular right,,左旋,,,SOLITARY
+Cleanup,,清除,,,SOLITARY
+Clear,,清除,,,SOLITARY
+Clear before scan,,扫描前清理频道,,,SOLITARY
+Clear fixed,,清除 已修复,,,SOLITARY
+Clear log,,清除日志,,,SOLITARY
+Clear playlist,,清除播放列表,,,SOLITARY
+Close,,关闭,,,SOLITARY
+Close PiP on exit,,结束时关闭画中画,,,SOLITARY
+Close title selection,,关闭标题选择,,,SOLITARY
+Code rate HP,,HP编码率,,,SOLITARY
+Code rate LP,,LP编码率,,,SOLITARY
+Coderate HP,,HP编码率,,,SOLITARY
+Coderate LP,,LP编码率,,,SOLITARY
+Collection name,,收藏名称,,,SOLITARY
+Collection settings,,收藏设置,,,SOLITARY
+Color format,,色彩格式,,,SOLITARY
+Command execution...,,执行命令...,,,SOLITARY
+Command order,,命令顺序,,,SOLITARY
+Common Interface,,通用接口 (CI),,,SOLITARY
+Common Interface assignment,,通用接口选择,,,SOLITARY
+Communication,,通信,,,SOLITARY
+Compact flash,,'',,,SOLITARY
+Complete,,完成,,,SOLITARY
+Complex (allows mixing audio tracks and aspects),,复合 (允许混合音轨和宽高比),,,SOLITARY
+Composition of the recording filenames,,录像的文件名构成,,,SOLITARY
+Configuration mode,,设置模式,,,SOLITARY
+Configuration mode: %s,,'',,,SOLITARY
+Configuration...,,设置...,,,SOLITARY
+Configure an additional delay to improve external subtitle synchronisation.,,'',,,SOLITARY
+Configure an additional delay to improve subtitle synchronisation.,,'',,,SOLITARY
+Configure for how long the infobar will remain visible after activation.,,'',,,SOLITARY
+"Configure for how many minutes finished events should remain visible in the EPG. Useful when you need information about an event which has just finished, or has been delayed.",,'',,,SOLITARY
+Configure how recording filenames are constructed.,,'',,,SOLITARY
+Configure interface,,配置网卡,,,SOLITARY
+Configure nameservers,,配置DNS,,,SOLITARY
+Configure on which devices the background delete option should be used.,,'',,,SOLITARY
+Configure remote control type,,'',,,SOLITARY
+Configure the DiSEqC mode for this LNB.,,'',,,SOLITARY
+Configure the IP address.,,'',,,SOLITARY
+Configure the aspect ratio of the screen.,,'',,,SOLITARY
+Configure the behavior when movie playback is manually stopped.,,'',,,SOLITARY
+Configure the behavior when movie playback is started.,,'',,,SOLITARY
+"Configure the behavior when reaching the end of a movie, during movie playback.",,'',,,SOLITARY
+Configure the border width of the subtitles. The dark border makes the subtitles easier to read on a light background.,,'',,,SOLITARY
+Configure the brightness level of the front panel display during standby.,,'',,,SOLITARY
+Configure the brightness level of the front panel display.,,'',,,SOLITARY
+"Configure the color of the external subtitles, alternative (normal in white, italic in yellow, bold in cyan, underscore in green), white or yellow.",,'',,,SOLITARY
+Configure the color of the teletext subtitles.,,'',,,SOLITARY
+Configure the contrast level of the front panel display.,,'',,,SOLITARY
+Configure the duration in minutes for the screensaver.,,'',,,SOLITARY
+Configure the first audio language (highest priority).,,'',,,SOLITARY
+Configure the first subtitle language (highest priority).,,'',,,SOLITARY
+Configure the font size of the subtitles.,,'',,,SOLITARY
+Configure the fourth audio language.,,'',,,SOLITARY
+Configure the fourth subtitle language.,,'',,,SOLITARY
+Configure the function of a long press on the power button.,,'',,,SOLITARY
+Configure the function of a short press on the power button.,,'',,,SOLITARY
+Configure the function of the '0' button do when PIP is active.,,'',,,SOLITARY
+Configure the gateway.,,'',,,SOLITARY
+Configure the general audio delay of Dolby Digital sound tracks.,,'',,,SOLITARY
+Configure the general audio delay of stereo sound tracks.,,'',,,SOLITARY
+Configure the hard disk drive to go to standby after the specified idle time.,,'',,,SOLITARY
+Configure the horizontal alignment of the subtitles.,,'',,,SOLITARY
+"Configure the initial fast forward speed. When you press the fast forward button, winding will start at this speed.",,'',,,SOLITARY
+"Configure the initial rewind speed. When you press the rewind button, winding will start at this speed.",,'',,,SOLITARY
+Configure the latitude of your location.,,'',,,SOLITARY
+Configure the longitude of your location.,,'',,,SOLITARY
+"Configure the minimum amount of disk space to be available for recordings. When the amount of space drops below this value, deleted items will be removed from the trash can.",,'',,,SOLITARY
+Configure the nameserver (DNS).,,'',,,SOLITARY
+Configure the netmask.,,'',,,SOLITARY
+Configure the number of days after which items are automatically removed from the trash can.,,'',,,SOLITARY
+Configure the number of days old timers are kept before they are automatically removed from the timer list.,,'',,,SOLITARY
+Configure the offline decoding delay in milliseconds. The configured delay is observed at each control word parity change.,,'',,,SOLITARY
+Configure the possible fast forward speeds.,,'',,,SOLITARY
+Configure the possible rewind speeds.,,'',,,SOLITARY
+Configure the primary EPG language.,,'',,,SOLITARY
+Configure the refresh rate of the screen.,,'',,,SOLITARY
+Configure the screen resolution in PC output mode.,,'',,,SOLITARY
+Configure the second audio language.,,'',,,SOLITARY
+Configure the second subtitle language.,,'',,,SOLITARY
+Configure the secondary EPG language.,,'',,,SOLITARY
+Configure the sharpness of the video scaling.,,'',,,SOLITARY
+Configure the skip time interval for the '1'/'3' buttons.,,'',,,SOLITARY
+Configure the skip time interval for the '4'/'6' buttons.,,'',,,SOLITARY
+Configure the skip time interval for the '7'/'9' buttons.,,'',,,SOLITARY
+Configure the slow motion speeds.,,'',,,SOLITARY
+Configure the speed of the background deletion process. Lower speed will consume less hard disk drive performance.,,'',,,SOLITARY
+Configure the subtitle delay when timing information is not available.,,'',,,SOLITARY
+Configure the third audio language.,,'',,,SOLITARY
+Configure the third subtitle language.,,'',,,SOLITARY
+Configure the transparency of the OSD.,,'',,,SOLITARY
+Configure the transparency of the black background of graphical DVB subtitles.,,'',,,SOLITARY
+Configure the tuner mode.,,'',,,SOLITARY
+Configure the type of status indication icons shown in the movielist.,,'',,,SOLITARY
+"Configure the vertical position of the subtitles, measured from the bottom of the screen.",,'',,,SOLITARY
+Configure the video output mode (or resolution).,,'',,,SOLITARY
+Configure the way in which the receiver changes channels.,,'',,,SOLITARY
+Configure where completed timers show up in the timer list.,,'',,,SOLITARY
+Configure whether (and for how long) a second infobar will be shown when OK is pressed twice. The second infobar contains additional information about the current channel.,,'',,,SOLITARY
+Configure whether multi channel sound tracks should be downmixed to stereo.,,'',,,SOLITARY
+Configure whether or not an icon should be shown when your motorized dish is moving.,,'',,,SOLITARY
+Configure whether or not an rotor position will be displayed on infobar,,'',,,SOLITARY
+Configure which access level to use for the configuration menu. Expert level gives access to all items.,,'',,,SOLITARY
+Configure which color format should be used on the SCART output.,,'',,,SOLITARY
+"Configure which tuner will be preferred, when more than one tuner is available. If set to 'auto' the system will give priority to the tuner having the lowest number of channels/satellites.",,'',,,SOLITARY
+No priority,,'',,,SOLITARY
+"Configure which tuner type will be preferred, when the same service is available on different types of tuners. Choose 'no priority' to try each alternative one by one independent from tuner type.",,'',,,SOLITARY
+Configure your internal LAN,,配置本地网络,,,SOLITARY
+Configure your network again,,重新配置网络,,,SOLITARY
+"Configure your network settings, and press OK to start the scan",,配置你的网络，然后按OK开始扫描,,,SOLITARY
+Configure your wireless LAN again,,重新配置无线网络,,,SOLITARY
+Configures which video output connector will be used.,,'',,,SOLITARY
+Configuring,,配置,,,SOLITARY
+Conflicting timer,,配置定时器,,,SOLITARY
+Connect,,连接,,,SOLITARY
+Connect to a wireless network,,连接无线网络,,,SOLITARY
+Connected to,,连接到,,,SOLITARY
+Constellation,,星位,,,SOLITARY
+Content does not fit on DVD!,,容量不适合DVD!,,,SOLITARY
+Continue,,继续,,,SOLITARY
+Continue in background,,继续后台运行,,,SOLITARY
+Continue playback,,继续播放,,,SOLITARY
+Continue playing,,继续播放,,,SOLITARY
+Continues play (loop),,继续播放(重复),,,SOLITARY
+Contrast,,对比度,,,SOLITARY
+Convert ext3 filesystem to ext4,,'',,,SOLITARY
+Convert ext3 to ext4,,'',,,SOLITARY
+Converting ext3 to ext4...,,'',,,SOLITARY
+Copy,,拷贝,,,SOLITARY
+Could not connect to receiver .NFI image feed server:,,'',,,SOLITARY
+Could not find installed channel list.,,'',,,SOLITARY
+Could not load medium! No disc inserted?,,'',,,SOLITARY
+Could not open Picture in Picture,,不能打开画中画,,,SOLITARY
+Could not record due to conflicting timer %s,,'',,,SOLITARY
+Could not record due to invalid service %s,,'',,,SOLITARY
+Create DVD-ISO,,创建DVD-ISO,,,SOLITARY
+Creating directory %s failed.,,创建目录%s 失败.,,,SOLITARY
+Creating filesystem,,'',,,SOLITARY
+Creating partition,,'',,,SOLITARY
+Croatian,,克罗地亚,,,SOLITARY
+Current CEC address,,当前CEC地址,,,SOLITARY
+Current device: ,,当前设备:,,,SOLITARY
+Current event EPG,,当前EPG ,,,SOLITARY
+Current settings:,,当前设置:,,,SOLITARY
+Current transponder,,当前转发器,,,SOLITARY
+Current value: ,,当前值:,,,SOLITARY
+Current version:,,当前版本:,,,SOLITARY
+Currently installed image,,当前已安装映像:,,,SOLITARY
+Custom skip time for '1'/'3' buttons,,'',,,SOLITARY
+Custom skip time for '4'/'6' buttons,,'',,,SOLITARY
+Custom skip time for '7'/'9' buttons,,'',,,SOLITARY
+Customize,,高级设置,,,SOLITARY
+Cut,,剪切,,,SOLITARY
+Cutlist editor...,,列表编辑器...,,,SOLITARY
+Czech,,捷克,,,SOLITARY
+D,,'',,,SOLITARY
+DHCP,,自动分配地址(DHCP),,,SOLITARY
+DMM advanced,,'',,,SOLITARY
+DMM normal,,'',,,SOLITARY
+DUAL LAYER DVD,,双层DVD,,,SOLITARY
+DVB subtitle black transparency,,DVB字幕黑色透明,,,SOLITARY
+DVB-C,,'',,,SOLITARY
+DVB-C ANNEX C,,'',,,SOLITARY
+DVB-S,,DVB-S,,,SOLITARY
+DVB-S2,,DVB-S2,,,SOLITARY
+DVB-T,,'',,,SOLITARY
+DVB-T2,,'',,,SOLITARY
+DVD data format,,DVD数据格式,,,SOLITARY
+DVD file browser,,'',,,SOLITARY
+DVD media toolbox,,DVD媒体工具箱,,,SOLITARY
+DVD player,,DVD播放器,,,SOLITARY
+DVD titlelist,,'',,,SOLITARY
+Danish,,丹麦,,,SOLITARY
+Date,,日期,,,SOLITARY
+Date/time input,,日期/时间输入,,,SOLITARY
+Deep standby,,深度休眠,,,SOLITARY
+Default,,缺省值,,,SOLITARY
+Default movie location,,影片默认位置,,,SOLITARY
+Default settings,,默认设置,,,SOLITARY
+Delay before key repeat starts:,,'',,,SOLITARY
+Delay for external subtitles,,'',,,SOLITARY
+Delete,,删除,,,SOLITARY
+Delete entry,,删除项目,,,SOLITARY
+Delete failed!,,删除失败.,,,SOLITARY
+Delete file,,'',,,SOLITARY
+Delete playlist entry,,'',,,SOLITARY
+Delete saved playlist,,'',,,SOLITARY
+Deleted,,删除,,,SOLITARY
+Deleted items,,已删除项目,,,SOLITARY
+Depth,,深度,,,SOLITARY
+Descramble http streams,,'',,,SOLITARY
+Descramble sending http streams,,'',,,SOLITARY
+Descramble receiving http streams,,'',,,SOLITARY
+Require authentication for http streams,,'',,,SOLITARY
+Description,,描述,,,SOLITARY
+Deselect,,取消,,,SOLITARY
+Details for plugin: ,,插件信息:,,,SOLITARY
+Detected HDD:,,检测到的硬盘:,,,SOLITARY
+Detected NIMs:,,检测到的调谐器:,,,SOLITARY
+Devicename:,,设备名:,,,SOLITARY
+DiSEqC,,DiSEqC,,,SOLITARY
+DiSEqC 1.0 command,,'',,,SOLITARY
+DiSEqC 1.1 command,,'',,,SOLITARY
+DiSEqC A/B,,DiSEqC A/B/,,,SOLITARY
+DiSEqC A/B/C/D,,DiSEqC A/B/C/D,,,SOLITARY
+DiSEqC mode,,DiSEqC-模式,,,SOLITARY
+DiSEqC port %s: %s,,'',,,SOLITARY
+DiSEqC-tester settings,,'',,,SOLITARY
+Digital contour removal,,数字轮廓滤除,,,SOLITARY
+Direct playback of linked titles without menu,,直接播放链接标题，不使用菜单,,,SOLITARY
+Directory,,目录,,,SOLITARY
+Directory %s does not exist.,,'',,,SOLITARY
+Directory browser,,目录浏览,,,SOLITARY
+Disable,,禁用,,,SOLITARY
+Disable Picture in Picture,,禁用画中画,,,SOLITARY
+Disable background scanning,,禁止后台扫描,,,SOLITARY
+Disabled,,禁用,,,SOLITARY
+Disk space to reserve for recordings (in GB),,为录像保留磁盘空间(GB),,,SOLITARY
+Display 16:9 content as,,显示16:9内容,,,SOLITARY
+Display 4:3 content as,,显示4:3内容,,,SOLITARY
+Display >16:9 content as,,显示 >16:9 内容,,,SOLITARY
+Display and userinterface,,'',,,SOLITARY
+Display message before playing next movie,,'',,,SOLITARY
+Display setup,,显示设置,,,SOLITARY
+Do not change,,'',,,SOLITARY
+Do not record,,'',,,SOLITARY
+Do nothing,,'',,,SOLITARY
+Do you really want to check the filesystem?\nThis could take lots of time!,, 是否检查文件系统?\n这将需要很长时间!,,,SOLITARY
+Do you really want to convert the filesystem?\nYou cannot go back!,, 是否确认要转换文件系统?\n你将不能恢复!,,,SOLITARY
+Do you really want to delete %s?,, 是否删除 %s?,,,SOLITARY
+"Do you really want to download\nthe plugin \""%s\""?",," 是否下载插件 \""%s\""?",,,SOLITARY
+Do you really want to exit?,,你是否确认要退出?,,,SOLITARY
+Do you really want to initialize the device?\nAll data on the disk will be lost!,, 是否初始化这个设备?\n设备上所有数据都会丢失!,,,SOLITARY
+"Do you really want to remove\nthe plugin \""%s\""?",,'',,,SOLITARY
+Do you really want to remove directory %s from the disk?,, 是否从磁盘上删除目录%s ?,,,SOLITARY
+Do you really want to remove your bookmark of %s?,, 是否删除 %s 书签?,,,SOLITARY
+Do you want to burn this collection to DVD medium?,, 是否烧录这个收藏到DVD光盘?,,,SOLITARY
+Do you want to do a service scan?,, 是否开始频道扫描?,,,SOLITARY
+Do you want to do another manual service scan?,, 是否手动扫描其他频道?,,,SOLITARY
+Do you want to download the image to %s ?,," 是否下载映像到 \""%s\""?",,,SOLITARY
+Do you want to install a channel list?,,'',,,SOLITARY
+Do you want to install the package:\n,, 是否安装软件包:\n,,,SOLITARY
+Do you want to play DVD in drive?,, 是否播放DVD?,,,SOLITARY
+Do you want to preview this DVD before burning?,, 是否在烧录之前预览DVD?,,,SOLITARY
+Do you want to reboot your receiver?,,'',,,SOLITARY
+Do you want to remove the package:\n,, 是否卸除软件包:\n,,,SOLITARY
+Do you want to restore your settings?,, 是否恢复您的设置?,,,SOLITARY
+Do you want to resume this playback?,, 是否继续上次播放?,,,SOLITARY
+Do you want to update your receiver to %s?,,'',,,SOLITARY
+Do you want to update your receiver?,,'',,,SOLITARY
+Do you want to upgrade the package:\n,, 是否升级软件包:\n,,,SOLITARY
+Don't stop current event but disable coming events,,"不能停止当前事件, 不过可以禁用下一个事件.",,,SOLITARY
+Download,,下载,,,SOLITARY
+Download %s from server,,'',,,SOLITARY
+Download .NFI-files for USB-flasher,,'',,,SOLITARY
+Download plugins,,'',,,SOLITARY
+Downloadable new plugins,,可下载的新插件,,,SOLITARY
+Downloadable plugins,,可下载的插件,,,SOLITARY
+Downloading,,下载,,,SOLITARY
+Downloading plugin information. Please wait...,,"正在下载插件列表,请稍候...",,,SOLITARY
+Dutch,,荷兰语,,,SOLITARY
+Dynamic contrast,,'',,,SOLITARY
+E,,E,,,SOLITARY
+EPG,,'',,,SOLITARY
+EPG language selection 1,,EPG自动语言1,,,SOLITARY
+EPG language selection 2,,EPG自动语言2,,,SOLITARY
+EPG selection,,'',,,SOLITARY
+EPG settings,,'',,,SOLITARY
+ERROR - failed to scan (%s)!,,错误 - 扫描 (%s)失败!,,,SOLITARY
+East,,东,,,SOLITARY
+East limit set,,'',,,SOLITARY
+Edit,,修改,,,SOLITARY
+Edit DNS,,编辑 DNS,,,SOLITARY
+Edit chapters of current title,,编辑章节当前标题,,,SOLITARY
+Edit settings,,编辑设置,,,SOLITARY
+Edit the nameserver configuration of your receiver.\n,,'',,,SOLITARY
+Edit the network configuration of your receiver.\n,,'',,,SOLITARY
+Edit title,,修改标题,,,SOLITARY
+Edit upgrade source url.,,修改升级源地址.,,,SOLITARY
+Education/Science/...,,'',,,SOLITARY
+Electronic Program Guide,,电子节目指南,,,SOLITARY
+Enable,,启用,,,SOLITARY
+Enable 5V for active antenna,,为有源天线启用5V供电,,,SOLITARY
+Enable EIT EPG,,启用EIT EPG,,,SOLITARY
+Enable MHW EPG,,启用MHW EPG,,,SOLITARY
+Enable Netmed EPG,,启用Netmed EPG,,,SOLITARY
+Enable ViaSat EPG,,启用ViaSat EPG,,,SOLITARY
+Enable bouquet selection in multi-EPG,,'',,,SOLITARY
+Enable freesat EPG,,启用freesat EPG,,,SOLITARY
+Enable Virgin EPG,,'',,,SOLITARY
+Enable multiple bouquets,,启用多自定义组,,,SOLITARY
+Enable teletext caching,,启用图文电视缓冲,,,SOLITARY
+Enabled,,启用的,,,SOLITARY
+Encrypted: ,,已加密:,,,SOLITARY
+Encryption,,加密方式,,,SOLITARY
+Encryption key,,'',,,SOLITARY
+Encryption key type,,'',,,SOLITARY
+Encryption:,,加密方式:,,,SOLITARY
+End time,,结束时间,,,SOLITARY
+English,,英语,,,SOLITARY
+Enigma2 skin selector,,'',,,SOLITARY
+Enter main menu...,,进入主菜单...,,,SOLITARY
+Enter pin code,,输入密码,,,SOLITARY
+Enter the service pin,,输入服务密码,,,SOLITARY
+Error,,错误,,,SOLITARY
+Error code,,错误码,,,SOLITARY
+Error executing plugin,,执行插件发生错误,,,SOLITARY
+Error: %s\nRetry?,,错误: %s\n重试?,,,SOLITARY
+Estonian,,'',,,SOLITARY
+Ethernet network interface,,网卡接口,,,SOLITARY
+Event font size (relative to skin size),,'',,,SOLITARY
+Event view,,'',,,SOLITARY
+Event view menu,,'',,,SOLITARY
+Everywhere,,随时,,,SOLITARY
+Exceeds dual layer medium!,,超出双层介质!,,,SOLITARY
+Execution finished!!,,执行完毕！,,,SOLITARY
+Execution progress:,,'',,,SOLITARY
+Exif,,'',,,SOLITARY
+Exit,,退出,,,SOLITARY
+Exit EPG,,'',,,SOLITARY
+Exit editor,,退出编辑,,,SOLITARY
+Exit input device selection.,,退出输入设备选择.,,,SOLITARY
+Exit media player?,,'',,,SOLITARY
+Exit mediaplayer,,'',,,SOLITARY
+Exit movie list,,'',,,SOLITARY
+Exit movie player?,,'',,,SOLITARY
+Exit nameserver configuration,,'',,,SOLITARY
+Exit network interface list,,'',,,SOLITARY
+Exit network wizard,,退出网络设置向导,,,SOLITARY
+Exit the wizard,,退出向导,,,SOLITARY
+Expert,,高级,,,SOLITARY
+Extended Software,,扩展软件.,,,SOLITARY
+Extended Software Plugin,,扩展插件...,,,SOLITARY
+Extended network setup plugin...,,'',,,SOLITARY
+Extended setup...,,'',,,SOLITARY
+Extensions,,扩展,,,SOLITARY
+Extensions management,,扩展管理,,,SOLITARY
+External subtitle color,,'',,,SOLITARY
+FEC,,前向纠错码(FEC),,,SOLITARY
+FTA,,'',,,SOLITARY
+Factory reset,,出厂设置,,,SOLITARY
+Failed,,失败,,,SOLITARY
+Failed to write /tmp/positionersetup.log: ,,'',,,SOLITARY
+Fan %d,,风扇 %d ,,,SOLITARY
+Fan %d PWM,,风扇 %d  PWM,,,SOLITARY
+Fan %d voltage,,'',,,SOLITARY
+Fast,,快速,,,SOLITARY
+Fast DiSEqC,,快速DiSEqC,,,SOLITARY
+Fast Scan,,快速扫描,,,SOLITARY
+Fast epoch,,Fast epoch,,,SOLITARY
+Fast forward speeds,,'',,,SOLITARY
+Favourites,,喜爱频道,,,SOLITARY
+File appears to be busy.\n,,'',,,SOLITARY
+Filesystem check,,'',,,SOLITARY
+Final position at,,'',,,SOLITARY
+Final position at index,,'',,,SOLITARY
+Fine movement,,'',,,SOLITARY
+Finetune,,微调,,,SOLITARY
+Finished,,完成,,,SOLITARY
+Finished configuring your network,,网络设置完成,,,SOLITARY
+Finished restarting your network,,重启网络完成,,,SOLITARY
+Finnish,,芬兰,,,SOLITARY
+Fixed,,'',,,SOLITARY
+Flash,,'',,,SOLITARY
+Flashing failed,,安装失败,,,SOLITARY
+Following tasks will be done after you press OK!,,'',,,SOLITARY
+Format,,格式化,,,SOLITARY
+Forward volume keys,,前向音量键,,,SOLITARY
+Frame size in full view,,全屏显示时的帧大小,,,SOLITARY
+French,,法国,,,SOLITARY
+Frequency,,频率,,,SOLITARY
+Frequency bands,,频带,,,SOLITARY
+Frequency scan step size(khz),,频率扫描步长(khz),,,SOLITARY
+Frequency steps,,频率步进,,,SOLITARY
+Fri,,周五,,,SOLITARY
+Friday,,星期五,,,SOLITARY
+From :,,'',,,SOLITARY
+Frontprocessor version: %d,,前端版本: %d,,,SOLITARY
+Full transparency,,'',,,SOLITARY
+Function of OK button,,'',,,SOLITARY
+GUI needs a restart to apply a new skin\nDo you want to restart the GUI now?,,'',,,SOLITARY
+Gateway,,网关,,,SOLITARY
+General AC3 delay,,'',,,SOLITARY
+General PCM delay,,'',,,SOLITARY
+Genre,,类型,,,SOLITARY
+German,,德语,,,SOLITARY
+Get latest experimental image,,'',,,SOLITARY
+Get latest release image,,'',,,SOLITARY
+Getting plugin information. Please wait...,,"正在下载插件信息, 请稍候...",,,SOLITARY
+Go down the list,,'',,,SOLITARY
+Go to first movie or last item,,'',,,SOLITARY
+Go to first movie or top of list,,'',,,SOLITARY
+Go to first service,,'',,,SOLITARY
+Go to last service,,'',,,SOLITARY
+Go to next event,,'',,,SOLITARY
+Go to next page of service,,'',,,SOLITARY
+Go to previous event,,'',,,SOLITARY
+Go to previous page of service,,'',,,SOLITARY
+Go up the list,,'',,,SOLITARY
+Goto,,'',,,SOLITARY
+Goto 0,,转到 0,,,SOLITARY
+Goto :,,'',,,SOLITARY
+Goto X,,'',,,SOLITARY
+Goto index position,,'',,,SOLITARY
+Goto next page of events,,'',,,SOLITARY
+Goto position,,转到位置,,,SOLITARY
+Goto previous page of events,,'',,,SOLITARY
+GotoX calibration,,'',,,SOLITARY
+GraphMultiEpg Settings,,'',,,SOLITARY
+Graphical Multi EPG,,图形 Multi-EPG,,,SOLITARY
+Greek,,希腊语,,,SOLITARY
+Green boost,,'',,,SOLITARY
+Guard interval,,保护间隔模式,,,SOLITARY
+HD list,,高清列表,,,SOLITARY
+Handle standby from TV,,管理待机,,,SOLITARY
+Handle wakeup from TV,,处理唤醒,,,SOLITARY
+Hard disk,,'',,,SOLITARY
+Hard disk setup,,'',,,SOLITARY
+Hard disk standby after,,'',,,SOLITARY
+Harddisk,,硬盘,,,SOLITARY
+Hardware: ,,硬件:,,,SOLITARY
+Hebrew,,'',,,SOLITARY
+Hidden network,,隐藏网络,,,SOLITARY
+Hide CI messages,,隐藏CI消息,,,SOLITARY
+Hide channel list in radio mode,,'',,,SOLITARY
+Hide number markers,,'',,,SOLITARY
+Hide player,,'',,,SOLITARY
+Hide zap errors,,隐藏调谐错误,,,SOLITARY
+Hierarchy info,,分级模式,,,SOLITARY
+Hierarchy information,,'',,,SOLITARY
+High bitrate support,,高比特率支持,,,SOLITARY
+Hold screen,,'',,,SOLITARY
+Hold till locked,,保持到锁定,,,SOLITARY
+Home,,'',,,SOLITARY
+Horizontal,,水平,,,SOLITARY
+Horizontal turning speed,,'',,,SOLITARY
+How many minutes do you want to record?,,您想录制多少分钟?,,,SOLITARY
+Hue,,色相,,,SOLITARY
+Hungarian,,匈牙利语,,,SOLITARY
+IP address,,'',,,SOLITARY
+ISO file is too large for this filesystem!,,这个ISO文件过大!,,,SOLITARY
+ISO path,,ISO路径,,,SOLITARY
+Icons,,图标,,,SOLITARY
+"If you see this, something is wrong with\nyour scart connection. Press OK to return.",,"如果您能看到这个提示,说明您的色差连接有错误.\n按OK返回.",,,SOLITARY
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \""dynamic\"", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\nThen turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\nDo not care about the bright shades now. They will be set up in the next step.\nIf you are happy with the result, press OK.",,如果您的电视机有亮度或对比度增强项，请关闭它。如果里面有标为“动态”的项目，将其设置为标准。调整背光等级的值以符合您的口味。将电视机的对比度尽可能地降低。然后尽可能将亮度设置调低，但请确保最下面的两个灰色能够分辨出来。现在，不必关心亮度的色调，它们将在接下来的步骤中设置。如果您对结果感到满意，按OK 。,,,SOLITARY
+Image: ,,映像:,,,SOLITARY
+Immediate shutdown,,'',,,SOLITARY
+"In order to record a timer, the TV was switched to the recording service!\n",,"定时录制开始,即将切换到预录频道!\n",,,SOLITARY
+In progress,,'',,,SOLITARY
+Include AIT in http streams,,'',,,SOLITARY
+Include ECM in http streams,,'',,,SOLITARY
+Include EIT in http streams,,'',,,SOLITARY
+Increased voltage,,增加电压,,,SOLITARY
+Index,,索引,,,SOLITARY
+Index allocated:,,'',,,SOLITARY
+Info,,信息,,,SOLITARY
+Info bar,,'',,,SOLITARY
+Info bar timeout,,'',,,SOLITARY
+Information,,信息,,,SOLITARY
+Init,,初始化,,,SOLITARY
+Initial fast forward speed,,'',,,SOLITARY
+Initial location in new timers,,'',,,SOLITARY
+Initial lock ratio,,'',,,SOLITARY
+Initial rewind speed,,'',,,SOLITARY
+Initial signal quality,,'',,,SOLITARY
+Initial signal quality:,,'',,,SOLITARY
+Initialization,,初始化,,,SOLITARY
+Initialize,,初始化,,,SOLITARY
+Initializing storage device...,,正在初始化硬盘...,,,SOLITARY
+Input,,输入,,,SOLITARY
+Input device setup,,输入设备,,,SOLITARY
+Input devices,,输入设备,,,SOLITARY
+Install,,安装,,,SOLITARY
+Install a new image with a USB stick,,安装一个新的Image到U盘,,,SOLITARY
+Install a new image with your web browser,,通过网页浏览器安装一个新的Image,,,SOLITARY
+Install channel list,,'',,,SOLITARY
+Install extensions.,,安装本地扩展,,,SOLITARY
+Install local extension,,安装本地扩展,,,SOLITARY
+Install picons on,,安装picon,,,SOLITARY
+Install softcam,,'',,,SOLITARY
+Installation has completed.,,'',,,SOLITARY
+Installation or removal has completed.,,'',,,SOLITARY
+Installing,,正在安装,,,SOLITARY
+Installing software...,,'',,,SOLITARY
+Instant recording location,,'',,,SOLITARY
+Instant recording...,,'',,,SOLITARY
+Interface: ,,网卡:,,,SOLITARY
+Intermediate,,中级,,,SOLITARY
+Internal flash,,'',,,SOLITARY
+Internal hdd only,,仅内置硬盘,,,SOLITARY
+Interval between keys when repeating:,,'',,,SOLITARY
+Invalid directory selected: %s,,选择了无效目录: %s,,,SOLITARY
+Invalid location,,'',,,SOLITARY
+Inversion,,反向,,,SOLITARY
+Invert,,反向,,,SOLITARY
+Ipkg,,'',,,SOLITARY
+Is this setting ok?,,'',,,SOLITARY
+Is this video mode ok?,,'',,,SOLITARY
+Italian,,意大利语,,,SOLITARY
+Items per page ,,'',,,SOLITARY
+Items per page for list screen,,'',,,SOLITARY
+Job overview,,'',,,SOLITARY
+Jump to beginning of list,,'',,,SOLITARY
+Jump to end of list,,'',,,SOLITARY
+Jump to next marked position,,'',,,SOLITARY
+Jump to previous marked position,,'',,,SOLITARY
+Just scale,,'',,,SOLITARY
+Kernel version: ,,'',,,SOLITARY
+Keyboard,,键盘布局,,,SOLITARY
+Keyboard map,,'',,,SOLITARY
+Keyboard setup,,'',,,SOLITARY
+LAN adapter,,'',,,SOLITARY
+LAN connection,,局域网连接,,,SOLITARY
+LNB,,LNB,,,SOLITARY
+Language,,语言,,,SOLITARY
+Language selection,,语言选择,,,SOLITARY
+Last config,,上次配置,,,SOLITARY
+Last speed,,上次速度,,,SOLITARY
+Last upgrade: ,,'',,,SOLITARY
+Latitude,,纬度,,,SOLITARY
+Latvian,,'',,,SOLITARY
+Leave DVD player?,,'',,,SOLITARY
+Left,,左,,,SOLITARY
+Left from servicename,,'',,,SOLITARY
+Leisure hobbies,,'',,,SOLITARY
+Letterbox,,信箱模式,,,SOLITARY
+Limit character set for recording filenames,,'',,,SOLITARY
+Limit east,,东极限位置,,,SOLITARY
+Limit the characters that can be used in recording filenames to (7 bit) ascii. This ensures compatibility with operating systems or file systems with limited character sets.,,'',,,SOLITARY
+Limit west,,西极限位置,,,SOLITARY
+Limits cancelled,,'',,,SOLITARY
+Limits enabled,,'',,,SOLITARY
+Limits off,,限位设置关闭,,,SOLITARY
+Limits on,,限位设置打开,,,SOLITARY
+Link quality:,,'',,,SOLITARY
+Link:,,连接:,,,SOLITARY
+Linked titles with a DVD menu,,与DVD菜单的连接的标题,,,SOLITARY
+List available networks,,列出可用网络,,,SOLITARY
+List mode,,'',,,SOLITARY
+List of storage devices,,'',,,SOLITARY
+List type,,'',,,SOLITARY
+Listen to the radio...,,'',,,SOLITARY
+Lithuanian,,立陶宛语,,,SOLITARY
+Load,,加载,,,SOLITARY
+Load length of movies in movie list,,'',,,SOLITARY
+Load playlist,,'',,,SOLITARY
+Local network,,'',,,SOLITARY
+Location,,位置,,,SOLITARY
+Location for instant recordings,,实时录像的位置,,,SOLITARY
+Lock ratio,,'',,,SOLITARY
+Lock:,,锁定:,,,SOLITARY
+Log results to harddisk,,'',,,SOLITARY
+Long filenames,,长文件名,,,SOLITARY
+Long key press,,'',,,SOLITARY
+Longitude,,经度,,,SOLITARY
+Luxembourgish,,'',,,SOLITARY
+MMC card,,'',,,SOLITARY
+MORE,,更多,,,SOLITARY
+Main menu,,主菜单,,,SOLITARY
+Maintain old EPG data for,,'',,,SOLITARY
+Make this mark an 'in' point,,这个标记作为'in'节点,,,SOLITARY
+Make this mark an 'out' point,,这个标记作为'out'节点,,,SOLITARY
+Make this mark just a mark,,这仅仅只是一标记,,,SOLITARY
+Manage extensions,,管理扩展,,,SOLITARY
+Manage your receiver's software,,管理Dreambox软件.,,,SOLITARY
+Manual Scan,,手动扫描,,,SOLITARY
+Manual configuration,,手动配置,,,SOLITARY
+Manual scan,,'',,,SOLITARY
+Manual transponder,,手动转发器扫描,,,SOLITARY
+Manufacturer,,制造商,,,SOLITARY
+Margin after recording (minutes),,'',,,SOLITARY
+Margin before recording (minutes),,'',,,SOLITARY
+Max. bitrate: ,,'',,,SOLITARY
+Media player,,媒体播放器,,,SOLITARY
+Media scanner,,'',,,SOLITARY
+Medium is not a writeable DVD!,,媒介不是可写DVD!,,,SOLITARY
+Medium is not empty!,,媒介不是空白的!,,,SOLITARY
+Memory,,内存,,,SOLITARY
+Memory index,,'',,,SOLITARY
+Menu,,菜单,,,SOLITARY
+Message,,消息,,,SOLITARY
+Message...,,消息...,,,SOLITARY
+Minimum age %d years,,'',,,SOLITARY
+Missing ,,丢失,,,SOLITARY
+Model: ,,型号:,,,SOLITARY
+Modulation,,调制,,,SOLITARY
+Modulator,,调制器,,,SOLITARY
+Mon,,周一,,,SOLITARY
+Mon-Fri,,星期一至星期五,,,SOLITARY
+Monday,,星期一,,,SOLITARY
+Mosquito noise reduction,,蚊状噪声抑制,,,SOLITARY
+Mount,,挂载,,,SOLITARY
+Move,,移动,,,SOLITARY
+Move PiP to main picture,,'',,,SOLITARY
+Move Picture in Picture,,移动画中画,,,SOLITARY
+Move east,,东移,,,SOLITARY
+Move to position X,,'',,,SOLITARY
+Move west,,西移,,,SOLITARY
+Moved to position 0,,'',,,SOLITARY
+Moved to position at index,,'',,,SOLITARY
+Movement,,'',,,SOLITARY
+Movie list configuration,,'',,,SOLITARY
+Movie location,,影片位置,,,SOLITARY
+Movie selection,,'',,,SOLITARY
+Movie/Drama,,'',,,SOLITARY
+Movielist menu,,电影列表菜单,,,SOLITARY
+Moving,,'',,,SOLITARY
+Moving east ...,,'',,,SOLITARY
+Moving to position,,'',,,SOLITARY
+Moving west ...,,'',,,SOLITARY
+Multi EPG,,Multi-EPG,,,SOLITARY
+Multi-EPG bouquet selection,,Multi-EPG组 选择,,,SOLITARY
+Multimedia,,多媒体,,,SOLITARY
+Multiple service support,,多系统支持,,,SOLITARY
+Multiplex,,传输,,,SOLITARY
+Multisat,,多星,,,SOLITARY
+Multisat all select,,'',,,SOLITARY
+Music/Ballet/Dance,,'',,,SOLITARY
+Mute,,静音,,,SOLITARY
+N/A,,空,,,SOLITARY
+NEXT,,下一个,,,SOLITARY
+NFI image flashing,,'',,,SOLITARY
+NFI image flashing completed. Press Yellow to Reboot!,,NFI Image安装完成.\n按黄键重启Dreambox!,,,SOLITARY
+NIM,,'',,,SOLITARY
+NOW,,现在,,,SOLITARY
+NTSC,,NTSC,,,SOLITARY
+Name,,名称,,,SOLITARY
+Nameserver,,DNS服务器,,,SOLITARY
+Nameserver %d,,DNS %d,,,SOLITARY
+Nameserver settings,,DNS设置,,,SOLITARY
+Nameserver setup,,'',,,SOLITARY
+Namespace,,名字空间,,,SOLITARY
+Netmask,,子网掩码,,,SOLITARY
+Network,,网络,,,SOLITARY
+Network ID,,网络 ID,,,SOLITARY
+Network configuration...,,'',,,SOLITARY
+Network mount,,'',,,SOLITARY
+Network mount %s,,'',,,SOLITARY
+Network name (SSID),,'',,,SOLITARY
+Network scan,,网络扫描,,,SOLITARY
+Network setup,,网络设置,,,SOLITARY
+Network test,,网络测试,,,SOLITARY
+Network test...,,网络测试...,,,SOLITARY
+Network test: ,,网络测试,,,SOLITARY
+Network wizard,,'',,,SOLITARY
+Network:,,网络:,,,SOLITARY
+New,,新建,,,SOLITARY
+New version:,,新版本:,,,SOLITARY
+News Current Affairs,,'',,,SOLITARY
+No,,不,,,SOLITARY
+No (supported) DVDROM found!,,未找到(支持的)DVDROM!,,,SOLITARY
+No Connection,,没有连接,,,SOLITARY
+No HDD found or HDD not initialized!,,未找到硬盘或硬盘未初始化！,,,SOLITARY
+No backup needed,,不需要备份,,,SOLITARY
+No cable tuner found!,,没有发现卫星前端,,,SOLITARY
+No data on transponder!\n(Timeout reading PAT),,转发器上未找到数据!\n(读取PAT超时),,,SOLITARY
+No delay,,'',,,SOLITARY
+No description available.,,无可用信息,,,SOLITARY
+No details for this image file,,这个Image文件没有详细说明,,,SOLITARY
+No displayable files on this medium found!,,当前位置未找到文件,,,SOLITARY
+"No event info found, recording indefinitely.",,"EPG数据没有发现,无限制录制.",,,SOLITARY
+No fast winding possible yet.. but you can use the number buttons to skip forward/backward!,,'',,,SOLITARY
+No free index available,,'',,,SOLITARY
+No free tuner!,,没有空闲的调谐器,,,SOLITARY
+No network connection available.,,无可用网络连接.,,,SOLITARY
+No networks found,,未找到网络,,,SOLITARY
+No positioner capable frontend found.,,未发现有支持的极轴天线.,,,SOLITARY
+No services/providers selected,,'',,,SOLITARY
+No standby,,'',,,SOLITARY
+No tags are set on these movies.,,这些影片没有标签,,,SOLITARY
+No timeout,,'',,,SOLITARY
+No to all,,完全不,,,SOLITARY
+No transparency,,'',,,SOLITARY
+No tuner is configured for use with a diseqc positioner!,,没有配置极轴(DiSEqC 1.2).,,,SOLITARY
+No tuner is enabled!\nPlease setup your tuner settings before you start a service scan.,,未找到可用的调谐器!\n请设置您的调谐器的设置，然后再启动频道扫描。.,,,SOLITARY
+No updates available,,'',,,SOLITARY
+No updates available. Please try again later.,,'',,,SOLITARY
+No wireless networks found! Searching...,,没有发现无线网络！正在搜索...,,,SOLITARY
+No working local network adapter found.\nPlease verify that you have attached a network cable and your network is configured correctly.,,未找到可用的本地网络.\n请检查网络连接并检查网卡配置是否正确.,,,SOLITARY
+No working wireless network adapter found.\nPlease verify that you have attached a compatible WLAN device and your network is configured correctly.,,未找到可用的无线网络连接.\n请检查无线网络设备并检查无线网卡配置是否正确.,,,SOLITARY
+No working wireless network interface found.\n Please verify that you have attached a compatible WLAN device or enable your local network interface.,,未找到可用的无线网络连接.\n请检查无线网络设备并检查无线网卡配置是否正确.,,,SOLITARY
+"No, but restart from begin",,不，重新开始播放这个视频,,,SOLITARY
+"No, do nothing.",,不，什么也不做.,,,SOLITARY
+"No, just start my receiver",,'',,,SOLITARY
+"No, never",,从不,,,SOLITARY
+None,,无,,,SOLITARY
+Nonlinear,,非线性,,,SOLITARY
+Normal mode,,'',,,SOLITARY
+North,,北,,,SOLITARY
+Norwegian,,挪威语,,,SOLITARY
+Not associated,,'',,,SOLITARY
+"Not enough disk space. Please free up some disk space and try again. (%d MB required, %d MB available)",,'',,,SOLITARY
+Nothing to scan!\nPlease setup your tuner settings before you start a service scan.,,没有扫描!\n请设置您的调谐器，然后再启动频道扫描。.,,,SOLITARY
+Now playing,,'',,,SOLITARY
+"Now, use the contrast setting to turn up the brightness of the background as much as possible, but make sure that you can still see the difference between the two brightest levels of shades.If you have done that, press OK.",,现在，尽可能使用对比度设置出现的亮度背景，但是请确保您仍然可以看到色调的两个最亮等级之间的不同。如果您已经完成了，按OK。,,,SOLITARY
+OK,,确定,,,SOLITARY
+"OK, guide me through the upgrade process",,"确定, 引导我的升级过程",,,SOLITARY
+ONID,,'',,,SOLITARY
+OSD name request,,'',,,SOLITARY
+OSD settings,,'',,,SOLITARY
+OSD transparency,,'',,,SOLITARY
+Off,,关闭,,,SOLITARY
+Offline decode delay (ms),,'',,,SOLITARY
+Ok,,确定,,,SOLITARY
+On,,打开,,,SOLITARY
+On end of movie,,'',,,SOLITARY
+One,,1,,,SOLITARY
+Only extensions.,,只有扩展.,,,SOLITARY
+Only free scan,,'',,,SOLITARY
+Open service list,,'',,,SOLITARY
+Open the movie list,,'',,,SOLITARY
+Orbital position,,轨道位置,,,SOLITARY
+Original,,'',,,SOLITARY
+Other,,天气,,,SOLITARY
+Output,,输出,,,SOLITARY
+Overwrite configuration files during software upgrade?,,'',,,SOLITARY
+Overwrite configuration files?,,'',,,SOLITARY
+PAL,,PAL,,,SOLITARY
+PCR PID,,'',,,SOLITARY
+PIDs,,PIDs,,,SOLITARY
+PIN code needed,,'',,,SOLITARY
+PMT PID,,'',,,SOLITARY
+Package list update,,更新软件列表,,,SOLITARY
+Packet management,,软件包管理,,,SOLITARY
+Packet manager,,软件管理器,,,SOLITARY
+Pan&scan,,'',,,SOLITARY
+Parent directory,,'',,,SOLITARY
+Parental control,,家长控制,,,SOLITARY
+Parental control services editor,,'',,,SOLITARY
+Parental control setup,,家长控制设置,,,SOLITARY
+Pause,,'',,,SOLITARY
+Pause movie at end,,电影结束时暂停,,,SOLITARY
+Pause playback,,'',,,SOLITARY
+Percentage left,,'',,,SOLITARY
+Percentage right,,'',,,SOLITARY
+Permanently delete all recordings in the trash can?,,'',,,SOLITARY
+Permanently remove all deleted items,,'',,,SOLITARY
+Persian,,'',,,SOLITARY
+PiP setup,,'',,,SOLITARY
+Picon,,'',,,SOLITARY
+Picon and service name,,'',,,SOLITARY
+Picture player,,'',,,SOLITARY
+Pillarbox,,原始大小,,,SOLITARY
+Pilot,,Pilot,,,SOLITARY
+Play,,播放,,,SOLITARY
+Play DVD,,播放DVD,,,SOLITARY
+Play audio in background,,后台播放音频,,,SOLITARY
+Play audio-CD...,,'',,,SOLITARY
+Play back media files,,'',,,SOLITARY
+Play entry,,'',,,SOLITARY
+Play from next mark or playlist entry,,'',,,SOLITARY
+Play from previous mark or playlist entry,,'',,,SOLITARY
+Play music...,,'',,,SOLITARY
+Play next,,'',,,SOLITARY
+Play next (return to movie list),,'',,,SOLITARY
+Play next (return to previous service),,'',,,SOLITARY
+Play previous,,'',,,SOLITARY
+Play recorded movies...,,播放录制的电影...,,,SOLITARY
+Please add titles to the compilation.,,'',,,SOLITARY
+Please change recording endtime,,请更改录制结束时间,,,SOLITARY
+Please check your network settings!,,请检查网络设置！,,,SOLITARY
+Please choose an extension...,,请选择增加部分...,,,SOLITARY
+Please configure or verify your Nameservers by filling out the required values.\nWhen you are ready press OK to continue.,,请配置或确认DNS地址.\n当您准备好后按OK键继续.,,,SOLITARY
+Please configure your internet connection by filling out the required values.\nWhen you are ready press OK to continue.,,下列数值必须设置正确才能连接到Internet.\n当您准备好后按OK键确认.,,,SOLITARY
+Please connect your receiver to the internet,,'',,,SOLITARY
+Please do not change any values unless you know what you are doing!,,"不要做任何改变,除非您知道您在干什么!",,,SOLITARY
+Please enter a name for the new bouquet,,重命名自定义组,,,SOLITARY
+Please enter a name for the new marker,,重命名标签,,,SOLITARY
+Please enter a new filename,,请输入一个新的文件名,,,SOLITARY
+Please enter filename (empty = use current date),,请输入文件名 (空=使用当时日期命名),,,SOLITARY
+Please enter name of the new directory,,为新的目录重命名,,,SOLITARY
+Please enter the correct pin code,,请输入正确的密码,,,SOLITARY
+Please enter the old PIN code,,请输入旧密码,,,SOLITARY
+Please follow the instructions on the TV,,请依照电视屏幕指导操作.,,,SOLITARY
+Please note that the previously selected media could not be accessed and therefore the default directory is being used instead.,,'',,,SOLITARY
+Please press OK to continue.,,请按OK键确认.,,,SOLITARY
+Please select a playlist to delete...,,请选择要删除的播放列表...,,,SOLITARY
+Please select a playlist...,,请选择一个播放列表...,,,SOLITARY
+Please select a sub service...,,'',,,SOLITARY
+Please select a subservice to record...,,请选择要录制的子频道...,,,SOLITARY
+Please select a subservice...,,请选择一个子频道...,,,SOLITARY
+Please select an NFI file and press green key to flash!,,'',,,SOLITARY
+Please select medium to be scanned,,'',,,SOLITARY
+Please select medium to use as backup location,,请选择作为备份的媒介,,,SOLITARY
+Please select tag to filter...,,请选择过滤标签...,,,SOLITARY
+Please select the movie path...,,选择电影路径...,,,SOLITARY
+Please select the network interface that you want to use for your internet connection.\n\nPlease press OK to continue.,,请选择连接Internet的网络设备.\n\n按OK键确认.,,,SOLITARY
+Please select the wireless network that you want to connect to.\n\nPlease press OK to continue.,,请选择您要接入的无线网络.\n\n按OK键确认,,,SOLITARY
+Please set up tuner A,,'',,,SOLITARY
+Please set up tuner B,,请选择调谐器 B.,,,SOLITARY
+Please set up tuner C,,请选择调谐器 C.,,,SOLITARY
+Please set up tuner D,,请选择调谐器 D.,,,SOLITARY
+Please use direction keys to move the PiP window.\nPress Bouquet +/- to resize the window.\nPress OK to go back to the TV mode or EXIT to cancel the moving.,,请使用方向键移动画中画窗口.\n按遥控器上 Bouquet +/- 改变窗口大小..\n按OK返回到电视模式，或按EXIT取消调整。,,,SOLITARY
+Please use the UP and DOWN keys to select your language. Afterwards press the OK button.,,"按 上/下 键选择语言, 选定后按 OK.",,,SOLITARY
+Please wait (downloading channel list),,'',,,SOLITARY
+Please wait (downloading softcam),,'',,,SOLITARY
+Please wait (updating packages),,'',,,SOLITARY
+Please wait for activation of your network configuration...,,请等待网络配置激活...,,,SOLITARY
+Please wait while scanning is in progress...,,正在扫描...请稍候...,,,SOLITARY
+Please wait while we configure your network...,,正在配置网络...请稍候...,,,SOLITARY
+Please wait while we prepare your network interfaces...,,正在配置网络...请稍候...,,,SOLITARY
+Please wait while we test your network...,,正在测试网络...请稍候...,,,SOLITARY
+Please wait while your network is restarting...,,正在重启网络...请稍候...,,,SOLITARY
+Please wait...,,请稍候...,,,SOLITARY
+Please wait... Loading list...,,正在加载列表... 请稍候...,,,SOLITARY
+Plugin browser,,浏览插件,,,SOLITARY
+Plugin manager activity information,,插件管理器活动信息,,,SOLITARY
+Plugin manager help,,'',,,SOLITARY
+Plugins,,插件,,,SOLITARY
+Polarisation,,'',,,SOLITARY
+Polarization,,极化,,,SOLITARY
+Polish,,波兰语,,,SOLITARY
+Port A,,端口A,,,SOLITARY
+Port B,,端口 B,,,SOLITARY
+Port C,,端口 C,,,SOLITARY
+Port D,,端口 D,,,SOLITARY
+Portuguese,,葡萄牙语,,,SOLITARY
+Position of completed timers in timerlist,,'',,,SOLITARY
+Position stored at index,,'',,,SOLITARY
+Positioner,,星位,,,SOLITARY
+Positioner setup,,位置设置(DiSEqC 1.2),,,SOLITARY
+Show positioner position,,'',,,SOLITARY
+Power threshold in mA,,功率阈值(mA),,,SOLITARY
+Predefined transponder,,预设置转发器,,,SOLITARY
+Prefer AC3 track,,'',,,SOLITARY
+Prefer AC3+ track,,'',,,SOLITARY
+Prefer audio track stored by service,,'',,,SOLITARY
+Prefer graphical DVB subtitles,,'',,,SOLITARY
+Prefer subtitles for hearing impaired,,'',,,SOLITARY
+Prefer subtitles stored by service,,'',,,SOLITARY
+Preferred tuner,,首选调谐器,,,SOLITARY
+Prepare another USB stick for image flashing,,'',,,SOLITARY
+Preparing... Please wait,,准备中... 请稍候!,,,SOLITARY
+Press INFO on your remote control for additional information.,,按INFO键查看更多信息.,,,SOLITARY
+Press MENU on your remote control for additional options.,,按MENU键查看更多选项.,,,SOLITARY
+Press OK on your remote control to continue.,,按OK键确认.,,,SOLITARY
+Press OK to activate the selected skin.,,按OK键激活所选皮肤.,,,SOLITARY
+Press OK to activate the settings.,,按OK键激活设置.,,,SOLITARY
+Press OK to edit the settings.,,按OK键修改设置,,,SOLITARY
+Press OK to get further details for %s,,按OK键获取 %s 详细说明,,,SOLITARY
+Press OK to scan,,按OK键开始扫描.,,,SOLITARY
+Press EXIT to close,,'',,,SOLITARY
+Press OK to select a provider.,,'',,,SOLITARY
+Press OK to select/deselect a CAId.,,按OK键 选择/取消 CAID,,,SOLITARY
+Press OK to start the scan,,按OK键开始扫描.,,,SOLITARY
+Press OK to toggle the selection.,,按OK键修改选择,,,SOLITARY
+Press yellow to set this interface as default interface.,,按黄键设置默认网卡,,,SOLITARY
+Preview,,预览,,,SOLITARY
+Preview menu,,DVD预览菜单,,,SOLITARY
+Preview selected channel,,'',,,SOLITARY
+Primary DNS,,主 DNS,,,SOLITARY
+Priority,,次序,,,SOLITARY
+Process,,进程信息,,,SOLITARY
+Progress,,进度,,,SOLITARY
+Progress bar left,,'',,,SOLITARY
+Progress bar right,,'',,,SOLITARY
+Properties of current title,,当前标题属性,,,SOLITARY
+Protect services,,保护服务,,,SOLITARY
+Provider,,供应商,,,SOLITARY
+Provider to scan,,扫描供应商,,,SOLITARY
+Providers,,供应商,,,SOLITARY
+Put TV in standby,,待机,,,SOLITARY
+Put receiver in standby,,'',,,SOLITARY
+Python frontend for /tmp/mmi.socket,,'',,,SOLITARY
+Quick,,快速,,,SOLITARY
+Quick zap,,'',,,SOLITARY
+RF output,,RF-输出,,,SOLITARY
+RGB,,RGB,,,SOLITARY
+Radio,,广播,,,SOLITARY
+Ram disk,,'',,,SOLITARY
+Random,,随机,,,SOLITARY
+Rating defined by broadcaster - %d,,'',,,SOLITARY
+Rating undefined,,'',,,SOLITARY
+Really close without saving settings?,,关闭而不保存设置?,,,SOLITARY
+Really delete done timers?,,确实要删除定时器?,,,SOLITARY
+Really exit the subservices quickzap?,,退出字幕快速切换?,,,SOLITARY
+Really reboot now?,,立即重启(Reboot)?,,,SOLITARY
+Really restart now?,,立即重启(Restart)?,,,SOLITARY
+Really shutdown now?,,立即关机?,,,SOLITARY
+Really upgrade the frontprocessor and reboot now?,,'',,,SOLITARY
+Really upgrade your settop box and reboot now?,,'',,,SOLITARY
+Reboot,,重新启动,,,SOLITARY
+Rec,,录制,,,SOLITARY
+Reception settings,,'',,,SOLITARY
+Record,,录制,,,SOLITARY
+Record time limited due to conflicting timer %s,,由于定时器 %s 冲突导致录制时间受限,,,SOLITARY
+Recorded files...,,录制文件...,,,SOLITARY
+Recording,,正在录制,,,SOLITARY
+Recording in progress,,正在录像,,,SOLITARY
+Recording paths,,录像路径,,,SOLITARY
+Recording type,,'',,,SOLITARY
+Recording(s) are in progress or coming up in few seconds!,,录制正在进行中或刚开始录制不久!,,,SOLITARY
+Recordings,,正在录制,,,SOLITARY
+Recordings always have priority,,总是优先录制,,,SOLITARY
+Red button...,,'',,,SOLITARY
+Refresh rate,,'',,,SOLITARY
+Refresh rate selection.,,选择刷新率.,,,SOLITARY
+Regard deep standby as standby,,'',,,SOLITARY
+Relative,,'',,,SOLITARY
+Reload,,重新加载,,,SOLITARY
+Reloading bouquets and services...,,重载自定义组和频道...,,,SOLITARY
+Remember service PIN,,记住服务密码,,,SOLITARY
+Remote control type,,'',,,SOLITARY
+Removal has completed.,,'',,,SOLITARY
+Remove,,删除,,,SOLITARY
+Remove a mark,,移除标记,,,SOLITARY
+Remove a nameserver entry,,'',,,SOLITARY
+Remove bookmark,,'',,,SOLITARY
+Remove completed timers after (days),,'',,,SOLITARY
+Remove currently selected title,,移除当前选择的标题,,,SOLITARY
+Remove items from trash can after (days),,'',,,SOLITARY
+Remove plugins,,移除插件,,,SOLITARY
+Remove title,,移除标题,,,SOLITARY
+Removing,,正在删除...,,,SOLITARY
+Removing directory %s failed. (Maybe not empty.),,删除 %s 目录失败. (很可能不是空目录.),,,SOLITARY
+Removing partition table,,'',,,SOLITARY
+Rename,,改名,,,SOLITARY
+Repeat type,,'',,,SOLITARY
+Repeating event currently recording... What do you want to do?,,重复的定时录制事件...\n您准备怎么办?,,,SOLITARY
+Repeat,,重复,,,SOLITARY
+Repeats,,重复,,,SOLITARY
+Required medium type:,,需要介质类型:,,,SOLITARY
+Rereading partition table,,'',,,SOLITARY
+Reserved,,'',,,SOLITARY
+Reset,,复位,,,SOLITARY
+Reset and renumerate title names,,复位并重设标题名称,,,SOLITARY
+Reset playback position,,重设播放位置,,,SOLITARY
+Reset video enhancement settings to system defaults?,,重置视频增强器设置?,,,SOLITARY
+Reset video enhancement settings to your last configuration?,,恢复视频增强器设置?,,,SOLITARY
+Resolution,,分辨率,,,SOLITARY
+Restart,,重新启动,,,SOLITARY
+Restart GUI now?,,立即重启Enigma2?,,,SOLITARY
+Restart enigma,,重启Enigma2,,,SOLITARY
+Restart network,,重启网络,,,SOLITARY
+Restart test,,重新测试,,,SOLITARY
+Restart your network connection and interfaces.\n,,重启 Dreambox网络连接.\n,,,SOLITARY
+Restore,,恢复,,,SOLITARY
+Restore backups,,恢复备份,,,SOLITARY
+Restore is running...,,正在恢复...,,,SOLITARY
+Restore system settings,,恢复系统设置,,,SOLITARY
+Restoring...,,'',,,SOLITARY
+Resume from last position,,从最后位置恢复,,,SOLITARY
+Resume position at %s,,恢复到%s,,,SOLITARY
+Resuming playback,,恢复播放,,,SOLITARY
+Return to movie list,,返回电影列表,,,SOLITARY
+Return to previous service,,返回之前的频道,,,SOLITARY
+Rewind speeds,,快退速度,,,SOLITARY
+Right,,右,,,SOLITARY
+Right from servicename,,'',,,SOLITARY
+Roll-off,,信号衰减,,,SOLITARY
+Romanian,,'',,,SOLITARY
+Root directory,,开始目录,,,SOLITARY
+Rotor step position:,,'',,,SOLITARY
+Rotor turning speed,,马达转速,,,SOLITARY
+Round start time on,,'',,,SOLITARY
+Russian,,俄语,,,SOLITARY
+S-Video,,S-Video,,,SOLITARY
+SID,,SID,,,SOLITARY
+SINGLE LAYER DVD,,单层DVD,,,SOLITARY
+SNR,,信噪比,,,SOLITARY
+SNR:,,信噪:,,,SOLITARY
+SSID:,,'',,,SOLITARY
+Sat,,周六,,,SOLITARY
+Satellite,,卫星,,,SOLITARY
+Mode,,输出模式,,,SOLITARY
+Satellite dish setup,,'',,,SOLITARY
+Satellite equipment,,卫星设备设置,,,SOLITARY
+Satellite equipment setup,,'',,,SOLITARY
+Satellite longitude:,,'',,,SOLITARY
+Satellites,,卫星,,,SOLITARY
+Satfinder,,寻星,,,SOLITARY
+Sats,,卫星,,,SOLITARY
+Saturation,,饱和度,,,SOLITARY
+Saturday,,星期六,,,SOLITARY
+Save,,保存,,,SOLITARY
+Save playlist,,'',,,SOLITARY
+Scaler sharpness,,定标锐度,,,SOLITARY
+Scaling mode,,'',,,SOLITARY
+Scan ,,扫描,,,SOLITARY
+Scan,,'',,,SOLITARY
+Scan %s,,'',,,SOLITARY
+Scan %s band,,'',,,SOLITARY
+Scan additional SR,,扫描更多 SR,,,SOLITARY
+Scan files...,,'',,,SOLITARY
+Scan wireless networks,,'',,,SOLITARY
+Scan your network for wireless access points and connect to them using your selected wireless device.\n,,扫描无线网络接入点并通过所选无线设备连接.\n,,,SOLITARY
+Scanning %s...,,正在扫描%s ...,,,SOLITARY
+Scanning failed!,,扫描失败!,,,SOLITARY
+Scanning...,,正在扫描...,,,SOLITARY
+Scans default lamedbs sorted by satellite with a connected dish positioner,,扫描默认lamedb，以卫星排序,,,SOLITARY
+Search east,,向东搜索,,,SOLITARY
+Search west,,向西搜索,,,SOLITARY
+Searching,,'',,,SOLITARY
+Searching east ...,,'',,,SOLITARY
+Searching for available updates. Please wait...,,正在搜索可用升级. 请稍候...,,,SOLITARY
+Searching for new installed or removed packages. Please wait...,,正在搜索可用安装或卸载的软件表. 请稍候...,,,SOLITARY
+Searching west ...,,'',,,SOLITARY
+Secondary DNS,,副 DNS,,,SOLITARY
+Seek,,查找,,,SOLITARY
+Seek backward,,'',,,SOLITARY
+Seek backward (enter time),,'',,,SOLITARY
+Seek forward,,'',,,SOLITARY
+Seek forward (enter time),,'',,,SOLITARY
+Select,,选择,,,SOLITARY
+Select CAId,,'',,,SOLITARY
+Select HDD,,选择硬盘,,,SOLITARY
+Select a bouquet,,'',,,SOLITARY
+Select a movie,,选择一部电影,,,SOLITARY
+Select a network adapter,,'',,,SOLITARY
+Select a skin,,'',,,SOLITARY
+Select your Skin,,'',,,SOLITARY
+Select a tuner,,'',,,SOLITARY
+Select a wireless network,,'',,,SOLITARY
+Select an image to be downloaded,,'',,,SOLITARY
+Select audio track,,选择音轨,,,SOLITARY
+Select backup files,,'',,,SOLITARY
+Select backup location,,'',,,SOLITARY
+Select channel to record from,,选择要录制的频道,,,SOLITARY
+Select copy destination for:,,选择目标位置:,,,SOLITARY
+Select desired image from feed list,,从服务器选择Image,,,SOLITARY
+Select destination for:,,目标目录:,,,SOLITARY
+Select files for backup.,,选择 文件/目录 备份...,,,SOLITARY
+Select files/folders to backup,,选择 文件/目录 备份...,,,SOLITARY
+Select input device,,输入设备,,,SOLITARY
+Select interface,,选择接口,,,SOLITARY
+Select movie,,'',,,SOLITARY
+Select provider to add...,,选择要添加的提供商...,,,SOLITARY
+Select refresh rate,,选择刷新率,,,SOLITARY
+Select service to add...,,选择要添加的频道...,,,SOLITARY
+Select target folder,,'',,,SOLITARY
+Select the movie path,,'',,,SOLITARY
+Select upgrade source,,'',,,SOLITARY
+Select upgrade source to edit.,,选泽升级源进行编辑.,,,SOLITARY
+Select video input with up/down buttons,,用上下键选择视频,,,SOLITARY
+Select video mode,,设置视频模式,,,SOLITARY
+Select wireless network,,选择无线网络,,,SOLITARY
+"Select your provider, and press OK to start the scan",,选择供应商，按OK开始扫描,,,SOLITARY
+Send DiSEqC,,发送DiSEqC命令,,,SOLITARY
+Send DiSEqC only on satellite change,,当改变卫星时发送DiSEqC命令,,,SOLITARY
+Separate titles with a main menu,,'',,,SOLITARY
+Sequence repeat,,重复序列,,,SOLITARY
+Serbian,,'',,,SOLITARY
+Service,,频道,,,SOLITARY
+Service has been added to the favourites.,,频道已添加到喜爱频道,,,SOLITARY
+Service has been added to the selected bouquet.,,频道已添加到选定的自定义组.,,,SOLITARY
+Service info,,'',,,SOLITARY
+Service invalid!\n(Timeout reading PMT),,频道无效!\n(读取PMT超时),,,SOLITARY
+Service name,,'',,,SOLITARY
+Service not found!\n(SID not found in PAT),,频道未找到!\n(在PAT中找不以SID),,,SOLITARY
+Service reference,,频道参考,,,SOLITARY
+Service scan,,频道扫描,,,SOLITARY
+Service searching,,'',,,SOLITARY
+Service title mode,,'',,,SOLITARY
+Service unavailable!\nCheck tuner configuration!,,频道无法使用!\n请检查调谐器配置!,,,SOLITARY
+Services,,频道,,,SOLITARY
+Set end time,,'',,,SOLITARY
+Set fixed,,设为已修复,,,SOLITARY
+Set fps for external subtitles,,'',,,SOLITARY
+Set interface as default Interface,,将网卡设为默认,,,SOLITARY
+Set limits,,设置极限,,,SOLITARY
+Set the type of the progress indication in the channel selection screen.,,'',,,SOLITARY
+Set time window to 1 hour,,'',,,SOLITARY
+Set time window to 2 hours,,'',,,SOLITARY
+Set time window to 3 hours,,'',,,SOLITARY
+Set time window to 4 hours,,'',,,SOLITARY
+Set time window to 5 hours,,'',,,SOLITARY
+Set voltage and 22KHz,,'',,,SOLITARY
+Settings,,设置,,,SOLITARY
+Setup,,设置,,,SOLITARY
+Setup menu,,'',,,SOLITARY
+Setup mode,,'',,,SOLITARY
+Setup your positioner,,'',,,SOLITARY
+Setup your satellite equipment,,'',,,SOLITARY
+Shall the USB stick wizard proceed and program the image file %s into flash memory?,,'',,,SOLITARY
+Sharpness,,锐度,,,SOLITARY
+Short filenames,,短文件名,,,SOLITARY
+Show EIT now/next in infobar,,在信息条显示EIT Now/Next信息,,,SOLITARY
+Show EPG for current channel...,,'',,,SOLITARY
+Show EPG...,,'',,,SOLITARY
+Show Games show,,'',,,SOLITARY
+Show SNR percentage instead of dB value,,'',,,SOLITARY
+Show WLAN status,,'',,,SOLITARY
+Show animation while busy,,忙时显示动画,,,SOLITARY
+Show background in radio mode,,'',,,SOLITARY
+Show bouquet selection menu,,'',,,SOLITARY
+Show busy indicator when the system is busy.,,'',,,SOLITARY
+Show channel numbers in channel selection,,选择频道时显示频道编号,,,SOLITARY
+Show crypto info in infobar,,在信息条显示加密信息,,,SOLITARY
+Show detailed event info,,'',,,SOLITARY
+Show event details,,'',,,SOLITARY
+Show event-progress in channel selection,,切换频道时显示信息条,,,SOLITARY
+Show extended description,,'',,,SOLITARY
+Show extensions...,,'',,,SOLITARY
+Show icon for new/unseen items,,'',,,SOLITARY
+Show info,,'',,,SOLITARY
+Show info line,,'',,,SOLITARY
+Show infobar on channel change,,切换频道时显示信息条,,,SOLITARY
+Show infobar on event change,,事件更改时显示信息条,,,SOLITARY
+Show infobar on skip forward/backward,,快退 / 快进时显示信息条,,,SOLITARY
+Show message when recording starts,,'',,,SOLITARY
+Show movie lengths in movielist,,'',,,SOLITARY
+Show positioner movement,,显示位置移动,,,SOLITARY
+Show screensaver,,'',,,SOLITARY
+Show second infobar,,显示第二信息条,,,SOLITARY
+Show service type icons,,'',,,SOLITARY
+Configure if and how service type icons will be shown in the channel selection list.,,'',,,SOLITARY
+Show shutdown menu,,'',,,SOLITARY
+Show status icons in movie list,,'',,,SOLITARY
+Show status icons in movielist,,'',,,SOLITARY
+Show the radio player...,,广播回放模式下...,,,SOLITARY
+Show the tv player...,,电视回放模式下...,,,SOLITARY
+Show warning when timeshift is stopped,,'',,,SOLITARY
+Shows the state of your wireless LAN connection.\n,,显示WLAN连接信息.\n,,,SOLITARY
+Shuffle playlist,,'',,,SOLITARY
+Shutdown,,关机,,,SOLITARY
+Side by side,,'',,,SOLITARY
+"Signal OK, proceeding",,'',,,SOLITARY
+Signal Status,,'',,,SOLITARY
+Signal quality,,'',,,SOLITARY
+Signal Quality,,'',,,SOLITARY
+Signal strength,,'',,,SOLITARY
+Signal Strength,,'',,,SOLITARY
+Signal strength:,,'',,,SOLITARY
+Signal: ,,信号,,,SOLITARY
+Signal,,'',,,SOLITARY
+Quality,,质量,,,SOLITARY
+Similar,,类似,,,SOLITARY
+Similar broadcasts:,,类似的广播:,,,SOLITARY
+Simple,,简易,,,SOLITARY
+Simplified Chinese,,简体中文,,,SOLITARY
+Simple titleset (compatibility for legacy players),,简易的标题 (更好的兼容性),,,SOLITARY
+Single,,单个,,,SOLITARY
+Single EPG,,单个-EPG,,,SOLITARY
+Single satellite,,单个卫星,,,SOLITARY
+Single step (GOP),,'',,,SOLITARY
+Site latitude,,'',,,SOLITARY
+Site longitude,,'',,,SOLITARY
+Skin,,皮肤,,,SOLITARY
+Skins,,皮肤,,,SOLITARY
+Skip empty services,,'',,,SOLITARY
+Skip internet connection check (disables automatic package installation),,'',,,SOLITARY
+Sleep timer,,'',,,SOLITARY
+Slide picture in loop,,'',,,SOLITARY
+Slide show interval (sec.),,'',,,SOLITARY
+Slot %d,,插槽 %d,,,SOLITARY
+Slovak,,'',,,SOLITARY
+Slovenian,,'',,,SOLITARY
+Slow,,慢的,,,SOLITARY
+Slow motion speeds,,'',,,SOLITARY
+Small progress,,'',,,SOLITARY
+Social/Political/Economics,,'',,,SOLITARY
+SoftCam / CI,,'',,,SOLITARY
+Softcam type,,'',,,SOLITARY
+Software,,软件,,,SOLITARY
+Software management,,软件管理,,,SOLITARY
+Software manager setup,,软件管理,,,SOLITARY
+Software restore,,软件还原,,,SOLITARY
+Software update,,软件升级,,,SOLITARY
+Softwaremanager information,,软件管理,,,SOLITARY
+Some plugins are not available:\n,,一些插件不可用:\n,,,SOLITARY
+"Sorry, %s has not been installed!",,'',,,SOLITARY
+"Sorry, deleting directories can (for now) only be done through the trash can.",,'',,,SOLITARY
+"Sorry, no backups found!",,'',,,SOLITARY
+"Sorry, no details available!",,'',,,SOLITARY
+"Sorry, your backup destination is not writeable.\nPlease select a different one.",,'',,,SOLITARY
+Sort,,排序,,,SOLITARY
+Sort A-Z,,按字母排序,,,SOLITARY
+Sort time,,'',,,SOLITARY
+Sound,,声音,,,SOLITARY
+Sound carrier,,'',,,SOLITARY
+Source request,,源目录,,,SOLITARY
+South,,南,,,SOLITARY
+Spanish,,西班牙语,,,SOLITARY
+Split preview mode,,分割预览模式,,,SOLITARY
+Sports,,'',,,SOLITARY
+Standard,,'',,,SOLITARY
+Standby,,待机,,,SOLITARY
+Standby / restart,,'',,,SOLITARY
+Standby fan %d PWM,,'',,,SOLITARY
+Standby fan %d voltage,,'',,,SOLITARY
+Start from the beginning,,重头开始,,,SOLITARY
+Start offline decode,,'',,,SOLITARY
+Start recording?,,开始录制？,,,SOLITARY
+Start test,,重新测试,,,SOLITARY
+Start time,,'',,,SOLITARY
+Start timeshift,,'',,,SOLITARY
+Start with list screen,,'',,,SOLITARY
+Starting on,,开始,,,SOLITARY
+Step east,,向东步进,,,SOLITARY
+Step west,,向西步进,,,SOLITARY
+Stepped east,,'',,,SOLITARY
+Stepped west,,'',,,SOLITARY
+Stop,,停止,,,SOLITARY
+Stop PiP,,'',,,SOLITARY
+Stop current event and disable coming events,,停止当前事件并禁用下一个事件,,,SOLITARY
+Stop current event but not coming events,,停止当前事件但不禁用下一个事件,,,SOLITARY
+Stop entry,,'',,,SOLITARY
+Stop playing this movie?,,停止播放这部电影？,,,SOLITARY
+Stop recording,,停止录像,,,SOLITARY
+Stop recording and delete,,停止录像并删除,,,SOLITARY
+Stop test,,停止测试,,,SOLITARY
+Stop testing plane after # failed transponders,,转发器失败后停止测试卫星,,,SOLITARY
+Stop testing plane after # successful transponders,,转发器成功后停止测试卫星,,,SOLITARY
+Stop timeshift,,'',,,SOLITARY
+Stop timeshift?,,'',,,SOLITARY
+Stopped,,停止,,,SOLITARY
+Store at index,,'',,,SOLITARY
+Store position,,存贮位置,,,SOLITARY
+Stored position,,存贮位置,,,SOLITARY
+Stream,,'',,,SOLITARY
+Stream request,,流请求,,,SOLITARY
+Strongest position,,'',,,SOLITARY
+Subservice list...,,子频道列表...,,,SOLITARY
+Subservices,,子频道,,,SOLITARY
+Subtitle alignment,,'',,,SOLITARY
+Subtitle border width,,'',,,SOLITARY
+Subtitle delay when timing is bad,,'',,,SOLITARY
+Subtitle delay when timing lacks,,当时间不足时图文字幕延时,,,SOLITARY
+Subtitle font size,,'',,,SOLITARY
+Subtitle language selection 1,,字幕语言1,,,SOLITARY
+Subtitle language selection 2,,字幕语言2,,,SOLITARY
+Subtitle language selection 3,,字幕语言3,,,SOLITARY
+Subtitle language selection 4,,字幕语言4,,,SOLITARY
+Subtitle position,,'',,,SOLITARY
+Subtitle selection,,字幕选择,,,SOLITARY
+Subtitle selection...,,字幕选择...,,,SOLITARY
+Subtitle settings,,字幕设置,,,SOLITARY
+Subtitles,,字幕,,,SOLITARY
+Subtitle Quickmenu,,'',,,SOLITARY
+Sun,,周日,,,SOLITARY
+Sunday,,星期日,,,SOLITARY
+Swap PiP and main picture,,'',,,SOLITARY
+Swap services,,'',,,SOLITARY
+Swedish,,瑞典语,,,SOLITARY
+Switch TV to correct input,,切换电视到正确的输入,,,SOLITARY
+Switch between normal mode and list mode,,'',,,SOLITARY
+Switch to filelist,,'',,,SOLITARY
+Switch to next channel in history,,'',,,SOLITARY
+Switch to next sub service,,'',,,SOLITARY
+Switch to playlist,,'',,,SOLITARY
+Switch to previous channel,,'',,,SOLITARY
+Switch to previous channel in history,,'',,,SOLITARY
+Switch to previous sub service,,'',,,SOLITARY
+Switchable tuner types:,,可换调谐器类型,,,SOLITARY
+Symbol rate,,符号率,,,SOLITARY
+Sync failure moving back to origin !,,'',,,SOLITARY
+System,,系统,,,SOLITARY
+TRANSLATOR_INFO,,'',,,SOLITARY
+TS file is too large for ISO9660 level 1!,,TS文件太大！,,,SOLITARY
+TSID,,'',,,SOLITARY
+TV physical address report,,'',,,SOLITARY
+TXT PID,,'',,,SOLITARY
+Text PID,,'',,,SOLITARY
+Table of contents for collection,,'',,,SOLITARY
+Tags,,标签,,,SOLITARY
+Teletext subtitle color,,图文字幕颜色,,,SOLITARY
+Temperature and fan control,,'',,,SOLITARY
+Terrestrial,,地面波,,,SOLITARY
+Terrestrial provider,,地面波提供商,,,SOLITARY
+Test DiSEqC settings,,测试DiSEqC设置,,,SOLITARY
+Test mode,,测试模式,,,SOLITARY
+Test the network configuration of your receiver.\n,,'',,,SOLITARY
+Test type,,'',,,SOLITARY
+Text color,,'',,,SOLITARY
+Thai,,'',,,SOLITARY
+Thank you for using the wizard.\nPlease press OK to continue.,,感谢您使用设置向导.\n按OK键确认.,,,SOLITARY
+Thank you for using the wizard. Your receiver is now ready for use.\nPress OK to start using your receiver.,,'',,,SOLITARY
+The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to create a special format data DVD (which will not play in stand-alone DVD players) instead?,,'',,,SOLITARY
+The PIN code has been changed successfully.,,服务密码 已被成功修改.,,,SOLITARY
+The PIN codes you entered are different.,,密码输入不相同.,,,SOLITARY
+The USB stick was prepared to be bootable.\nNow you can download an NFI image file!,,'',,,SOLITARY
+The backup failed. Please choose a different backup location.,,备份操作失败！请选择不同的备份位置。,,,SOLITARY
+The current beta image might not be stable.\nFor more information see %s.,,'',,,SOLITARY
+The directory %s is not writable.\nMake sure you select a writable directory instead.,,'',,,SOLITARY
+The following device was found:\n\n%s\n\nDo you want to write the USB flasher to this stick?,,下列装备被发现:\n\n%s\n\n是否刷新这个U盘?,,,SOLITARY
+The following files were found...,,下列文件已找到...,,,SOLITARY
+"The md5sum validation failed, the file may be corrupted!",,'',,,SOLITARY
+The network wizard extension is not installed!\nPlease install it.,,'',,,SOLITARY
+The path %s already exists.,,路径 %s 已经存在.,,,SOLITARY
+The pin code you entered is wrong.,,密码输入有误.,,,SOLITARY
+The results have been written to %s.,,测试结果是在 %s 中保存.,,,SOLITARY
+The sleep timer has been activated.,,定时休眠已被激活.,,,SOLITARY
+The sleep timer has been disabled.,,定时休眠已被禁用.,,,SOLITARY
+The software management extension is not installed!\nPlease install it.,,'',,,SOLITARY
+The status of the current beta image could not be checked because %s can not be reached.,,'',,,SOLITARY
+The timer file (timers.xml) is corrupt and could not be loaded.,,计时器文件（timers.xml）已损坏，无法加载.,,,SOLITARY
+The user interface of your receiver is restarting,,'',,,SOLITARY
+The user interface of your receiver is restarting\ndue to an error in mytest.py,,'',,,SOLITARY
+The wireless LAN plugin is not installed!\nPlease install it and choose what you want to do next.,,无线网络插件未安装!\n请安装并选择下一步做什么.,,,SOLITARY
+The wireless LAN plugin is not installed!\nPlease install it.,,WLAN插件未安装!\n请先安装.,,,SOLITARY
+The wizard can backup your current settings. Do you want to do a backup now?,,该向导可以备份您当前的设置.您想要做的一个备份吗？,,,SOLITARY
+The wizard found a configuration backup. Do you want to restore your old settings from %s?,,'',,,SOLITARY
+The wizard is finished now.,,向导已完成设置.,,,SOLITARY
+There are at least ,,至少,,,SOLITARY
+There are at least %s updates available.,,'',,,SOLITARY
+There are currently no outstanding actions.,,'',,,SOLITARY
+There are no updates available.,,没有可用更新.,,,SOLITARY
+There is no signal to lock on !,,'',,,SOLITARY
+There might not be enough Space on the selected Partition.\nDo you really want to continue?,,所选的分区上可能没有足够的空间.\n是否继续？,,,SOLITARY
+This DVD RW medium is already formatted - reformatting will erase all content on the disc.,,这张DVD RW已经格式化过，再次格式化将删除所有文件,,,SOLITARY
+"This plugin creates a USB stick which can be used to update the firmware of your receiver without the need for a network or WLAN connection.\nFirst, a USB stick needs to be prepared so that it becomes bootable.\nIn the next step, an NFI image file can be downloaded from the update server and saved on the USB stick.\nIf you already have a prepared bootable USB stick, please insert it now. Otherwise plug in a USB stick with a minimum size of 64 MB!",,'',,,SOLITARY
+This plugin is installed.,,此插件已安装.,,,SOLITARY
+This plugin is not installed.,,此插件未安装.,,,SOLITARY
+This plugin will be installed.,,此插件将安装.,,,SOLITARY
+This plugin will be removed.,,插件被移除,,,SOLITARY
+This receiver cannot decode %s streams!,,'',,,SOLITARY
+"This test checks for configured nameservers.\nIf you get a \""unconfirmed\"" message:\n- please check your DHCP, cabling and adapter setup\n- if you configured your nameservers manually please verify your entries in the \""Nameserver\"" configuration",,'',,,SOLITARY
+"This test checks whether a network cable is connected to your LAN adapter.\nIf you get a \""disconnected\"" message:\n- verify that a network cable is attached\n- verify that the cable is not broken",,'',,,SOLITARY
+"This test checks whether a valid IP address is found for your LAN adapter.\nIf you get a \""unconfirmed\"" message:\n- no valid IP address was found\n- please check your DHCP, cabling and adapter setup",,'',,,SOLITARY
+"This test checks whether your LAN adapter is set up for automatic IP address configuration with DHCP.\nIf you get a \""disabled\"" message:\n - then your LAN adapter is configured for manual IP setup\n- verify thay you have entered correct IP informations in the adapter setup dialog.\nIf you get an \""enabeld\"" message:\n-verify that you have a configured and working DHCP server in your network.",,'',,,SOLITARY
+This test detects your configured LAN adapter.,,'',,,SOLITARY
+This will (re-)calculate all positions of your rotor and may remove previously memorised positions and fine-tuning!\nAre you sure?,,'',,,SOLITARY
+Three,,3,,,SOLITARY
+Threshold,,转折频率,,,SOLITARY
+Thu,,周四,,,SOLITARY
+Thumbnails,,缩略图,,,SOLITARY
+Thursday,,星期四,,,SOLITARY
+Time,,时间,,,SOLITARY
+Time scale,,'',,,SOLITARY
+Timer,,定时器,,,SOLITARY
+Timer edit,,'',,,SOLITARY
+Timer editor,,'',,,SOLITARY
+Timer entry,,定时器项目,,,SOLITARY
+Timer log,,定时器日志,,,SOLITARY
+Timer overlap in timers.xml detected!\nPlease recheck it!,,检测timers.xml有重叠部分！\n请重新检查它!,,,SOLITARY
+Timer overview,,'',,,SOLITARY
+Timer recording location,,'',,,SOLITARY
+Timer sanity error,,定时器测试中的错误,,,SOLITARY
+Timer selection,,定时器选择,,,SOLITARY
+Timer type,,'',,,SOLITARY
+Timeshift,,时光平移,,,SOLITARY
+Timeshift location,,时光平移位置,,,SOLITARY
+Timeshift not possible!,,不能时光平移!,,,SOLITARY
+Timezone,,时区,,,SOLITARY
+Title,,标题,,,SOLITARY
+Title properties,,标题属性,,,SOLITARY
+Titleset mode,,标题设置模式,,,SOLITARY
+To audio selection,,音频选择,,,SOLITARY
+To subtitle selection,,字幕选择,,,SOLITARY
+Chinese,,'',,,SOLITARY
+Korean,,'',,,SOLITARY
+Multiple languages,,'',,,SOLITARY
+Malay,,'',,,SOLITARY
+Burmese,,'',,,SOLITARY
+"To update your receiver firmware, please follow these steps:\n1) Turn off your box with the rear power switch and make sure the bootable USB stick is plugged in.\n2) Turn mains back on and hold the DOWN button on the front panel pressed for 10 seconds.\n3) Wait for bootup and follow instructions of the wizard.",,'',,,SOLITARY
+Today,,今天,,,SOLITARY
+Toggle a cut mark at the current position,,'',,,SOLITARY
+Tone amplitude,,'',,,SOLITARY
+Tone mode,,脉冲模式,,,SOLITARY
+Toneburst,,Toneburst,,,SOLITARY
+Toneburst A/B,,Toneburst A/B,,,SOLITARY
+Top and bottom,,'',,,SOLITARY
+Track,,轨道,,,SOLITARY
+Traditional Chinese,,繁体中文,,,SOLITARY
+Translation,,翻译,,,SOLITARY
+Translation:,,翻译:,,,SOLITARY
+Translations,,'',,,SOLITARY
+Transmission mode,,传输模式,,,SOLITARY
+Transponder,,转发器,,,SOLITARY
+Transponder type,,'',,,SOLITARY
+Trash can,,'',,,SOLITARY
+Tries left:,,尝试:,,,SOLITARY
+Try to find used transponders in cable network.. please wait...,,尝试从电缆找寻可用的转发器.. 请稍候...,,,SOLITARY
+Trying to download a new packetlist. Please wait...,,尝试下载新的软件包列表. 请稍候...,,,SOLITARY
+Tue,,周二,,,SOLITARY
+Tuesday,,星期二,,,SOLITARY
+Tune,,调制,,,SOLITARY
+Tune and focus,,'',,,SOLITARY
+Tune failed!,,调制失败!,,,SOLITARY
+Tuner,,调谐器,,,SOLITARY
+Tuner configuration,,调谐器配置,,,SOLITARY
+Tuner slot,,'',,,SOLITARY
+Tuner status,,调谐器状态,,,SOLITARY
+Tuner status %s,,'',,,SOLITARY
+Tuner type,,调谐器类型,,,SOLITARY
+Turkish,,土耳其语,,,SOLITARY
+Ukrainian,,'',,,SOLITARY
+Two,,2,,,SOLITARY
+Type,,类型,,,SOLITARY
+Type of scan,,扫描类型,,,SOLITARY
+USALS,,USALS,,,SOLITARY
+USALS calibration,,'',,,SOLITARY
+USB stick,,'',,,SOLITARY
+USB stick wizard,,U盘向导,,,SOLITARY
+Unattended upgrade in progress\nPlease wait until your receiver reboots\nThis may take a few minutes,,'',,,SOLITARY
+Undo install,, 放弃安装,,,SOLITARY
+Undo uninstall,,放弃卸载,,,SOLITARY
+Unencrypted,,未加密,,,SOLITARY
+UnhandledKey,,'',,,SOLITARY
+Unicable,,通用,,,SOLITARY
+Unicable LNB,,通用LNB,,,SOLITARY
+Unicable Martix,,'',,,SOLITARY
+Uninstall,,卸载,,,SOLITARY
+Universal LNB,,通用LNB,,,SOLITARY
+Unknown,,<未知>,,,SOLITARY
+Unmount,,卸载,,,SOLITARY
+Unsupported,,不支持,,,SOLITARY
+Update,,更新,,,SOLITARY
+Update and ask to reboot,,'',,,SOLITARY
+Update and reboot (recommended),,'',,,SOLITARY
+Update channel list only,,'',,,SOLITARY
+Update completed. Do you want to reboot your receiver?,,'',,,SOLITARY
+Update failed. Your receiver does not have a working internet connection.,,'',,,SOLITARY
+Update has completed.,,'',,,SOLITARY
+Updatefeed not available.,,更新资源无效,,,SOLITARY
+Updating software catalog,,'',,,SOLITARY
+Upgrading,,升级,,,SOLITARY
+Use,,使用,,,SOLITARY
+Use DHCP,,自动分配地址(DHCP),,,SOLITARY
+Use EIT EPG information when it is available.,,'',,,SOLITARY
+Use FreeSat EPG information when it is available.,,'',,,SOLITARY
+Use MHW EPG information when it is available.,,'',,,SOLITARY
+Use Netmed EPG information when it is available.,,'',,,SOLITARY
+Use ViaSat EPG information when it is available.,,'',,,SOLITARY
+Use Virgin EPG information when it is available.,,'',,,SOLITARY
+Use TV remote control,,用电视遥控,,,SOLITARY
+Use USALS for this sat,,'',,,SOLITARY
+Use a gateway,,使用网关,,,SOLITARY
+Use fastscan channel names,,使用快速扫描频道名称,,,SOLITARY
+Use fastscan channel numbering,,使用快速扫描频道编号,,,SOLITARY
+Use interface,,使用接口,,,SOLITARY
+Use official channel numbering,,使用快速扫描频道编号,,,SOLITARY
+Use original DVB subtitle position,,'',,,SOLITARY
+Use original teletext position,,使用原始图文位置,,,SOLITARY
+Use power measurement,,使用功率测量,,,SOLITARY
+Use the network wizard to configure selected network adapter,,'',,,SOLITARY
+Use the network wizard to configure your network\n,,'',,,SOLITARY
+"Use the up/down keys on your remote control to select an option. After that, press OK.",,使用遥控 上/下 键选择一个选项。在此之后按下 OK 。,,,SOLITARY
+Use the wizard to set up basic features,,'',,,SOLITARY
+Use these input device settings?,,'',,,SOLITARY
+Use these settings?,,使用这些设置?,,,SOLITARY
+Use this video enhancement settings?,,使用此视频增强器设置?,,,SOLITARY
+Use trash can in movielist,,'',,,SOLITARY
+Used service scan type,,按频道类型搜索,,,SOLITARY
+User - bouquets,,自定义组,,,SOLITARY
+User defined,,用户定义,,,SOLITARY
+User defined transponder,,用户定义的转发器,,,SOLITARY
+User interface,,用户界面,,,SOLITARY
+Using LNB %d,,正使用 LNB %d,,,SOLITARY
+Using fixed address,,使用固定地址,,,SOLITARY
+Using tuner %s,,使用调谐器 %s,,,SOLITARY
+"Usually when the subtitle language is the same as the audio language, the subtitles will not be used. Enable this option to allow these subtitles to be used.",,'',,,SOLITARY
+VCR scart,,录像机,,,SOLITARY
+VMGM (intro trailer),,'',,,SOLITARY
+Vertical,,'',,,SOLITARY
+Vertical turning speed,,垂直调谐速度,,,SOLITARY
+Video PID,,视频PID,,,SOLITARY
+Video enhancement preview,,视频增强预览,,,SOLITARY
+Video enhancement settings,,视频增强器设置,,,SOLITARY
+Video enhancement setup,,视频增强器设置,,,SOLITARY
+Video input selection\n\nPlease press OK if you can see this page on your TV (or select a different input port).\n\nThe next input port will be automatically probed in 20 seconds.,,"视频输入选择\n\n如果你能看到此页面,请按 确定(或则选择不同输入端口) \n\n ",,,SOLITARY
+Video mode selection.,,选择视频模式.,,,SOLITARY
+Video output,,视频输出,,,SOLITARY
+Video setup,,视频设置,,,SOLITARY
+Video wizard,,视频向导,,,SOLITARY
+Videocodec,,视频编码,,,SOLITARY
+Videoformat,,画面格式,,,SOLITARY
+Videosize,,画面大小,,,SOLITARY
+View Rass interactive...,,View Rass interactive...,,,SOLITARY
+View details,,显示事件详细内容,,,SOLITARY
+View list of available ,,查看可用列表,,,SOLITARY
+View list of available CommonInterface extensions,,可用的通用接口扩展列表,,,SOLITARY
+View list of available EPG extensions.,,可用的EPG扩展列表,,,SOLITARY
+View list of available Satellite equipment extensions.,,可用的卫星设备扩展列表,,,SOLITARY
+View list of available communication extensions.,,'',,,SOLITARY
+View list of available default settings,,'',,,SOLITARY
+View list of available display and userinterface extensions.,,'',,,SOLITARY
+View list of available multimedia extensions.,,'',,,SOLITARY
+View list of available networking extensions,,'',,,SOLITARY
+View list of available recording extensions,,'',,,SOLITARY
+View list of available skins,,'',,,SOLITARY
+View list of available software extensions,,'',,,SOLITARY
+View list of available system extensions,,'',,,SOLITARY
+View photos...,,'',,,SOLITARY
+View teletext...,,查看图文电视...,,,SOLITARY
+View video CD...,,'',,,SOLITARY
+Virtual keyboard,,'',,,SOLITARY
+Voltage mode,,电压模式,,,SOLITARY
+Volume,,音量,,,SOLITARY
+W,,W,,,SOLITARY
+WEP,,WEP,,,SOLITARY
+WLAN connection,,WLAN连接,,,SOLITARY
+WPA,,WPA,,,SOLITARY
+WPA or WPA2,,WPA 或r WPA2,,,SOLITARY
+WPA2,,WPA2,,,SOLITARY
+WSS on 4:3,,WSS on 4:3,,,SOLITARY
+Waiting,,等待,,,SOLITARY
+Waiting for mount,,'',,,SOLITARY
+Waiting for partition,,'',,,SOLITARY
+Wakeup,,唤醒,,,SOLITARY
+Wakeup TV from standby,,唤醒电视,,,SOLITARY
+Wakeup receiver from standby,,'',,,SOLITARY
+Wakeup signal from TV,,'',,,SOLITARY
+Warning: no LNB; using factory defaults.,,'',,,SOLITARY
+Watch movies...,,'',,,SOLITARY
+Watch recordings...,,'',,,SOLITARY
+Wed,,周三,,,SOLITARY
+Wednesday,,星期三,,,SOLITARY
+Weekday,,"普通日(周六,日以外的任何一天)",,,SOLITARY
+Weighted position,,'',,,SOLITARY
+"Welcome to the cutlist editor.\n\nSeek to the start of the stuff you want to cut away. Press OK, select 'start cut'.\n\nThen seek to the end, press OK, select 'end cut'. That's it.",,'',,,SOLITARY
+Welcome to the image upgrade wizard. The wizard will assist you in upgrading the firmware of your receiver by providing a backup facility for your current settings and a short explanation of how to upgrade your firmware.,,'',,,SOLITARY
+"Welcome.\n\nIf you want to connect your receiver to the Internet, this wizard will guide you through the basic network setup of your receiver.\n\nPress OK to start configuring your network",,'',,,SOLITARY
+Welcome.\n\nThis start wizard will guide you through the basic setup of your receiver.\nPress the OK button on your remote control to move to the next step.,,'',,,SOLITARY
+Welcome...,,欢迎...,,,SOLITARY
+West,,西,,,SOLITARY
+West limit set,,'',,,SOLITARY
+What do you want to scan?,,是否开始扫描?,,,SOLITARY
+When enabled the PiP can be closed by the exit button.,,'',,,SOLITARY
+"When enabled, AIT data will be included in http streams. This allows a client receiver to use HbbTV.",,'',,,SOLITARY
+"When enabled, ECM data will be included in http streams. This allows a client receiver to do the descrambling.",,'',,,SOLITARY
+"When enabled, EIT data will be included in http streams. This allows a client receiver to show EPG.",,'',,,SOLITARY
+"When enabled, a popup message will be shown when a movie has finished and the next one will start.",,'',,,SOLITARY
+"When enabled, a popup message will be shown when a recording starts.",,'',,,SOLITARY
+"When enabled, a radio background image will be visible while listening to a radio channel.",,'',,,SOLITARY
+"When enabled, a recording is allowed to interrupt live tv, when there are no free tuners.",,'',,,SOLITARY
+"When enabled, a warning will be displayed and the user will get an option to stop or to continue the timeshift.",,'',,,SOLITARY
+"When enabled, channel numbering will start at '1' for each bouquet.",,'',,,SOLITARY
+"When enabled, content with an aspect ratio of 4:3 will be stretched to fit the screen.",,'',,,SOLITARY
+"When enabled, continue to the next bouquet when the last channel of the current bouquet is reached while changing channels.",,'',,,SOLITARY
+"When enabled, deleted recordings are moved to the trash can, instead of being deleted immediately.",,'',,,SOLITARY
+"When enabled, display the EIT now/next eventdata in infobar. When disabled, display now/next eventdata from the EPG cache instead.",,'',,,SOLITARY
+"When enabled, encryption info will be shown in the infobar (when supported by the skin).",,'',,,SOLITARY
+"When enabled, error messages related to the Common Interface module will not be shown.",,'',,,SOLITARY
+"When enabled, error messages related to zapping will not be shown.",,'',,,SOLITARY
+"When enabled, external subtitles will be always turned on for playback movie.",,'',,,SOLITARY
+"When enabled, graphical DVB subtitles are preferred over teletext subtitles, when both types are available.",,'',,,SOLITARY
+"When enabled, graphical DVB subtitles will be centered horizontally.",,'',,,SOLITARY
+"When enabled, graphical DVB subtitles will be displayed at their original position.",,'',,,SOLITARY
+"When enabled, graphical DVB subtitles will be displayed in yellow, instead of the original color.",,'',,,SOLITARY
+"When enabled, http streams are descrambled on the server side. The (remote) client receiver does not have to do descrambling. Default on.",,'',,,SOLITARY
+"When enabled, always descramble receiving http streams. This takes up more resources (descrambling demuxers), only enable if necessary. Individual streams are always descrambled if 0x100 is added to the service type, regardless of this setting. Default off.",,'',,,SOLITARY
+"When enabled, authentication is required to watch http streams.",,'',,,SOLITARY
+"When enabled, it is possible to leave the movieplayer with exit.",,'',,,SOLITARY
+"When enabled, measure power consumption to detect when the rotor stops turning (when supported by the tuner).",,'',,,SOLITARY
+"When enabled, number markers will be hiden.",,'',,,SOLITARY
+"When enabled, services may be grouped in multiple bouquets.",,'',,,SOLITARY
+"When enabled, show channel numbers in the channel selection screen.",,'',,,SOLITARY
+"When enabled, subtitles for the hearing impaired can be used.",,'',,,SOLITARY
+"When enabled, subtitles for the hearing impaired will be preferred over normal subtitles, when both types are available.",,'',,,SOLITARY
+"When enabled, teletext pages will be cached, allowing faster access.",,'',,,SOLITARY
+"When enabled, teletext subtitles will be displayed at their original position.",,'',,,SOLITARY
+"When enabled, the channel selection list will be hidden while listening to a radio channel",,'',,,SOLITARY
+"When enabled, the infobar will be displayed when a new event starts.",,'',,,SOLITARY
+"When enabled, the infobar will be displayed when changing channels.",,'',,,SOLITARY
+"When enabled, the infobar will be displayed when skipping forwards/backwards during media playback.",,'',,,SOLITARY
+"When enabled, the length of each recording will be shown in the movielist (this might cause some additional loading time).",,'',,,SOLITARY
+"When enabled, the receiver will automatically use the audio track which you selected before.",,'',,,SOLITARY
+"When enabled, the receiver will automatically use the subtitles which you selected before.",,'',,,SOLITARY
+"When enabled, the receiver will no longer monitor the tuned transponder for possible changes. Do not use this option unless you know what you are doing.",,'',,,SOLITARY
+"When enabled, the receiver will select an AC3 track (when available).",,'',,,SOLITARY
+"When enabled, the receiver will select an AC3+ track (when available).",,'',,,SOLITARY
+"When enabled, timeshift starts automatically in background after specified time.",,'',,,SOLITARY
+"When enabled, use DHCP for the IP configuration.",,'',,,SOLITARY
+"When nonzero, a recording will start earlier than the starting time indicated by the EPG.",,'',,,SOLITARY
+"When nonzero, a recording will stop later than the ending time indicated by the EPG.",,'',,,SOLITARY
+"When the content has an aspect ratio of 16:9, choose whether to scale/stretch the picture.",,'',,,SOLITARY
+"When the content has an aspect ratio of 4:3, choose whether to scale/stretch the picture.",,'',,,SOLITARY
+"When you do a factory reset, you will lose ALL your configuration data\n(including bouquets, services, satellite data ...)\nAfter completion of factory reset, your receiver will restart automatically!\n\nReally do a factory reset?",,"如果恢复出厂设置，全部个人设置将丢失\n(包括卫星, 频道, 自定义组等 ...)\n完成出厂设置复位后, 接收机将自动重启!\n\n确定要恢复出厂设置吗?",,,SOLITARY
+Where do you want to backup your settings?,,在哪里备份您的设置?,,,SOLITARY
+Where to save temporary timeshift recordings?,,在哪里保存时光平移临时录制的内容?,,,SOLITARY
+Wireless LAN,,无线网络,,,SOLITARY
+Wireless network,,'',,,SOLITARY
+Wireless network configuration...,,'',,,SOLITARY
+Wireless network connection setup,,无线网络连接设置,,,SOLITARY
+Wireless network connection setup.,,无线网络连接设置.,,,SOLITARY
+Wireless network state,,无线网络状态,,,SOLITARY
+With popup,,'',,,SOLITARY
+Without popup,,'',,,SOLITARY
+Would you like to install a softcam?,,'',,,SOLITARY
+Write error while recording. Disk full?\n,,录制节目时出现错误.磁盘已满?\n,,,SOLITARY
+Write failed!,,写入失败！,,,SOLITARY
+YPbPr,,YPbPr,,,SOLITARY
+Year,,年,,,SOLITARY
+Yellow DVB subtitles,,黄色DVB字幕,,,SOLITARY
+Yes,,是,,,SOLITARY
+Yes to all,,所有,,,SOLITARY
+"Yes, always",,总是,,,SOLITARY
+"Yes, and delete this movie",,是的，删除此电影,,,SOLITARY
+"Yes, backup my settings!",,是，备份我的设置！,,,SOLITARY
+"Yes, do a manual scan now",,是，开始手动扫描,,,SOLITARY
+"Yes, do an automatic scan now",,是，开始自动扫描,,,SOLITARY
+"Yes, do another manual scan now",,是，手动扫描另一个参数,,,SOLITARY
+"Yes, perform a shutdown now.",,是，立即关机。,,,SOLITARY
+"Yes, restore the settings now",,是，立即还原设置,,,SOLITARY
+"Yes, returning to movie list",,是，返回电影列表,,,SOLITARY
+Yesterday,,昨天,,,SOLITARY
+"You already have a channel list installed,\nwould you like to remove\n\""%s\""?",,'',,,SOLITARY
+You can cancel the installation.,,'',,,SOLITARY
+You can cancel the removal.,,'',,,SOLITARY
+You can continue watching TV etc. while this is running.,,'',,,SOLITARY
+You can install this plugin.,,'',,,SOLITARY
+You can only burn receiver recordings!,,'',,,SOLITARY
+You can remove this plugin.,,你可以删除这个插件.,,,SOLITARY
+You cannot delete this!,,这个文件不能删除!,,,SOLITARY
+You didn't select a channel to record from.,,你没有选择要录制的频道,,,SOLITARY
+You have chosen to backup your settings. Please press OK to start the backup now.,,您已选择要备份您的设置。请按OK键开始备份。,,,SOLITARY
+You have chosen to create a new .NFI flasher bootable USB stick. This will repartition the USB stick and therefore all data on it will be erased.,,'',,,SOLITARY
+You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now.,,您已经选择恢复备份设置.恢复后将重启Enigma2.请按OK开始恢复备份.,,,SOLITARY
+You have to wait %s!,,您必须等待 %s !,,,SOLITARY
+"You need a PC connected to your receiver. If you need further instructions, please visit the website http://www.hdfreaks.cc.\nYour receiver will now be halted. After you have performed the update instructions from the website, your new firmware will ask you to restore your settings.",,'',,,SOLITARY
+You system does not support ext4,,'',,,SOLITARY
+Your backup succeeded. We will now continue to explain the further upgrade process.,,备份成功.现在将继续说明下一步的升级过程.,,,SOLITARY
+"Your collection exceeds the size of a single layer medium, you will need a blank dual layer DVD!",,'',,,SOLITARY
+Your current collection will get lost!,,'',,,SOLITARY
+Your frontprocessor firmware must be upgraded.\nPress OK to start upgrade.,,您的前端处理器固件必须更新.\n按 OK 开始升级.,,,SOLITARY
+Your frontprocessor will be upgraded\nPlease wait until your receiver reboots\nThis may take a few minutes,,'',,,SOLITARY
+Your internet connection is not working!\nPlease choose what you want to do next.,,Internet连接不正常！\n请选择下一步做什么,,,SOLITARY
+Your internet connection is working (ip: %s),,'',,,SOLITARY
+Your network configuration has been activated.,,您的网络配置已被激活.,,,SOLITARY
+Your receiver does not have an internet connection,,'',,,SOLITARY
+Your receiver is now ready to be used.\n\nYour internet connection is working.\n\n,,'',,,SOLITARY
+Your receiver is now ready to use.\n\nYour internet connection is working now.\n\nPlease press OK to continue.,,'',,,SOLITARY
+Your receiver is rebooting,,'',,,SOLITARY
+Your receiver is shutting down,,'',,,SOLITARY
+Your receiver is shutting down. Please stand by...,,'',,,SOLITARY
+Your receiver might be unusable now. Please consult the manual for further assistance before rebooting your receiver.,,'',,,SOLITARY
+Your receiver will restart after pressing OK on your remote control.,,'',,,SOLITARY
+Your wireless LAN internet connection could not be started!\nHave you attached your USB WLAN Stick?\n\nPlease choose what you want to do next.,,无线网络不能连接！\n是否连接了USB无线网卡?\n\n请选择下一步做什么.,,,SOLITARY
+Zap,,'',,,SOLITARY
+Zap back to previously tuned service?,,回到上次的频道？,,,SOLITARY
+Zap back to service before positioner setup?,,切换回设定位置之前的频道?,,,SOLITARY
+Zap back to service before tuner setup?,,回到调谐器设置前的频道？,,,SOLITARY
+Zap focus to Picture in Picture,,切换到画中画,,,SOLITARY
+Zap focus to main screen,,'',,,SOLITARY
+Zap mode,,调谐模式,,,SOLITARY
+Zap to selected channel,,'',,,SOLITARY
+"Zap to selected channel, or show detailed event info (depends on configuration)",,'',,,SOLITARY
+[alternative edit],,[编辑项目],,,SOLITARY
+[bouquet edit],,[编辑自定义组],,,SOLITARY
+[favourite edit],,[编辑喜爱频道],,,SOLITARY
+[move mode],,[移动模式],,,SOLITARY
+a gui to assign services/providers to common interface modules,,'',,,SOLITARY
+a gui to assign services/providers/caids to common interface modules,,'',,,SOLITARY
+abort alternatives edit,,取消项目编辑,,,SOLITARY
+abort bouquet edit,,取消自定义组编辑,,,SOLITARY
+abort favourites edit,,放弃编辑喜爱频道,,,SOLITARY
+about to start,,立即开始,,,SOLITARY
+activate network adapter configuration,,激活网卡配置,,,SOLITARY
+add alternatives,,增加项目,,,SOLITARY
+add bookmark,,增加书签,,,SOLITARY
+add bouquet,,增加自定义组,,,SOLITARY
+add marker,,添加标记,,,SOLITARY
+add service to bouquet,,添加频道到自定义组,,,SOLITARY
+add service to favourites,,添加频道到喜爱频道,,,SOLITARY
+add to parental protection,,添加到家长控制,,,SOLITARY
+adult movie/drama,,'',,,SOLITARY
+advanced,,高级,,,SOLITARY
+adventure/western/war,,'',,,SOLITARY
+advertisement/shopping,,'',,,SOLITARY
+alphabetic,,'',,,SOLITARY
+alphabetic reverse,,按字母顺序排列,,,SOLITARY
+alternative,,'',,,SOLITARY
+"arts/culture (without music, general)",,'',,,SOLITARY
+arts/culture magazine,,'',,,SOLITARY
+athletics,,'',,,SOLITARY
+audio tracks,,单轨,,,SOLITARY
+auto,,自动,,,SOLITARY
+automatic,,'',,,SOLITARY
+back,,后退,,,SOLITARY
+background image,,背景图片,,,SOLITARY
+ballet,,'',,,SOLITARY
+bc%s,,'',,,SOLITARY
+better,,较好,,,SOLITARY
+black,,黑色,,,SOLITARY
+black & white,,'',,,SOLITARY
+blacklist,,黑名单,,,SOLITARY
+blue,,蓝色,,,SOLITARY
+broadcasting/press,,'',,,SOLITARY
+Next,,下一个,,,SOLITARY
+Prev,,'',,,SOLITARY
+by date,,'',,,SOLITARY
+cartoon/puppets,,'',,,SOLITARY
+center,,'',,,SOLITARY
+chapters,,章节,,,SOLITARY
+childrens's/youth program (general),,'',,,SOLITARY
+circular left,,左旋,,,SOLITARY
+circular right,,右旋,,,SOLITARY
+comedy,,'',,,SOLITARY
+config menu,,配置菜单,,,SOLITARY
+confirmed,,检测通过,,,SOLITARY
+connected,,已连接,,,SOLITARY
+continue,,继续,,,SOLITARY
+cooking,,'',,,SOLITARY
+copy to bouquets,,复制到自定义组,,,SOLITARY
+create directory,,创建目录,,,SOLITARY
+currently installed image: %s,,当前已安装映像:%s,,,SOLITARY
+daily,,每天,,,SOLITARY
+day,,天,,,SOLITARY
+default,,默认,,,SOLITARY
+delete cut,,删除剪辑,,,SOLITARY
+descramble and record ecm,,'',,,SOLITARY
+detective/thriller,,'',,,SOLITARY
+disable,,禁止,,,SOLITARY
+disable move mode,,禁用移动模式,,,SOLITARY
+disabled,,不可用,,,SOLITARY
+disconnected,,断开,,,SOLITARY
+discussion/interview/debate,,'',,,SOLITARY
+do nothing,,什么都不做,,,SOLITARY
+documentary,,'',,,SOLITARY
+"don't descramble, record ecm",,'',,,SOLITARY
+done!,,完成!,,,SOLITARY
+east,,'',,,SOLITARY
+economics/social advisory,,'',,,SOLITARY
+edit alternatives,,编辑选项,,,SOLITARY
+education/science/factual topics (general),,'',,,SOLITARY
+empty,,空的,,,SOLITARY
+enable,,启用,,,SOLITARY
+enable bouquet edit,,允许编辑自定义组,,,SOLITARY
+enable favourite edit,,允许编辑喜爱频道,,,SOLITARY
+enable move mode,,允许移动模式,,,SOLITARY
+enabled,,启用,,,SOLITARY
+end alternatives edit,,结速项目编辑,,,SOLITARY
+end bouquet edit,,结束自定义组编辑,,,SOLITARY
+end cut here,,结束录像剪辑,,,SOLITARY
+end favourites edit,,结束喜爱频道编辑,,,SOLITARY
+entertainment (10-16 year old),,'',,,SOLITARY
+entertainment (6-14 year old),,'',,,SOLITARY
+equal to,,相同,,,SOLITARY
+equestrian,,'',,,SOLITARY
+exit DVD player or return to file browser,,退出DVD播放器或返回文件浏览器,,,SOLITARY
+exit network adapter configuration,,退出网卡配置,,,SOLITARY
+exit networkadapter setup menu,,退出网卡设置菜单,,,SOLITARY
+experimental film/video,,'',,,SOLITARY
+false,,'',,,SOLITARY
+fashion,,'',,,SOLITARY
+"fileformats (BMP, PNG, JPG, GIF)",,"文件格式 (BMP, PNG, JPG, GIF)",,,SOLITARY
+filename,,文件名,,,SOLITARY
+film/cinema,,'',,,SOLITARY
+fine arts,,'',,,SOLITARY
+fitness & health,,'',,,SOLITARY
+flat alphabetic,,'',,,SOLITARY
+flat alphabetic reverse,,'',,,SOLITARY
+folk/traditional music,,'',,,SOLITARY
+football/soccer,,'',,,SOLITARY
+foreign countries/expeditions,,'',,,SOLITARY
+forward to the next chapter,,快进到下一个章节,,,SOLITARY
+free,,空闲,,,SOLITARY
+further education,,'',,,SOLITARY
+game show/quiz/contest,,'',,,SOLITARY
+gardening,,'',,,SOLITARY
+go to deep standby,,深度休眠,,,SOLITARY
+go to standby,,待机,,,SOLITARY
+grab this frame as bitmap,,'',,,SOLITARY
+green,,绿色,,,SOLITARY
+handicraft,,'',,,SOLITARY
+height,,高,,,SOLITARY
+help...,,帮助...,,,SOLITARY
+horizontal,,水平,,,SOLITARY
+information/education/school program,,'',,,SOLITARY
+init module,,模块初始化,,,SOLITARY
+init modules,,模块初始化,,,SOLITARY
+insert mark here,,在这里标记,,,SOLITARY
+invalid type,,'',,,SOLITARY
+jazz,,'',,,SOLITARY
+jump back to the previous title,,跳转到上一个标题,,,SOLITARY
+jump forward to the next title,,跳转到下一个标题,,,SOLITARY
+languages,,'',,,SOLITARY
+leave movie player...,,退出电影播放...,,,SOLITARY
+left,,左,,,SOLITARY
+leisure hobbies (general),,'',,,SOLITARY
+length,,长度,,,SOLITARY
+"limit ..., aborting !",,'',,,SOLITARY
+list style compact,,列表样式,,,SOLITARY
+list style compact with description,,带描述的列表样式,,,SOLITARY
+list style default,,默认列表样式,,,SOLITARY
+list style single line,,单行列表样式,,,SOLITARY
+literature,,'',,,SOLITARY
+live broadcast,,'',,,SOLITARY
+locked,,锁定,,,SOLITARY
+loopthrough to,,联系,,,SOLITARY
+magazines/reports/documentary,,'',,,SOLITARY
+manual,,手动,,,SOLITARY
+martial sports,,'',,,SOLITARY
+medicine/physiology/psychology,,'',,,SOLITARY
+menu,,菜单,,,SOLITARY
+min,,'',,,SOLITARY
+mins,,分钟,,,SOLITARY
+minutes,,分钟,,,SOLITARY
+month,,月,,,SOLITARY
+motor sport,,'',,,SOLITARY
+motoring,,'',,,SOLITARY
+move down to last entry,,向下移动到最后项目,,,SOLITARY
+move down to next entry,,向下移动到下一个项目,,,SOLITARY
+move up to first entry,,向上移动到第一个项目,,,SOLITARY
+move up to previous entry,,向上移动到上一个项目,,,SOLITARY
+movie/drama (general),,'',,,SOLITARY
+multinorm,,多标准,,,SOLITARY
+music/ballet/dance (general),,'',,,SOLITARY
+musical/opera,,'',,,SOLITARY
+nature/animals/environment,,'',,,SOLITARY
+never,,从不,,,SOLITARY
+new media,,'',,,SOLITARY
+news magazine,,'',,,SOLITARY
+news/current affairs (general),,'',,,SOLITARY
+news/weather report,,'',,,SOLITARY
+no,,否,,,SOLITARY
+no CAId selected,,无选择的CAID,,,SOLITARY
+no CI slots found,,未找到CI,,,SOLITARY
+no module found,,未找到模块,,,SOLITARY
+no storage devices found,,无存储设备,,,SOLITARY
+none,,无,,,SOLITARY
+normal,,'',,,SOLITARY
+not configured,,未设置,,,SOLITARY
+not locked,,无信号,,,SOLITARY
+not supported,,不支持,,,SOLITARY
+not used,,未使用,,,SOLITARY
+nothing connected,,从未连接,,,SOLITARY
+Now,,'',,,SOLITARY
+dummyEventName,,'',,,SOLITARY
+dummyEventDescription,,'',,,SOLITARY
+Event description unavailable,,'',,,SOLITARY
+No Schedule,,'',,,SOLITARY
+of a DUAL layer medium used.,,使用双层介质,,,SOLITARY
+of a SINGLE layer medium used.,,使用单层介质.,,,SOLITARY
+off,,关,,,SOLITARY
+offset is,,'',,,SOLITARY
+on,,开,,,SOLITARY
+on READ ONLY medium.,,只读介质.,,,SOLITARY
+once,,一次,,,SOLITARY
+open nameserver configuration,,打开DNS设置,,,SOLITARY
+original,,原始,,,SOLITARY
+original language,,'',,,SOLITARY
+pass,,通过,,,SOLITARY
+performing arts,,'',,,SOLITARY
+play as picture in picture,,以画中画播放,,,SOLITARY
+play in mainwindow,,在主窗口中播放,,,SOLITARY
+please press OK when ready,,准备好后，按OK键,,,SOLITARY
+"please wait, loading picture...",,请稍候，正在加载图片...,,,SOLITARY
+popular culture/traditional arts,,'',,,SOLITARY
+pre-school children's program,,'',,,SOLITARY
+receiver software because updates are available.,,'',,,SOLITARY
+record,,录像,,,SOLITARY
+recording...,,正在录像...,,,SOLITARY
+red,,红色,,,SOLITARY
+religion,,'',,,SOLITARY
+remarkable people,,'',,,SOLITARY
+remove after this position,,移除这个位置之后的,,,SOLITARY
+remove all alternatives,,移除所有项目,,,SOLITARY
+remove all new found flags,,移除所有新发现标记,,,SOLITARY
+remove before this position,,移除这个位置之前的,,,SOLITARY
+remove bookmark,,移除书签,,,SOLITARY
+remove directory,,移除目录,,,SOLITARY
+remove entry,,移除项目,,,SOLITARY
+remove from parental protection,,取消家长控制,,,SOLITARY
+remove new found flag,,移除新发现标记,,,SOLITARY
+remove selected satellite,,移除选定的卫星,,,SOLITARY
+remove this mark,,移除这个标记,,,SOLITARY
+repeat playlist,,重复播放列表,,,SOLITARY
+repeated,,重复,,,SOLITARY
+reverse by date,,按日期排序,,,SOLITARY
+rewind to the previous chapter,,退回上一个章节,,,SOLITARY
+right,,右,,,SOLITARY
+rock/pop,,'',,,SOLITARY
+romance,,'',,,SOLITARY
+save last directory on exit,,退出时保存目录,,,SOLITARY
+save playlist on exit,,退出时保存播放列表,,,SOLITARY
+scan state,,扫描状态,,,SOLITARY
+science fiction/fantasy/horror,,'',,,SOLITARY
+second cable of motorized LNB,,第二条线缆连接Rotor,,,SOLITARY
+seconds,,秒,,,SOLITARY
+select,,选择,,,SOLITARY
+select CAId's,,选择CAID,,,SOLITARY
+select menu entry,,选择菜单项目,,,SOLITARY
+serious music/classic music,,'',,,SOLITARY
+serious/classical/religious/historical movie/drama,,'',,,SOLITARY
+set as startup service,,设为启动频道,,,SOLITARY
+show DVD main menu,,显示DVD主菜单,,,SOLITARY
+show all tags,,显示所有标签,,,SOLITARY
+show alternatives,,显示选项,,,SOLITARY
+show event details,,显示事件详细内容,,,SOLITARY
+show mediaplayer on mainmenu,,'',,,SOLITARY
+show softwaremanager in setup menu,,'',,,SOLITARY
+show softwaremanager on blue button,,'',,,SOLITARY
+show transponder info,,显示转发器信息,,,SOLITARY
+show/game show (general),,'',,,SOLITARY
+shuffle,,随机播放,,,SOLITARY
+shut down,,关机,,,SOLITARY
+simple,,简单,,,SOLITARY
+skip backward,,快倒,,,SOLITARY
+skip forward,,快进,,,SOLITARY
+soap/melodram/folkloric,,'',,,SOLITARY
+social/political issues/economics (general),,'',,,SOLITARY
+social/spiritual science,,'',,,SOLITARY
+sorting of playlists,,播放列表排序,,,SOLITARY
+special events,,'',,,SOLITARY
+special format data DVD (HDTV compatible),,'',,,SOLITARY
+sports (general),,'',,,SOLITARY
+sports magazine,,'',,,SOLITARY
+standard,,标准,,,SOLITARY
+start cut here,,从这里开始剪接,,,SOLITARY
+start directory,,开始目录,,,SOLITARY
+stepsize,,步长,,,SOLITARY
+stereo,,立体声,,,SOLITARY
+stop using as startup service,,停止用作启动频道,,,SOLITARY
+switch to bookmarks,,切换到书签,,,SOLITARY
+switch to filelist,,切换到文件列表,,,SOLITARY
+switch to the next angle,,切换到下一个角度,,,SOLITARY
+switch to the next audio track,,切换到下一个单轨,,,SOLITARY
+switch to the next subtitle language,,切换到下一个语种字幕,,,SOLITARY
+talk show,,'',,,SOLITARY
+team sports,,'',,,SOLITARY
+technology/natural science,,'',,,SOLITARY
+template file,,临时文件,,,SOLITARY
+tennis/squash,,'',,,SOLITARY
+this recording,,这个录像,,,SOLITARY
+this service is protected by a parental control pin,,此频道受家长控制.,,,SOLITARY
+"toggle time, chapter, audio, subtitle info",,"切换时间, 章节, 音频,字幕信息",,,SOLITARY
+top,,顶部,,,SOLITARY
+tourism/travel,,'',,,SOLITARY
+true,,'',,,SOLITARY
+unavailable,,'',,,SOLITARY
+unconfirmed,,检测未通过,,,SOLITARY
+undefined,,'',,,SOLITARY
+unknown,,未知,,,SOLITARY
+unknown service,,未知频道,,,SOLITARY
+unpublished,,'',,,SOLITARY
+until standby/restart,,直到待机/重启,,,SOLITARY
+user defined,,用户定义,,,SOLITARY
+variety show,,'',,,SOLITARY
+vertical,,垂直,,,SOLITARY
+wait for ci...,,等待CI...,,,SOLITARY
+wait for mmi...,,等待mmi...,,,SOLITARY
+waiting,,等待,,,SOLITARY
+water sport,,'',,,SOLITARY
+weekly,,每周,,,SOLITARY
+west,,'',,,SOLITARY
+white,,白,,,SOLITARY
+width,,宽,,,SOLITARY
+winter sport,,'',,,SOLITARY
+wireless network interface,,无线网卡,,,SOLITARY
+working,,'',,,SOLITARY
+yellow,,黄色,,,SOLITARY
+yes,,是,,,SOLITARY
+yes (keep feeds),,是 (保留),,,SOLITARY
+zap,,开关,,,SOLITARY
+zap and record,,'',,,SOLITARY
+zapped,,转自,,,SOLITARY
+Hotkey,,'',,,SOLITARY
+HDMI-CEC setup,,'',,,SOLITARY
+Question,,'',,,SOLITARY
+and never show this message again,,'',,,SOLITARY
+Do you understand this?,,'',,,SOLITARY
+Default Skin,,'',,,SOLITARY
+Testscreens,,'',,,SOLITARY
+Last Scanned,,'',,,SOLITARY
+Bouquets/Last Scanned,,'',,,SOLITARY
+Show crypto icons,,'',,,SOLITARY
+Configure if and how crypto icons will be shown in the channel selection list.,,'',,,SOLITARY
+Show record indicator,,'',,,SOLITARY
+Configure if and how the record indicator will be shown in the channel selection list.,,'',,,SOLITARY
+Red colored,,'',,,SOLITARY
+Show columns,,'',,,SOLITARY
+Configure if and how wide columns will be shown in the channel selection list.,,'',,,SOLITARY
+0 pixels wide,,'',,,SOLITARY
+100 pixels wide,,'',,,SOLITARY
+200 pixels wide,,'',,,SOLITARY
+300 pixels wide,,'',,,SOLITARY
+400 pixels wide,,'',,,SOLITARY
+500 pixels wide,,'',,,SOLITARY
+600 pixels wide,,'',,,SOLITARY
+700 pixels wide,,'',,,SOLITARY
+800 pixels wide,,'',,,SOLITARY
+900 pixels wide,,'',,,SOLITARY
+1000 pixels wide,,'',,,SOLITARY
+1100 pixels wide,,'',,,SOLITARY
+1200 pixels wide,,'',,,SOLITARY
+Show picons in channel list,,'',,,SOLITARY
+Configure if service picons will be shown in the channel selection list.,,'',,,SOLITARY
+Customize channel list cursor behavior,,'',,,SOLITARY
+Configure the cursor behaviour in the channel selection list. When opening the channel selection list you can keep on the current service or already select up/down and you are able to revert the B+/B- buttons.,,'',,,SOLITARY
+Keep service,,'',,,SOLITARY
+Reverse bouquet buttons,,'',,,SOLITARY
+Keep service + Reverse bouquet buttons,,'',,,SOLITARY
+Enable 'neutrino' style zap controlling,,'',,,SOLITARY
+When enabled the arrow buttons around the OK button will follow the 'neutrino' style zap controls instead of the enigma2 style.,,'',,,SOLITARY
+Enable 'neutrino' style channel select controlling,,'',,,SOLITARY
+"When enabled the left, right, CH+/-, B+/-, P+/- buttons will follow the 'neutrino' style zap controls instead of the enigma2 style.",,'',,,SOLITARY
+"Enable zapping with CH+/-, B+/-, P+/-",,'',,,SOLITARY
+"When enabled you can zap channels with the  CH+/-, B+/-, P+/- buttons instead of opening the channel selection list.",,'',,,SOLITARY
+Enable OK for channel selection,,'',,,SOLITARY
+"When enabled you get the channel selection list via the OK button, the infobar toggle is then transfered to exit button",,'',,,SOLITARY
+Enable volume control with arrow buttons,,'',,,SOLITARY
+When enabled you can control the volume with the arrow buttons instead of getting the channel selection list,,'',,,SOLITARY
+Enable OK as preview in channel selection,,'',,,SOLITARY
+When enabled then when you select a new channel in the channel selection the channel selection will not close. It will only close when you select the current playing service. This is a kind of preview mode,,'',,,SOLITARY
+Remember last service in PiP,,'',,,SOLITARY
+Configure if and how long the latest service in the PiP will be remembered.,,'',,,SOLITARY
+When activate PiP,,'',,,SOLITARY
+Configure what to do after activated PiP.,,'',,,SOLITARY
+Move main picture to PiP,,'',,,SOLITARY
+Open current transponder,,'',,,SOLITARY
+Open channel list,,'',,,SOLITARY
+Show VCR scart on main menu,,'',,,SOLITARY
+"When enabled, the VCR scart option will be shown on the main menu",,'',,,SOLITARY
+No Event Found,,'',,,SOLITARY
+"Start, stop, restart SoftCams, change settings.",,'',,,SOLITARY
+Emu manager,,'',,,SOLITARY
+set of utilities for enigma2,,'',,,SOLITARY
+Weather Plugin,,'',,,SOLITARY
+Show Weather Forecast,,'',,,SOLITARY
+Search,,搜索,,,SOLITARY
+Internet info,,'',,,SOLITARY
+Please select your preferred configuration.,,'',,,SOLITARY
+Enable fallback remote receiver,,'',,,SOLITARY
+"Enable remote enigma2 receiver to be tried to tune into services that cannot be tuned into locally (e.g. tuner is occupied or service type is unavailable on the local tuner. Specify complete URL including http:// and port number (normally ...:8001), e.g. http://second_box:8001.",,'',,,SOLITARY
+Fallback remote receiver URL,,'',,,SOLITARY
+URL of fallback remote receiver,,'',,,SOLITARY
+Warning,,'',,,SOLITARY
+Crypto,,'',,,SOLITARY
+Startup to Standby,,'',,,SOLITARY
+Startup the set top box in standby,,'',,,SOLITARY
+"No, except Wakeup timer",,'',,,SOLITARY
+Load unlinked userbouquets,,'',,,SOLITARY
+"When enabled enigma2 will load unlinked userbouquets. This means that userbouquets that are available, but not included in the bouquets.tv or bouquets.radio files, will still be loaded. This allows you for example to keep your own user bouquet while installed settings are upgraded",,'',,,SOLITARY
+Config resolution of pictures,,'',,,SOLITARY
+Same resolution as skin,,'',,,SOLITARY
+configure in which resolution pictures are displayed with the picture viewer and movieplayer,,'',,,SOLITARY
+Audio/Subtitles,,'',,,SOLITARY
+LNB Freq,,'',,,SOLITARY
+Trans Freq,,'',,,SOLITARY
+Symbol Rate,,符号率,,,SOLITARY
+Polarity,,极化,,,SOLITARY
+CAS,,'',,,SOLITARY
+CANCEL,,'',,,SOLITARY
+Current,,当前,,,SOLITARY
+Not Applicable,,'',,,SOLITARY
+%s%d min,,'',,,SOLITARY
+sec,,'',,,SOLITARY
+Always include ECM in recordings,,'',,,SOLITARY
+"Always include ECM messages in recordings. This overrides the individual timer settings globally. It allows recordings to be always decrypted afterwards (sometimes called offline decoding), if supported by your receiver. Default: off.",,'',,,SOLITARY
+Never decrypt while recording,,'',,,SOLITARY
+"Never decrypt the content while recording. This overrides the individual timer settings globally. If enabled, recordings are stored in crypted presentation and must be decrypted afterwards (sometimes called offline decoding). Default: off.",,'',,,SOLITARY
+Infobar frontend data source,,'',,,SOLITARY
+Rewrap subtitles,,'',,,SOLITARY
+"When enabled, reformat subtitles to match the width of the screen.",,'',,,SOLITARY
+Show background behind subtitles,,'',,,SOLITARY
+Configure if behind the subtitles a background is shown.,,'',,,SOLITARY
+External subtitle switch fonts,,'',,,SOLITARY
+"Configure if the subtitle should switch between normal, italic, bold and bolditalic",,'',,,SOLITARY
+External subtitle dialog colorisation,,'',,,SOLITARY
+Replace `- ` in dialogs with colored text per speaker (like teletext subtitles for the hearing impaired),,'',,,SOLITARY
+Configure the source of the frontend data as shown on the infobars. 'Settings' is as stored on the settings. 'Tuner' is as reported by the tuner.,,'',,,SOLITARY
+Devicelist,,'',,,SOLITARY
+"The OpenPLi team would like to point out that upgrading to the latest nightly build comes not only with the latest features, but also with some risks. After the update, it is possible that your device no longer works as expected. We recommend you create backups with Autobackup or Backupsuite. This allows you to quickly and easily restore your device to its previous state, should you experience any problems. If you encounter a 'bug', please report the issue on www.openpli.org.\n\nDo you understand this?",,'',,,SOLITARY
